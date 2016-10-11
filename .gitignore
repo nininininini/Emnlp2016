@@ -1,0 +1,7 @@
+2016-emnlp-handbook copy.pdf
+*.aux
+*.bcf
+*.blg
+*.ilg
+*.log
+*.gz

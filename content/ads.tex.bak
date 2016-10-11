@@ -1,0 +1,117 @@
+\thispagestyle{empty}
+%% PLATINUM 
+\begin{center}
+\vfill{}
+\includegraphics[width=1\textwidth]{content/ads/Amazon-EMNLPad.pdf}
+\par\end{center}
+
+
+\markboth{}{} % clear the right header
+\markright{}{} % clear the right header
+\thispagestyle{empty}
+\begin{center}
+\vfill{}
+%\includegraphics[angle=90,origin=c,width=1\textwidth]{content/ads/Google_2015_logo.png}
+\fbox{
+\includegraphics[angle=90,origin=c,height=0.6\textheight]{content/ads/Google_2015_logo.png}
+}
+\vfill{}
+\par\end{center}
+
+
+\begin{center}
+\includegraphics[width=1\textwidth]{content/ads/GrammarlyAd.pdf}
+\par\end{center}
+
+
+%%GOLD  HALF PAGE
+
+
+\begin{center}
+\includegraphics[width=0.98\textwidth]{content/ads/ebay.pdf} 
+\par\end{center}%
+
+\begin{center}
+\vfill{}
+%\fbox{\includegraphics[width=1\textwidth]{content/ads/ibm-sw} 
+%}
+\fbox{
+\includegraphics[width=1\textwidth]{content/ads/ConvertLogos2Ads-IBM} 
+}
+\vfill{}
+\par
+\end{center}	
+
+\begin{center}
+\fbox{
+\includegraphics[width=0.9\textwidth]{content/ads/FacebookAd.png}
+}
+\par\end{center}
+
+\begin{center}
+\vfill{}
+%\fbox{\includegraphics[width=1\textwidth]{content/ads/MSFT_logo_rgb_C-Gray.png} 
+%}
+\fbox{\includegraphics[width=0.95\textwidth]{content/ads/microsoft-Ad-fromPPT.pdf}
+}
+\vfill{}
+\par\end{center}
+
+%\begin{center}
+%\includegraphics[width=1\textwidth]{content/ads/EMNLP-Ad-Citadel.pdf}
+%\par\end{center}
+%
+%\vfill{}
+
+
+\begin{center}
+\fbox{
+\includegraphics[angle=90, width=0.98\textwidth]{content/ads/EMNLP-Ad-Citadel.pdf} 
+}
+\par\end{center}%
+%\end{minipage}
+
+
+
+
+\clearpage{}
+
+%%\begin{center}
+%\includegraphics[width=0.4\textwidth]{content/ads/Nuance-ACL-Ad-03.pdf}
+%\par
+%%\end{center}
+%
+%\includegraphics[width=0.44\textwidth]{content/ads/oracle-0.png} \\
+%\vfill{}
+%
+%
+%
+%\includegraphics[width=0.48\textwidth]{content/ads/voicebox.pdf}
+%
+%\par
+%
+%\vfill{}
+
+%%% BRONZE QUATER PAGE 
+\newpage
+\begin{center}
+\begin{tabular}{cc}
+\includegraphics[width=0.5\textwidth]{content/ads/voicebox.pdf} \hspace{0.2cm} 
+& \includegraphics[width=0.44\textwidth]{content/ads/oracle-0.png} \\ \\ \\ \\ 
+
+\includegraphics[width=0.5\textwidth]{content/ads/Nuance-ACL-Ad-03.pdf} 
+& \\
+\end{tabular}
+\end{center}
+
+
+%\begin{center}
+%\includegraphics[width=0.48\textwidth]{content/ads/digitalgenius}
+%\par\end{center}
+%
+%\begin{center}
+%\includegraphics[width=1\textwidth]{content/ads/priberam}
+%\par\end{center}
+%
+%\vfill{}
+

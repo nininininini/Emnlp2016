@@ -1,0 +1,257 @@
+
+\chapter{Conference Information}
+
+
+\section{Preface by the General Chair}
+
+\begin{flushright}
+MOnth 25, 2016 
+\par\end{flushright}
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXX
+
+XXXXXXXXXXXX 
+ 
+\noindent \footnote{Conference website: \texttt{http://www.emnlp2016.net}}
+
+
+
+
+\begin{flushright}
+\emph{Jian Su}\index{Su, Jian}\\
+ EMNLP 2016 General Chair 
+\par\end{flushright}
+
+\newpage{}
+
+
+\section{Preface by the Program Committee Co-Chairs}
+
+\begin{flushright}
+Month XX, 2016 
+\par\end{flushright}
+
+\noindent  XXX XXX XXX XXXX 
+
+
+\begin{flushright}
+\emph{} \index{Callison-Burch, Chris}\index{Su, Jian}
+\\
+ EMNLP 2015 Program Committee Co-Chairs 
+\par\end{flushright}
+
+\clearpage{}
+
+
+\section{Organizing Committee}
+\begin{itemize}[itemsep=7pt, leftmargin=0cm, label={}]
+\item \textbf{General Chair}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Jian Su, Institute for Infocomm Research - I2R\index{Su, Jian}
+\end{itemize}
+\item \textbf{Program co-Chairs}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Xavier Carreras, Xerox Research Centre Europe \index{Carreras, Xavier}
+\item Kevin Duh, Johns Hopkins University \index{Duh, Kevin}
+\end{itemize}
+\item \textbf{Workshops co-Chairs}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Annie Louis, University of Essex\index{Louis, Annie}
+\item Greg Kondrak, University of Alberta\index{Kondrak, Greg}
+\end{itemize}
+\item \textbf{Tutorial co-Chairs}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Bishan Yang, Carnegie Mellon University \index{Yang, Bishan}
+\item Rebecca Hwa, University of Pittsburgh \index{Hwa, Rebecca}
+\end{itemize}
+\item \textbf{Publication co-Chairs} 
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Siddharth Patwardhan, IBM \index{Patwardhan, Siddharth}
+\item Daniele Pighin, Google Inc. \index{Pighin, Daniele} 
+\end{itemize}
+\item \textbf{Publicity Chair} 
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Saif M. Mohammad, National Research Council Canada \index{Mohammad, Saif M.}
+\end{itemize}
+\item \textbf{Sponsorship Chairs}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Michel Galley, Microsoft Research \index{Galley, Michel}
+\item Hang Li, Huawei Technologies (ISC Representative for EMNLP) \index{Li, Hang}
+\end{itemize}
+\item \textbf{Student Scholarship Chair and Student Volunteer Coordinator}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Vincent Ng, University of Texas at Dallas \index{Ng, Vincent}
+\end{itemize}
+\item \textbf{Handbook Chair}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Swapna Somasundaran, Educational Testing Service\index{Somasundaran, Swapna}
+\end{itemize}
+\item \textbf{Website Chair}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Jackie C.K. Cheung, McGill University \index{Cheung, Jackie C.K.}
+\end{itemize}
+\item \textbf{SIGDAT Liaison}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Chris Callison-Burch, University of Pennsylvania\index{Callison-Burch, Chris}
+\end{itemize}
+\item \textbf{Local Arrangements Chair}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Priscilla Rasmussen, ACL Business Manager \index{Rasmussen, Priscilla}
+\end{itemize}
+
+\section{Program Committee}
+
+\item \textbf{Program co-Chairs}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Xavier Carreras, Xerox Research Centre Europe \index{Carreras, Xavier}
+\item Kevin Duh, Johns Hopkins University \index{Duh, Kevin}
+\end{itemize}
+\item \textbf{Area Chairs}
+
+\begin{itemize}[leftmargin=0.5cm, itemsep=6pt, label={}]
+\item \emph{Information Extraction, Information Retrieval, and Question Answering}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Nate Chambers, United States Naval Academy \index{Chambers,Nate}
+\item    Ruihong Huang, Texas A\&M University \index{Huang,Ruihong}
+\item    Min-Yen Kan, National University of Singapore \index{Kan,Min-Yen}
+\item    Alan Ritter, The Ohio State University \index{Ritter,Alan}
+\item    Scott Wen-Tau Yih, Microsoft Research \index{Wen-Tau Yih,Scott}
+\end{itemize}
+
+\item \emph{Language and Vision}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Sanja Fidler, University of Toronto \index{Fidler,Sanja}
+\item    Julia Hockenmaier, University of Illinois at Urbana-Champaign\index{Hockenmaier,Julia}
+\end{itemize}
+
+\item \emph{Linguistic Theories and Psycholinguistics}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Suzanne Stevenson, University of Toronto\index{Stevenson, Suzanne}
+\end{itemize}
+
+\item \emph{Machine Learning}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Guillaume Bouchard, University College London \index{Bouchard, Guillaume}
+ \item   Kyunghyun Cho, New York University \index{Cho,Kyunghyun}
+\item    Kuzman Ganchev, Google \index{Ganchev,Kuzman}
+\item    Ariadna Quattoni, Xerox Research Centre Europe \index{Quattoni,Ariadna}
+\item    Eric Ringger, Facebook \index{Ringger,Eric}
+\end{itemize}
+
+\item \emph{Machine Translation and Multilinguality}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item John DeNero, UC Berkeley \index{DeNero,John}
+\item    Alex Fraser, Ludwig-Maximilians-Universitat Munchen \index{Fraser,Alex}
+\item    Yang Liu, Tsinghua University \index{Liu,Yang}
+\item    Dekai Wu, Hong Kong University of Science and Technology \index{Wu,Dekai}
+\end{itemize}
+
+\item \emph{Segmentation, Tagging, and Parsing}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Michael Collins, Columbia University  \index{Collins,Michael}
+\item    Liang Huang, Oregon State University  \index{Huang,Liang}
+\item    Daisuke Kawahara, Kyoto University  \index{Kawahara,Daisuke}
+\item    Andre Martins, Priberam Labs \index{Martins,Andre}
+\end{itemize}
+
+\item \emph{Semantics}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Yoav Artzi, Cornell Tech \index{Artzi,Yoav}
+\item    Georgiana Dinu, IBM \index{Dinu,Georgiana}
+\item    Ed Grefenstette, Google DeepMind \index{Grefenstette,Ed}
+\item    Ray Mooney, University of Texas at Austin \index{Mooney,Ray}
+\item    Laura Rimell, University of Cambridge \index{Rimell,Laura}
+\end{itemize}
+
+\item \emph{Sentiment Analysis and Opinion Mining}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Dirk Hovy, University of Copenhagen \index{Hovy,Dirk}
+\item   Bing Liu, University of Illinois at Chicago \index{Liu,Bing} 
+\item    Saif Mohammad, National Research Council Canada \index{Mohammad,Saif}
+\end{itemize}
+
+\item \emph{Social Media and Computational Social Science}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Tim Baldwin, University of Melbourne \index{Baldwin,Tim}
+\item    Smaranda Muresan,  Columbia University \index{Muresan,Smaranda}
+\end{itemize}
+
+\item \emph{Spoken Lanugage Processing}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Brian Roark, Google \index{Roark,Brian}
+\item    Geoff Zweig, Microsoft Research \index{Zweig,Geoff}
+\end{itemize}
+
+\item \emph{Summarization, Generation, Discourse, Dialogue}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item Manfred Stede, Potsdam University \index{Stede,Manfred}
+\item    Michael Strube, Heidelberg Institute for Theoretical Studies \index{Strube,Michael}
+\item    Lucy Vanderwende, Microsoft Research \index{Vanderwende,Lucy}
+\item    Wei Xu, University of Pennsylvania \index{Xu,Wei}
+\end{itemize}
+
+\item \emph{Text Mining and NLP Applications}
+
+\begin{itemize}[nosep, leftmargin=0.5cm, label={}]
+\item  Preslav Nakov, Qatar Computing Research Institute  \index{Nakov,Preslav}
+\item    Vivi Nastase, FBK  \index{Nastase,Vivi}
+\item    David Smith, Northeastern University  \index{Smith,David}
+\item    Joel Tetreault, Yahoo! Labs \index{Tetreault,Joel}
+\end{itemize}
+
+
+
+\end{itemize}
+
+
+
+\end{itemize}
+\clearpage{}
+
+
+\section{Social events}
+
+ XXXXXXXXXXXXXX
+
+
+\subsection*{Welcome Reception}
+
+XXXX WHEN AND WHERE????
+
+
+%\subsection*{Conference Dinner}
+%
+%Sunday, September 20th at 19:00 at Pateo Alfacinha
+%
+%First buses depart from Culturgest at 18:15. 
+%
+%Last returning bus depart from Páteo Alfacinha at 24:00.
+
+
+\subsection*{Farewell Drink}
+
+Monday, September 21th at 18:30 at Culturgest

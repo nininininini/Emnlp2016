@@ -1,0 +1,16 @@
+\thispagestyle{empty}
+
+\includegraphics[angle=90,origin=c,width=\linewidth, height=0.5\textheight]{content/local-guide/6Floor-v2.png} \\ \\ %\hline
+    %\textbf{LOBBY LEVEL}\\
+\includegraphics[width=\linewidth, height=0.45\textheight]{content/local-guide/3Floor-v1.png}
+
+
+
+%\begin{center}
+%  \begin{tabular}{r}
+%\includegraphics[angle=90,origin=c,width=\linewidth, height=0.5\textheight]{content/local-guide/6Floor-v2.png} \\
+%    %\textbf{CONCOURSE LEVEL}\\\hline
+%    %\textbf{LOBBY LEVEL}\\
+%    \includegraphics[width=\linewidth, height=0.45\textheight]{content/local-guide/3Floor-v1.png}
+%  \end{tabular}
+%\end{center}

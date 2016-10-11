@@ -1,0 +1,158 @@
+%% LyX 2.1.4 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\RequirePackage{fix-cm}
+\RequirePackage{fixltx2e}
+\documentclass[8pt]{extbook}
+\usepackage{bera}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper]{geometry}
+\geometry{verbose,tmargin=1.9cm,bmargin=1.9cm,lmargin=1.9cm,rmargin=1.2cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{calc}
+\usepackage{textcomp}
+\usepackage{url}
+\usepackage{pdfpages}
+\usepackage{makeidx}
+\makeindex
+\usepackage{graphicx}
+\usepackage[unicode=true,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=false,pdfborder={0 0 1},backref=false,colorlinks=false]
+ {hyperref}
+\hypersetup{pdftitle={EMNLP 2016 Handbook},
+ pdfauthor={Swapna Somasundaran},
+ pdfsubject={EMNLP 2016},
+ pdfkeywords={EMNLP 2016, Handbook},
+ colorlinks, citecolor=dkblue, filecolor=dkblue, linkcolor=dkblue, urlcolor=blue}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+%% A simple dot to overcome graphicx limitations
+\newcommand{\lyxdot}{.}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+\usepackage{enumitem}		% customizable list environments
+\newlength{\lyxlabelwidth}      % auxiliary length 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\usepackage{biblatex}
+
+\usepackage{handbook}
+\usepackage{emnlp2015}
+
+\usepackage[Bjornstrup]{fncychap}
+
+\usepackage{color}
+\definecolor{mygray}{gray}{0.75}
+\definecolor{dkblue}{rgb}{0,0,0.4}
+
+\usepackage{marginnote}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{multirow}
+
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/content/tutorials.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/content/workshops.bib}
+
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/papers/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/tacl-final/papers.bib}
+
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/CogACLL/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/DiscoMT15/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/LSDSem/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/Louhi15/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/VL15/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/WASSA15/papers.bib}
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/WMT15/papers.bib}
+
+\makeatother
+
+\begin{document}
+\pagestyle{empty}
+
+%% COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%fromMP \fancyfoot[C]{}
+%fromMP \includepdf[pages={1}]{content/fmatter/EMNLP16_cover.pdf}
+%TODO 
+\includepdf[pages=1]{content/fmatter/EMNLP16_cover.pdf}
+
+%% INSIDE FRONT COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{content/venue}
+
+%\vspace*{-1.2cm}
+%TODO \includegraphics[width=1\columnwidth]{content/images/culturgest-maps}
+
+%\vfill{}
+
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{6in}
+\emph{Cover design by Aurelia Bunescu}
+
+\emph{Thanks to Fernando Batista and Matt Post for their helpful notes about creating a handbook}
+
+\emph{Handbook assembled by Swapna Somasundaran}
+
+%TODO 
+\cleardoublepage{}   \include{content/overview}
+
+% \cleardoublepage{}
+
+\frontmatter
+
+\pagestyle{plain}
+
+
+
+\tableofcontents{}
+
+\mainmatter
+
+\pagestyle{fancy}
+
+%TODO 
+\include{content/conference-info}
+
+%TODO \include{content/tutorials}
+
+%TODO \include{content/workshops}
+%TODO \include{content/conference-days}
+
+%TODO \cleardoublepage{}
+
+%TODO 
+\phantomsection
+%TODO 
+\addcontentsline{toc}{chapter}{Author index}\printindex{}
+
+%\pagestyle{empty}
+
+%TODO \clearpage{}
+
+%TODO
+\phantomsection 
+\addcontentsline{toc}{chapter}{Sponsor Ads} \include{content/ads}
+
+%% LOCAL GUIDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setheaders{Local Guide}{Local Guide}
+\input{content/local-guide.tex}
+
+%% BACK COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%TODO 
+\clearpage{}
+%TODO 
+\include{content/backcover}
+\end{document}
