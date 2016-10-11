@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#45
+FinalPaperTitle#=%=#The Clinical Panel: Leveraging Psychological Expertise During NLP Research
+ShortPaperTitle#=%=#The Clinical Panel: Leveraging Psychological Expertise During NLP Research
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Glen Coppersmith
+JobTitle#==#
+Organization#==#Qntfy
+PO Box 0178
+Crownsville MD, 21032
+Abstract#==#Computational social science is, at its core, a blending of disciplines - the
+best of human experience, judgement, and anecdotal case studies fused with
+novel computational methods to extract subtle patterns from immense data.
+Jointly leveraging such diverse approaches effectively is decidedly nontrivial,
+but with tremendous potential benefits. We provide frank assessments from our
+work bridging the computational linguistics and psychology communities during a
+range of short and long-term engagements, in the hope that these assessments
+might provide a foundation upon which those embarking on novel computational
+social science projects might structure their interactions.
+Author{1}{Firstname}#=%=#Glen
+Author{1}{Lastname}#=%=#Coppersmith
+Author{1}{Email}#=%=#glen@qntfy.com
+Author{1}{Affiliation}#=%=#Qntfy
+Author{2}{Firstname}#=%=#Kristy
+Author{2}{Lastname}#=%=#Hollingshead
+Author{2}{Email}#=%=#hollingk@gmail.com
+Author{2}{Affiliation}#=%=#IHMC
+Author{3}{Firstname}#=%=#H. Andrew
+Author{3}{Lastname}#=%=#Schwartz
+Author{3}{Email}#=%=#has@cs.stonybrook.edu
+Author{3}{Affiliation}#=%=#Stony Brook University
+Author{4}{Firstname}#=%=#Molly
+Author{4}{Lastname}#=%=#Ireland
+Author{4}{Email}#=%=#molly.ireland@gmail.com
+Author{4}{Affiliation}#=%=#Texas Tech University
+Author{5}{Firstname}#=%=#Rebecca
+Author{5}{Lastname}#=%=#Resnik
+Author{5}{Email}#=%=#drrebeccaresnik@gmail.com
+Author{5}{Affiliation}#=%=#
+Author{6}{Firstname}#=%=#Kate
+Author{6}{Lastname}#=%=#Loveys
+Author{6}{Email}#=%=#kate@qntfy.com
+Author{6}{Affiliation}#=%=#Qntfy
+Author{7}{Firstname}#=%=#April
+Author{7}{Lastname}#=%=#Foreman
+Author{7}{Email}#=%=#acf@docforeman.com
+Author{7}{Affiliation}#=%=#VA
+Author{8}{Firstname}#=%=#Loring
+Author{8}{Lastname}#=%=#Ingraham
+Author{8}{Email}#=%=#ingraham@gwu.edu
+Author{8}{Affiliation}#=%=#George Washington University
+
+==========

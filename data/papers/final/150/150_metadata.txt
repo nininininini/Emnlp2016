@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#150
+FinalPaperTitle#=%=#Recurrent Residual Learning for Sequence Classification
+ShortPaperTitle#=%=#Recurrent Residual Learning for Sequence Classification
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yiren Wang
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Illinois at Urbana-Champaign, 201 North Goodwin Avenue, Urbana, IL, U.S., 61801.
+Abstract#==#In this paper, we explore the possibility of leveraging Residual Networks
+(ResNet), a powerful structure in constructing extremely deep neural network
+for image understanding, to improve recurrent neural networks (RNN) for
+modeling sequential data. We show that for sequence classification tasks,
+incorporating residual connections into recurrent structures yields similar
+accuracy to Long Short Term Memory (LSTM) RNN with much fewer model parameters.
+In addition, we propose two novel models which combine the best of both
+residual learning and LSTM. Experiments show that the new models significantly
+outperform LSTM.
+Author{1}{Firstname}#=%=#Yiren
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#yiren@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois at Urbana-Champaign
+Author{2}{Firstname}#=%=#Fei
+Author{2}{Lastname}#=%=#Tian
+Author{2}{Email}#=%=#fetia@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+
+==========

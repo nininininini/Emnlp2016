@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#857
+FinalPaperTitle#=%=#Event participant modelling with neural networks
+ShortPaperTitle#=%=#Event participant modelling with neural networks
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Asad Sayeed
+JobTitle#==#
+Organization#==#Saarland University
+66123 Saarbrücken, Germany
+Abstract#==#A common problem in cognitive modelling is lack of access to accurate
+broad-coverage models of event-level surprisal. As shown in, e.g., Bicknell et
+al. (2010), event-level knowledge does affect human expectations for verbal
+arguments. For example, the model should be able to predict that "mechanics"
+are likely to check "tires", while "journalists" are more likely to check
+"typos". Similarly, we would like to predict what locations are likely for
+"playing football" or "playing flute" in order to estimate the surprisal of
+actually-encountered locations. Furthermore, such a model can be used to
+provide a probability distribution over fillers for a thematic role which is
+not mentioned in the text at all.
+
+To this end, we train two neural network models (an incremental one and a
+non-incremental one) on large amounts of automatically role-labelled text. Our
+models are probabilistic and can handle several roles at once, which also
+enables them to learn interactions between different role fillers. Evaluation
+shows a drastic improvement over current state-of-the-art systems on modelling
+human thematic fit judgements, and we demonstrate via a sentence similarity
+task that the system learns highly useful embeddings.
+Author{1}{Firstname}#=%=#Ottokar
+Author{1}{Lastname}#=%=#Tilk
+Author{1}{Email}#=%=#ottokar.tilk@phon.ioc.ee
+Author{1}{Affiliation}#=%=#Tallinn University of Technology
+Author{2}{Firstname}#=%=#Vera
+Author{2}{Lastname}#=%=#Demberg
+Author{2}{Email}#=%=#vera@coli.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Asad
+Author{3}{Lastname}#=%=#Sayeed
+Author{3}{Email}#=%=#asayeed@mbl.ca
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Dietrich
+Author{4}{Lastname}#=%=#Klakow
+Author{4}{Email}#=%=#dietrich.klakow@lsv.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+Author{5}{Firstname}#=%=#Stefan
+Author{5}{Lastname}#=%=#Thater
+Author{5}{Email}#=%=#stth@coli.uni-saarland.de
+Author{5}{Affiliation}#=%=#Universität des Saarlandes
+
+==========

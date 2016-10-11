@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Disentangling Topic Models: A Cross-cultural Analysis of Personal Values through Words
+ShortPaperTitle#=%=#Disentangling Topic Models
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Steven Wilson
+JobTitle#==#
+Organization#==#University of Michigan
+500 S. State St
+Ann Arbor, MI 48109
+Abstract#==#We present a methodology based on topic modeling that can be used to identify
+and quantify sociolinguistic differences between groups of people, and describe
+a regression method that can be used to disentangle the influences of different
+attributes of the people in the group (e.g., culture, gender, age). As an
+example, we explore the concept of personal values, and present a
+cross-cultural analysis of value-behavior relationships spanning writers from
+the United States and India.
+Author{1}{Firstname}#=%=#Steven
+Author{1}{Lastname}#=%=#Wilson
+Author{1}{Email}#=%=#steverw@umich.edu
+Author{1}{Affiliation}#=%=#University of Michigan
+Author{2}{Firstname}#=%=#Rada
+Author{2}{Lastname}#=%=#Mihalcea
+Author{2}{Email}#=%=#mihalcea@umich.edu
+Author{2}{Affiliation}#=%=#University of Michigan
+Author{3}{Firstname}#=%=#Ryan
+Author{3}{Lastname}#=%=#Boyd
+Author{3}{Email}#=%=#ryanboyd@utexas.edu
+Author{3}{Affiliation}#=%=#University of Texas, Austin
+Author{4}{Firstname}#=%=#James
+Author{4}{Lastname}#=%=#Pennebaker
+Author{4}{Email}#=%=#pennebaker@mail.utexas.edu
+Author{4}{Affiliation}#=%=#University of Texas, Austin
+
+==========

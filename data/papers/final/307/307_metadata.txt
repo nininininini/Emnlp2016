@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#307
+FinalPaperTitle#=%=#Jointly Embedding Knowledge Graphs and Logical Rules
+ShortPaperTitle#=%=#Jointly Embedding Knowledge Graphs and Logical Rules
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Quan Wang
+JobTitle#==#Associate Professor
+Organization#==#Institute of Information Engineering, Chinese Academy of Sciences
+89A Minzhuang Road, Haidian District, Beijing 100093, China
+Abstract#==#Embedding knowledge graphs into continuous vector spaces has recently attracted
+increasing interest. Most existing methods perform the embedding task using
+only fact triples. Logical rules, although containing rich background
+information, have not been well studied in this task. This paper proposes a
+novel method of jointly embedding knowledge graphs and logical rules. The key
+idea is to represent and model triples and rules in a unified framework.
+Specifically, triples are represented as atomic formulae and modeled by the
+translation assumption, while rules represented as complex formulae and modeled
+by t-norm fuzzy logics. Embedding then amounts to minimizing a global loss over
+both atomic and complex formulae. In this manner, we learn embeddings
+compatible not only with triples but also with rules, which will certainly be
+more predictive for knowledge acquisition and inference. We evaluate our method
+with link prediction and triple classification tasks. Experimental results show
+that joint embedding brings significant and consistent improvements over
+state-of-the-art methods. Particularly, it enhances the prediction of new facts
+which cannot even be directly inferred by pure logical inference, demonstrating
+the capability of our method to learn more predictive embeddings.
+Author{1}{Firstname}#=%=#Shu
+Author{1}{Lastname}#=%=#Guo
+Author{1}{Email}#=%=#guoshu@iie.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Quan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangquan@iie.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Lihong
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#wlh@isc.org.cn
+Author{3}{Affiliation}#=%=#National Computer Network Emergency Response Technical Team/Coordination Center of China
+Author{4}{Firstname}#=%=#Bin
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#wangbin@iie.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Li
+Author{5}{Lastname}#=%=#Guo
+Author{5}{Email}#=%=#guoli@iie.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+
+==========

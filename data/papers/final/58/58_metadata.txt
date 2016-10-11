@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#58
+FinalPaperTitle#=%=#Coverage Embedding Models for Neural Machine Translation
+ShortPaperTitle#=%=#Coverage Embedding Models for Neural Machine Translation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#6
+JobTitle#==#
+Organization#==#IBM TJ. Watson Research Center
+1101 Kitchawan Rd, Yorktown Heights, NY 10598
+Abstract#==#In this paper, we enhance the attention-based neural machine translation (NMT)
+by adding explicit coverage embedding models to alleviate issues of repeating
+and dropping translations in NMT. For each source word, our model starts with a
+full coverage embedding vector to track the coverage status, and then keeps
+updating it with neural networks as the translation goes. Experiments on the
+large-scale Chinese-to-English task show that our enhanced model improves the
+translation quality significantly on various test sets over the strong large
+vocabulary NMT system.
+Author{1}{Firstname}#=%=#Haitao
+Author{1}{Lastname}#=%=#Mi
+Author{1}{Email}#=%=#hmi@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Watson Research Center
+Author{2}{Firstname}#=%=#Baskaran
+Author{2}{Lastname}#=%=#Sankaran
+Author{2}{Email}#=%=#bsankara@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM T.J. Watson Research Center
+Author{3}{Firstname}#=%=#Zhiguo
+Author{3}{Lastname}#=%=#Wang
+Author{3}{Email}#=%=#zgw.tomorrow@gmail.com
+Author{3}{Affiliation}#=%=#IBM Watson Research Center
+Author{4}{Firstname}#=%=#Abe
+Author{4}{Lastname}#=%=#Ittycheriah
+Author{4}{Email}#=%=#abei@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM
+
+==========

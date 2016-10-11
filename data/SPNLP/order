@@ -1,0 +1,23 @@
+* Saturday, November 5
+= 09:00--10:30 Section 1
+! 9:00--9:15 Welcome %by Organizers
+! 9:15--10:00 Invited Talk %by Kristina Toutanova
+11 10:00--10:30  # Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)
++ 10:30--11:00 Coffee break
+= 11:00--12:30 Section 2
+! 11:00--11:45 Invited Talk %by Andrew McCallum
+! 11:45--12:30 Panel %by Panel: Moderator - Hal Daume
++ 12:30--2:00 Lunch
+= 14:00--15:30 Section 3
++ 14:00--14:45 Poster
+4   # Research on attention memory networks as a model for learning natural language inference
+6   # A Joint Model of Rhetorical Discourse Structure and Summarization
+7   # Posterior regularization for Joint Modeling of Multiple Structured Prediction Tasks with Soft Constraints
+8   # A Study of Imitation Learning Methods for Semantic Role Labeling
+9   # Introducing DRAIL -- a Step Towards Declarative Deep Relational Learning
+! 14:45--15:30 Invited Talk %by Raquel Urtasun
++ 15:30--16:00 Coffee Break
+= 16:00--17:50 Section 4
+! 16:00--16:45 Invited Talk %by Dzmitry Bahdanau
+10 16:45--17:15  # Unsupervised Neural Hidden Markov Models
++ --17:15 Closing

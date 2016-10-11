@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#391
+FinalPaperTitle#=%=#Learning to Answer Questions from Wikipedia Infoboxes
+ShortPaperTitle#=%=#Learning to Answer Questions from Wikipedia Infoboxes
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Alvaro Morales
+JobTitle#==#
+Organization#==#
+Abstract#==#A natural language interface to answers on the Web can help us access
+information more efficiently. We start with an interesting source of
+information—infoboxes in Wikipedia that summarize factoid knowledge—and
+develop a comprehensive approach to answering questions with high precision. We
+first build a system to access data in infoboxes in a structured manner. We use
+our system to construct a crowdsourced dataset of over 15,000 high-quality,
+diverse questions. With these questions, we train a convolutional neural
+network model that outperforms models that achieve top results in similar
+answer selection tasks.
+Author{1}{Firstname}#=%=#Alvaro
+Author{1}{Lastname}#=%=#Morales
+Author{1}{Email}#=%=#alvarom@mit.edu
+Author{1}{Affiliation}#=%=#CSAIL MIT
+Author{2}{Firstname}#=%=#Varot
+Author{2}{Lastname}#=%=#Premtoon
+Author{2}{Email}#=%=#varot@mit.edu
+Author{2}{Affiliation}#=%=#CSAIL MIT
+Author{3}{Firstname}#=%=#Cordelia
+Author{3}{Lastname}#=%=#Avery
+Author{3}{Email}#=%=#cavery@mit.edu
+Author{3}{Affiliation}#=%=#CSAIL MIT
+Author{4}{Firstname}#=%=#Sue
+Author{4}{Lastname}#=%=#Felshin
+Author{4}{Email}#=%=#sfelshin@csail.mit.edu
+Author{4}{Affiliation}#=%=#CSAIL MIT
+Author{5}{Firstname}#=%=#Boris
+Author{5}{Lastname}#=%=#Katz
+Author{5}{Email}#=%=#boris@mit.edu
+Author{5}{Affiliation}#=%=#CSAIL MIT
+
+==========

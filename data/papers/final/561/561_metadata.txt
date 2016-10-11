@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#561
+FinalPaperTitle#=%=#News Stream Summarization using Burst Information Networks
+ShortPaperTitle#=%=#News Stream Summarization using Burst Information Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tao Ge
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper studies summarizing key information from news streams. We propose
+simple yet effective models to solve the problem based on a novel and promising
+representation of text streams -- Burst Information Networks (BINets). A BINet
+can be aware of redundant information, allows global analysis of a text stream,
+and can be efficiently built and dynamically updated, which perfectly fits the
+demands of text stream summarization. Extensive experiments show that the
+BINet-based approaches are not only efficient and can be used in a real-time
+online summarization setting, but also can generate high-quality summaries,
+outperforming the state-of-the-art approach.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Ge
+Author{1}{Email}#=%=#getao@pku.edu.cn
+Author{1}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Peking University
+Author{2}{Firstname}#=%=#Lei
+Author{2}{Lastname}#=%=#Cui
+Author{2}{Email}#=%=#lecu@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Baobao
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Email}#=%=#chbb@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Sujian
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#lisujian@pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Ming
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Email}#=%=#mingzhou@microsoft.com
+Author{5}{Affiliation}#=%=#microsoft research asia
+Author{6}{Firstname}#=%=#Zhifang
+Author{6}{Lastname}#=%=#Sui
+Author{6}{Email}#=%=#szf@pku.edu.cn
+Author{6}{Affiliation}#=%=#
+
+==========

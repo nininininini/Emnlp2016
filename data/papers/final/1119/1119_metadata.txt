@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#1119
+FinalPaperTitle#=%=#A Theme-Rewriting Approach for Generating Algebra Word Problems
+ShortPaperTitle#=%=#A Theme-Rewriting Approach for Generating Algebra Word Problems
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Rik Koncel-Kedziorski
+JobTitle#==#
+Organization#==#
+Abstract#==#Texts present coherent stories that have a particular theme or overall setting,
+for example science fiction or westerns. In this paper, we present a text
+generation method called 'rewriting' that edits existing human-authored
+narratives to change their theme without changing the underlying story. We
+apply the approach to math word problems, where it might help students stay
+more engaged by quickly transforming all of their homework assignments to the
+theme of their favorite movie without changing the math concepts that are being
+taught. 
+Our rewriting method uses a two-stage decoding process, which proposes new
+words from the target theme and scores the resulting stories according to a
+number of factors defining aspects of syntactic, semantic, and thematic
+coherence.
+Experiments demonstrate that the final stories typically represent the new
+theme well while still testing the original math concepts, outperforming a
+number of baselines. 
+We also release a new dataset of human-authored rewrites of math word problems
+in several themes.
+Author{1}{Firstname}#=%=#Rik
+Author{1}{Lastname}#=%=#Koncel-Kedziorski
+Author{1}{Email}#=%=#kedzior@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Ioannis
+Author{2}{Lastname}#=%=#Konstas
+Author{2}{Email}#=%=#ikonstas@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Hannaneh
+Author{4}{Lastname}#=%=#Hajishirzi
+Author{4}{Email}#=%=#hannaneh@washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

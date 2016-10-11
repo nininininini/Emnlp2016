@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#100
+FinalPaperTitle#=%=#The George Washington University System for the Code-Switching Workshop Shared Task 2016
+ShortPaperTitle#=%=#The George Washington University System for the Code-Switching Workshop Shared Task 2016
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Mohamed Elbadrashiny
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe our work in the EMNLP 2016 second code-switching shared task; a
+generic language independent framework for linguistic code switch point
+detection (LCSPD). The system uses characters level 5-grams and word level
+unigram language models to train a  conditional random fields (CRF) model for
+classifying  input words into various languages. We participated in the Modern
+Standard Arabic (MSA)-dialectal Arabic (DA) and Spanish-English tracks,
+obtaining a weighted average  F-scores of 0.83 and 0.91 on  MSA-DA and EN-SP
+respectively.
+Author{1}{Firstname}#=%=#Mohamed
+Author{1}{Lastname}#=%=#Al-Badrashiny
+Author{1}{Email}#=%=#badrashiny@gwu.edu
+Author{1}{Affiliation}#=%=#George Washington University
+Author{2}{Firstname}#=%=#Mona
+Author{2}{Lastname}#=%=#Diab
+Author{2}{Email}#=%=#mtdiab@gwu.edu
+Author{2}{Affiliation}#=%=#George Washington University
+
+==========

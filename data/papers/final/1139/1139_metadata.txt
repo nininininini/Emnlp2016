@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1139
+FinalPaperTitle#=%=#Deep Neural Networks with Massive Learned Knowledge
+ShortPaperTitle#=%=#Deep Neural Networks with Massive Learned Knowledge
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhiting Hu
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#Regulating deep neural networks (DNNs) with human structured knowledge has
+shown to be of great benefit for improved accuracy and interpretability. We
+develop a general framework that enables learning knowledge and its confidence
+jointly with the DNNs, so that the vast amount of fuzzy knowledge can be
+incorporated and automatically optimized with little manual efforts. We apply
+the framework to sentence sentiment analysis, augmenting a DNN with massive
+linguistic constraints on discourse and polarity structures. Our model
+substantially enhances the performance using less training data, and shows
+improved interpretability. The principled framework can also be applied to
+posterior regularization for regulating other statistical models.
+Author{1}{Firstname}#=%=#Zhiting
+Author{1}{Lastname}#=%=#Hu
+Author{1}{Email}#=%=#zhitingh@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Zichao
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#zichaoy@cs.cmu.edu
+Author{2}{Affiliation}#=%=#CMU
+Author{3}{Firstname}#=%=#Ruslan
+Author{3}{Lastname}#=%=#Salakhutdinov
+Author{3}{Email}#=%=#rsalakhu@cs.toronto.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Eric
+Author{4}{Lastname}#=%=#Xing
+Author{4}{Email}#=%=#epxing@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

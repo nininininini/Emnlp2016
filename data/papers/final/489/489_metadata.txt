@@ -1,0 +1,57 @@
+SubmissionNumber#=%=#489
+FinalPaperTitle#=%=#Learning a Lexicon and Translation Model from Phoneme Lattices
+ShortPaperTitle#=%=#Learning a Lexicon and Translation Model from Phoneme Lattices
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Oliver Adams
+JobTitle#==#PhD Student
+Organization#==#The University of Melbourne.
+Parkville, Australia.
+Abstract#==#Language documentation begins by gathering speech. Manual or automatic               
+     
+
+transcription at the word level is typically not possible because of the       
+
+absence of an orthography or prior lexicon, and though manual phonemic               
+     
+
+transcription is possible, it is very slow. On the other hand, translations of 
+
+the minority language into a major language are more easily acquired. We       
+
+propose a method to harness such translations to improve automatic phoneme     
+
+recognition. The method assumes no prior lexicon or translation model, instead 
+
+learning them from phoneme lattices and translations of the speech being       
+
+transcribed. Experiments demonstrate phoneme error rate improvements against   
+
+two baselines and the model's ability to learn useful bilingual lexical        
+
+entries.
+Author{1}{Firstname}#=%=#Oliver
+Author{1}{Lastname}#=%=#Adams
+Author{1}{Email}#=%=#oliver.adams@gmail.com
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Graham
+Author{2}{Lastname}#=%=#Neubig
+Author{2}{Email}#=%=#gneubig@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Trevor
+Author{3}{Lastname}#=%=#Cohn
+Author{3}{Email}#=%=#tcohn@unimelb.edu.au
+Author{3}{Affiliation}#=%=#University of Melbourne
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Lastname}#=%=#Bird
+Author{4}{Email}#=%=#stevenbird1@gmail.com
+Author{4}{Affiliation}#=%=#University of Melbourne
+Author{5}{Firstname}#=%=#Quoc Truong
+Author{5}{Lastname}#=%=#Do
+Author{5}{Email}#=%=#do.truong.dj3@is.naist.jp
+Author{5}{Affiliation}#=%=#Graduate school of Information and Science, NARA Institute of Science and Technology
+Author{6}{Firstname}#=%=#Satoshi
+Author{6}{Lastname}#=%=#Nakamura
+Author{6}{Email}#=%=#s-nakamura@is.naist.jp
+Author{6}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

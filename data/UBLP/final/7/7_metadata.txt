@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Statistical Script Learning with Recurrent Neural Networks
+ShortPaperTitle#=%=#Statistical Script Learning with Recurrent Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Karl B Pichotta
+JobTitle#==#
+Organization#==#Department of Computer Science
+The University of Texas at Austin
+2317 Speedway, 2.302
+Austin, Texas 78712
+Abstract#==#We describe some of our recent efforts in learning statistical models of
+co-occurring events from large text corpora using Recurrent Neural Networks.
+Author{1}{Firstname}#=%=#Karl
+Author{1}{Lastname}#=%=#Pichotta
+Author{1}{Email}#=%=#pichotta@cs.utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Raymond
+Author{2}{Lastname}#=%=#Mooney
+Author{2}{Email}#=%=#mooney@cs.utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+
+==========

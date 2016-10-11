@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1028
+FinalPaperTitle#=%=#Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification
+ShortPaperTitle#=%=#Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jianfei YU
+JobTitle#==#
+Organization#==#Singapore Management University
+81 Victoria St, 188065, Singapore.
+Abstract#==#In this paper, we study cross-domain sentiment classification with neural
+network architectures. We borrow the idea from Structural Correspondence
+Learning and use two auxiliary tasks to help induce a sentence embedding that
+supposedly works well across domains for sentiment classification. We also
+propose to jointly learn this sentence embedding together with the sentiment
+classifier itself. Experiment results demonstrate that our proposed joint model
+outperforms several state-of-the-art methods on five benchmark datasets.
+Author{1}{Firstname}#=%=#Jianfei
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#jfyu.2014@phdis.smu.edu.sg
+Author{1}{Affiliation}#=%=#Singapore Management University
+Author{2}{Firstname}#=%=#Jing
+Author{2}{Lastname}#=%=#Jiang
+Author{2}{Email}#=%=#jingjiang@smu.edu.sg
+Author{2}{Affiliation}#=%=#Singapore Management University
+
+==========

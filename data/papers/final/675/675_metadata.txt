@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#675
+FinalPaperTitle#=%=#TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter
+ShortPaperTitle#=%=#TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Jeniya Tabassum
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe TweeTIME, a temporal tagger for recognizing and normalizing time
+expressions in Twitter. Most previous work in social media analysis has to rely
+on temporal resolvers that are designed for well-edited text, and therefore
+suffer from the reduced performance due to domain mismatch. We present a
+minimally supervised method that learns from large quantities of unlabeled data
+and requires no hand-engineered rules or hand-annotated training corpora. 
+TweeTIME achieves 0.68 F1 score on the end-to-end task of resolving date
+expressions, outperforming a broad range of state-of-the-art systems.
+Author{1}{Firstname}#=%=#Jeniya
+Author{1}{Lastname}#=%=#Tabassum
+Author{1}{Email}#=%=#bintejafar.1@osu.edu
+Author{1}{Affiliation}#=%=#The Ohio State University
+Author{2}{Firstname}#=%=#Alan
+Author{2}{Lastname}#=%=#Ritter
+Author{2}{Email}#=%=#ritter.1492@osu.edu
+Author{2}{Affiliation}#=%=#The Ohio State University
+Author{3}{Firstname}#=%=#Wei
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Email}#=%=#xwe@cis.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+
+==========

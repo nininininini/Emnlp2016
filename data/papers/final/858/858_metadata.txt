@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#858
+FinalPaperTitle#=%=#Online Segment to Segment Neural Transduction
+ShortPaperTitle#=%=#Online Segment to Segment Neural Transduction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Lei Yu
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Oxford.
+Oxford, UK.
+Abstract#==#We introduce an online neural sequence to sequence model that learns to
+alternate between encoding and decoding segments of the input as it is read. By
+independently tracking the encoding and decoding representations our algorithm
+permits exact polynomial marginalization of the latent segmentation during
+training, and during decoding beam search is employed to find the best
+alignment path together with the predicted output sequence. Our model tackles
+the bottleneck of vanilla encoder-decoders that have to read and memorize the
+entire input sequence in their fixed-length hidden states before producing any
+output. It is different from the previous attentive models in that, instead of
+treating the attention weights as output of a deterministic function, our model
+assigns attention weights to a sequential latent variable which can be
+marginalized out and permits online generation. 
+Experiments on abstractive sentence summarization and morphological inflection
+show significant performance gains over the baseline encoder-decoders.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#lei.yu@cs.ox.ac.uk
+Author{1}{Affiliation}#=%=#University of Oxford
+Author{2}{Firstname}#=%=#Jan
+Author{2}{Lastname}#=%=#Buys
+Author{2}{Email}#=%=#jan.buys@cs.ox.ac.uk
+Author{2}{Affiliation}#=%=#Department of Computer Science, University of Oxford
+Author{3}{Firstname}#=%=#Phil
+Author{3}{Lastname}#=%=#Blunsom
+Author{3}{Email}#=%=#phil.blunsom@cs.ox.ac.uk
+Author{3}{Affiliation}#=%=#University of Oxford
+
+==========

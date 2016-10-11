@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#900
+FinalPaperTitle#=%=#The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues
+ShortPaperTitle#=%=#The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Diane Litman
+JobTitle#==#
+Organization#==#
+Abstract#==#When interacting individuals entrain, they begin to speak more like each other.
+To support research on entrainment in cooperative multi-party dialogues, we
+have created a corpus where teams of three or four speakers play two rounds of
+a cooperative board game. We describe the experimental design and technical
+infrastructure used to collect our corpus, which consists of audio, video,
+transcriptions, and questionnaire data for 63 teams (47 hours of audio). We
+illustrate the use of our corpus as a novel resource for studying team
+entrainment by 1)  developing and evaluating team-level acoustic-prosodic
+entrainment measures that extend existing dyad measures, and 2) investigating
+relationships between team entrainment and participation dominance.
+Author{1}{Firstname}#=%=#Diane
+Author{1}{Lastname}#=%=#Litman
+Author{1}{Email}#=%=#litman@cs.pitt.edu
+Author{1}{Affiliation}#=%=#University of Pittsburgh
+Author{2}{Firstname}#=%=#Susannah
+Author{2}{Lastname}#=%=#Paletz
+Author{2}{Email}#=%=#sbfpaletz@gmail.com
+Author{2}{Affiliation}#=%=#University of Maryland
+Author{3}{Firstname}#=%=#Zahra
+Author{3}{Lastname}#=%=#Rahimi
+Author{3}{Email}#=%=#zar10@pitt.edu
+Author{3}{Affiliation}#=%=#University of Pittsburgh
+Author{4}{Firstname}#=%=#Stefani
+Author{4}{Lastname}#=%=#Allegretti
+Author{4}{Email}#=%=#saa45@pitt.edu
+Author{4}{Affiliation}#=%=#University of Pittsburgh
+Author{5}{Firstname}#=%=#Caitlin
+Author{5}{Lastname}#=%=#Rice
+Author{5}{Email}#=%=#caitlin.rice@pitt.edu
+Author{5}{Affiliation}#=%=#University of Pittsburgh
+
+==========

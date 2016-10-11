@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Unsupervised Event Coreference for Abstract Words
+ShortPaperTitle#=%=#Unsupervised Event Coreference for Abstract Words
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Dheeraj Rajagopal
+JobTitle#==#
+Organization#==#Carnegie Mellon University, 
+5000 Forbes Avenue, 
+Pittsburgh, PA - 15213
+Abstract#==#We introduce a novel approach for detecting and resolving coreference for
+abstract words. Our approach is completely unsupervised and we also present a
+new dataset for Biomedical Language Processing which has about ~25% of the
+original corpus vocabulary but still manages to capture the distributional
+semantic nature of the corpus. Our experiments show that Neural Network models
+perform much better (~20% more accurate) than the traditional feature-rich
+baseline models for finding abstract coreferences in biomedical text.
+Author{1}{Firstname}#=%=#Dheeraj
+Author{1}{Lastname}#=%=#Rajagopal
+Author{1}{Email}#=%=#dheeraj.gopal@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Eduard
+Author{2}{Lastname}#=%=#Hovy
+Author{2}{Email}#=%=#hovy@cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Teruko
+Author{3}{Lastname}#=%=#Mitamura
+Author{3}{Email}#=%=#teruko@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

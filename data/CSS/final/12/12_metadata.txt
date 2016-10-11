@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Social Proof: The Impact of Author Traits on Influence Detection
+ShortPaperTitle#=%=#Social Proof: The Impact of Author Traits on Influence Detection
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sara Rosenthal
+JobTitle#==#
+Organization#==#Columbia University 
+Department of Computer Science
+1214 Amsterdam Ave
+New York, NY 10027
+Abstract#==#It has been claimed that people are more likely to be influenced by those who
+are similar to them than those who are not. In this paper, we test this
+hypothesis by measuring the impact of author traits on the detection of
+influence. The traits we explore are age, gender, religion, and political
+party. We create a single classifier to detect the author traits of each
+individual. We then use the personal traits predicted by this classifier to
+predict the influence of contributors in a Wikipedia Talk Page corpus. Our
+research shows that the influencer tends to have the same traits as the
+majority of people in the conversation. Furthermore, we show that this is more
+pronounced when considering the personal traits most relevant to the
+conversation. Our research thus provides evidence for the theory of social
+proof.
+Author{1}{Firstname}#=%=#Sara
+Author{1}{Lastname}#=%=#Rosenthal
+Author{1}{Email}#=%=#sjrosenthal@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Kathy
+Author{2}{Lastname}#=%=#McKeown
+Author{2}{Email}#=%=#kathy@cs.columbia.edu
+Author{2}{Affiliation}#=%=#Columbia University
+
+==========

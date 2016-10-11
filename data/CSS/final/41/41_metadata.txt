@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#41
+FinalPaperTitle#=%=#Constructing an Annotated Corpus for Protest Event Mining
+ShortPaperTitle#=%=#Constructing an Annotated Corpus for Protest Event Mining
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Peter Makarov
+JobTitle#==#
+Organization#==#Institute of Computational Linguistics, University of Zurich, Switzerland
+Abstract#==#We present a corpus for protest event mining that combines token-level
+annotation with the event schema and ontology of entities and events from
+protest research in the social sciences. The dataset uses newswire reports from
+the English Gigaword corpus. The token-level annotation is inspired by
+annotation standards for event extraction, in particular that of the Automated
+Content Extraction 2005 corpus (Walker et al., 2006). Domain experts perform
+the entire annotation task. We report competitive intercoder agreement results.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Makarov
+Author{1}{Email}#=%=#makarov@cl.uzh.ch
+Author{1}{Affiliation}#=%=#University of Zurich
+Author{2}{Firstname}#=%=#Jasmine
+Author{2}{Lastname}#=%=#Lorenzini
+Author{2}{Email}#=%=#jasmine.lorenzini@eui.eu
+Author{2}{Affiliation}#=%=#European University Institute, Florence
+Author{3}{Firstname}#=%=#Hanspeter
+Author{3}{Lastname}#=%=#Kriesi
+Author{3}{Email}#=%=#hanspeter.kriesi@eui.eu
+Author{3}{Affiliation}#=%=#European University Institute, Florence
+
+==========

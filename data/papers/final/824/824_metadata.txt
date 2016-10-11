@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#824
+FinalPaperTitle#=%=#Supervised Distributional Hypernym Discovery via Domain Adaptation
+ShortPaperTitle#=%=#Supervised Distributional Hypernym Discovery via Domain Adaptation
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Luis Espinosa-Anke
+JobTitle#==#
+Organization#==#
+Abstract#==#Lexical taxonomies are graph-like hierarchical structures that provide a formal
+representation of knowledge. Most knowledge graphs to date rely on is-a
+(hypernymic) relations as the backbone of their semantic structure. In this
+paper, we propose a supervised distributional framework for hypernym discovery
+which operates at the sense level, enabling large-scale automatic acquisition
+of disambiguated taxonomies. By exploiting semantic regularities between
+hyponyms and hypernyms in embeddings spaces, and integrating a domain
+clustering algorithm, our model becomes sensitive to the target data. We
+evaluate several configurations of our approach, training with information
+derived from a manually created knowledge base, along with hypernymic relations
+obtained from Open Information Extraction systems. The integration of both
+sources of knowledge yields the best overall results according to both
+automatic and manual evaluation on ten different domains.
+Author{1}{Firstname}#=%=#Luis
+Author{1}{Lastname}#=%=#Espinosa Anke
+Author{1}{Email}#=%=#luis.espinosa@upf.edu
+Author{1}{Affiliation}#=%=#Universitat Pompeu Fabra
+Author{2}{Firstname}#=%=#Jose
+Author{2}{Lastname}#=%=#Camacho-Collados
+Author{2}{Email}#=%=#collados@di.uniroma1.it
+Author{2}{Affiliation}#=%=#Sapienza University of Rome
+Author{3}{Firstname}#=%=#Claudio
+Author{3}{Lastname}#=%=#Delli Bovi
+Author{3}{Email}#=%=#dellibovi@di.uniroma1.it
+Author{3}{Affiliation}#=%=#Sapienza University of Rome
+Author{4}{Firstname}#=%=#Horacio
+Author{4}{Lastname}#=%=#Saggion
+Author{4}{Email}#=%=#horacio.saggion@upf.edu
+Author{4}{Affiliation}#=%=#Universitat Pompeu Fabra
+
+==========

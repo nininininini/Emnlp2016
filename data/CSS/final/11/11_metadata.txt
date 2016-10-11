@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Obfuscating Gender in Social Media Writing
+ShortPaperTitle#=%=#Obfuscating Gender in Social Media Writing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Sravana Reddy
+JobTitle#==#
+Organization#==#Wellesley College, Wellesley, MA
+Abstract#==#The vast availability of textual data on social media has led to an interest in
+algorithms to predict user attributes such as gender based on the user's
+writing. These methods              are valuable for social science research as well
+as
+targeted advertising and profiling, but also compromise the privacy of users
+who may not realize that their personal idiolects can give away their
+demographic identities. Can we automatically modify a text so that the author
+is classified as a certain target gender, under limited knowledge of the
+classifier, while preserving the text's fluency and meaning? We present a
+simple model to modify a text using lexical substitution, show empirical
+results with Twitter and Yelp, and outline ideas for extensions.
+Author{1}{Firstname}#=%=#Sravana
+Author{1}{Lastname}#=%=#Reddy
+Author{1}{Email}#=%=#sravana.reddy@wellesley.edu
+Author{1}{Affiliation}#=%=#Wellesley College
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Knight
+Author{2}{Email}#=%=#knight@isi.edu
+Author{2}{Affiliation}#=%=#USC/ISI
+
+==========

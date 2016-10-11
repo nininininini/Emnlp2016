@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#450
+FinalPaperTitle#=%=#LAMB: A Good Shepherd of Morphologically Rich Languages
+ShortPaperTitle#=%=#LAMB: A Good Shepherd of Morphologically Rich Languages
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Sebastian Ebert
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper introduces STEM and LAMB, 
+embeddings trained for stems and lemmata
+instead of for surface forms. For
+morphologically rich languages, they
+perform significantly better than
+standard embeddings on word similarity
+and polarity evaluations. On a new
+WordNet-based evaluation, STEM and LAMB
+are up to 50% better than standard
+embeddings. We show that both embeddings
+have high quality even for small
+dimensionality and training corpora.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ebert
+Author{1}{Email}#=%=#ebert@cis.lmu.de
+Author{1}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Müller
+Author{2}{Email}#=%=#muellets@cis.lmu.de
+Author{2}{Affiliation}#=%=#CIS, University of  Munich
+Author{3}{Firstname}#=%=#Hinrich
+Author{3}{Lastname}#=%=#Schütze
+Author{3}{Email}#=%=#inquiries@cislmu.org
+Author{3}{Affiliation}#=%=#Center for Information and Language Processing, University of Munich
+
+==========

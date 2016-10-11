@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#813
+FinalPaperTitle#=%=#Creating a Large Benchmark for Open Information Extraction
+ShortPaperTitle#=%=#Creating a Large Benchmark for Open Information Extraction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gabriel Stanovsky
+JobTitle#==#
+Organization#==#Bar Ilan University, Israel
+Abstract#==#Open information extraction (Open IE) was presented as an unrestricted variant
+of traditional information extraction. It has been gaining substantial
+attention, manifested by a large number of automatic Open IE extractors and
+downstream applications.
+In spite of this broad attention, the Open IE task definition has been lacking
+-- there are no formal guidelines and no large scale gold standard annotation.
+Subsequently, the various implementations of Open IE resorted to small scale
+post-hoc evaluations, inhibiting an objective and reproducible cross-system
+comparison.
+In this work, we develop a methodology that leverages the recent QA-SRL
+annotation to create a first independent and large scale Open IE annotation,
+and use it to automatically compare the most prominent Open IE systems.
+Author{1}{Firstname}#=%=#Gabriel
+Author{1}{Lastname}#=%=#Stanovsky
+Author{1}{Email}#=%=#gabriel.satanovsky@gmail.com
+Author{1}{Affiliation}#=%=#Bar Ilan University
+Author{2}{Firstname}#=%=#Ido
+Author{2}{Lastname}#=%=#Dagan
+Author{2}{Email}#=%=#dagan@cs.biu.ac.il
+Author{2}{Affiliation}#=%=#Bar-Ilan University
+
+==========

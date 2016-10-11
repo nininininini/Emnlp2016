@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#642
+FinalPaperTitle#=%=#Learning to Identify Metaphors from a Corpus of Proverbs
+ShortPaperTitle#=%=#Learning to Identify Metaphors from a Corpus of Proverbs
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#GOZDE OZBAL
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we experiment with a resource consisting of metaphorically
+annotated proverbs on the task of word-level metaphor recognition. We observe
+that existing feature sets do not perform well on this data. We design a novel
+set of features to better capture the peculiar nature of proverbs and we
+demonstrate that these new features are significantly more effective on the
+metaphorically dense proverb data.
+Author{1}{Firstname}#=%=#Gözde
+Author{1}{Lastname}#=%=#Özbal
+Author{1}{Email}#=%=#gozbalde@gmail.com
+Author{1}{Affiliation}#=%=#FBK-irst
+Author{2}{Firstname}#=%=#Carlo
+Author{2}{Lastname}#=%=#Strapparava
+Author{2}{Email}#=%=#strappa@fbk.eu
+Author{2}{Affiliation}#=%=#FBK-irst
+Author{3}{Firstname}#=%=#Serra Sinem
+Author{3}{Lastname}#=%=#Tekiroglu
+Author{3}{Email}#=%=#serrasinem@gmail.com
+Author{3}{Affiliation}#=%=#University of Trento, Fondazione Bruno Kessler
+Author{4}{Firstname}#=%=#Daniele
+Author{4}{Lastname}#=%=#Pighin
+Author{4}{Email}#=%=#daniele.pighin@gmail.com
+Author{4}{Affiliation}#=%=#Google Inc
+
+==========

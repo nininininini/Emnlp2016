@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1232
+FinalPaperTitle#=%=#The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages
+ShortPaperTitle#=%=#The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages
+NumberOfPages#=%=#15
+CopyrightSigned#=%=#NA, because this is a TACL paper
+JobTitle#==#
+Organization#==#Johns Hopkins University
+Abstract#==#We release Galactic Dependencies 1.0 -- a large set of synthetic languages not
+found on Earth, but annotated in Universal Dependencies format. This new
+resource aims to pro- vide training and development data for NLP methods that
+aim to adapt to unfamiliar languages. Each synthetic treebank is produced from
+a real treebank by stochastically permuting the dependents of nouns and/or
+verbs to match the word order of other real languages. As a simple example to
+demonstrate the use of Galactic Dependencies, we provide results on
+single-source transfer, i.e., attempting to parse a real target language using
+a parser trained on a nearby source language. We find that including synthetic
+source languages somewhat increases the diversity of the source pool, which
+significantly improves results for most target languages.
+Author{1}{Firstname}#=%=#Dingquan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wddabc@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Jason
+Author{2}{Lastname}#=%=#Eisner
+Author{2}{Email}#=%=#jason@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

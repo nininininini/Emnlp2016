@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#191
+FinalPaperTitle#=%=#Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot Filling
+ShortPaperTitle#=%=#Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot Filling
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Gakuto Kurata
+JobTitle#==#
+Organization#==#
+Abstract#==#Recurrent Neural Network (RNN) and one of its specific architectures, Long
+Short-Term Memory (LSTM), have been widely used for sequence labeling.
+Explicitly modeling output label dependencies on top of RNN/LSTM is a
+widely-studied and effective extension.
+We propose another extension to incorporate the global information spanning
+over the whole input sequence.
+The proposed method, encoder-labeler LSTM, first encodes the whole input
+sequence into a fixed length vector with the encoder LSTM, and then uses this
+encoded vector as the initial state of another LSTM for sequence labeling.
+With this method, we can predict the label sequence while taking the whole
+input sequence information into consideration.
+In the experiments of a slot filling task, which is an essential component of
+natural language understanding, with using the standard ATIS corpus, we
+achieved the state-of-the-art F1-score of 95.66%.
+Author{1}{Firstname}#=%=#Gakuto
+Author{1}{Lastname}#=%=#Kurata
+Author{1}{Email}#=%=#gakuto@jp.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Xiang
+Author{2}{Email}#=%=#bingxia@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Watson
+Author{3}{Firstname}#=%=#Bowen
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#zhou@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Watson
+Author{4}{Firstname}#=%=#Mo
+Author{4}{Lastname}#=%=#Yu
+Author{4}{Email}#=%=#yum@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM Watson
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#345
+FinalPaperTitle#=%=#Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping
+ShortPaperTitle#=%=#Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jian Ni
+JobTitle#==#
+Organization#==#IBM T. J. Watson Research Center
+1101 Kitchawan Road, Yorktown Heights, NY 10598, USA
+Abstract#==#The state-of-the-art named entity recognition (NER) systems are statistical
+machine learning models that have strong generalization capability (i.e., can
+recognize unseen entities that do not appear in training data) based on lexical
+and contextual information. However, such a model could still make mistakes if
+its features favor a wrong entity type. In this paper, we utilize Wikipedia as
+an open knowledge base to improve multilingual NER systems. Central to our
+approach is the construction of high-accuracy, high-coverage multilingual
+Wikipedia entity type mappings. These mappings are built from weakly annotated
+data and can be extended to new languages with no human annotation or
+language-dependent knowledge involved. Based on these mappings, we develop
+several approaches to improve an NER system. We evaluate the performance of the
+approaches via experiments on NER systems trained for 6 languages. Experimental
+results show that the proposed approaches are effective in improving the
+accuracy of such systems on unseen entities, especially when a system is
+applied to a new domain or it is trained with little training data (up to 18.3
+$F_1$ score improvement).
+Author{1}{Firstname}#=%=#Jian
+Author{1}{Lastname}#=%=#Ni
+Author{1}{Email}#=%=#nij@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#Radu
+Author{2}{Lastname}#=%=#Florian
+Author{2}{Email}#=%=#raduf@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research
+
+==========

@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#1173
+FinalPaperTitle#=%=#Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings
+ShortPaperTitle#=%=#Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Akash Bharadwaj
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Ave, Pittsburgh, PA 15213
+Abstract#==#Named Entity Recognition is a well established information extraction task with
+many state of the art systems existing for a variety of languages. Most systems
+rely on language specific resources, large annotated corpora, gazetteers and
+feature engineering to perform well monolingually. In this paper, we introduce
+an attentional neural model which only uses language universal phonological
+character representations with word embeddings to achieve state of the art
+performance in a monolingual setting using supervision and which can quickly
+adapt to a new language with minimal or no data. We demonstrate that
+phonological character representations facilitate cross-lingual transfer,
+outperform orthographic representations and incorporating both attention and
+phonological features improves statistical efficiency of the model in 0-shot
+and low data transfer settings with no task specific feature engineering in the
+source or target language.
+Author{1}{Firstname}#=%=#Akash
+Author{1}{Lastname}#=%=#Bharadwaj
+Author{1}{Email}#=%=#bharadwaj.akash.2392@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Mortensen
+Author{2}{Email}#=%=#dmortens@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Dyer
+Author{3}{Email}#=%=#cdyer@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Jaime
+Author{4}{Lastname}#=%=#Carbonell
+Author{4}{Email}#=%=#jgc@cs.cmu.edu
+Author{4}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

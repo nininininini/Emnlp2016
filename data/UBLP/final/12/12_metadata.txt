@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Using Language Groundings for Context-Sensitive Text Prediction
+ShortPaperTitle#=%=#Using Language Groundings for Context-Sensitive Text Prediction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Timothy Lewis
+JobTitle#==#
+Organization#==#
+Abstract#==#In this paper, we present the concept of using language groundings for
+context-sensitive text prediction using a semantically informed, context-aware
+language model. We show initial findings from a preliminary study investigating
+how users react to a communication interface driven by context based prediction
+using a simple language model. We suggest that the results support further
+exploration using a more informed semantic model and more realistic context.
+Author{1}{Firstname}#=%=#Timothy
+Author{1}{Lastname}#=%=#Lewis
+Author{1}{Email}#=%=#tim22@umbc.edu
+Author{1}{Affiliation}#=%=#University of Maryland, Baltimore County
+Author{2}{Firstname}#=%=#Cynthia
+Author{2}{Lastname}#=%=#Matuszek
+Author{2}{Email}#=%=#cmat@umbc.edu
+Author{2}{Affiliation}#=%=#University of Maryland, Baltimore County
+Author{3}{Firstname}#=%=#Amy
+Author{3}{Lastname}#=%=#Hurst
+Author{3}{Email}#=%=#amyhurst@umbc.edu
+Author{3}{Affiliation}#=%=#University of Maryland, Baltimore County
+Author{4}{Firstname}#=%=#Matthew
+Author{4}{Lastname}#=%=#Taylor
+Author{4}{Email}#=%=#taylorm@eecs.wsu.edu
+Author{4}{Affiliation}#=%=#Washington State University
+
+==========

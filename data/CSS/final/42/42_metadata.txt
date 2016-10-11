@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#42
+FinalPaperTitle#=%=#Demographer: Extremely Simple Name Demographics
+ShortPaperTitle#=%=#Demographer: Extremely Simple Name Demographics
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Rebecca Knowles
+JobTitle#==#
+Organization#==#The Johns Hopkins University
+3400 North Charles Street
+Baltimore, Maryland 21218
+Abstract#==#The lack of demographic information available when conducting passive analysis
+of social media content can make it difficult to compare results to traditional
+survey results. We present Demographer, a tool that predicts gender from names,
+using name lists and a classifier with simple character-level features. By
+relying only on a name, our tool can make predictions even without extensive
+user-authored content. We compare Demographer to other available tools and
+discuss differences in performance. In particular, we show that Demographer
+performs well on Twitter data, making it useful for simple and rapid social
+media demographic inference.
+Author{1}{Firstname}#=%=#Rebecca
+Author{1}{Lastname}#=%=#Knowles
+Author{1}{Email}#=%=#rknowles@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Josh
+Author{2}{Lastname}#=%=#Carroll
+Author{2}{Email}#=%=#josh@qntfy.com
+Author{2}{Affiliation}#=%=#Qntfy
+Author{3}{Firstname}#=%=#Mark
+Author{3}{Lastname}#=%=#Dredze
+Author{3}{Email}#=%=#mdredze@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+
+==========

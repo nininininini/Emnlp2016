@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#217
+FinalPaperTitle#=%=#Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary
+ShortPaperTitle#=%=#Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Qi ZHang
+JobTitle#==#
+Organization#==#
+Abstract#==#Chinese named entities occur frequently in formal and informal environments.
+Various approaches have been formalized the problem as a sequence labelling
+task and utilize a character-based methodology, in which character is treated
+as the basic classification unit. One of the main drawbacks of these methods is
+that some of the generated abbreviations may not follow the conventional wisdom
+of Chinese. To address this problem, we propose a novel neural network
+architecture to perform task. It combines recurrent neural network (RNN) with
+an architecture determining whether a given sequence of characters can be a
+word or not. For demonstrating the effectiveness of the proposed method, we
+evaluate it on Chinese named entity generation and opinion target extraction
+tasks. Experimental results show that the proposed method can achieve better
+performance than state-of-the-art methods.
+Author{1}{Firstname}#=%=#Qi
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#qz@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Jin
+Author{2}{Lastname}#=%=#Qian
+Author{2}{Email}#=%=#12110240030@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Ya
+Author{3}{Lastname}#=%=#Guo
+Author{3}{Email}#=%=#gyalife@gmail.com
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Yaqian
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Email}#=%=#zhouyaqian@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+Author{5}{Firstname}#=%=#Xuanjing
+Author{5}{Lastname}#=%=#Huang
+Author{5}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{5}{Affiliation}#=%=#Fudan University
+
+==========

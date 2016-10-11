@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=#Hierarchical Character-Word Models for Language Identification
+ShortPaperTitle#=%=#Hierarchical Character-Word Models for Language Identification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Aaron Jaech
+JobTitle#==#
+Organization#==#University of Washington
+Seattle, Wa
+Abstract#==#Social media messages' brevity and unconventional spelling pose a challenge to
+language identification.  We introduce a hierarchical model that learns
+character- and contextualized word-level representations for language
+identification.  Our method performs well against strong baselines, and can
+also reveal code-switching.
+Author{1}{Firstname}#=%=#Aaron
+Author{1}{Lastname}#=%=#Jaech
+Author{1}{Email}#=%=#ajaech@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#George
+Author{2}{Lastname}#=%=#Mulcaire
+Author{2}{Email}#=%=#gmulc@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Shobhit
+Author{3}{Lastname}#=%=#Hathi
+Author{3}{Email}#=%=#shathi@uw.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Mari
+Author{4}{Lastname}#=%=#Ostendorf
+Author{4}{Email}#=%=#ostendor@u.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+Author{5}{Firstname}#=%=#Noah A.
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Email}#=%=#nasmith@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

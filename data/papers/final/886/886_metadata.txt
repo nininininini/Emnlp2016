@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#886
+FinalPaperTitle#=%=#Learning Connective-based Word Representations for Implicit Discourse Relation Identification
+ShortPaperTitle#=%=#Connective-based Representations for Implicit Relation Identification
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chloé Braud
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce a simple semi-supervised approach to improve implicit discourse
+relation identification. This approach harnesses large amounts of automatically
+extracted discourse connectives along with their arguments to construct new
+distributional word representations. Specifically, we represent words in the
+space of discourse connectives as a way to directly encode their rhetorical
+function. Experiments on the Penn Discourse Treebank demonstrate the
+effectiveness of these task-tailored representations in predicting implicit
+discourse relations. Our results indeed show that, despite
+their simplicity, these connective-based representations outperform various
+off-the-shelf word embeddings, and achieve state-of-the-art performance on this
+problem.
+Author{1}{Firstname}#=%=#Chloé
+Author{1}{Lastname}#=%=#Braud
+Author{1}{Email}#=%=#chloe.braud@gmail.com
+Author{1}{Affiliation}#=%=#University of Copenhagen
+Author{2}{Firstname}#=%=#Pascal
+Author{2}{Lastname}#=%=#Denis
+Author{2}{Email}#=%=#pascal.denis@inria.fr
+Author{2}{Affiliation}#=%=#INRIA
+
+==========

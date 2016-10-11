@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#578
+FinalPaperTitle#=%=#On- and Off-Topic Classification and Semantic Annotation of User-Generated Software Requirements
+ShortPaperTitle#=%=#On- and Off-Topic Classification and Semantic Annotation of User-Generated Software Requirements
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Markus Dollmann
+JobTitle#==#
+Organization#==#Heinz Nixdorf Institute
+Fürstenallee 11
+33102 Paderborn, Germany
+Abstract#==#Users prefer natural language software requirements because of their usability
+and accessibility. When they describe their wishes for software development,
+they often provide off-topic information. We therefore present REaCT, an
+automated approach for identifying and semantically annotating the on-topic
+parts of requirement descriptions. It is designed to support requirement
+engineers in the elicitation process on detecting and analyzing requirements in
+user-generated content. Since no lexical resources with domain-specific
+information about requirements are available, we created a corpus of
+requirements written in controlled language by instructed users and
+uncontrolled language by uninstructed users. We annotated these requirements
+regarding predicate-argument structures, conditions, priorities, motivations
+and semantic roles and used this information to train classifiers for
+information extraction purposes. REaCT achieves an accuracy of 92% for the on-
+and off-topic classification task and an F1-measure of 72% for the semantic
+annotation.
+Author{1}{Firstname}#=%=#Markus
+Author{1}{Lastname}#=%=#Dollmann
+Author{1}{Email}#=%=#dollmann@hni.upb.de
+Author{1}{Affiliation}#=%=#University of Paderborn, Heinz Nixdorf Institute
+Author{2}{Firstname}#=%=#Michaela
+Author{2}{Lastname}#=%=#Geierhos
+Author{2}{Email}#=%=#geierhos@hni.upb.de
+Author{2}{Affiliation}#=%=#University of Paderborn, Heinz Nixdorf Institute
+
+==========

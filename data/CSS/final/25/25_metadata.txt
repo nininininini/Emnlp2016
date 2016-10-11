@@ -1,0 +1,53 @@
+SubmissionNumber#=%=#25
+FinalPaperTitle#=%=##WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions
+ShortPaperTitle#=%=##WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Anna Priante
+JobTitle#==#
+Organization#==#University of Twente
+Abstract#==#We combine social theory and NLP methods
+to classify English-speaking Twitter users’ online
+social identity in profile descriptions. We
+conduct two text classification experiments. In
+Experiment 1 we use a 5-category online social
+identity classification based on identity
+and self-categorization theories. While we are
+able to automatically classify two identity categories
+(Relational and Occupational), automatic
+classification of the other three identities
+(Political, Ethnic/religious and Stigmatized) is
+challenging. In Experiment 2 we test a merger
+of such identities based on theoretical arguments.
+We find that by combining these identities
+we can improve the predictive performance
+of the classifiers in the experiment. Our
+study shows how social theory can be used to
+guide NLP methods, and how such methods
+provide input to revisit traditional social theory
+that is strongly consolidated in offline settings.
+Author{1}{Firstname}#=%=#Anna
+Author{1}{Lastname}#=%=#Priante
+Author{1}{Email}#=%=#a.priante@utwente.nl
+Author{1}{Affiliation}#=%=#University of Twente
+Author{2}{Firstname}#=%=#Djoerd
+Author{2}{Lastname}#=%=#Hiemstra
+Author{2}{Email}#=%=#d.hiemstra@utwente.nl
+Author{2}{Affiliation}#=%=#University of Twente
+Author{3}{Firstname}#=%=#Tijs
+Author{3}{Lastname}#=%=#van den Broek
+Author{3}{Email}#=%=#t.a.vandenbroek@utwente.nl
+Author{3}{Affiliation}#=%=#University of Twente
+Author{4}{Firstname}#=%=#Aaqib
+Author{4}{Lastname}#=%=#Saeed
+Author{4}{Email}#=%=#a.saeed@student.utwente.nl
+Author{4}{Affiliation}#=%=#University of Twente
+Author{5}{Firstname}#=%=#Michel
+Author{5}{Lastname}#=%=#Ehrenhard
+Author{5}{Email}#=%=#m.l.ehrenhard@utwente.nl
+Author{5}{Affiliation}#=%=#University of Twente
+Author{6}{Firstname}#=%=#Ariana
+Author{6}{Lastname}#=%=#Need
+Author{6}{Email}#=%=#a.need@utwente.nl
+Author{6}{Affiliation}#=%=#University of Twente
+
+==========

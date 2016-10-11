@@ -1,0 +1,52 @@
+SubmissionNumber#=%=#185
+FinalPaperTitle#=%=#Are Word Embedding-based Features Useful for Sarcasm Detection?
+ShortPaperTitle#=%=#Are Word Embedding-based Features Useful for Sarcasm Detection?
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Aditya Joshi
+JobTitle#==#
+Organization#==#IITB-Monash Research Academy,
+IIT Bombay,
+Mumbai - 400076
+India
+Abstract#==#This paper makes a simple increment to the state-of-
+the-art in sarcasm detection research. Existing ap-
+proaches are unable to capture subtle forms of con-
+text incongruity which lies at the heart of sarcasm.
+We explore if prior work can be enhanced using se-
+mantic similarity/discordance between word embed-
+dings. We augment word embedding-based features
+to four feature sets reported in the past. We ex-
+periment with four types of word embeddings, and
+observe an improvement in sarcasm detection, irre-
+spective of the word embedding used or the original
+feature set to which our features are augmented. For
+example, this augmentation results in an improve-
+ment in F-score of around 4% for three out of these
+four feature sets, and a minor degradation in case of
+the fourth, when word2vec embeddings are used. Fi-
+nally, a comparison of the four embeddings shows
+that word2vec and dependency weight-based fea-
+tures outperform LSA and GloVe, in terms of their
+benefit to sarcasm detection.
+Author{1}{Firstname}#=%=#Aditya
+Author{1}{Lastname}#=%=#Joshi
+Author{1}{Email}#=%=#adityaj@cse.iitb.ac.in
+Author{1}{Affiliation}#=%=#IITB-Monash Research Academy
+Author{2}{Firstname}#=%=#Vaibhav
+Author{2}{Lastname}#=%=#Tripathi
+Author{2}{Email}#=%=#vtripathi@cse.iitb.ac.in
+Author{2}{Affiliation}#=%=#IIT Bombay, India
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Patel
+Author{3}{Email}#=%=#kevin.patel@cse.iitb.ac.in
+Author{3}{Affiliation}#=%=#CSE, IIT Bombay
+Author{4}{Firstname}#=%=#Pushpak
+Author{4}{Lastname}#=%=#Bhattacharyya
+Author{4}{Email}#=%=#pushpakbh@gmail.com
+Author{4}{Affiliation}#=%=#CSE Department, IIT Bombay
+Author{5}{Firstname}#=%=#Mark
+Author{5}{Lastname}#=%=#Carman
+Author{5}{Email}#=%=#mark.carman@monash.edu
+Author{5}{Affiliation}#=%=#Monash University
+
+==========

@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#589
+FinalPaperTitle#=%=#Timeline extraction using distant supervision and joint inference
+ShortPaperTitle#=%=#Timeline extraction using distant supervision and joint inference
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Andreas Vlachos
+JobTitle#==#
+Organization#==#Department of Computer Science
+University of Sheffield
+211, Portobello, S1 4DP, UK
+Abstract#==#In timeline extraction the goal is to order all the events in which a target
+entity is involved in a timeline. Due to the lack of explicitly annotated data,
+previous work is primarily rule-based and uses pre-trained temporal linking
+systems. In this work, we propose a distantly supervised approach by
+heuristically aligning timelines with documents. The noisy training data
+created allows us to learn models that anchor events to temporal expressions
+and entities; during testing, the predictions of these models are combined to
+produce the timeline. Furthermore, we show how to improve performance using
+joint inference. In experiments in the SemEval-2015 TimeLine task we show that
+our distantly supervised approach matches the state-of-the-art performance
+while joint inference further improves on it by 3.2 F-score points.
+Author{1}{Firstname}#=%=#Savelie
+Author{1}{Lastname}#=%=#Cornegruta
+Author{1}{Email}#=%=#savelie@gmail.com
+Author{1}{Affiliation}#=%=#King's College London
+Author{2}{Firstname}#=%=#Andreas
+Author{2}{Lastname}#=%=#Vlachos
+Author{2}{Email}#=%=#a.vlachos@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+
+==========

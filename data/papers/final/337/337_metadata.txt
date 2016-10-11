@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#337
+FinalPaperTitle#=%=#Gaussian Visual-Linguistic Embedding for Zero-Shot Recognition
+ShortPaperTitle#=%=#Gaussian Visual-Linguistic Embedding for Zero-Shot Recognition
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#An exciting outcome of research at the intersection of language and vision is
+that of zero-shot learning (ZSL). ZSL promises to scale visual recognition by
+borrowing distributed semantic models learned from linguistic corpora and
+turning them into visual recognition models. However the popular word-vector
+DSM embeddings are relatively impoverished in their expressivity as they model
+each word as a single vector point. In this paper we explore
+word distribution embeddings for ZSL. We present a visual-linguistic
+mapping for ZSL in the case where words and visual categories are both
+represented by distributions. Experiments show improved results on ZSL
+benchmarks due to this better exploiting of intra-concept variability in each
+modality
+Author{1}{Firstname}#=%=#Tanmoy
+Author{1}{Lastname}#=%=#Mukherjee
+Author{1}{Email}#=%=#mukherjee.tanmoy@gmail.com
+Author{1}{Affiliation}#=%=#IIIT Hyderabad
+Author{2}{Firstname}#=%=#Timothy
+Author{2}{Lastname}#=%=#Hospedales
+Author{2}{Email}#=%=#t.hospedales@qmul.ac.uk
+Author{2}{Affiliation}#=%=#
+
+==========

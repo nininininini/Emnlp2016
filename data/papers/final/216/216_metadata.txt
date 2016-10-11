@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#216
+FinalPaperTitle#=%=#Attention-based LSTM for Aspect-level Sentiment Classification
+ShortPaperTitle#=%=#Attention-based LSTM for Aspect-level Sentiment Classification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yequan Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Aspect-level sentiment classification is a fine-grained task in sentiment
+analysis. Since it provides more complete and in-depth results, aspect-level
+sentiment analysis has received much attention these years. In this paper, we
+reveal that the sentiment polarity of a sentence is not only determined by the
+content but is also highly related to the concerned aspect. For instance,
+“The appetizers are ok, but the service is slow.”, for aspect taste, the
+polarity is positive while for service, the polarity is negative. Therefore, it
+is worthwhile to explore the connection between an aspect and the content of a
+sentence. To this end, we propose an Attention-based Long Short-Term Memory
+Network for aspect-level sentiment classification. The attention mechanism can
+concentrate on different parts of a sentence when different aspects are taken
+as input. We experiment on the SemEval 2014 dataset and results show that our
+model achieves state-of-the-art performance on aspect-level sentiment
+classification.
+Author{1}{Firstname}#=%=#Yequan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wangyequan@live.cn
+Author{1}{Affiliation}#=%=#Tsinghua University
+Author{2}{Firstname}#=%=#Minlie
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#aihuang@tsinghua.edu.cn
+Author{2}{Affiliation}#=%=#Tsinghua University
+Author{3}{Firstname}#=%=#xiaoyan
+Author{3}{Lastname}#=%=#zhu
+Author{3}{Email}#=%=#zxy-dcs@tsinghua.edu.cn
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Li
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#lizo@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research Asia
+
+==========

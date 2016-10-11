@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#906
+FinalPaperTitle#=%=#Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task
+ShortPaperTitle#=%=#Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Libby Barak
+JobTitle#==#
+Organization#==#Princeton University
+Department of Psychology
+Princeton, NJ 08540
+Abstract#==#Natural language acquisition relies on appropriate generalization: the ability
+to produce novel sentences, while learning to restrict productions to
+acceptable forms in the language. Psycholinguists have proposed various
+properties that might play a role in guiding appropriate generalizations,
+looking at learning of verb alternations as a testbed. Several computational
+cognitive models have explored aspects of this phenomenon, but their results
+are hard to compare given the high variability in
+the linguistic properties represented in their input. In this paper, we
+directly compare two recent approaches, a Bayesian model and a connectionist
+model, in their ability to replicate human judgments of appropriate
+generalizations. We find that the Bayesian model more accurately mimics the
+judgments due to its richer learning mechanism that can exploit distributional
+properties of the input in a manner consistent with human behaviour.
+Author{1}{Firstname}#=%=#Libby
+Author{1}{Lastname}#=%=#Barak
+Author{1}{Email}#=%=#libbyb@cs.toronto.edu
+Author{1}{Affiliation}#=%=#University of Toronto
+Author{2}{Firstname}#=%=#Adele E.
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#adele@princeton.edu
+Author{2}{Affiliation}#=%=#Princeton University
+Author{3}{Firstname}#=%=#Suzanne
+Author{3}{Lastname}#=%=#Stevenson
+Author{3}{Email}#=%=#suzanne@cs.toronto.edu
+Author{3}{Affiliation}#=%=#University of Toronto
+
+==========

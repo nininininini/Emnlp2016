@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Stylistic Transfer in Natural Language Generation Systems Using Recurrent Neural Networks
+ShortPaperTitle#=%=#Stylistic Transfer in NLG Systems Using RNNs
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Jad Kabbara
+JobTitle#==#
+Organization#==#McGill University
+845 Sherbrooke Street West
+Montreal, QC H3A 0G4
+Canada
+Abstract#==#Linguistic style conveys the social context in which communication occurs and
+defines particular ways of using language to engage with the audiences to which
+the text is accessible. In this work, we are interested in the task of
+stylistic transfer in natural language generation (NLG) systems, which could
+have applications in the dissemination of knowledge across styles, automatic
+summarization and author obfuscation. The main challenges in this task involve
+the lack of parallel training data and the difficulty in using stylistic
+features to control generation. To address these challenges, we plan to
+investigate neural network approaches to NLG to automatically learn and
+incorporate stylistic features in the process of language generation. We
+identify several evaluation criteria, and propose manual and automatic
+evaluation approaches.
+Author{1}{Firstname}#=%=#Jad
+Author{1}{Lastname}#=%=#Kabbara
+Author{1}{Email}#=%=#jad.kabbara@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Jackie Chi Kit
+Author{2}{Lastname}#=%=#Cheung
+Author{2}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+
+==========

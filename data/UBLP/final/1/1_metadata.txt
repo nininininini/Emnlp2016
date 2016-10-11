@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#DialPort: A General Framework for Aggregating Dialog Systems
+ShortPaperTitle#=%=#DialPort: A General Framework for Aggregating Dialog Systems
+NumberOfPages#=%=#3
+CopyrightSigned#=%=#Tiancheng Zhao
+JobTitle#==#
+Organization#==#Carnegie Mellon University, PA, USA
+Abstract#==#This paper describes a new spoken dialog portal that connects systems produced
+by the spoken dialog research community and gives them access to real users. We
+introduce a prototype dialog framework that affords easy integration with
+various remote dialog agents as well as external knowledge resources. To date,
+the DialPort portal has successfully connected to two dialog systems and
+several public knowledge APIs. We present current progress and envision our
+future plan.
+Author{1}{Firstname}#=%=#Tiancheng
+Author{1}{Lastname}#=%=#Zhao
+Author{1}{Email}#=%=#tianchez@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Language Technologies Institute, Carnegie Mellon University
+Author{2}{Firstname}#=%=#Kyusong
+Author{2}{Lastname}#=%=#Lee
+Author{2}{Email}#=%=#kyusonglee@postech.ac.kr
+Author{2}{Affiliation}#=%=#Pohang University of Science and Technology
+Author{3}{Firstname}#=%=#Maxine
+Author{3}{Lastname}#=%=#Eskenazi
+Author{3}{Email}#=%=#max@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

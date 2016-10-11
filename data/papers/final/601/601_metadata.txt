@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#601
+FinalPaperTitle#=%=#Automatic Features for Essay Scoring – An Empirical Study
+ShortPaperTitle#=%=#Automatic Features for Essay Scoring – An Empirical Study
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dong Fei
+JobTitle#==#
+Organization#==#
+Abstract#==#Essay scoring is a complicated 
+processing requiring analyzing, summarizing and judging expertise. 
+Traditional work on essay scoring focused on automatic handcrafted
+features, which are expensive yet sparse. Neural models offer a way to learn
+syntactic and semantic
+features automatically, which can potentially improve upon discrete features.
+In this paper, we employ  
+convolutional neural network (CNN) for the effect
+of automatically learning features, and compare the result with the
+state-of-art discrete baselines.
+For in-domain and domain-adaptation essay scoring tasks, our neural model 
+empirically outperforms discrete models.
+Author{1}{Firstname}#=%=#Fei
+Author{1}{Lastname}#=%=#Dong
+Author{1}{Email}#=%=#fei_dong@mymail.sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology & Design
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology & Design
+
+==========

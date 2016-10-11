@@ -1,0 +1,63 @@
+SubmissionNumber#=%=#605
+FinalPaperTitle#=%=#Variational Neural Discourse Relation Recognizer
+ShortPaperTitle#=%=#Variational Neural Discourse Relation Recognizer
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Biao Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Implicit discourse relation recognition is a
+crucial component for automatic discourselevel
+analysis and nature language understanding.
+Previous studies exploit discriminative
+models that are built on either powerful manual
+features or deep discourse representations.
+In this paper, instead, we explore generative
+models and propose a variational neural discourse
+relation recognizer. We refer to this
+model as VarNDRR. VarNDRR establishes a
+directed probabilistic model with a latent continuous
+variable that generates both a discourse
+and the relation between the two arguments
+of the discourse. In order to perform
+efficient inference and learning, we introduce
+neural discourse relation models to
+approximate the prior and posterior distributions
+of the latent variable, and employ these
+approximated distributions to optimize a reparameterized
+variational lower bound. This allows
+VarNDRR to be trained with standard
+stochastic gradient methods. Experiments on
+the benchmark data set show that VarNDRR
+can achieve comparable results against stateof-
+the-art baselines without using any manual
+features.
+Author{1}{Firstname}#=%=#Biao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zb@stu.xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#Deyi
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#deyi.xiong@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#jinsong
+Author{3}{Lastname}#=%=#su
+Author{3}{Email}#=%=#jssu@xmu.edu.cn
+Author{3}{Affiliation}#=%=#Xiamen university
+Author{4}{Firstname}#=%=#Qun
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#qun.liu@dcu.ie
+Author{4}{Affiliation}#=%=#Dublin City University
+Author{5}{Firstname}#=%=#Rongrong
+Author{5}{Lastname}#=%=#Ji
+Author{5}{Email}#=%=#rrji@xmu.edu.cn
+Author{5}{Affiliation}#=%=#Xiamen University
+Author{6}{Firstname}#=%=#Hong
+Author{6}{Lastname}#=%=#Duan
+Author{6}{Email}#=%=#hduan@xmu.edu.cn
+Author{6}{Affiliation}#=%=#Xiamen University
+Author{7}{Firstname}#=%=#Min
+Author{7}{Lastname}#=%=#Zhang
+Author{7}{Email}#=%=#minzhang@suda.edu.cn
+Author{7}{Affiliation}#=%=#Suda
+
+==========

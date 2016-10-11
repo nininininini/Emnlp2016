@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#687
+FinalPaperTitle#=%=#Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation
+ShortPaperTitle#=%=#Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Toshiaki Nakazawa
+JobTitle#==#
+Organization#==#Japan Science and Technology Agency
+5-3, Yonbancho, Chiyoda-ku, Tokyo, 102-8666, Japan
+Abstract#==#Dependency tree-to-tree translation models are powerful because they
+ can naturally handle long range reorderings which is important for
+ distant language pairs. The translation process is easy if it can be
+ accomplished only by replacing non-terminals in translation rules with
+ other rules. However it is sometimes necessary to adjoin translation
+ rules. Flexible non-terminals have been proposed as a promising
+ solution for this problem. A flexible non-terminal provides several
+ insertion position candidates for the rules to be adjoined, but it
+ increases the computational cost of decoding. In this paper we propose
+ a neural network based insertion position selection model to reduce the
+ computational cost by selecting the appropriate insertion
+ positions. The experimental results show the proposed model can select
+ the appropriate insertion position with a high accuracy. It reduces the
+ decoding time and improves the translation quality owing to reduced
+ search space.
+Author{1}{Firstname}#=%=#Toshiaki
+Author{1}{Lastname}#=%=#Nakazawa
+Author{1}{Email}#=%=#nakazawa@nlp.ist.i.kyoto-u.ac.jp
+Author{1}{Affiliation}#=%=#Japan Science and Technology Agency
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Richardson
+Author{2}{Email}#=%=#john@nlp.ist.i.kyoto-u.ac.jp
+Author{2}{Affiliation}#=%=#Kyoto University
+Author{3}{Firstname}#=%=#Sadao
+Author{3}{Lastname}#=%=#Kurohashi
+Author{3}{Email}#=%=#kuro@i.kyoto-u.ac.jp
+Author{3}{Affiliation}#=%=#Kyoto University
+
+==========

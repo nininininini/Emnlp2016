@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#67
+FinalPaperTitle#=%=#Effective Greedy Inference for Graph-based Non-Projective Dependency Parsing
+ShortPaperTitle#=%=#Effective Greedy Inference for Graph-based Non-Projective Dependency Parsing
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Roi Reichart
+JobTitle#==#Assistant Professor
+Organization#==#Faculty of Industrial Engineering and Management, Technion, Haifa, 3200003, Israel
+Abstract#==#Exact inference in high-order graph-based non-porjective dependency parsing is
+intractable.
+Hence, sophisticated approximation techniques based on algorithms such as
+belief
+propagation and dual decomposition have been employed. In contrast, we propose
+a simple
+greedy search approximation for this problem which is very intuitive and easy
+to implement.
+We implement the algorithm within the second-order TurboParser and experiment
+with the datasets of the CoNLL 2006 and 2007 shared task on multilingual
+dependency parsing. Our algorithm improves the run time of the parser by a
+factor of 1.43 while losing 1% in UAS on average across languages. Moreover, an
+ensemble method exploiting the joint power of the parsers, achieves an average
+UAS 0.27% higher than the TurboParser.
+Author{1}{Firstname}#=%=#Ilan
+Author{1}{Lastname}#=%=#Tchernowitz
+Author{1}{Email}#=%=#ilantch@gmail.com
+Author{1}{Affiliation}#=%=#Technion
+Author{2}{Firstname}#=%=#Liron
+Author{2}{Lastname}#=%=#Yedidsion
+Author{2}{Email}#=%=#lirony@ie.technion.ac.il
+Author{2}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{3}{Firstname}#=%=#Roi
+Author{3}{Lastname}#=%=#Reichart
+Author{3}{Email}#=%=#roireichart@gmail.com
+Author{3}{Affiliation}#=%=#Technion - Israel Institute of Technology
+
+==========

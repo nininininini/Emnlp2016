@@ -1,0 +1,20 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Generating Politically-Relevant Event Data
+ShortPaperTitle#=%=#Generating Politically-Relevant Event Data
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#John Beieler
+JobTitle#==#
+Organization#==#
+Abstract#==#Automatically generated political event data is an important part of the social
+science data ecosystem. The approaches for generating this data, though, have
+remained largely the same for two decades. During this time, the field of
+computational linguistics has progressed tremendously. This paper presents an
+overview of political event data, including methods and ontologies, and a set
+of experiments to determine the applicability of deep neural networks to the
+extraction of political events from news text.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Beieler
+Author{1}{Email}#=%=#johnb30@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+
+==========

@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#279
+FinalPaperTitle#=%=#AMR Parsing with an Incremental Joint Model
+ShortPaperTitle#=%=#AMR Parsing with an Incremental Joint Model
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Junsheng Zhou
+JobTitle#==#
+Organization#==#
+Abstract#==#To alleviate the error propagation in the traditional pipelined models for
+Abstract Meaning Representation (AMR) parsing, we formulate AMR parsing as a
+joint task that performs the two subtasks: concept identification and relation
+identification simultaneously. To this end, we first develop a novel
+component-wise beam search algorithm for relation identification in an
+incremental fashion, and then in-corporate the decoder into a unified
+frame-work based on multiple-beam search, which allows for the bi-directional
+information flow between the two subtasks in a single incremental model.
+Experiments on the public datasets demonstrate that our joint model
+significantly outperforms the previous pipelined counterparts, and also
+achieves better or comparable performance than other approaches to AMR parsing,
+without
+utilizing external semantic resources.
+Author{1}{Firstname}#=%=#Junsheng
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#zhoujs@njnu.edu.cn
+Author{1}{Affiliation}#=%=#Nanjing Normal University
+Author{2}{Firstname}#=%=#Feiyu
+Author{2}{Lastname}#=%=#Xu
+Author{2}{Email}#=%=#feiyu@dfki.de
+Author{2}{Affiliation}#=%=#DFKI LT Lab
+Author{3}{Firstname}#=%=#Hans
+Author{3}{Lastname}#=%=#Uszkoreit
+Author{3}{Email}#=%=#uszkoreit@dfki.de
+Author{3}{Affiliation}#=%=#DFKI and Saarland University
+Author{4}{Firstname}#=%=#Weiguang
+Author{4}{Lastname}#=%=#QU
+Author{4}{Email}#=%=#wgqu@njnu.edu.cn
+Author{4}{Affiliation}#=%=#Nanjing Normal University
+Author{5}{Firstname}#=%=#Ran
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#liran3277@sina.com
+Author{5}{Affiliation}#=%=#Nanjing Normal University
+Author{6}{Firstname}#=%=#Yanhui
+Author{6}{Lastname}#=%=#Gu
+Author{6}{Email}#=%=#gu@njnu.edu.cn
+Author{6}{Affiliation}#=%=#Nanjing Normal University
+
+==========

@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#920
+FinalPaperTitle#=%=#Human-in-the-Loop Parsing
+ShortPaperTitle#=%=#Human-in-the-Loop Parsing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Luheng He
+JobTitle#==#
+Organization#==#Computer Science & Engineering
+University of Washington
+AC101 Paul G. Allen Center for
+     Computer Science & Engineering
+Box 352350
+185 Stevens Way
+Seattle WA 98195-2350
+Abstract#==#This paper demonstrates that it is possible for a parser to improve its
+performance with a human in the loop, by posing simple questions to
+non-experts. For example, given the first sentence of this abstract, if the
+parser is uncertain about the subject of the verb “pose,” it could generate
+the question What would pose something? with candidate answers this paper and a
+parser. Any fluent speaker can answer this question, and the correct answer
+resolves the original uncertainty. We apply the approach to a CCG parser,
+converting uncertain attachment decisions into natural language questions about
+the arguments of verbs. Experiments show that crowd workers can answer these
+questions quickly, accurately and cheaply. Our human-in-the-loop parser
+improves on the state of the art with less than 2 questions per sentence on
+average, with a gain of 1.7 F1 on the 10% of sentences whose parses are
+changed.
+Author{1}{Firstname}#=%=#Luheng
+Author{1}{Lastname}#=%=#He
+Author{1}{Email}#=%=#luheng@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Julian
+Author{2}{Lastname}#=%=#Michael
+Author{2}{Email}#=%=#julianjm@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Mike
+Author{3}{Lastname}#=%=#Lewis
+Author{3}{Email}#=%=#mikelewis0@gmail.com
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Luke
+Author{4}{Lastname}#=%=#Zettlemoyer
+Author{4}{Email}#=%=#lsz@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

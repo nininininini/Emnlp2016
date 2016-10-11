@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#190
+FinalPaperTitle#=%=#Neural versus Phrase-Based Machine Translation Quality: a Case Study
+ShortPaperTitle#=%=#Neural versus Phrase-Based Machine Translation Quality: a Case Study
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Luisa Bentivogli
+JobTitle#==#
+Organization#==#Fondazione Bruno Kessler (FBK)
+Via Sommarive, 18
+38123 POVO-TRENTO (TN)
+ITALY
+Abstract#==#Within the field of Statistical Machine Translation (SMT), the neural
+approach (NMT) has recently emerged as the first technology able to
+challenge the long-standing dominance of phrase-based approaches
+(PBMT). In particular, at the IWSLT 2015 evaluation campaign, NMT
+outperformed well established state-of-the-art PBMT systems on
+English-German, a language pair known to be particularly hard because
+of morphology and syntactic differences.  To understand in what
+respects NMT provides better translation quality than PBMT, we
+perform a detailed analysis of neural vs. phrase-based SMT outputs,
+leveraging high quality post-edits performed by professional
+translators on the IWSLT data. For the first time, our analysis
+provides useful insights on what linguistic phenomena are best modeled
+by neural models -- such as the reordering of verbs -- while pointing
+out other aspects that remain to be improved.
+Author{1}{Firstname}#=%=#Luisa
+Author{1}{Lastname}#=%=#Bentivogli
+Author{1}{Email}#=%=#bentivo@fbk.eu
+Author{1}{Affiliation}#=%=#Fondazione Bruno Kessler (Italy)
+Author{2}{Firstname}#=%=#Arianna
+Author{2}{Lastname}#=%=#Bisazza
+Author{2}{Email}#=%=#a.bisazza@uva.nl
+Author{2}{Affiliation}#=%=#University of Amsterdam (The Netherlands)
+Author{3}{Firstname}#=%=#Mauro
+Author{3}{Lastname}#=%=#Cettolo
+Author{3}{Email}#=%=#cettolo@fbk.eu
+Author{3}{Affiliation}#=%=#Fondazione Bruno Kessler (Italy)
+Author{4}{Firstname}#=%=#Marcello
+Author{4}{Lastname}#=%=#Federico
+Author{4}{Email}#=%=#federico@fbk.eu
+Author{4}{Affiliation}#=%=#Fondazione Bruno Kessler (Italy)
+
+==========

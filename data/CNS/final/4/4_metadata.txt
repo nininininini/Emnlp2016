@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Richer Event Description: Integrating event coreference with temporal, causal and bridging annotation
+ShortPaperTitle#=%=#Richer Event Description
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Timothy O'Gorman
+JobTitle#==#
+Organization#==#Tim O'Gorman
+Department of Linguistics
+University of Colorado Boulder
+295 UCB
+Boulder, CO 80309
+Abstract#==#There have been a wide range of recent annotated corpora concerning events,
+either regarding event coreference, the temporal order of events, hierarchical
+"subevent" structure of events, or causal relationships between events. 
+However, although some believe that these different phenomena will display rich
+interactions, relatively few corpora annotate all of those layers of annotation
+in a unified fashion.  This paper describes the annotation methodology for the
+Richer Event Descriptions corpus, which annotates entities, events, times,
+their coreference and partial coreference relations, and the temporal, causal
+and subevent relationships between the events.                                It
+suggests
+that
+such
+rich
+annotations of within-document event phenomena can be built with high quality
+through a multi-stage annotation pipeline, and that the resultant corpus could
+be useful for systems hoping to transition from the detection of isolated
+mentions of events toward a richer understanding of events grounded in the
+temporal, causal, referential and bridging relations that define them.
+Author{1}{Firstname}#=%=#Tim
+Author{1}{Lastname}#=%=#O'Gorman
+Author{1}{Email}#=%=#timjogorman@gmail.com
+Author{1}{Affiliation}#=%=#University of Colorado Boulder
+Author{2}{Firstname}#=%=#Kristin
+Author{2}{Lastname}#=%=#Wright-Bettner
+Author{2}{Email}#=%=#kristin.WrightBettner@colorado.edu
+Author{2}{Affiliation}#=%=#University of Colorado Boulder
+Author{3}{Firstname}#=%=#Martha
+Author{3}{Lastname}#=%=#Palmer
+Author{3}{Email}#=%=#martha.palmer@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado
+
+==========

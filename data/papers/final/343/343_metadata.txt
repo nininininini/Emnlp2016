@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#343
+FinalPaperTitle#=%=#Modified Dirichlet Distribution: Allowing Negative Parameters to Induce Stronger Sparsity
+ShortPaperTitle#=%=#Modified Dirichlet Distribution: Allowing Negative Parameters to Induce Stronger Sparsity
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kewei Tu
+JobTitle#==#
+Organization#==#
+Abstract#==#The Dirichlet distribution (Dir) is one of the most widely used prior
+distributions in statistical approaches to natural language processing. The
+parameters of Dir are required to be positive, which significantly limits its
+strength as a sparsity prior. 
+In this paper, we propose a simple modification to the Dirichlet distribution
+that allows the parameters to be negative. Our modified Dirichlet distribution
+(mDir) not only induces much stronger sparsity, but also simultaneously
+performs smoothing. mDir is still conjugate to the multinomial distribution,
+which simplifies posterior inference. We introduce two simple and efficient
+algorithms for finding the mode of mDir. Our experiments on learning Gaussian
+mixtures and unsupervised dependency parsing demonstrate the advantage of mDir
+over Dir.
+Author{1}{Firstname}#=%=#Kewei
+Author{1}{Lastname}#=%=#Tu
+Author{1}{Email}#=%=#tukw@shanghaitech.edu.cn
+Author{1}{Affiliation}#=%=#ShanghaiTech University
+
+==========

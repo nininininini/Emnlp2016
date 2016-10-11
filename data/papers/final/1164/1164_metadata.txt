@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#1164
+FinalPaperTitle#=%=#Neural Shift-Reduce CCG Semantic Parsing
+ShortPaperTitle#=%=#Neural Shift-Reduce CCG Semantic Parsing
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Dipendra K. Misra
+JobTitle#==#
+Organization#==#Cornell University,
+#302, 111 8th Avenue,
+New York, NY, 10011
+Abstract#==#We present a shift-reduce CCG semantic parser. Our parser uses a neural network
+architecture that balances model capacity and computational cost. We train by
+transferring a model from a computationally expensive log-linear CKY parser.
+Our learner addresses two challenges: selecting the best parse for learning
+when the CKY parser generates multiple correct trees, and learning from partial
+derivations when the CKY parser fails to parse. We evaluate on AMR parsing. Our
+parser performs comparably to the CKY parser, while doing significantly fewer
+operations. We also present results for greedy semantic parsing with a
+relatively small drop in performance.
+Author{1}{Firstname}#=%=#Dipendra Kumar
+Author{1}{Lastname}#=%=#Misra
+Author{1}{Email}#=%=#dkm@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Artzi
+Author{2}{Email}#=%=#yoav@cs.cornell.edu
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

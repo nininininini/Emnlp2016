@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1017
+FinalPaperTitle#=%=#Extracting Subevents via an Effective Two-phase Approach
+ShortPaperTitle#=%=#Extracting Subevents via an Effective Two-phase Approach
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Allison Badgett
+JobTitle#==#
+Organization#==#Texas A&M University
+400 Bizzell St
+College Station, TX 77843-1372
+Abstract#==#We present our pilot research on automatically extracting subevents from a
+domain-specific corpus, focusing on the type of subevents that describe
+physical actions composing an event. We decompose the challenging problem and
+propose a two-phase approach that effectively captures sentential and local
+cues that describe subevents. We extracted a rich set of over 600 novel
+subevent phrases. Evaluation shows the automatically learned subevents help to
+discover 10% additional main events (of which the learned subevents are a part)
+and improve event detection performance.
+Author{1}{Firstname}#=%=#Allison
+Author{1}{Lastname}#=%=#Badgett
+Author{1}{Email}#=%=#allisonbadgett@tamu.edu
+Author{1}{Affiliation}#=%=#Texas A&M University
+Author{2}{Firstname}#=%=#Ruihong
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#huangrh@cse.tamu.edu
+Author{2}{Affiliation}#=%=#Texas A&M University
+
+==========

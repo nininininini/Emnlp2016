@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Nonparametric Bayesian Storyline Detection from Microtexts
+ShortPaperTitle#=%=#Nonparametric Bayesian Storyline Detection from Microtexts
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jacob Eisenstein
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+North Ave NW, Atlanta GA 30332 USA
+Abstract#==#News events and social media are composed of evolving storylines, which capture
+public attention for a limited period of time. Identifying storylines requires
+integrating temporal and linguistic information, and prior work takes a largely
+heuristic approach. We present a novel online non-parametric Bayesian framework
+for storyline detection, using the distance-dependent Chinese Restaurant
+Process (dd-CRP). To ensure efficient linear-time inference, we employ a
+fixed-lag Gibbs sampling procedure, which is novel for the dd-CRP. We evaluate
+on the TREC Twitter Timeline Generation (TTG), obtaining encouraging results:
+despite using a weak baseline retrieval model, the dd-CRP story clustering
+method is competitive with the best entries in the 2014 TTG task.
+Author{1}{Firstname}#=%=#Vinodh
+Author{1}{Lastname}#=%=#Krishnan
+Author{1}{Email}#=%=#krishnan.vinodh@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Eisenstein
+Author{2}{Email}#=%=#jacobe@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

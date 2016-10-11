@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#32
+FinalPaperTitle#=%=#Learning Linguistic Descriptors of User Roles in Online Communities
+ShortPaperTitle#=%=#Learning Linguistic Descriptors of User Roles in Online Communities
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#William Hamilton
+JobTitle#==#
+Organization#==#
+Abstract#==#Understanding the ways in which users interact with different online
+communities is crucial to social network analysis and community maintenance. We
+present an unsupervised neural model to learn linguistic descriptors for a
+user's behavior over time within an online community. We show that the
+descriptors learned by our model capture the functional roles that users occupy
+in communities, in contrast to those learned via a standard topic-modeling
+algorithm, which simply reflect topical content. Experiments on the social
+media forum Reddit show how the model can provide interpretable insights into
+user behavior. Our model uncovers linguistic differences that correlate with
+user activity levels and community clustering.
+Author{1}{Firstname}#=%=#Alex
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#alexwang@college.harvard.edu
+Author{1}{Affiliation}#=%=#Harvard University
+Author{2}{Firstname}#=%=#William L.
+Author{2}{Lastname}#=%=#Hamilton
+Author{2}{Email}#=%=#wleif@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Jure
+Author{3}{Lastname}#=%=#Leskovec
+Author{3}{Email}#=%=#jure@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

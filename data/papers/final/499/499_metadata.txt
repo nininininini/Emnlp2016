@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#499
+FinalPaperTitle#=%=#A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis
+ShortPaperTitle#=%=#A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#National University of Ireland, Galway
+Abstract#==#Opinion mining from customer reviews has become pervasive in recent years.
+Sentences in reviews, however, are usually classified independently, even
+though they form part of a review's argumentative structure. Intuitively,
+sentences in a review build and elaborate upon each other; knowledge of the
+review structure and sentential context should thus inform the classification
+of each sentence. We demonstrate this hypothesis for the task of aspect-based
+sentiment analysis by modeling the interdependencies of sentences in a review
+with a hierarchical bidirectional LSTM. We show that the hierarchical model
+outperforms two non-hierarchical baselines, obtains results competitive with
+the state-of-the-art, and outperforms the state-of-the-art on five
+multilingual, multi-domain datasets without any hand-engineered features or
+external resources.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ruder
+Author{1}{Email}#=%=#ruder.sebastian@gmail.com
+Author{1}{Affiliation}#=%=#National University of Ireland, Galway
+Author{2}{Firstname}#=%=#Parsa
+Author{2}{Lastname}#=%=#Ghaffari
+Author{2}{Email}#=%=#parsa@aylien.com
+Author{2}{Affiliation}#=%=#Aylien Ltd.
+Author{3}{Firstname}#=%=#John G.
+Author{3}{Lastname}#=%=#Breslin
+Author{3}{Email}#=%=#john.breslin@nuigalway.ie
+Author{3}{Affiliation}#=%=#National University of Ireland, Galway
+
+==========

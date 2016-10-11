@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#User profiling with geo-located posts and demographic data
+ShortPaperTitle#=%=#User profiling with geo-located posts and demographic data
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Adam Poulston
+JobTitle#==#
+Organization#==#The University of Sheffield
+Western Bank
+Sheffield, S10 2TN
+UK
+Abstract#==#This paper presents a novel method for user profiling in social media that
+makes use of geo-location information associated with social media posts to
+avoid the need for self-reported data. These posts are combined with two
+publicly available sources of demographic information to automatically create
+data sets in which posts are labelled with socio-economic status. The data sets
+are linked by identifying each user's `home location'. Analysis indicates that
+the nature of the demographic information is an important factor in performance
+of this approach.
+Author{1}{Firstname}#=%=#Adam
+Author{1}{Lastname}#=%=#Poulston
+Author{1}{Email}#=%=#arspoulston1@sheffield.ac.uk
+Author{1}{Affiliation}#=%=#University of Sheffield
+Author{2}{Firstname}#=%=#Mark
+Author{2}{Lastname}#=%=#Stevenson
+Author{2}{Email}#=%=#mark.stevenson@sheffield.ac.uk
+Author{2}{Affiliation}#=%=#University of Sheffield
+Author{3}{Firstname}#=%=#Kalina
+Author{3}{Lastname}#=%=#Bontcheva
+Author{3}{Email}#=%=#k.bontcheva@sheffield.ac.uk
+Author{3}{Affiliation}#=%=#University of Sheffield
+
+==========

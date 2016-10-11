@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#43
+FinalPaperTitle#=%=#Bag of What? Simple Noun Phrase Extraction for Text Analysis
+ShortPaperTitle#=%=#Bag of What? Simple Noun Phrase Extraction for Text Analysis
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hanna Wallach
+JobTitle#==#
+Organization#==#
+Abstract#==#Social scientists who do not have specialized natural language processing
+training often use a unigram bag-of-words (BOW) representation when analyzing
+text corpora. We offer a new phrase-based method, NPFST, for enriching a
+unigram BOW. NPFST uses a part-of-speech tagger and a finite state transducer
+to extract multiword phrases to be added to a unigram BOW. We compare NPFST to
+both n-gram and parsing methods in terms of yield, recall, and efficiency. We
+then demonstrate
+how to use NPFST for exploratory analyses; it performs well, without
+configuration, on many different kinds of English text. Finally, we present a
+case study using NPFST to analyze a new corpus of U.S. congressional bills.
+
+For our open-source implementation, see http://slanglab.cs.umass.edu/phrases/.
+Author{1}{Firstname}#=%=#Abram
+Author{1}{Lastname}#=%=#Handler
+Author{1}{Email}#=%=#abram.handler@gmail.com
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Matthew
+Author{2}{Lastname}#=%=#Denny
+Author{2}{Email}#=%=#mdenny@psu.edu
+Author{2}{Affiliation}#=%=#Penn State University
+Author{3}{Firstname}#=%=#Hanna
+Author{3}{Lastname}#=%=#Wallach
+Author{3}{Email}#=%=#hanna@dirichlet.net
+Author{3}{Affiliation}#=%=#Microsoft Research
+Author{4}{Firstname}#=%=#Brendan
+Author{4}{Lastname}#=%=#O'Connor
+Author{4}{Email}#=%=#brenocon@cs.umass.edu
+Author{4}{Affiliation}#=%=#Univ. of Massachusetts, Amherst
+
+==========

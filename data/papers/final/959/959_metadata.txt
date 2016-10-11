@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#959
+FinalPaperTitle#=%=#Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes
+ShortPaperTitle#=%=#Resolving Language and Vision Ambiguities Together
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Gordon Christie
+JobTitle#==#
+Organization#==#
+Abstract#==#We present an approach to simultaneously perform semantic segmentation and
+prepositional phrase attachment resolution for captioned images.  The
+motivation for this work comes from the fact that some ambiguities in language
+simply cannot be resolved without simultaneously reasoning about an associated
+image. If we consider the sentence "I shot an elephant in my pajamas", looking
+at the language alone (and not reasoning about common sense), it is unclear if
+it is the person or the elephant that is wearing the pajamas or both. Our
+approach involves producing a diverse set of plausible hypotheses for both
+semantic segmentation and prepositional phrase attachment resolution that are
+then jointly re-ranked to select the most consistent pair. We show that our
+semantic segmentation and prepositional phrase attachment resolution modules
+have complementary strengths, and that joint reasoning produces more accurate
+results than any module operating in isolation. We also show that multiple
+hypotheses are crucial to improved multiple-module reasoning. Our vision and
+language approach significantly outperforms the Stanford Parser by 17.91%
+(28.69% relative) in one experiment, and by 12.83% (25.28% relative) in
+another. We also make small improvements over a vision system (DeepLab-CRF).
+Author{1}{Firstname}#=%=#Gordon
+Author{1}{Lastname}#=%=#Christie
+Author{1}{Email}#=%=#gordonac@vt.edu
+Author{1}{Affiliation}#=%=#Virginia Tech
+Author{2}{Firstname}#=%=#Ankit
+Author{2}{Lastname}#=%=#Laddha
+Author{2}{Email}#=%=#aladdha@andrew.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Aishwarya
+Author{3}{Lastname}#=%=#Agrawal
+Author{3}{Email}#=%=#aish@vt.edu
+Author{3}{Affiliation}#=%=#Virginia Tech
+Author{4}{Firstname}#=%=#Stanislaw
+Author{4}{Lastname}#=%=#Antol
+Author{4}{Email}#=%=#santol@vt.edu
+Author{4}{Affiliation}#=%=#Virginia Tech
+Author{5}{Firstname}#=%=#Yash
+Author{5}{Lastname}#=%=#Goyal
+Author{5}{Email}#=%=#ygoyal@vt.edu
+Author{5}{Affiliation}#=%=#Virginia Tech
+Author{6}{Firstname}#=%=#Kevin
+Author{6}{Lastname}#=%=#Kochersberger
+Author{6}{Email}#=%=#kbk@vt.edu
+Author{6}{Affiliation}#=%=#Virginia Tech
+Author{7}{Firstname}#=%=#Dhruv
+Author{7}{Lastname}#=%=#Batra
+Author{7}{Email}#=%=#dbatra@vt.edu
+Author{7}{Affiliation}#=%=#Virginia Tech
+
+==========

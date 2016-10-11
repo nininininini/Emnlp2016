@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#392
+FinalPaperTitle#=%=#Creating Causal Embeddings for Question Answering with Minimal Supervision
+ShortPaperTitle#=%=#Creating Causal Embeddings for Question Answering with Minimal Supervision
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Rebecca Sharp
+JobTitle#==#
+Organization#==#The University of Arizona
+Tucson, AZ 85721
+Abstract#==#A common model for question answering (QA) is that a good answer is one that is
+closely related to the question, where relatedness is often determined using
+general-purpose lexical models such as word embeddings. We argue that a better
+approach is to look for answers that are related to the question in a relevant
+way, according to the information need of the question, which may be determined
+through task-specific embeddings. With causality as a use case, we implement
+this insight in three steps. First, we generate causal embeddings
+cost-effectively by bootstrapping cause-effect pairs extracted from free text
+using a small set of seed patterns. Second, we train dedicated embeddings over
+this data, by using task-specific contexts, i.e., the context of a cause is its
+effect. Finally, we extend a state-of-the-art reranking approach for QA to
+incorporate these causal embeddings. We evaluate the causal embedding models
+both directly with a casual implication task, and indirectly, in a downstream
+causal QA task using data from Yahoo! Answers. We show that explicitly modeling
+causality improves performance in both tasks. In the QA task our best model
+achieves 37.3% P@1, significantly outperforming a strong baseline by 7.7%
+(relative).
+Author{1}{Firstname}#=%=#Rebecca
+Author{1}{Lastname}#=%=#Sharp
+Author{1}{Email}#=%=#bsharp@email.arizona.edu
+Author{1}{Affiliation}#=%=#University of Arizona
+Author{2}{Firstname}#=%=#Mihai
+Author{2}{Lastname}#=%=#Surdeanu
+Author{2}{Email}#=%=#msurdeanu@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Peter
+Author{3}{Lastname}#=%=#Jansen
+Author{3}{Email}#=%=#upontheturtlesback@gmail.com
+Author{3}{Affiliation}#=%=#University of Arizona
+Author{4}{Firstname}#=%=#Peter
+Author{4}{Lastname}#=%=#Clark
+Author{4}{Email}#=%=#peterc@allenai.org
+Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{5}{Firstname}#=%=#Michael
+Author{5}{Lastname}#=%=#Hammond
+Author{5}{Email}#=%=#hammond@email.arizona.edu
+Author{5}{Affiliation}#=%=#University of Arizona
+
+==========

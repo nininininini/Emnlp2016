@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#1008
+FinalPaperTitle#=%=#Deep Reinforcement Learning for Mention-Ranking Coreference Models
+ShortPaperTitle#=%=#Deep Reinforcement Learning for Mention-Ranking Coreference Models
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Kevin Clark
+JobTitle#==#
+Organization#==#
+Abstract#==#Coreference resolution systems are typically trained with heuristic loss
+functions that require careful tuning. In this paper we instead apply
+reinforcement learning to directly optimize a neural mention-ranking model for
+coreference evaluation metrics. We experiment with two approaches: the
+REINFORCE policy gradient algorithm and a reward-rescaled max-margin objective.
+We find the latter to be more effective, resulting in a significant improvement
+over the current state-of-the-art on the English and Chinese portions of the
+CoNLL 2012 Shared Task.
+Author{1}{Firstname}#=%=#Kevin
+Author{1}{Lastname}#=%=#Clark
+Author{1}{Email}#=%=#kevclark@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Christopher D.
+Author{2}{Lastname}#=%=#Manning
+Author{2}{Email}#=%=#manning@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+
+==========

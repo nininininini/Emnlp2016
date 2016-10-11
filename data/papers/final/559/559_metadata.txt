@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#559
+FinalPaperTitle#=%=#Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
+ShortPaperTitle#=%=#Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Karthik Narasimhan
+JobTitle#==#
+Organization#==#
+Abstract#==#Most successful information extraction systems operate with access to a large
+collection of documents. In this work, we explore the task of acquiring and
+incorporating external evidence to improve extraction accuracy in domains where
+the amount of training data is scarce. This process entails issuing search
+queries, extraction from new sources and reconciliation of extracted values,
+which are repeated until sufficient evidence is collected. We approach the
+problem using a reinforcement learning framework where our model learns to
+select optimal actions based on contextual information. We employ a deep
+Q-network, trained to optimize a reward function that reflects extraction
+accuracy while penalizing extra effort. Our experiments on two databases -- of
+shooting incidents, and food adulteration cases -- demonstrate that our system
+significantly outperforms traditional extractors and a competitive
+meta-classifier baseline.
+Author{1}{Firstname}#=%=#Karthik
+Author{1}{Lastname}#=%=#Narasimhan
+Author{1}{Email}#=%=#karthikn@csail.mit.edu
+Author{1}{Affiliation}#=%=#CSAIL, MIT
+Author{2}{Firstname}#=%=#Adam
+Author{2}{Lastname}#=%=#Yala
+Author{2}{Email}#=%=#adamyala@mit.edu
+Author{2}{Affiliation}#=%=#CSAIL, MIT
+Author{3}{Firstname}#=%=#Regina
+Author{3}{Lastname}#=%=#Barzilay
+Author{3}{Email}#=%=#regina@csail.mit.edu
+Author{3}{Affiliation}#=%=#MIT
+
+==========

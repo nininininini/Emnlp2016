@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#189
+FinalPaperTitle#=%=#A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification
+ShortPaperTitle#=%=#A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yunlun Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#With the renaissance of neural network in recent years, relation classification
+has again become a research hotspot in natural language processing, and
+leveraging parse trees is a common and effective method of tackling this
+problem. In this work, we offer a new perspective on utilizing syntactic
+information of dependency parse tree and present a position encoding
+convolutional neural network (PECNN) based on dependency parse tree for
+relation classification. First, tree-based position features are proposed to
+encode the relative positions of words in dependency trees and help enhance the
+word representations. Then, based on a redefinition of "context", we design two
+kinds of tree-based convolution kernels for capturing the semantic and
+structural information provided by dependency trees. Finally, the features
+extracted by convolution module are fed to a classifier for labelling the
+semantic relations. Experiments on the benchmark dataset show that PECNN
+outperforms state-of-the-art approaches. We also compare the effect of
+different position features and visualize the influence of tree-based position
+feature by tracing back the convolution process.
+Author{1}{Firstname}#=%=#Yunlun
+Author{1}{Lastname}#=%=#Yang
+Author{1}{Email}#=%=#incomparable-lun@pku.edu.cn
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Yunhai
+Author{2}{Lastname}#=%=#Tong
+Author{2}{Email}#=%=#yhtong@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Shulei
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Email}#=%=#mashulei@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Zhi-Hong
+Author{4}{Lastname}#=%=#Deng
+Author{4}{Email}#=%=#zhdeng@cis.pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+
+==========

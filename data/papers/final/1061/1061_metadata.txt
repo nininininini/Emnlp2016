@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1061
+FinalPaperTitle#=%=#Exploiting Mutual Benefits between Syntax and Semantic Roles using Neural Network
+ShortPaperTitle#=%=#Exploiting Mutual Benefits between Syntax and Semantic Roles using NN
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Zhiyang Teng
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design, 8 Somapah Road Singapore 487372
+Abstract#==#We investigate mutual benefits between syntax  and  semantic  roles  using 
+neural network models, by studying a parsing-->SRL pipeline, a SRL-->parsing 
+pipeline,  and a  simple  joint model by embedding  sharing.  
+The integration of syntactic and semantic features gives promising results in a
+Chinese Semantic Tree-bank, demonstrating large potentials of neural models for
+joint parsing and semantic role labeling.
+Author{1}{Firstname}#=%=#Peng
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#peng_shi@outlook.com
+Author{1}{Affiliation}#=%=#ZheJiang University
+Author{2}{Firstname}#=%=#Zhiyang
+Author{2}{Lastname}#=%=#Teng
+Author{2}{Email}#=%=#zhiyang_teng@mymail.sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Yue
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

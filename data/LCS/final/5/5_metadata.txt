@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline, Stacking and Joint Modelling
+ShortPaperTitle#=%=#Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline, Stacking and Joint Modelling
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Utsab Barman
+JobTitle#==#
+Organization#==#ADAPT Centre, National Centre for Language Technology, School of Computing, Dublin City University, Dublin, Ireland
+Abstract#==#Multilingual users of social media sometimes use multiple languages during
+conversation. Mixing multiple languages in content is known as code-mixing. We
+annotate a subset of a trilingual code-mixed corpus (Barman et al., 2014) with
+part-of-speech (POS) tags. We investigate two state-of-the-art POS tag-
+ging techniques for code-mixed content and combine the features of the two
+systems to build a better POS tagger. Furthermore, we investigate the use of a
+joint model which performs language identification (LID) and part-of-speech
+(POS) tagging simultaneously.
+Author{1}{Firstname}#=%=#Utsab
+Author{1}{Lastname}#=%=#Barman
+Author{1}{Email}#=%=#ubarman@computing.dcu.ie
+Author{1}{Affiliation}#=%=#Dublin City University
+Author{2}{Firstname}#=%=#Joachim
+Author{2}{Lastname}#=%=#Wagner
+Author{2}{Email}#=%=#jwagner@computing.dcu.ie
+Author{2}{Affiliation}#=%=#Dublin City University
+Author{3}{Firstname}#=%=#Jennifer
+Author{3}{Lastname}#=%=#Foster
+Author{3}{Email}#=%=#jfoster@computing.dcu.ie
+Author{3}{Affiliation}#=%=#Dublin City University
+
+==========

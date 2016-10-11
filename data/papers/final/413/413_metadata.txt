@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#413
+FinalPaperTitle#=%=#Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network
+ShortPaperTitle#=%=#Learning Term Embeddings for Taxonomic Relation Identification Using Dynamic Weighting Neural Network
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Luu Anh Tuan
+JobTitle#==#
+Organization#==#Institute for Infocomm Research, Singapore
+Abstract#==#Taxonomic relation identification aims to recognize the 'is-a' relation between
+two terms. Previous works on identifying taxonomic relations are mostly based
+on statistical and linguistic approaches, but the accuracy of these approaches
+is far from satisfactory. In this paper, we propose a novel supervised learning
+approach for identifying taxonomic relations  using term embeddings. For this
+purpose, we first design a dynamic weighting neural network to learn term
+embeddings based on not only the hypernym and hyponym terms, but also the
+contextual information between them. We then apply such embeddings as features
+to identify taxonomic relations using a supervised method. The experimental
+results show that our proposed approach significantly outperforms other
+state-of-the-art methods by 9% to 13% in terms of accuracy for both general and
+specific domain datasets.
+Author{1}{Firstname}#=%=#Tuan
+Author{1}{Lastname}#=%=#Luu Anh
+Author{1}{Email}#=%=#anhtuan001@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#
+Author{2}{Firstname}#=%=#Yi
+Author{2}{Lastname}#=%=#Tay
+Author{2}{Email}#=%=#YTAY018@e.ntu.edu.sg
+Author{2}{Affiliation}#=%=#NTU
+Author{3}{Firstname}#=%=#Siu Cheung
+Author{3}{Lastname}#=%=#Hui
+Author{3}{Email}#=%=#ASSCHUI@ntu.edu.sg
+Author{3}{Affiliation}#=%=#NTU
+Author{4}{Firstname}#=%=#See Kiong
+Author{4}{Lastname}#=%=#Ng
+Author{4}{Email}#=%=#skng@i2r.a-star.edu.sg
+Author{4}{Affiliation}#=%=#A*Star Singapore
+
+==========

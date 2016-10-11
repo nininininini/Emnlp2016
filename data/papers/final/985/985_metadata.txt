@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#985
+FinalPaperTitle#=%=#Distinguishing Past, On-going, and Future Events: The EventStatus Corpus
+ShortPaperTitle#=%=#Distinguishing Past, On-going, and Future Events: The EventStatus Corpus
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Ruihong Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#Determining whether a major societal event has already happened, is still
+on-going, or may occur in the future is crucial for event prediction, timeline
+generation, and news summarization. We introduce a new task and a new corpus,
+EventStatus, which has 4500 English and Spanish articles about civil unrest
+events labeled as PAST, ON-GOING, or FUTURE. We show that the temporal status
+of these events is difficult to classify because local tense and aspect cues
+are often lacking, time expressions are insufficient, and the linguistic
+contexts have rich semantic compositionality. We explore two approaches for
+event status classification: (1) a feature-based SVM classifier augmented with
+a novel induced lexicon of future-oriented verbs, such as “threatened” and
+“planned”, and (2) a convolutional neural net. Both types of classifiers
+improve event status recognition over a state-of-the-art TempEval model, and
+our analysis offers linguistic insights into the semantic compositionality
+challenges for this new task.
+Author{1}{Firstname}#=%=#Ruihong
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#huangrh@cse.tamu.edu
+Author{1}{Affiliation}#=%=#Computer Science and Engineering, Texas A&M University
+Author{2}{Firstname}#=%=#Ignacio
+Author{2}{Lastname}#=%=#Cases
+Author{2}{Email}#=%=#cases@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Jurafsky
+Author{3}{Email}#=%=#jurafsky@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+Author{4}{Firstname}#=%=#Cleo
+Author{4}{Lastname}#=%=#Condoravdi
+Author{4}{Email}#=%=#cleoc@stanford.edu
+Author{4}{Affiliation}#=%=#Stanford University
+Author{5}{Firstname}#=%=#Ellen
+Author{5}{Lastname}#=%=#Riloff
+Author{5}{Email}#=%=#riloff@cs.utah.edu
+Author{5}{Affiliation}#=%=#University of Utah
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#260
+FinalPaperTitle#=%=#Learning Crosslingual Word Embeddings without Bilingual Corpora
+ShortPaperTitle#=%=#Learning Crosslingual Word Embeddings without Bilingual Corpora
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Long Duong
+JobTitle#==#
+Organization#==#University of Melbourne
+Abstract#==#Crosslingual word embeddings represent lexical items from different languages
+in the same vector space, enabling transfer of NLP tools. However, previous
+attempts had expensive resource requirements, difficulty incorporating
+monolingual data or were unable to handle polysemy. We address these drawbacks
+in our method which takes advantage of a high coverage dictionary in an EM
+style training algorithm over monolingual corpora in two languages. Our model
+achieves state-of-the-art performance on bilingual lexicon induction task
+exceeding models using large bilingual corpora, and competitive results on the
+monolingual word similarity and cross-lingual document classification task.
+Author{1}{Firstname}#=%=#Long
+Author{1}{Lastname}#=%=#Duong
+Author{1}{Email}#=%=#longdt219@gmail.com
+Author{1}{Affiliation}#=%=#The University of Melbourne
+Author{2}{Firstname}#=%=#Hiroshi
+Author{2}{Lastname}#=%=#Kanayama
+Author{2}{Email}#=%=#hkana@jp.ibm.com
+Author{2}{Affiliation}#=%=#IBM Research - Tokyo
+Author{3}{Firstname}#=%=#Tengfei
+Author{3}{Lastname}#=%=#Ma
+Author{3}{Email}#=%=#feitengma0123@gmail.com
+Author{3}{Affiliation}#=%=#IBM Research-Tokyo
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Lastname}#=%=#Bird
+Author{4}{Email}#=%=#stevenbird1@gmail.com
+Author{4}{Affiliation}#=%=#University of Melbourne
+Author{5}{Firstname}#=%=#Trevor
+Author{5}{Lastname}#=%=#Cohn
+Author{5}{Email}#=%=#tcohn@unimelb.edu.au
+Author{5}{Affiliation}#=%=#University of Melbourne
+
+==========

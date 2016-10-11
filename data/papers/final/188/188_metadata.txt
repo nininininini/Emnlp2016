@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#188
+FinalPaperTitle#=%=#Generating Coherent Summaries of Scientific Articles Using Coherence Patterns
+ShortPaperTitle#=%=#Generating Coherent Summaries of Scientific Articles Using Coherence Patterns
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Daraksha Parveen
+JobTitle#==#
+Organization#==#HITS gGmbH
+Heidelberg Institute for Theoretical Studies
+Schloss-Wolfsbrunnenweg 35
+69118 Heidelberg
+Germany
+Abstract#==#Previous work on automatic summarization does not thoroughly consider coherence
+while
+generating the summary. We introduce a graph-based approach to summarize
+scientific
+articles. We employ coherence patterns to ensure that the generated summaries
+are coherent. The novelty of our model is twofold: we mine coherence patterns
+in a corpus of abstracts, and we propose a method to combine coherence,
+importance and non-redundancy to
+generate the summary. We optimize these factors simultaneously using Mixed
+Integer Pro-
+gramming. Our approach significantly outperforms baseline and state-of-the-art
+systems in
+terms of coherence (summary coherence assessment) and relevance (ROUGE scores).
+Author{1}{Firstname}#=%=#Daraksha
+Author{1}{Lastname}#=%=#Parveen
+Author{1}{Email}#=%=#daraksha.parveen@h-its.org
+Author{1}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+Author{2}{Firstname}#=%=#Mohsen
+Author{2}{Lastname}#=%=#Mesgar
+Author{2}{Email}#=%=#mohsen.mesgar@h-its.org
+Author{2}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Strube
+Author{3}{Email}#=%=#michael.strube@h-its.org
+Author{3}{Affiliation}#=%=#Heidelberg Institute for Theoretical Studies
+
+==========

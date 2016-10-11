@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#315
+FinalPaperTitle#=%=#Identifying Dogmatism in Social Media: Signals and Models
+ShortPaperTitle#=%=#Identifying Dogmatism in Social Media: Signals and Models
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ethan Fast
+JobTitle#==#
+Organization#==#
+Abstract#==#We explore linguistic and behavioral features of dogmatism in social media and
+construct statistical models that can identify dogmatic comments. Our model is
+based on a corpus of Reddit posts, collected across a diverse set of
+conversational topics and annotated via paid crowdsourcing. We operationalize
+key aspects of dogmatism described by existing psychology theories (such as
+over-confidence), finding they have predictive power. We also find evidence for
+new signals of dogmatism, such as the tendency of dogmatic posts to refrain
+from signaling cognitive processes. When we use our predictive model to analyze
+millions of other Reddit posts, we find evidence that suggests dogmatism is a
+deeper personality trait, present for dogmatic users across many different
+domains, and that users who engage on dogmatic comments tend to show increases
+in dogmatic posts themselves.
+Author{1}{Firstname}#=%=#Ethan
+Author{1}{Lastname}#=%=#Fast
+Author{1}{Email}#=%=#ethaen@stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Eric
+Author{2}{Lastname}#=%=#Horvitz
+Author{2}{Email}#=%=#horvitz@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+
+==========

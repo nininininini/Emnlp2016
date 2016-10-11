@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#354
+FinalPaperTitle#=%=#BrainBench: A Brain-Image Test Suite for Distributional Semantic Models
+ShortPaperTitle#=%=#BrainBench: A Brain-Image Test Suite for Distributional Semantic Models
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Alona Fyshe
+JobTitle#==#
+Organization#==#3800 Finnerty Rd, Victoria BC Canada
+Abstract#==#The brain is the locus of our language ability, and so brain images can be used
+to ground linguistic theories. Here we introduce BrainBench, a lightweight
+system for testing distributional models of word semantics. We compare the
+performance of several models, and show that the performance on brain-image
+tasks differs from the performance on behavioral tasks. We release our
+benchmark test as part of a web service.
+Author{1}{Firstname}#=%=#Haoyan
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#exu@uvic.ca
+Author{1}{Affiliation}#=%=#University of Victoria
+Author{2}{Firstname}#=%=#Brian
+Author{2}{Lastname}#=%=#Murphy
+Author{2}{Email}#=%=#brian.murphy@qub.ac.uk
+Author{2}{Affiliation}#=%=#Queen's University Belfast
+Author{3}{Firstname}#=%=#Alona
+Author{3}{Lastname}#=%=#Fyshe
+Author{3}{Email}#=%=#afyshe@uvic.ca
+Author{3}{Affiliation}#=%=#University of Victoria
+
+==========

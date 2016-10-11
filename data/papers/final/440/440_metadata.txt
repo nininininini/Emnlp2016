@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#440
+FinalPaperTitle#=%=#Equation Parsing : Mapping Sentences to Grounded Equations
+ShortPaperTitle#=%=#Equation Parsing : Mapping Sentences to Grounded Equations
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Subhro Roy
+JobTitle#==#
+Organization#==#University of Illinois, Urbana Champaign
+201, N. Goodwin Ave, Urbana, IL-61801, USA
+Abstract#==#Identifying mathematical relations expressed in text is essential to
+  understanding a broad range of natural language text from election
+  reports, to financial news, to sport commentaries to mathematical
+  word problems. This paper focuses on identifying and understanding
+  mathematical relations described within a single sentence. We
+  introduce the problem of Equation Parsing -- given a sentence,
+  identify noun phrases which represent variables, and generate the
+  mathematical equation expressing the relation described in the
+  sentence. We introduce the notion of projective equation parsing and
+  provide an efficient algorithm to parse text to projective
+  equations. Our system makes use of a high precision lexicon of
+  mathematical expressions and a pipeline of structured predictors,
+  and generates correct equations in $70\%$ of the cases. In $60\%$ of
+  the time, it also identifies the correct noun phrase -->
+  variables mapping, significantly outperforming baselines. We also
+  release a new annotated dataset for task evaluation.
+Author{1}{Firstname}#=%=#Subhro
+Author{1}{Lastname}#=%=#Roy
+Author{1}{Email}#=%=#sroy9@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois, Urbana Champaign
+Author{2}{Firstname}#=%=#Shyam
+Author{2}{Lastname}#=%=#Upadhyay
+Author{2}{Email}#=%=#shyamupa@gmail.com
+Author{2}{Affiliation}#=%=#UIUC
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Roth
+Author{3}{Email}#=%=#danr@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois
+
+==========

@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#309
+FinalPaperTitle#=%=#Multi-Granularity Chinese Word Embedding
+ShortPaperTitle#=%=#Multi-Granularity Chinese Word Embedding
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Quan Wang
+JobTitle#==#Associate Professor
+Organization#==#Institute of Information Engineering, Chinese Academy of Sciences
+89A, Minzhuang Road, Haidian District, Beijing 100093, China
+Abstract#==#This paper considers the problem of learning Chinese word embeddings. In
+contrast to English, a Chinese word is usually composed of characters, and most
+of the characters themselves can be further divided into components such as
+radicals. While characters and radicals contain rich information and are
+capable of indicating semantic meanings of words, they have not been fully
+exploited by existing word embedding methods. In this work, we propose
+multi-granularity embedding (MGE) for Chinese words. The key idea is to make
+full use of such word-character-radical composition, and enrich word embeddings
+by further incorporating finer-grained semantics from characters and radicals.
+Quantitative evaluation demonstrates the superiority of MGE in word similarity
+computation and analogical reasoning. Qualitative analysis further shows its
+capability to identify finer-grained semantic meanings of words.
+Author{1}{Firstname}#=%=#Rongchao
+Author{1}{Lastname}#=%=#Yin
+Author{1}{Email}#=%=#yinrongchao@iie.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Quan
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#wangquan@iie.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Peng
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#lipeng@iie.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Rui
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#lirui@iie.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+Author{5}{Firstname}#=%=#Bin
+Author{5}{Lastname}#=%=#Wang
+Author{5}{Email}#=%=#wangbin@iie.ac.cn
+Author{5}{Affiliation}#=%=#Institute of Information Engineering, Chinese Academy of Sciences
+
+==========

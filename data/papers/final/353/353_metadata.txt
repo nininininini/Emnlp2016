@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#353
+FinalPaperTitle#=%=#Regularizing Text Categorization with Clusters of Words
+ShortPaperTitle#=%=#Regularizing Text Categorization with Clusters of Words
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Konstantinos Skianis
+JobTitle#==#
+Organization#==#
+Abstract#==#Regularization is a critical step in supervised learning to not only address
+overfitting, but also to take into account any prior knowledge we may have on
+the features and their dependence. In this paper, we explore state-of-the-art
+structured regularizers and we propose novel ones based on clusters of words
+from LSI topics, word2vec embeddings and graph-of-words document
+representation. We show that our proposed regularizers are faster than the
+state-of-the-art ones and still improve text classification accuracy.
+Author{1}{Firstname}#=%=#Konstantinos
+Author{1}{Lastname}#=%=#Skianis
+Author{1}{Email}#=%=#kskianis@lix.polytechnique.fr
+Author{1}{Affiliation}#=%=#Ecole Polytechnique
+Author{2}{Firstname}#=%=#Francois
+Author{2}{Lastname}#=%=#Rousseau
+Author{2}{Email}#=%=#rousseau@lix.polytechnique.fr
+Author{2}{Affiliation}#=%=#Ecole Polytechnique
+Author{3}{Firstname}#=%=#Michalis
+Author{3}{Lastname}#=%=#Vazirgiannis
+Author{3}{Email}#=%=#mvazirg@lix.polytechnique.fr
+Author{3}{Affiliation}#=%=#Ecole Polytechnique
+
+==========

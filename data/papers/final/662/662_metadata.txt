@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#662
+FinalPaperTitle#=%=#Orthographic Syllable as basic unit for SMT between Related Languages
+ShortPaperTitle#=%=#Orthographic Syllable as basic unit for SMT between Related Languages
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Anoop Kunchukuttan
+JobTitle#==#
+Organization#==#Indian Institute of Technology Bombay
+Powai, Mumbai, India - 400076
+Abstract#==#We explore the use of the orthographic syllable, a variable-length
+consonant-vowel sequence, as a basic unit of translation between related
+languages  which use abugida or alphabetic scripts. We show that orthographic
+syllable level translation significantly outperforms models trained over other
+basic units (word, morpheme and character) when training over small parallel
+corpora.
+Author{1}{Firstname}#=%=#Anoop
+Author{1}{Lastname}#=%=#Kunchukuttan
+Author{1}{Email}#=%=#anoopk@cse.iitb.ac.in
+Author{1}{Affiliation}#=%=#IIT Bombay
+Author{2}{Firstname}#=%=#Pushpak
+Author{2}{Lastname}#=%=#Bhattacharyya
+Author{2}{Email}#=%=#pushpakbh@gmail.com
+Author{2}{Affiliation}#=%=#CSE Department, IIT Bombay
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#SAWT: Sequence Annotation Web Tool
+ShortPaperTitle#=%=#SAWT: Sequence Annotation Web Tool
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Younes Samih
+JobTitle#==#
+Organization#==#Younes Samih
+Dept. of Computational Linguistics
+Heinrich Heine University,
+Düsseldorf, Germany
+Abstract#==#We present SAWT, a web-based tool for the annotation of token sequences with an
+arbitrary set of labels. The key property of the tool is simplicity and ease of
+use for both annotators and administrators. SAWT runs in any modern browser,
+including browsers on mobile devices, and only has minimal server-side
+requirements.
+Author{1}{Firstname}#=%=#Younes
+Author{1}{Lastname}#=%=#Samih
+Author{1}{Email}#=%=#samih@phil.hhu.de
+Author{1}{Affiliation}#=%=#University of Düsseldorf
+Author{2}{Firstname}#=%=#Wolfgang
+Author{2}{Lastname}#=%=#Maier
+Author{2}{Email}#=%=#maierw@hhu.de
+Author{2}{Affiliation}#=%=#University of Düsseldorf
+Author{3}{Firstname}#=%=#Laura
+Author{3}{Lastname}#=%=#Kallmeyer
+Author{3}{Email}#=%=#kallmeyer@phil.uni-duesseldorf.de
+Author{3}{Affiliation}#=%=#University of Düsseldorf
+
+==========

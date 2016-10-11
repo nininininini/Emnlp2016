@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1190
+FinalPaperTitle#=%=#Syntactic Parsing of Web Queries
+ShortPaperTitle#=%=#Syntactic Parsing of Web Queries
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xiangyan Sun
+JobTitle#==#
+Organization#==#
+Abstract#==#Syntactic parsing of web queries is important for query understanding. However,
+web queries usually do not observe the grammar of a written language, and no
+labeled syntactic trees for web queries are available. In this paper, we focus
+on a query's clicked sentence, i.e., a well-formed sentence that i) contains
+all the tokens of the query, and ii) appears in the query's top clicked web
+pages. We argue such sentences are semantically consistent with the query. We
+introduce algorithms to derive a query's syntactic structure from the
+dependency trees of its clicked sentences. This gives us a web query treebank
+without manual labeling. We then train a dependency parser on the treebank. Our
+model achieves much better UAS (0.86) and LAS (0.80) scores than
+state-of-the-art parsers on web queries.
+Author{1}{Firstname}#=%=#Xiangyan
+Author{1}{Lastname}#=%=#Sun
+Author{1}{Email}#=%=#xiangyansun@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Haixun
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#haixun@gmail.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Yanghua
+Author{3}{Lastname}#=%=#Xiao
+Author{3}{Email}#=%=#shawyh@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Zhongyuan
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#zhy.wang@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

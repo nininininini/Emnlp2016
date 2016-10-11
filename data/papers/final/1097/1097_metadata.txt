@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1097
+FinalPaperTitle#=%=#Charagram: Embedding Words and Sentences via Character n-grams
+ShortPaperTitle#=%=#Charagram: Embedding Words and Sentences via Character n-grams
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#John Wieting
+JobTitle#==#
+Organization#==#Toyota Technological Institute at Chicago
+6045 S Kenwood Ave, Chicago, IL 60637
+Abstract#==#We present Charagram embeddings, a simple approach for learning character-based
+compositional models to embed textual sequences. A word or sentence is
+represented using a character n-gram count vector, followed by a single
+nonlinear transformation to yield a low-dimensional embedding. We use three
+tasks for evaluation: word similarity, sentence similarity, and part-of-speech
+tagging. We demonstrate that Charagram embeddings outperform more complex
+architectures based on character-level recurrent and
+convolutional neural networks, achieving new state-of-the-art performance on
+several similarity tasks.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Wieting
+Author{1}{Email}#=%=#wieting2@illinois.edu
+Author{1}{Affiliation}#=%=#University of Illinois; TTI-Chicago
+Author{2}{Firstname}#=%=#Mohit
+Author{2}{Lastname}#=%=#Bansal
+Author{2}{Email}#=%=#mbansal@cs.unc.edu
+Author{2}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Gimpel
+Author{3}{Email}#=%=#kgimpel@ttic.edu
+Author{3}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{4}{Firstname}#=%=#Karen
+Author{4}{Lastname}#=%=#Livescu
+Author{4}{Email}#=%=#klivescu@ttic.edu
+Author{4}{Affiliation}#=%=#TTI-Chicago
+
+==========

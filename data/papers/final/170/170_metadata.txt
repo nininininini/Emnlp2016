@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#170
+FinalPaperTitle#=%=#Joint Transition-based Dependency Parsing and Disfluency Detection for Automatic Speech Recognition Texts
+ShortPaperTitle#=%=#Joint Transition-based Dependency Parsing and Disfluency Detection for Automatic Speech Recognition Texts
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Masashi Yoshikawa
+JobTitle#==#
+Organization#==#
+Abstract#==#Joint dependency parsing with disfluency detection is an important task in
+speech language processing. Recent methods show high performance for this task,
+although most authors make the unrealistic assumption that input texts are
+transcribed by human annotators.
+In real-world applications, the input text is typically the output of an
+automatic speech recognition (ASR) system, which implies that the text contains
+not only disfluency noises but also recognition errors from the ASR system. In
+this work, we propose a parsing method that handles both disfluency and ASR
+errors using an incremental shift-reduce algorithm with several novel features
+suited to ASR output texts. Because the gold dependency information is usually
+annotated only on transcribed texts, we also introduce an alignment-based
+method for transferring the gold dependency annotation to the ASR output texts
+to construct training data for our parser. We conducted an experiment on the
+Switchboard corpus and show that our method outperforms conventional methods in
+terms of dependency parsing and disfluency detection.
+Author{1}{Firstname}#=%=#Masashi
+Author{1}{Lastname}#=%=#Yoshikawa
+Author{1}{Email}#=%=#yoshikawa.masashi.yh8@is.naist.jp
+Author{1}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{2}{Firstname}#=%=#Hiroyuki
+Author{2}{Lastname}#=%=#Shindo
+Author{2}{Email}#=%=#hshindo@outlook.com
+Author{2}{Affiliation}#=%=#Nara Institute of Science and Technology
+Author{3}{Firstname}#=%=#Yuji
+Author{3}{Lastname}#=%=#Matsumoto
+Author{3}{Email}#=%=#matsu@is.naist.jp
+Author{3}{Affiliation}#=%=#Nara Institute of Science and Technology
+
+==========

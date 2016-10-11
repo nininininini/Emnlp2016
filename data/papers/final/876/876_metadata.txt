@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#876
+FinalPaperTitle#=%=#Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages
+ShortPaperTitle#=%=#Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Alan Akbik
+JobTitle#==#
+Organization#==#IBM Research - Almaden: 650 Harry Road, San Jose, California 95120
+Abstract#==#Annotation projection based on parallel corpora has shown great promise in
+inexpensively creating Proposition Banks for languages for which high-quality
+parallel corpora and syntactic parsers are available. In this paper, we conduct
+an experimental study where we apply this approach to three languages that lack
+such resources: Tamil, Bengali and Malayalam. We find an average quality
+difference of 6 to 20 absolute F-measure points vis-a-vis high-resource
+languages, which indicates that annotation projection alone is insufficient in
+low-resource scenarios. Based on these results, we explore the possibility of
+using annotation projection as a starting point for inexpensive data curation
+involving both experts and non-experts. We give an outline of what such a
+process may look like and present an initial study to discuss its potential and
+challenges.
+Author{1}{Firstname}#=%=#Alan
+Author{1}{Lastname}#=%=#Akbik
+Author{1}{Email}#=%=#alanweissbart@gmail.com
+Author{1}{Affiliation}#=%=#IBM Research
+Author{2}{Firstname}#=%=#vishwajeet
+Author{2}{Lastname}#=%=#kumar
+Author{2}{Email}#=%=#vishwajeet@cse.iitb.ac.in
+Author{2}{Affiliation}#=%=#Department of Computer Science Engineering, Indian Institute of Technology Bombay
+Author{3}{Firstname}#=%=#Yunyao
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#yunyaoli@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM Research - Almaden
+
+==========

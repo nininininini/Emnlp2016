@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#emoji2vec: Learning Emoji Representations from their Description
+ShortPaperTitle#=%=#emoji2vec: Learning Emoji Representations from their Description
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Isabelle Augenstein
+JobTitle#==#Postdoctoral Research Associate
+Organization#==#University College London 
+Dept. of Computer Science (1ES) 
+Gower Street 
+London WC1E 6BT 
+United Kingdom
+Abstract#==#Many current natural language processing applications for social media
+rely on representation learning and utilize pre-trained word embeddings.
+There currently exist several publicly-available, pre-trained sets of word
+embeddings, but they contain few or no emoji representations even as emoji
+usage in social media has increased. In this paper we release emoji2vec,
+pre-trained embeddings for all Unicode emoji which are learned from their
+description in the Unicode emoji standard. The resulting emoji embeddings can
+be readily used in downstream social natural language processing applications
+alongside word2vec.
+We demonstrate, for the downstream task of sentiment analysis, that
+emoji embeddings learned from short descriptions outperforms a skip-gram
+model trained on a large collection of tweets, while avoiding the need for
+contexts in which emoji need to appear frequently in order to estimate a
+representation.
+Author{1}{Firstname}#=%=#Ben
+Author{1}{Lastname}#=%=#Eisner
+Author{1}{Email}#=%=#beisner@princeton.edu
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Tim
+Author{2}{Lastname}#=%=#Rocktäschel
+Author{2}{Email}#=%=#tim.rocktaeschel@gmail.com
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Isabelle
+Author{3}{Lastname}#=%=#Augenstein
+Author{3}{Email}#=%=#isabelle.augenstein@gmail.com
+Author{3}{Affiliation}#=%=#University College London
+Author{4}{Firstname}#=%=#Matko
+Author{4}{Lastname}#=%=#Bosnjak
+Author{4}{Email}#=%=#matko.bosnjak@gmail.com
+Author{4}{Affiliation}#=%=#University College London
+Author{5}{Firstname}#=%=#Sebastian
+Author{5}{Lastname}#=%=#Riedel
+Author{5}{Email}#=%=#sebastian.riedel@gmail.com
+Author{5}{Affiliation}#=%=#UCL
+
+==========

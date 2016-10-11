@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#287
+FinalPaperTitle#=%=#Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets
+ShortPaperTitle#=%=#Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lei Shu
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Illinois at Chicago, USA
+Abstract#==#It is well-known that opinions have targets. Extracting such targets is an
+important problem of opinion mining because without knowing the target of an
+opinion, the opinion is of limited use. So far many algorithms have been
+proposed to extract opinion targets. However, an opinion target can be an
+entity or an aspect (part or attribute) of an entity. An opinion about an
+entity is an opinion about the entity as a whole, while an opinion about an
+aspect is just an opinion about that specific attribute or aspect of an entity.
+Thus, opinion targets should be separated into entities and aspects before use
+because they represent very different things about opinions. This paper
+proposes a novel algorithm, called Lifelong-RL, to solve the problem based on
+lifelong machine learning and relaxation labeling. Extensive experiments show
+that the proposed algorithm Lifelong-RL outperforms baseline methods markedly.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Shu
+Author{1}{Email}#=%=#lshu3@uic.edu
+Author{1}{Affiliation}#=%=#Department of Computer Science, University of Illinois at Chicago
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#liub@cs.uic.edu
+Author{2}{Affiliation}#=%=#Department of Computer Science, University of Illinois at Chicago
+Author{3}{Firstname}#=%=#Hu
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Email}#=%=#hxu48@uic.edu
+Author{3}{Affiliation}#=%=#Department of Computer Science, University of Illinois at Chicago
+Author{4}{Firstname}#=%=#Annice
+Author{4}{Lastname}#=%=#Kim
+Author{4}{Email}#=%=#akim@rti.org
+Author{4}{Affiliation}#=%=#RTI International
+
+==========

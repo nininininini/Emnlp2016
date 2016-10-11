@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#825
+FinalPaperTitle#=%=#Analyzing Framing through the Casts of Characters in the News
+ShortPaperTitle#=%=#Analyzing Framing through the Casts of Characters in the News
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dallas Card
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA, 15213
+Abstract#==#We present an unsupervised model for the discovery and clustering of latent
+"personas" (characterizations of entities). Our model simultaneously clusters
+documents featuring similar collections of personas. We evaluate this model on
+a collection of news articles about immigration, showing that personas help
+predict the coarse-grained framing annotations in the Media Frames
+Corpus. We also introduce automated model selection as a fair and robust form
+of evaluation.
+Author{1}{Firstname}#=%=#Dallas
+Author{1}{Lastname}#=%=#Card
+Author{1}{Email}#=%=#dcard@andrew.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Justin
+Author{2}{Lastname}#=%=#Gross
+Author{2}{Email}#=%=#jhgross@polsci.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts, Amherst
+Author{3}{Firstname}#=%=#Amber
+Author{3}{Lastname}#=%=#Boydstun
+Author{3}{Email}#=%=#aboydstun@ucdavis.edu
+Author{3}{Affiliation}#=%=#University of California, Davis
+Author{4}{Firstname}#=%=#Noah A.
+Author{4}{Lastname}#=%=#Smith
+Author{4}{Email}#=%=#nasmith@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

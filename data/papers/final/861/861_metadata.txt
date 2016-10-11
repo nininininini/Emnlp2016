@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#861
+FinalPaperTitle#=%=#Lifted Rule Injection for Relation Embeddings
+ShortPaperTitle#=%=#Lifted Rule Injection for Relation Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Thomas Demeester
+JobTitle#==#
+Organization#==#Ghent University - iMinds
+Technologiepark-Zwijnaarde 15
+9052 Gent
+Belgium
+Abstract#==#Methods based on representation learning currently hold the state-of-the-art in
+many natural language processing and knowledge base inference tasks.
+Yet, a major challenge is how to efficiently incorporate commonsense knowledge
+into such models.
+A recent approach regularizes relation and entity representations by
+propositionalization of first-order logic rules.
+However, propositionalization does not scale beyond domains with only few
+entities and rules.
+In this paper we present a highly efficient method for incorporating
+implication rules into distributed representations for automated knowledge base
+construction.
+We map entity-tuple embeddings into an approximately Boolean space and
+encourage a partial ordering over relation embeddings based on implication
+rules mined from WordNet.
+Surprisingly, we find that the strong restriction of the entity-tuple embedding
+space does not hurt the expressiveness of the model and even acts as a
+regularizer that improves generalization.
+By incorporating few commonsense rules, we achieve an increase of 2 percentage
+points mean average precision over a matrix factorization baseline, while
+observing a  negligible increase in runtime.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Demeester
+Author{1}{Email}#=%=#thomas.demeester@ugent.be
+Author{1}{Affiliation}#=%=#Ghent University - iMinds
+Author{2}{Firstname}#=%=#Tim
+Author{2}{Lastname}#=%=#Rocktäschel
+Author{2}{Email}#=%=#tim.rocktaeschel@gmail.com
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Sebastian
+Author{3}{Lastname}#=%=#Riedel
+Author{3}{Email}#=%=#sebastian.riedel@gmail.com
+Author{3}{Affiliation}#=%=#UCL
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#Unraveling the English-Bengali Code-Mixing Phenomenon
+ShortPaperTitle#=%=#Unraveling the English-Bengali Code-Mixing Phenomenon
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Arunavha Chanda
+JobTitle#==#
+Organization#==#
+Abstract#==#Code-mixing is a prevalent phenomenon in modern day communication. Though
+several systems enjoy success in identifying a single language, identifying
+languages of words in code-mixed texts is a herculean task, more so in a social
+media context. This paper explores the English-Bengali code-mixing phenomenon
+and presents algorithms capable of identifying the language of every word to a
+reasonable accuracy in specific cases and the general case. We create and test
+a predictor- corrector model, develop a new code-mixed corpus from Facebook
+chat (made available for future research) and test and compare the efficiency
+of various machine learning algorithms (J48, IBk, Random Forest). The paper
+also seeks to remove the ambiguities in the token identification
+process.
+Author{1}{Firstname}#=%=#Arunavha
+Author{1}{Lastname}#=%=#Chanda
+Author{1}{Email}#=%=#a.chanda@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Dipankar
+Author{2}{Lastname}#=%=#Das
+Author{2}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Chandan
+Author{3}{Lastname}#=%=#Mazumdar
+Author{3}{Email}#=%=#chandanm@cse.jdvu.ac.in
+Author{3}{Affiliation}#=%=#Jadavpur University
+
+==========

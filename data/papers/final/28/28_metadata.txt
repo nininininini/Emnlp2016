@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#SimpleScience: Lexical Simplification of Scientific Terminology
+ShortPaperTitle#=%=#SimpleScience: Lexical Simplification of Scientific Terminology
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#yea seul kim
+JobTitle#==#
+Organization#==#
+Abstract#==#Lexical simplification of scientific terms represents a unique challenge due to
+the lack of a standard parallel corpora and fast rate at which vocabulary shift
+along with research. We introduce SimpleScience, a lexical simplification
+approach for scientific terminology. We use word embeddings to extract
+simplification rules from a parallel corpora containing scientific publications
+and Wikipedia. To evaluate our system we construct SimpleSciGold, a novel gold
+standard set for science-related simplifications. We find that our approach
+outperforms prior context-aware approaches at generating simplifications for
+scientific terms.
+Author{1}{Firstname}#=%=#Yea Seul
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#yeaseul.kim@gmail.com
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Jessica
+Author{2}{Lastname}#=%=#Hullman
+Author{2}{Email}#=%=#jhullman@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Matthew
+Author{3}{Lastname}#=%=#Burgess
+Author{3}{Email}#=%=#mattburg@umich.edu
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Eytan
+Author{4}{Lastname}#=%=#Adar
+Author{4}{Email}#=%=#eytanadar@gmail.com
+Author{4}{Affiliation}#=%=#University of Michigan
+
+==========

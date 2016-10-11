@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#103
+FinalPaperTitle#=%=#The Howard University System Submission for the Shared Task in Language Identification in Spanish-English Codeswitching
+ShortPaperTitle#=%=#The Howard University System Submission for the Shared Task in Language Identification in Spanish-English Codeswitching
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Rouzbeh Asghari Shirvani
+JobTitle#==#
+Organization#==#Howard University Department of Electrical Engineering and Computer Science
+2366 Sixth St NW, Washington, DC 20059
+Abstract#==#System Submission for Language Identification in Spanish-English Codeswitching
+Author{1}{Firstname}#=%=#Rouzbeh
+Author{1}{Lastname}#=%=#Shirvani
+Author{1}{Email}#=%=#rouzbeh.asgharishir@bison.howard.edu
+Author{1}{Affiliation}#=%=#Howard University
+Author{2}{Firstname}#=%=#Mario
+Author{2}{Lastname}#=%=#Piergallini
+Author{2}{Email}#=%=#mario.p.piergallini@gmail.com
+Author{2}{Affiliation}#=%=#Howard University
+Author{3}{Firstname}#=%=#Gauri Shankar
+Author{3}{Lastname}#=%=#Gautam
+Author{3}{Email}#=%=#gauri.s.gautam@gmail.com
+Author{3}{Affiliation}#=%=#Howard University
+Author{4}{Firstname}#=%=#Mohamed
+Author{4}{Lastname}#=%=#Chouikha
+Author{4}{Email}#=%=#m.chouikha@howard.edu
+Author{4}{Affiliation}#=%=#Howard University
+
+==========

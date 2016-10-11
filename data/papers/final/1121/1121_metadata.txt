@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1121
+FinalPaperTitle#=%=#Length bias in Encoder Decoder Models and a Case for Global Conditioning
+ShortPaperTitle#=%=#Length bias in Encoder Decoder Models and a Case for Global Conditioning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Pavel Sountsov
+JobTitle#==#
+Organization#==#
+Abstract#==#Encoder-decoder networks are popular for modeling sequences  probabilistically
+in many applications.  These models use the power of the Long Short-Term Memory
+(LSTM) architecture to capture the full dependence among variables, unlike
+earlier models like CRFs that typically assumed conditional independence among
+non-adjacent variables.  However in practice encoder-decoder models exhibit a
+bias towards short sequences that surprisingly gets worse with increasing beam
+size.
+
+In this paper we show that such phenomenon is due to a discrepancy between the
+full sequence margin and the per-element margin enforced by the locally
+conditioned training objective of a encoder-decoder model. The discrepancy more
+adversely impacts long sequences, explaining the bias towards predicting short
+sequences.
+
+For the case where the predicted sequences come from a closed set, we show that
+a globally conditioned model alleviates the above problems of encoder-decoder
+models. From a practical point of view, our proposed model also eliminates the
+need for a beam-search during inference, which reduces to an efficient
+dot-product based search in a vector-space.
+Author{1}{Firstname}#=%=#Pavel
+Author{1}{Lastname}#=%=#Sountsov
+Author{1}{Email}#=%=#siege@google.com
+Author{1}{Affiliation}#=%=#Google
+Author{2}{Firstname}#=%=#Sunita
+Author{2}{Lastname}#=%=#Sarawagi
+Author{2}{Email}#=%=#sunita@iitb.ac.in
+Author{2}{Affiliation}#=%=#IIT Bombay
+
+==========

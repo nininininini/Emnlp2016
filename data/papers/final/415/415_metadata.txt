@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#415
+FinalPaperTitle#=%=#Does String-Based Neural MT Learn Source Syntax?
+ShortPaperTitle#=%=#Does String-Based Neural MT Learn Source Syntax?
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Xing Shi
+JobTitle#==#
+Organization#==#Information Sciences Institute & Computer Science Department, University of Southern California
+Abstract#==#We investigate whether a neural, encoder-decoder translation system learns
+syntactic information on the source side as a by-product of training. We
+propose two methods to detect whether the encoder has learned local and global
+source syntax. A fine-grained analysis of the syntactic structure learned by
+the encoder reveals which kinds of syntax are learned and which are missing.
+Author{1}{Firstname}#=%=#Xing
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#xingshi@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Inkit
+Author{2}{Lastname}#=%=#Padhi
+Author{2}{Email}#=%=#ipadhi@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Kevin
+Author{3}{Lastname}#=%=#Knight
+Author{3}{Email}#=%=#knight@isi.edu
+Author{3}{Affiliation}#=%=#USC/ISI
+
+==========

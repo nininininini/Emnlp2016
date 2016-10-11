@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#342
+FinalPaperTitle#=%=#Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge
+ShortPaperTitle#=%=#Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nicholas Locascio
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper explores the task of translating natural language queries into
+regular expressions which embody their meaning. In contrast to prior work, the
+proposed neural model does not utilize domain-specific crafting, learning to
+translate directly from a parallel corpus. To fully explore the potential of
+neural models, we propose a methodology for collecting a large corpus of
+regular expression, natural language pairs. Our resulting model achieves a
+performance gain of 19.6% over previous state-of-the-art models.
+Author{1}{Firstname}#=%=#Nicholas
+Author{1}{Lastname}#=%=#Locascio
+Author{1}{Email}#=%=#njl@mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Karthik
+Author{2}{Lastname}#=%=#Narasimhan
+Author{2}{Email}#=%=#karthikn@csail.mit.edu
+Author{2}{Affiliation}#=%=#CSAIL, MIT
+Author{3}{Firstname}#=%=#Eduardo
+Author{3}{Lastname}#=%=#De Leon
+Author{3}{Email}#=%=#edeleon4@mit.edu
+Author{3}{Affiliation}#=%=#MIT
+Author{4}{Firstname}#=%=#Nate
+Author{4}{Lastname}#=%=#Kushman
+Author{4}{Email}#=%=#nate@kushman.org
+Author{4}{Affiliation}#=%=#MSR
+Author{5}{Firstname}#=%=#Regina
+Author{5}{Lastname}#=%=#Barzilay
+Author{5}{Email}#=%=#regina@csail.mit.edu
+Author{5}{Affiliation}#=%=#MIT
+
+==========

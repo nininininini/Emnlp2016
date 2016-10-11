@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#417
+FinalPaperTitle#=%=#Why Neural Translations are the Right Length
+ShortPaperTitle#=%=#Why Neural Translations are the Right Length
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Xing Shi
+JobTitle#==#
+Organization#==#Information Sciences Institute & Computer Science Department, University of Southern California
+Abstract#==#We investigate how neural, encoder-decoder translation systems output target
+strings of appropriate lengths, finding that a collection of hidden units
+learns to explicitly implement this functionality.
+Author{1}{Firstname}#=%=#Xing
+Author{1}{Lastname}#=%=#Shi
+Author{1}{Email}#=%=#xingshi@usc.edu
+Author{1}{Affiliation}#=%=#University of Southern California
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Knight
+Author{2}{Email}#=%=#knight@isi.edu
+Author{2}{Affiliation}#=%=#USC/ISI
+Author{3}{Firstname}#=%=#Deniz
+Author{3}{Lastname}#=%=#Yuret
+Author{3}{Email}#=%=#dyuret@ku.edu.tr
+Author{3}{Affiliation}#=%=#Koc University
+
+==========

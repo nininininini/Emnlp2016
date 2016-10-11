@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#20
+FinalPaperTitle#=%=#Identifying and Categorizing Disaster-Related Tweets
+ShortPaperTitle#=%=#Identifying and Categorizing Disaster-Related Tweets
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Kevin Stowe
+JobTitle#==#
+Organization#==#University of Colorado
+Boulder, CO 80309
+Abstract#==#This paper presents a system for classifying disaster-related tweets. The focus
+is on Twitter data generated before, during, and after Hurricane Sandy, which
+impacted New York in the fall of 2012. We propose an annotation schema for
+identifying relevant tweets as well as the more fine-grained categories they
+represent, and develop feature-rich classifiers for relevance and fine-grained
+categorization.
+Author{1}{Firstname}#=%=#Kevin
+Author{1}{Lastname}#=%=#Stowe
+Author{1}{Email}#=%=#kest1439@colorado.edu
+Author{1}{Affiliation}#=%=#University of Colorado, Boulder
+Author{2}{Firstname}#=%=#Michael J.
+Author{2}{Lastname}#=%=#Paul
+Author{2}{Email}#=%=#mpaul39@gmail.com
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Martha
+Author{3}{Lastname}#=%=#Palmer
+Author{3}{Email}#=%=#martha.palmer@colorado.edu
+Author{3}{Affiliation}#=%=#University of Colorado
+Author{4}{Firstname}#=%=#Leysia
+Author{4}{Lastname}#=%=#Palen
+Author{4}{Email}#=%=#palen@cs.colorado.edu
+Author{4}{Affiliation}#=%=#University of Colorado
+Author{5}{Firstname}#=%=#Kenneth
+Author{5}{Lastname}#=%=#Anderson
+Author{5}{Email}#=%=#kena@cs.colorado.edu
+Author{5}{Affiliation}#=%=#University of Colorado
+
+==========

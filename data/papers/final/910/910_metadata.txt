@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#910
+FinalPaperTitle#=%=#Global Neural CCG Parsing with Optimality Guarantees
+ShortPaperTitle#=%=#Global Neural CCG Parsing with Optimality Guarantees
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kenton Lee
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#We introduce the first global recursive neural parsing model with optimality
+guarantees during decoding. To support global features, we give up dynamic
+programs and instead search directly in the space of all possible subtrees.
+Although this space is exponentially large in the sentence length, we show it
+is possible to learn an efficient A* parser. We augment existing parsing models
+which have informative bounds on the outside score, with a global model that
+has loose bounds but only needs to model non-local phenomena. The global model
+is trained with a new objective that encourages the parser to explore a tiny
+fraction of the search space. The approach is applied to CCG parsing, improving
+state-of-the-art accuracy by 0.4 F1. The parser finds the optimal parse for
+99.9% of held-out sentences, exploring on average only 190 subtrees.
+Author{1}{Firstname}#=%=#Kenton
+Author{1}{Lastname}#=%=#Lee
+Author{1}{Email}#=%=#kentonl@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Mike
+Author{2}{Lastname}#=%=#Lewis
+Author{2}{Email}#=%=#mikelewis0@gmail.com
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Luke
+Author{3}{Lastname}#=%=#Zettlemoyer
+Author{3}{Email}#=%=#lsz@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#5
+FinalPaperTitle#=%=#C2D2E2: Using Call Centers to Motivate the Use of Dialog and Diarization in Entity Extraction
+ShortPaperTitle#=%=#C2D2E2: Using Call Centers to Motivate the Use of Dialog and Diarization in Entity Extraction
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Kenneth Church
+JobTitle#==#
+Organization#==#IBM, Yorktown Heights
+Abstract#==#This paper introduces a deceptively simple entity extraction task
+intended to encourage more interdisciplinary collaboration between
+fields that don't normally work together: diarization, dialog and
+entity extraction.  Given a corpus of 1.4M call center calls, extract
+mentions of trouble ticket numbers.  The task is challenging because
+first mentions need to be distinguished from confirmations to avoid
+undesirable repetitions.  It is common for agents to say part of the
+ticket number, and customers confirm with a repetition.  There are
+opportunities for dialog (given/new) and diarization (who said what)
+to help remove repetitions.  New information is spoken slowly by
+one side of a conversation; confirmations are spoken more quickly
+by the other side of the conversation.
+Author{1}{Firstname}#=%=#Ken
+Author{1}{Lastname}#=%=#Church
+Author{1}{Email}#=%=#kenneth.ward.church@gmail.com
+Author{1}{Affiliation}#=%=#IBM
+Author{2}{Firstname}#=%=#Weizhong
+Author{2}{Lastname}#=%=#Zhu
+Author{2}{Email}#=%=#zhuwe@us.ibm.com
+Author{2}{Affiliation}#=%=#IBM
+Author{3}{Firstname}#=%=#Jason
+Author{3}{Lastname}#=%=#Pelecanos
+Author{3}{Email}#=%=#jwpeleca@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM
+
+==========

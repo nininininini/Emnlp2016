@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#1229
+FinalPaperTitle#=%=#Encoding Temporal Information for Time-Aware Link Prediction
+ShortPaperTitle#=%=#Encoding Temporal Information for Time-Aware Link Prediction
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Tingsong Jiang
+JobTitle#==#
+Organization#==#Key Laboratory of Computational Linguistics, Ministry of Education
+School of Electronics Engineering and Computer Science, Peking University
+
+Collaborative Innovation Center for Language Ability, Xuzhou 221009 China
+Abstract#==#Most existing knowledge base (KB) embedding methods solely learn from
+time-unknown fact triples but neglect the temporal information in the knowledge
+base. In this paper, we propose a novel time-aware KB embedding approach taking
+advantage of the happening time of facts. Specifically, we use temporal order
+constraints to model transformation between time-sensitive relations and
+enforce the embeddings to be temporally consistent and more accurate.
+We empirically evaluate our approach in two tasks of link prediction and triple
+classification. Experimental results show that our method outperforms other
+baselines on the two tasks consistently.
+Author{1}{Firstname}#=%=#Tingsong
+Author{1}{Lastname}#=%=#Jiang
+Author{1}{Email}#=%=#tingsong@pku.edu.cn
+Author{1}{Affiliation}#=%=#Institute of Computational Linguistics,Peking University
+Author{2}{Firstname}#=%=#Tianyu
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#tianyu0421@pku.edu.cn
+Author{2}{Affiliation}#=%=#PKU
+Author{3}{Firstname}#=%=#Tao
+Author{3}{Lastname}#=%=#Ge
+Author{3}{Email}#=%=#getao@pku.edu.cn
+Author{3}{Affiliation}#=%=#Key Laboratory of Computational Linguistics, Peking University
+Author{4}{Firstname}#=%=#Lei
+Author{4}{Lastname}#=%=#Sha
+Author{4}{Email}#=%=#shalei120@sina.com
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Sujian
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#lisujian@pku.edu.cn
+Author{5}{Affiliation}#=%=#Peking University
+Author{6}{Firstname}#=%=#Baobao
+Author{6}{Lastname}#=%=#Chang
+Author{6}{Email}#=%=#chbb@pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+Author{7}{Firstname}#=%=#Zhifang
+Author{7}{Lastname}#=%=#Sui
+Author{7}{Email}#=%=#szf@pku.edu.cn
+Author{7}{Affiliation}#=%=#
+
+==========

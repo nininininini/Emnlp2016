@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#1002
+FinalPaperTitle#=%=#An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages
+ShortPaperTitle#=%=#An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Antonios Anastasopoulos
+JobTitle#==#
+Organization#==#University of Notre Dame
+Notre Dame, IN 46556
+Abstract#==#For many low-resource languages, spoken language resources are more likely to
+be annotated with translations than with transcriptions. Translated speech data
+is potentially valuable for documenting endangered languages or for training
+speech translation systems. A first step towards making use of such data would
+be to automatically align spoken words with their translations. 
+We present a model that combines Dyer et al.'s reparameterization of IBM Model
+2 (fast_align) and k-means clustering using Dynamic Time Warping as a distance
+metric. The two components are trained jointly using expectation-maximization.
+In an extremely low-resource scenario, our model performs significantly better
+than both a neural model and a strong baseline.
+Author{1}{Firstname}#=%=#Antonios
+Author{1}{Lastname}#=%=#Anastasopoulos
+Author{1}{Email}#=%=#aanastas@nd.edu
+Author{1}{Affiliation}#=%=#University of Notre Dame
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Chiang
+Author{2}{Email}#=%=#dchiang@nd.edu
+Author{2}{Affiliation}#=%=#University of Notre Dame
+Author{3}{Firstname}#=%=#Long
+Author{3}{Lastname}#=%=#Duong
+Author{3}{Email}#=%=#longdt219@gmail.com
+Author{3}{Affiliation}#=%=#The University of Melbourne
+
+==========

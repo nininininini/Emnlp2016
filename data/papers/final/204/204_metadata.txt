@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#204
+FinalPaperTitle#=%=#Building an Evaluation Scale using Item Response Theory
+ShortPaperTitle#=%=#Building an Evaluation Scale using Item Response Theory
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#John Lalor
+JobTitle#==#
+Organization#==#
+Abstract#==#Evaluation of NLP methods requires testing against a previously vetted
+gold-standard test set and reporting standard metrics
+(accuracy/precision/recall/F1). The current assumption is that all items in a
+given test set are equal with regards to difficulty and discriminating power.
+We propose Item Response Theory (IRT) from psychometrics as an alternative
+means for gold-standard test-set generation and NLP system evaluation. IRT is
+able to describe characteristics of individual items - their difficulty and
+discriminating power - and can account for these characteristics in its
+estimation of human intelligence or ability for an NLP task. In this paper, we
+demonstrate IRT by generating a gold-standard test set for Recognizing Textual
+Entailment. By collecting a large number of human responses and fitting our IRT
+model, we show that our IRT model compares NLP systems with the performance in
+a human population and is able to provide more insight into system performance
+than standard evaluation metrics. We show that a high accuracy score does not
+always imply a high IRT score, which depends on the item characteristics and
+the response pattern.
+Author{1}{Firstname}#=%=#John
+Author{1}{Lastname}#=%=#Lalor
+Author{1}{Email}#=%=#lalor@cs.umass.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts Amherst
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#hao.wu.5@bc.edu
+Author{2}{Affiliation}#=%=#Boston College
+Author{3}{Firstname}#=%=#hong
+Author{3}{Lastname}#=%=#yu
+Author{3}{Email}#=%=#hong.yu@umassmed.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Medical School
+
+==========

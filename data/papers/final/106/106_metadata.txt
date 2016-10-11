@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#The Structured Weighted Violations Perceptron Algorithm
+ShortPaperTitle#=%=#The Structured Weighted Violations Perceptron Algorithm
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Roi Reichart
+JobTitle#==#Assistant Professor
+Organization#==#Faculty of Industrial Engineering and Management, Technion, Israel Institute of Technology. Haifa, 3200003, Israel
+Abstract#==#We present the Structured Weighted Violations
+Perceptron (SWVP) algorithm, a new structured
+prediction algorithm that generalizes the
+Collins Structured Perceptron (CSP, (Collins,
+2002)). Unlike CSP, the update rule of SWVP
+explicitly exploits the internal structure of the
+predicted labels. We prove the convergence
+of SWVP for linearly separable training sets,
+provide mistake and generalization bounds,
+and show that in the general case these bounds
+are tighter than those of the CSP special case.
+In synthetic data experiments with data drawn
+from an HMM, various variants of SWVP
+substantially outperform its CSP special case.
+SWVP also provides encouraging initial dependency
+parsing results.
+Author{1}{Firstname}#=%=#Rotem
+Author{1}{Lastname}#=%=#Dror
+Author{1}{Email}#=%=#rtmdrr@gmail.com
+Author{1}{Affiliation}#=%=#Technion
+Author{2}{Firstname}#=%=#Roi
+Author{2}{Lastname}#=%=#Reichart
+Author{2}{Email}#=%=#roireichart@gmail.com
+Author{2}{Affiliation}#=%=#Technion - Israel Institute of Technology
+
+==========

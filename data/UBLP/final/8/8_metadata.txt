@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#8
+FinalPaperTitle#=%=#Visualizing the Content of a Children’s Story in a Virtual World: Lessons Learned
+ShortPaperTitle#=%=#Visualizing the Content of a Children’s Story in a Virtual World: Lessons Learned
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Steven Bethard
+JobTitle#==#
+Organization#==#University of Arizona
+Tucson, AZ, 85721
+USA
+Abstract#==#We present the problem of "bringing text to life" via 3D interactive
+storytelling, where natural language processing (NLP) techniques are used to
+transform narrative text into events in a virtual world that the user can
+interact with. This is a challenging problem, which requires deep understanding
+of the semantics of a story and the ability to ground those semantic elements
+to the actors and events of the 3D world's graphical engine. We show how this
+problem has motivated interesting extensions to some classic NLP tasks,
+identify some of the key lessons learned from the work so far, and propose some
+future research directions.
+Author{1}{Firstname}#=%=#Quynh Ngoc Thi
+Author{1}{Lastname}#=%=#Do
+Author{1}{Email}#=%=#quynhngocthi.do@cs.kuleuven.be
+Author{1}{Affiliation}#=%=#Katholieke Universiteit Leuven
+Author{2}{Firstname}#=%=#Steven
+Author{2}{Lastname}#=%=#Bethard
+Author{2}{Email}#=%=#bethard@email.arizona.edu
+Author{2}{Affiliation}#=%=#University of Arizona
+Author{3}{Firstname}#=%=#Marie-Francine
+Author{3}{Lastname}#=%=#Moens
+Author{3}{Email}#=%=#sien.moens@cs.kuleuven.be
+Author{3}{Affiliation}#=%=#KU Leuven
+
+==========

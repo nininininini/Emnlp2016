@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#Witness Identification in Twitter
+ShortPaperTitle#=%=#Witness Identification in Twitter
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Rui Fang
+JobTitle#==#Research Scientist
+Organization#==#Thomson Reuters
+
+3 Times square, New York City, NY, 10036
+Abstract#==#Identifying witness accounts is important for rumor debunking, crises
+management, and basically any task that involves on the ground eyes. The
+prevalence of social media has provided citizen journalism scale and eye
+witnesses prominence.  However, the amount of noise on social media also makes
+it likely that witness accounts get buried too deep in the noise and are never
+discovered. 
+In this paper, we explore automatic witness identification in Twitter during
+emergency events. We attempt to create a generalizeable system that not only
+detects witness reports for unseen events, but also on true out-of-sample
+``real time streaming set" that may or may not have witness accounts. 
+We attempt to detect the presence or surge of witness accounts, which is the
+first step in developing a model for detecting crisis-related events.
+We collect and annotate witness tweets for different types of events
+(earthquake, car accident, fire, cyclone, etc.) explore the related features
+and build a classifier to identify witness tweets in real time. Our system is
+able to significantly outperform prior methods with an average accuracy of
+89.7% on previously unseen events.
+Author{1}{Firstname}#=%=#Rui
+Author{1}{Lastname}#=%=#Fang
+Author{1}{Email}#=%=#rui.fang@thomsonreuters.com
+Author{1}{Affiliation}#=%=#Research & Development, Thomson Reuters
+Author{2}{Firstname}#=%=#Armineh
+Author{2}{Lastname}#=%=#Nourbakhsh
+Author{2}{Email}#=%=#armineh.nourbakhsh@thomsonreuters.com
+Author{2}{Affiliation}#=%=#Thomson Reuters
+Author{3}{Firstname}#=%=#XIAOMO
+Author{3}{Lastname}#=%=#LIU
+Author{3}{Email}#=%=#xiaomo.liu@thomsonreuters.com
+Author{3}{Affiliation}#=%=#Thomson Reuters
+Author{4}{Firstname}#=%=#Sameena
+Author{4}{Lastname}#=%=#Shah
+Author{4}{Email}#=%=#Sameena.Shah@thomsonreuters.com
+Author{4}{Affiliation}#=%=#Thomson Reuters
+Author{5}{Firstname}#=%=#Quanzhi
+Author{5}{Lastname}#=%=#Li
+Author{5}{Email}#=%=#quanzhi.li@thomsonreuters.com
+Author{5}{Affiliation}#=%=#Thomson Reuters
+
+==========

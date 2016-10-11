@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#651
+FinalPaperTitle#=%=#All Fingers are not Equal: Intensity of References in Scientific Articles
+ShortPaperTitle#=%=#All Fingers are not Equal: Intensity of References in Scientific Articles
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tanmoy Chakraborty
+JobTitle#==#
+Organization#==#University of Maryland, College Park, USA
+Abstract#==#Research accomplishment is usually measured by considering all citations with
+equal importance, thus ignoring the wide variety of purposes an article is
+being cited for. Here, we posit that measuring the intensity of a reference is
+crucial not only to perceive better understanding of research endeavor, but
+also to improve the quality of citation-based applications. To this end, we
+collect a rich annotated dataset with references labeled by the intensity, and
+propose a novel graph-based semi-supervised model, GraLap to label the in-
+tensity of references. Experiments with AAN datasets show a significant
+improvement com-
+pared to the baselines to achieve the true labels of the references (46% better
+correlation). Finally, we provide four applications to demonstrate how the
+knowledge of reference intensity leads to design better real-world
+applications.
+Author{1}{Firstname}#=%=#Tanmoy
+Author{1}{Lastname}#=%=#Chakraborty
+Author{1}{Email}#=%=#its_tanmoy@yahoo.co.in
+Author{1}{Affiliation}#=%=#University of Maryland Institute for Advanced Computer Studies, University of Maryland, College Park
+Author{2}{Firstname}#=%=#Ramasuri
+Author{2}{Lastname}#=%=#Narayanam
+Author{2}{Email}#=%=#nrsuri@gmail.com
+Author{2}{Affiliation}#=%=#IBM Research, India
+
+==========

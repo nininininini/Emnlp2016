@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#482
+FinalPaperTitle#=%=#Learning to Represent Review with Tensor Decomposition for Spam Detection
+ShortPaperTitle#=%=#Learning to Represent Review with Tensor Decomposition for Spam Detection
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xuepeng Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Review spam detection is a key task in opinion mining. To accomplish this type
+of detection, previous work has focused mainly on effectively representing fake
+and non-fake reviews with discriminative features, which are discovered or
+elaborately designed by experts or developers. This paper proposes a novel
+review spam detection method that learns the representation of reviews
+automatically instead of heavily relying on experts' knowledge in a data-driven
+manner. More specifically, according to 11 relations (generated automatically
+from two basic patterns) between reviewers and products, we employ tensor
+decomposition to learn the embeddings of the reviewers and products in a vector
+space. We collect relations between any two entities (reviewers and products),
+which results in much useful and global information. We concatenate the review
+text, the embeddings of the reviewer and the reviewed product as the
+representation of a review. Based on such representations, the classifier could
+identify the opinion spam more precisely. Experimental results on an open Yelp
+dataset show that our method could effectively enhance the spam detection
+accuracy compared with the state-of-the-art methods.
+Author{1}{Firstname}#=%=#Xuepeng
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#xpwang@nlpr.ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Kang
+Author{2}{Lastname}#=%=#Liu
+Author{2}{Email}#=%=#kliu@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Chinese Academy of Sciences
+Author{3}{Firstname}#=%=#Shizhu
+Author{3}{Lastname}#=%=#He
+Author{3}{Email}#=%=#shizhu.he@nlpr.ia.ac.cn
+Author{3}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+Author{4}{Firstname}#=%=#Jun
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#junzhao123@163.com
+Author{4}{Affiliation}#=%=#NLPR, Institute of Automation, Chinese Academy of Sciences
+
+==========

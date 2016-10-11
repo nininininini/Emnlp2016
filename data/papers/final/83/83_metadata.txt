@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#83
+FinalPaperTitle#=%=#Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text
+ShortPaperTitle#=%=#Improving LSTM-based Video Description with Linguistic Knowledge Mined from Text
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Subhashini Venugopalan
+JobTitle#==#Student
+Organization#==#University of Texas at Austin
+Abstract#==#This paper investigates how linguistic knowledge mined from large text corpora
+can aid the generation of natural language descriptions of videos.
+Specifically, we integrate both a neural language model and distributional
+semantics trained on large text corpora into a recent LSTM-based architecture
+for video description. We evaluate our approach on a collection of Youtube
+videos as well as two large movie description datasets showing significant
+improvements in grammaticality while modestly improving descriptive quality.
+Author{1}{Firstname}#=%=#Subhashini
+Author{1}{Lastname}#=%=#Venugopalan
+Author{1}{Email}#=%=#vsub@cs.utexas.edu
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
+Author{2}{Firstname}#=%=#Lisa Anne
+Author{2}{Lastname}#=%=#Hendricks
+Author{2}{Email}#=%=#lisa_anne@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California at Berkeley
+Author{3}{Firstname}#=%=#Raymond
+Author{3}{Lastname}#=%=#Mooney
+Author{3}{Email}#=%=#mooney@cs.utexas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Austin
+Author{4}{Firstname}#=%=#Kate
+Author{4}{Lastname}#=%=#Saenko
+Author{4}{Email}#=%=#saenko@cs.uml.edu
+Author{4}{Affiliation}#=%=#UMass Lowell
+
+==========

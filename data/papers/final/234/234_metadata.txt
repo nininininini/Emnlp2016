@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#234
+FinalPaperTitle#=%=#Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis
+ShortPaperTitle#=%=#Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wang Wenya
+JobTitle#==#
+Organization#==#Nanyang Technological University, 50 Nanyang Ave. Singapore
+Abstract#==#In aspect-based sentiment analysis, extracting aspect terms along with the
+opinions being expressed from user-generated content is one of the most
+important subtasks. Previous studies have shown that exploiting connections
+between aspect and opinion terms is promising for this task. In this paper, we
+propose a novel joint model that integrates recursive neural networks and
+conditional random fields into a unified framework for explicit aspect and
+opinion terms co-extraction. The proposed model learns high-level
+discriminative features and double propagate information between aspect and
+opinion terms, simultaneously. Moreover, it is flexible to incorporate
+hand-crafted features into the proposed model to further boost its information
+extraction performance. Experimental results on the dataset from SemEval
+Challenge 2014 show the superiority of our proposed model over several baseline
+methods as well as the winning systems of the challenge.
+Author{1}{Firstname}#=%=#Wenya
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wa0001ya@e.ntu.edu.sg
+Author{1}{Affiliation}#=%=#Nanyang Technological University
+Author{2}{Firstname}#=%=#Sinno Jialin
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Email}#=%=#sinnocat@gmail.com
+Author{2}{Affiliation}#=%=#Nanyang Technological University
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Dahlmeier
+Author{3}{Email}#=%=#ddahlmeier@googlemail.com
+Author{3}{Affiliation}#=%=#SAP
+Author{4}{Firstname}#=%=#Xiaokui
+Author{4}{Lastname}#=%=#Xiao
+Author{4}{Email}#=%=#xkxiao@ntu.edu.sg
+Author{4}{Affiliation}#=%=#Nanyang Technological University
+
+==========

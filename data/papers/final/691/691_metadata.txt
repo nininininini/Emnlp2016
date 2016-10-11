@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#691
+FinalPaperTitle#=%=#Who did What: A Large-Scale Person-Centered Cloze Dataset
+ShortPaperTitle#=%=#Who did What: A Large-Scale Person-Centered Cloze Dataset
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Takeshi Onishi
+JobTitle#==#
+Organization#==#Toyota Technological Institute at Chicago
+6045 S. Kenwood Ave.
+Chicago, Illinois 60637
+USA
+Abstract#==#We have constructed a new “Who-did-What“ dataset of over 200,000
+fill-in-the-gap (cloze) multiple choice reading comprehension problems
+constructed from the LDC English Gigaword newswire corpus. The WDW dataset has
+a variety of novel features. First, in contrast with the CNN and Daily Mail
+datasets (Hermann et al., 2015) we avoid using article summaries for question
+formation. Instead, each problem is formed from two independent articles — an
+article given as the passage to be read and a separate article on the same
+events used to form the question. Second, we avoid anonymization — each
+choice is a person named entity. Third, the problems have been filtered to
+remove a fraction that are easily solved by simple baselines, while remaining
+84% solvable by humans. We report performance benchmarks of standard systems
+and propose the WDW dataset as a challenge task for the community.
+Author{1}{Firstname}#=%=#Takeshi
+Author{1}{Lastname}#=%=#Onishi
+Author{1}{Email}#=%=#tonishi@ttic.edu
+Author{1}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{2}{Firstname}#=%=#Hai
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#haiwang@ttic.edu
+Author{2}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Bansal
+Author{3}{Email}#=%=#mbansal@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Gimpel
+Author{4}{Email}#=%=#kgimpel@ttic.edu
+Author{4}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+Author{5}{Firstname}#=%=#David
+Author{5}{Lastname}#=%=#McAllester
+Author{5}{Email}#=%=#mcallester@ttic.edu
+Author{5}{Affiliation}#=%=#Toyota Technological Institute at Chicago
+
+==========

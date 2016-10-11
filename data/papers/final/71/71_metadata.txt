@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#71
+FinalPaperTitle#=%=#Anchoring and Agreement in Syntactic Annotations
+ShortPaperTitle#=%=#Anchoring and Agreement in Syntactic Annotations
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yevgeni Berzak
+JobTitle#==#
+Organization#==#MIT
+32 Vassar st.
+Cambridge 02139
+MA USA
+Abstract#==#We present a study on two key characteristics of human syntactic annotations:
+anchoring and agreement. Anchoring is a well known cognitive bias in 
+human decision making, where judgments are drawn towards pre-existing values. 
+We study the influence of anchoring on a standard approach to creation of 
+syntactic resources where syntactic annotations are obtained via human 
+editing of tagger and parser output. Our experiments demonstrate a clear 
+anchoring effect and reveal unwanted consequences, including 
+overestimation of parsing performance and lower quality of 
+annotations in comparison with human-based annotations. 
+Using sentences from the Penn Treebank WSJ, we also report 
+systematically obtained inter-annotator agreement estimates for English 
+dependency parsing. Our agreement results control for parser bias, and are 
+consequential in that they are on par with state of the art parsing 
+performance for English newswire. We discuss the impact of our findings on
+strategies for future annotation efforts and parser evaluations.
+Author{1}{Firstname}#=%=#Yevgeni
+Author{1}{Lastname}#=%=#Berzak
+Author{1}{Email}#=%=#berzak@mit.edu
+Author{1}{Affiliation}#=%=#CSAIL MIT
+Author{2}{Firstname}#=%=#Yan
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#yh358@cam.ac.uk
+Author{2}{Affiliation}#=%=#DTAL Cambridge University
+Author{3}{Firstname}#=%=#Andrei
+Author{3}{Lastname}#=%=#Barbu
+Author{3}{Email}#=%=#andrei@0xab.com
+Author{3}{Affiliation}#=%=#CSAIL MIT
+Author{4}{Firstname}#=%=#Anna
+Author{4}{Lastname}#=%=#Korhonen
+Author{4}{Email}#=%=#anna.korhonen@cl.cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge
+Author{5}{Firstname}#=%=#Boris
+Author{5}{Lastname}#=%=#Katz
+Author{5}{Email}#=%=#boris@mit.edu
+Author{5}{Affiliation}#=%=#CSAIL MIT
+
+==========

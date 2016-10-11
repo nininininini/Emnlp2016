@@ -1,0 +1,55 @@
+SubmissionNumber#=%=#368
+FinalPaperTitle#=%=#Variational Neural Machine Translation
+ShortPaperTitle#=%=#Variational Neural Machine Translation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Biao Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Models of neural machine translation are often
+from a discriminative family of encoderdecoders
+that learn a conditional distribution
+of a target sentence given a source sentence.
+In this paper, we propose a variational model
+to learn this conditional distribution for neural
+machine translation: a variational encoderdecoder
+model that can be trained end-to-end.
+Different from the vanilla encoder-decoder
+model that generates target translations from
+hidden representations of source sentences
+alone, the variational model introduces a continuous
+latent variable to explicitly model underlying
+semantics of source sentences and to
+guide the generation of target translations. In
+order to perform efficient posterior inference
+and large-scale training, we build a neural
+posterior approximator conditioned on both
+the source and the target sides, and equip it
+with a reparameterization technique to estimate
+the variational lower bound. Experiments
+on both Chinese-English and English-
+German translation tasks show that the proposed
+variational neural machine translation
+achieves significant improvements over the
+vanilla neural machine translation baselines.
+Author{1}{Firstname}#=%=#Biao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zb@stu.xmu.edu.cn
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#Deyi
+Author{2}{Lastname}#=%=#Xiong
+Author{2}{Email}#=%=#deyi.xiong@gmail.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#jinsong
+Author{3}{Lastname}#=%=#su
+Author{3}{Email}#=%=#jssu@xmu.edu.cn
+Author{3}{Affiliation}#=%=#Xiamen university
+Author{4}{Firstname}#=%=#Hong
+Author{4}{Lastname}#=%=#Duan
+Author{4}{Email}#=%=#hduan@xmu.edu.cn
+Author{4}{Affiliation}#=%=#Xiamen University
+Author{5}{Firstname}#=%=#Min
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#minzhang@suda.edu.cn
+Author{5}{Affiliation}#=%=#Suda
+
+==========

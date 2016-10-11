@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#35
+FinalPaperTitle#=%=#The Effects of Data Collection Methods in Twitter
+ShortPaperTitle#=%=#The Effects of Data Collection Methods in Twitter
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sunghwan Mac Kim
+JobTitle#==#Postdoc
+Organization#==#Data61, CSIRO, Sydney, Australia
+Abstract#==#There have been recent efforts to use social media to estimate demographic 
+characteristics, such as age, gender or income, but there has been little work
+on 
+investigating the effect of data acquisition methods on producing these
+estimates. In this paper, we compare four different Twitter data acquisition
+methods and 
+explore their effects on the prediction of one particular demographic
+characteristic: occupation (or profession). 
+We present a comparative analysis of the four data acquisition methods in the
+context of estimating occupation statistics for Australia.  Our results show
+that the social network-based data collection method seems to perform the best.
+However, we note that each different data collection approach has its own 
+benefits and limitations.
+Author{1}{Firstname}#=%=#Sunghwan Mac
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#mac.kim@csiro.au
+Author{1}{Affiliation}#=%=#CSIRO
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Wan
+Author{2}{Email}#=%=#stephen.wan@csiro.au
+Author{2}{Affiliation}#=%=#CSIRO
+Author{3}{Firstname}#=%=#Cecile
+Author{3}{Lastname}#=%=#Paris
+Author{3}{Email}#=%=#cecile.paris@csiro.au
+Author{3}{Affiliation}#=%=#CSIRO
+Author{4}{Firstname}#=%=#Jin
+Author{4}{Lastname}#=%=#Brian
+Author{4}{Email}#=%=#jin.brian@csiro.au
+Author{4}{Affiliation}#=%=#CSIRO
+Author{5}{Firstname}#=%=#Bella
+Author{5}{Lastname}#=%=#Robinson
+Author{5}{Email}#=%=#bella.robinson@csiro.au
+Author{5}{Affiliation}#=%=#CSIRO
+
+==========

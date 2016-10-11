@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#585
+FinalPaperTitle#=%=#A Neural Network for Coordination Boundary Prediction
+ShortPaperTitle#=%=#A Neural Network for Coordination Boundary Prediction
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jessica Ficler
+JobTitle#==#PhD student
+Organization#==#Bar Ilan University
+Abstract#==#We propose a neural-network based model for coordination boundary prediction.
+The network is designed to incorporate two signals: the similarity between
+conjuncts and the observation that replacing the whole coordination phrase with
+a conjunct tends to produce a coherent sentences. The modeling makes use of
+several LSTM networks. 
+The model is trained solely on conjunction annotations in treebank, without
+using external resources.
+We show improvements on predicting coordination boundaries on the PTB compared
+to two state-of-the-art parsers; as well as improvement over previous
+coordination boundary prediction systems on the Genia corpus.
+Author{1}{Firstname}#=%=#Jessica
+Author{1}{Lastname}#=%=#Ficler
+Author{1}{Email}#=%=#jessica.ficler@gmail.com
+Author{1}{Affiliation}#=%=#Bar Ilan Univerdity
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#yoav.goldberg@gmail.com
+Author{2}{Affiliation}#=%=#Bar Ilan University
+
+==========

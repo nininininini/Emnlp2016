@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1095
+FinalPaperTitle#=%=#Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser
+ShortPaperTitle#=%=#Building compositional semantics and higher-order inference system
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Koji Mineshima
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents a system that compositionally maps outputs of a
+wide-coverage Japanese CCG parser onto semantic representations and performs
+automated inference in higher-order logic. The system is evaluated on a textual
+entailment dataset. It is shown that the system solves inference problems that
+focus on a variety of complex linguistic phenomena, including those that are
+difficult to represent in the standard first-order logic.
+Author{1}{Firstname}#=%=#Koji
+Author{1}{Lastname}#=%=#Mineshima
+Author{1}{Email}#=%=#mineshima.koji@ocha.ac.jp
+Author{1}{Affiliation}#=%=#Ochanomizu University
+Author{2}{Firstname}#=%=#Ribeka
+Author{2}{Lastname}#=%=#Tanaka
+Author{2}{Email}#=%=#tanaka.ribeka@is.ocha.ac.jp
+Author{2}{Affiliation}#=%=#Ochanomizu University
+Author{3}{Firstname}#=%=#Pascual
+Author{3}{Lastname}#=%=#Martínez-Gómez
+Author{3}{Email}#=%=#pascual.mg@aist.go.jp
+Author{3}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+Author{4}{Firstname}#=%=#Yusuke
+Author{4}{Lastname}#=%=#Miyao
+Author{4}{Email}#=%=#yusuke@nii.ac.jp
+Author{4}{Affiliation}#=%=#National Instutite of Informatics
+Author{5}{Firstname}#=%=#Daisuke
+Author{5}{Lastname}#=%=#Bekki
+Author{5}{Email}#=%=#bekki@is.ocha.ac.jp
+Author{5}{Affiliation}#=%=#Ochanomizu University
+
+==========

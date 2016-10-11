@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#572
+FinalPaperTitle#=%=#SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity
+ShortPaperTitle#=%=#SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Daniela Gerz
+JobTitle#==#
+Organization#==#University of Cambridge
+Cambridge CB3 9DP
+United Kingdom
+Abstract#==#Verbs play a critical role in the meaning of sentences, but these ubiquitous
+words have received little attention in recent distributional semantics
+research. 
+We introduce SimVerb-3500, an evaluation resource that provides human ratings
+for the similarity of 3,500 verb pairs.  SimVerb-3500 covers all normed verb
+types from the USF free-association database, providing at least three examples
+for every VerbNet class. This broad coverage facilitates detailed analyses of
+how syntactic and semantic phenomena together influence human understanding of
+verb meaning. Further, with significantly larger development and test sets than
+existing benchmarks, SimVerb-3500 enables more robust evaluation of
+representation learning architectures and promotes the development of methods
+tailored to verbs. We hope that SimVerb-3500 will enable a richer understanding
+of the diversity and complexity of verb semantics and guide the development of
+systems that can effectively represent and interpret this meaning.
+Author{1}{Firstname}#=%=#Daniela
+Author{1}{Lastname}#=%=#Gerz
+Author{1}{Email}#=%=#dsg40@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Ivan
+Author{2}{Lastname}#=%=#Vulić
+Author{2}{Email}#=%=#iv250@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Felix
+Author{3}{Lastname}#=%=#Hill
+Author{3}{Email}#=%=#fh295@cam.ac.uk
+Author{3}{Affiliation}#=%=#Cambridge University
+Author{4}{Firstname}#=%=#Roi
+Author{4}{Lastname}#=%=#Reichart
+Author{4}{Email}#=%=#roireichart@gmail.com
+Author{4}{Affiliation}#=%=#Technion - Israel Institute of Technology
+Author{5}{Firstname}#=%=#Anna
+Author{5}{Lastname}#=%=#Korhonen
+Author{5}{Email}#=%=#anna.korhonen@cl.cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+
+==========

@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#958
+FinalPaperTitle#=%=#Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions
+ShortPaperTitle#=%=#Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Gordon Christie
+JobTitle#==#
+Organization#==#
+Abstract#==#Visual Question Answering (VQA) is the task of answering natural-language
+questions about images. We introduce the novel problem of determining the
+relevance of questions to images in VQA. Current VQA models do not reason about
+whether a question is even related to the given image (e.g., What is the
+capital of Argentina?) or if it requires information from external resources to
+answer correctly. This can break the continuity of a dialogue in human-machine
+interaction. Our approaches for determining relevance are composed of two
+stages. Given an image and a question, (1) we first determine whether the
+question is visual or not, (2) if visual, we determine whether the question is
+relevant to the given image or not. Our approaches, based on LSTM-RNNs, VQA
+model uncertainty, and caption-question similarity, are able to outperform
+strong baselines on both relevance tasks. We also present human studies showing
+that VQA models augmented with such question relevance reasoning are perceived
+as more intelligent, reasonable, and human-like.
+Author{1}{Firstname}#=%=#Arijit
+Author{1}{Lastname}#=%=#Ray
+Author{1}{Email}#=%=#ray93@vt.edu
+Author{1}{Affiliation}#=%=#Virginia Polytechnic Institute and State University
+Author{2}{Firstname}#=%=#Gordon
+Author{2}{Lastname}#=%=#Christie
+Author{2}{Email}#=%=#gordonac@vt.edu
+Author{2}{Affiliation}#=%=#Virginia Tech
+Author{3}{Firstname}#=%=#Mohit
+Author{3}{Lastname}#=%=#Bansal
+Author{3}{Email}#=%=#mbansal@cs.unc.edu
+Author{3}{Affiliation}#=%=#University of North Carolina at Chapel Hill
+Author{4}{Firstname}#=%=#Dhruv
+Author{4}{Lastname}#=%=#Batra
+Author{4}{Email}#=%=#dbatra@vt.edu
+Author{4}{Affiliation}#=%=#Virginia Tech
+Author{5}{Firstname}#=%=#Devi
+Author{5}{Lastname}#=%=#Parikh
+Author{5}{Email}#=%=#parikh@vt.edu
+Author{5}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

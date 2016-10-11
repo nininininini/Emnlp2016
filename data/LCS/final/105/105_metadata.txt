@@ -1,0 +1,43 @@
+SubmissionNumber#=%=#105
+FinalPaperTitle#=%=#Multilingual Code-switching Identification via LSTM Recurrent Neural Networks
+ShortPaperTitle#=%=#Multilingual Code-switching Identification via LSTM Recurrent Neural Networks
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Younes Samih
+JobTitle#==#
+Organization#==#Younes Samih
+Dept. of Computational Linguistics
+Heinrich Heine University,
+Düsseldorf, Germany
+Abstract#==#This paper describes the HHU-UH-G system submitted to the EMNLP 2016 Second
+Workshop on Computational Approaches to Code Switching. Our system ranked first
+place for Arabic (MSA-Egyptian) with an F1-score of 0.83 and second place for
+Spanish-English with an F1-score of 0.90. The HHU-UH-G system introduces a
+novel unified neural network architecture for language identification in
+code-switched tweets for both Spanish English and MSA-Egyptian dialect. The
+system makes use of word and character level representations to identify
+code-switching. For the MSA-Egyptian dialect the system does not rely on any
+kind of language-specific knowledge or linguistic resources such as, Part Of
+Speech (POS) taggers, morphological analyzers, gazetteers or word lists to
+obtain state-of-the-art performance.
+Author{1}{Firstname}#=%=#Younes
+Author{1}{Lastname}#=%=#Samih
+Author{1}{Email}#=%=#samih@phil.hhu.de
+Author{1}{Affiliation}#=%=#University of Düsseldorf
+Author{2}{Firstname}#=%=#Suraj
+Author{2}{Lastname}#=%=#Maharjan
+Author{2}{Email}#=%=#smaharjan2@uh.edu
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Mohammed
+Author{3}{Lastname}#=%=#Attia
+Author{3}{Email}#=%=#Attia@googlemail.com
+Author{3}{Affiliation}#=%=#Google Inc.
+Author{4}{Firstname}#=%=#Laura
+Author{4}{Lastname}#=%=#Kallmeyer
+Author{4}{Email}#=%=#kallmeyer@phil.uni-duesseldorf.de
+Author{4}{Affiliation}#=%=#University of Düsseldorf
+Author{5}{Firstname}#=%=#Thamar
+Author{5}{Lastname}#=%=#Solorio
+Author{5}{Email}#=%=#thamar.solorio@gmail.com
+Author{5}{Affiliation}#=%=#University of Houston
+
+==========

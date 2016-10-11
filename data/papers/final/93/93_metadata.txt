@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#93
+FinalPaperTitle#=%=#POLY: Mining Relational Paraphrases from Multilingual Sentences
+ShortPaperTitle#=%=#POLY: Mining Relational Paraphrases from Multilingual Sentences
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Adam Grycner
+JobTitle#==#
+Organization#==#Max-Planck Institute for Informatics
+Saarland Informatics Campus
+Building E1.4, 66123
+Saarbrücken, Germany
+Abstract#==#Language resources that systematically organize paraphrases for binary
+relations are of great value for various NLP tasks and have recently been
+advanced in projects like PATTY, WiseNet and DEFIE. 
+This paper presents a new method for building such a resource and the resource
+itself, called POLY.
+Starting with a very large collection of multilingual sentences parsed into
+triples of phrases, our method clusters relational phrases using probabilistic
+measures. 
+We judiciously leverage fine-grained semantic typing of relational arguments
+for identifying synonymous phrases. 
+The evaluation of POLY shows significant improvements in precision and recall
+over the prior works on PATTY and DEFIE.
+An extrinsic use case demonstrates the benefits of POLY for question answering.
+Author{1}{Firstname}#=%=#Adam
+Author{1}{Lastname}#=%=#Grycner
+Author{1}{Email}#=%=#agrycner@mpi-inf.mpg.de
+Author{1}{Affiliation}#=%=#Max-Planck Institute for Informatics
+Author{2}{Firstname}#=%=#Gerhard
+Author{2}{Lastname}#=%=#Weikum
+Author{2}{Email}#=%=#weikum@mpi-inf.mpg.de
+Author{2}{Affiliation}#=%=#Max Planck Institute for Informatics
+
+==========

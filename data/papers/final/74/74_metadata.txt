@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#74
+FinalPaperTitle#=%=#Transferring User Interests Across Websites with Unstructured Text for Cold-Start Recommendation
+ShortPaperTitle#=%=#Transferring User Interests Across Websites with Unstructured Text for Cold-Start Recommendation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yu-Yang Huang
+JobTitle#==#
+Organization#==#Department of Computer Science and Information Engineering, National Taiwan University
+No.1, Sec. 4, Roosevelt Rd., Da’an Dist., Taipei City 10617, Taiwan (R.O.C.)
+Abstract#==#In this work, we investigate the possibility of cross-website transfer learning
+for tackling the cold-start problem. To address the cold-start issues commonly
+present in a collaborative filtering (CF) system, most existing cross-domain CF
+models require auxiliary rating data from another domain; nevertheless, under
+the cross-website scenario, such data is often unobtainable. Therefore, we
+propose the nearest-neighbor transfer matrix factorization (NT-MF) model, where
+a topic model is applied to the unstructured user-generated content in the
+source domain, and the similarity between users in the latent topic space is
+utilized to guide the target-domain CF model. Specifically, the latent factors
+of the nearest-neighbors are regarded as a set of pseudo observations, which
+can be used to estimate the unknown parameters in the model. Improvement over
+previous methods, especially for the cold-start users, is demonstrated with
+experiments on a real-world cross-website dataset.
+Author{1}{Firstname}#=%=#Yu-Yang
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#r02922050@csie.ntu.edu.tw
+Author{1}{Affiliation}#=%=#Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan
+Author{2}{Firstname}#=%=#Shou-De
+Author{2}{Lastname}#=%=#Lin
+Author{2}{Email}#=%=#sdlin@csie.ntu.edu.tw
+Author{2}{Affiliation}#=%=#Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan
+
+==========

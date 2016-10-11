@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#4
+FinalPaperTitle#=%=#Bridging the gap between computable and expressive event representations in Social Media
+ShortPaperTitle#=%=#Bridging the gap between computable and expressive event representations in Social Media
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Darina Benikova
+JobTitle#==#
+Organization#==#University of Duisburg-Essen
+Duisburg, Germany
+Abstract#==#An important goal in text understanding is making sense of events. However,
+there is a gap between computable representations on the one hand and
+expressive representations on the other hand. We aim to bridge this gap by
+inducing distributional semantic clusters as labels in a frame structural
+representation.
+Author{1}{Firstname}#=%=#Darina
+Author{1}{Lastname}#=%=#Benikova
+Author{1}{Email}#=%=#darina.benikova@gmail.com
+Author{1}{Affiliation}#=%=#University of Duisburg-Essen
+Author{2}{Firstname}#=%=#Torsten
+Author{2}{Lastname}#=%=#Zesch
+Author{2}{Email}#=%=#torsten.zesch@uni-due.de
+Author{2}{Affiliation}#=%=#Language Technology Lab, University of Duisburg-Essen
+
+==========

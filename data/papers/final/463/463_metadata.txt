@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#463
+FinalPaperTitle#=%=#A Semiparametric Model for Bayesian Reader Identification
+ShortPaperTitle#=%=#A Semiparametric Model for Bayesian Reader Identification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ahmed ABDELWAHAB
+JobTitle#==#
+Organization#==#Department of Computer Science, University of Potsdam
+August-Bebel-Straße 89, 14482 Potsdam, Germany
+Abstract#==#We study the problem of identifying individuals based on their characteristic
+gaze patterns during reading of arbitrary text. The motivation for this problem
+is an unobtrusive biometric setting in which a user is observed during access
+to a document, but no specific challenge protocol requiring the user's time and
+attention is carried out. Existing models of individual differences in gaze
+control during reading are either based on simple aggregate features of eye
+movements, or rely on parametric density models to describe, for instance,
+saccade amplitudes or word fixation durations. We develop flexible
+semiparametric models of eye movements during reading in which densities are
+inferred under a Gaussian process prior centered at a parametric distribution
+family that is expected to approximate the true distribution well. An empirical
+study on reading data from 251 individuals shows significant improvements over
+the state of the art.
+Author{1}{Firstname}#=%=#Ahmed
+Author{1}{Lastname}#=%=#Abdelwahab
+Author{1}{Email}#=%=#ahmed.abdelwahab@uni-potsdam.de
+Author{1}{Affiliation}#=%=#University of Potsdam
+Author{2}{Firstname}#=%=#Reinhold
+Author{2}{Lastname}#=%=#Kliegl
+Author{2}{Email}#=%=#kliegl@uni-potsdam.de
+Author{2}{Affiliation}#=%=#University of Potsdam
+Author{3}{Firstname}#=%=#Niels
+Author{3}{Lastname}#=%=#Landwehr
+Author{3}{Email}#=%=#landwehr@cs.uni-potsdam.de
+Author{3}{Affiliation}#=%=#University of Potsdam
+
+==========

@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#905
+FinalPaperTitle#=%=#Globally Coherent Text Generation with Neural Checklist Models
+ShortPaperTitle#=%=#Globally Coherent Text Generation with Neural Checklist Models
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Chloe Kiddon
+JobTitle#==#
+Organization#==#Computer Science & Engineering, University of Washington
+Mailstop 352350 
+University of Washington 
+Seattle, WA, 98195-2350
+Abstract#==#Recurrent neural networks can generate locally coherent text but often have
+difficulties representing what has already been generated and what still needs
+to be said -- especially when constructing long texts. We present the neural
+checklist model, a recurrent neural network that models global coherence by
+storing and updating an agenda of text strings which should be mentioned
+somewhere in the output. The model generates output by dynamically adjusting
+the interpolation among a language model and a pair of attention models that
+encourage references to agenda items. Evaluations on cooking recipes and
+dialogue system responses demonstrate high coherence with greatly improved
+semantic coverage of the agenda.
+Author{1}{Firstname}#=%=#Chloé
+Author{1}{Lastname}#=%=#Kiddon
+Author{1}{Email}#=%=#chloe@cs.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Luke
+Author{2}{Lastname}#=%=#Zettlemoyer
+Author{2}{Email}#=%=#lsz@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Yejin
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Email}#=%=#yejin@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

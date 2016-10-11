@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Accurate Pinyin-English Codeswitched Language Identification
+ShortPaperTitle#=%=#Accurate Pinyin-English Codeswitched Language Identification
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Meng Xuan Xia
+JobTitle#==#
+Organization#==#
+Abstract#==#Pinyin is the most widely used romanization scheme for Mandarin Chinese. We
+consider the task of language identification in Pinyin-English codeswitched
+texts, a task that is significant because of its application to codeswitched
+text input. We create a codeswitched corpus by extracting and automatically
+labeling existing Mandarin-English codeswitched corpora. On language
+identification, we find that SVM produces the best result when using word-level
+segmentation, achieving 99.3% F1 on a Weibo dataset, while a linear-chain CRF
+produces the best result at the letter level, achieving 98.2% F1. We then pass
+the output of our models to a system that converts Pinyin back to Chinese
+characters to simulate codeswitched text input. Our method achieves the same
+level of performance as an oracle system that has perfect knowledge of
+token-level language identity. This result demonstrates that Pinyin
+identification is not the bottleneck towards developing a Chinese-English
+codeswitched Input Method Editor, and future work should focus on the
+Pinyin-to-Chinese character conversion step.
+Author{1}{Firstname}#=%=#Meng Xuan
+Author{1}{Lastname}#=%=#Xia
+Author{1}{Email}#=%=#meng.xia@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Jackie Chi Kit
+Author{2}{Lastname}#=%=#Cheung
+Author{2}{Email}#=%=#jcheung@cs.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+
+==========

@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#946
+FinalPaperTitle#=%=#Non-uniform Language Detection in Technical Writing
+ShortPaperTitle#=%=#Non-uniform Language Detection in Technical Writing
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Weibo Wang
+JobTitle#==#Student
+Organization#==#Faculty of Computer Science, Dalhousie University, Canada
+Abstract#==#Technical writing in professional environments, such as user manual authoring,
+requires the use of uniform language. Non-uniform language detection is a novel
+task, which aims to guarantee the consistency for technical writing by
+detecting sentences in a document that are intended to have the same meaning
+within a similar context but use different words or writing style. This paper
+proposes an approach that utilizes text similarity algorithms at lexical,
+syntactic, semantic and pragmatic levels. Different features are extracted and
+integrated by applying a machine learning classification method. We tested our
+method using smart phone user manuals, and compared its performance against the
+state-of-the-art methods in a related area. The experiments demonstrate that
+our approach  achieves the upper bound performance for this task.
+Author{1}{Firstname}#=%=#Weibo
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#webberwwb@gmail.com
+Author{1}{Affiliation}#=%=#Dalhousie University
+Author{2}{Firstname}#=%=#Abidalrahman
+Author{2}{Lastname}#=%=#Moh'd
+Author{2}{Email}#=%=#amohd@cs.dal.ca
+Author{2}{Affiliation}#=%=#Dalhousie University
+Author{3}{Firstname}#=%=#Aminul
+Author{3}{Lastname}#=%=#Islam
+Author{3}{Email}#=%=#aminul@louisiana.edu
+Author{3}{Affiliation}#=%=#University of Louisiana at Lafayette
+Author{4}{Firstname}#=%=#Axel
+Author{4}{Lastname}#=%=#Soto
+Author{4}{Email}#=%=#axel.soto@manchester.ac.uk
+Author{4}{Affiliation}#=%=#University of Manchester
+Author{5}{Firstname}#=%=#Evangelos
+Author{5}{Lastname}#=%=#Milios
+Author{5}{Email}#=%=#eem@cs.dal.ca
+Author{5}{Affiliation}#=%=#Dalhousie University
+
+==========

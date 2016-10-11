@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#177
+FinalPaperTitle#=%=#Solving Verbal Questions in IQ Test by Knowledge-Powered Word Embedding
+ShortPaperTitle#=%=#Solving Verbal Questions in IQ Test by Knowledge-Powered Word Embedding
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Huazheng Wang
+JobTitle#==#
+Organization#==#
+Abstract#==#Verbal comprehension questions appear very frequently in Intelligence Quotient
+(IQ) tests, which measure human's verbal ability including the understanding of
+the words with multiple senses, the synonyms and antonyms, and the analogies
+among words. In this work, we explore whether such tests can be solved
+automatically by the deep learning technologies for text data. We found that
+the task was quite challenging, and simply applying existing technologies like
+word embedding could not achieve a good performance, due to the multiple senses
+of words and the complex relations among words. To tackle these challenges, we
+propose a novel framework to automatically solve the verbal IQ questions by
+leveraging improved word embedding by jointly considering the multi-sense
+nature of words and the relational information among words. Experimental
+results have shown that the proposed framework can not only outperform existing
+methods for solving verbal comprehension questions but also exceed the average
+performance of the Amazon Mechanical Turk workers involved in the study.
+Author{1}{Firstname}#=%=#Huazheng
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#hw7ww@virginia.edu
+Author{1}{Affiliation}#=%=#University of Virginia
+Author{2}{Firstname}#=%=#Fei
+Author{2}{Lastname}#=%=#Tian
+Author{2}{Email}#=%=#fetia@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Bin
+Author{3}{Lastname}#=%=#Gao
+Author{3}{Email}#=%=#bingao@microsoft.com
+Author{3}{Affiliation}#=%=#Microsoft
+Author{4}{Firstname}#=%=#Chengjieren
+Author{4}{Lastname}#=%=#Zhu
+Author{4}{Email}#=%=#chz191@ucsd.edu
+Author{4}{Affiliation}#=%=#University of California, San Diego
+Author{5}{Firstname}#=%=#Jiang
+Author{5}{Lastname}#=%=#Bian
+Author{5}{Email}#=%=#jiang.bian.prc@gmail.com
+Author{5}{Affiliation}#=%=#Yidian Inc.
+Author{6}{Firstname}#=%=#Tie-Yan
+Author{6}{Lastname}#=%=#Liu
+Author{6}{Email}#=%=#tyliu@microsoft.com
+Author{6}{Affiliation}#=%=#Microsoft Research
+
+==========

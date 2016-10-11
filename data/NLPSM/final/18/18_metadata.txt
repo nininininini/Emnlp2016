@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#18
+FinalPaperTitle#=%=#Steps Toward Automatic Understanding of the Function of Affective Language in Support Groups
+ShortPaperTitle#=%=#Toward Automatic Understanding of the Function of Affective Language in Support Groups
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Scott Nowson
+JobTitle#==#
+Organization#==#
+Abstract#==#Understanding expression of emotions in support forums has great value and NLP
+methods are key to automating this. Many approaches use subjective categories
+which are more fine-grained than a straightforward polarity-based spectrum.
+However, the definition of such categories is non-trivial, and we argue for a
+need to incorporate communicative elements even beyond subjectivity. To support
+our position, we report experiments on a sentiment-labelled corpus of posts
+from a medical support forum. We argue that a more fine-grained approach to
+text analysis important, and also simultaneously recognising the social
+function behind affective expressions enables a more accurate and valuable
+level of understanding.
+Author{1}{Firstname}#=%=#Amit
+Author{1}{Lastname}#=%=#Navindgi
+Author{1}{Email}#=%=#amitnavindgi3@gmail.com
+Author{1}{Affiliation}#=%=#Xerox Research Center Europe
+Author{2}{Firstname}#=%=#Caroline
+Author{2}{Lastname}#=%=#Brun
+Author{2}{Email}#=%=#caroline.brun@xrce.xerox.com
+Author{2}{Affiliation}#=%=#Xerox Research Centre Europe
+Author{3}{Firstname}#=%=#Cécile
+Author{3}{Lastname}#=%=#Boulard Masson
+Author{3}{Email}#=%=#cecile.boulard@xrce.xerox.com
+Author{3}{Affiliation}#=%=#XRCE
+Author{4}{Firstname}#=%=#Scott
+Author{4}{Lastname}#=%=#Nowson
+Author{4}{Email}#=%=#nowson@gmail.com
+Author{4}{Affiliation}#=%=#Accenture Centre for Innovation
+
+==========

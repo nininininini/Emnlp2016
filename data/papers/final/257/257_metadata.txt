@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#257
+FinalPaperTitle#=%=#Extracting Aspect Specific Opinion Expressions
+ShortPaperTitle#=%=#Extracting Aspect Specific Opinion Expressions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#ABHISHEK LADDHA
+JobTitle#==#
+Organization#==#
+Abstract#==#Opinionated expression extraction is a central problem in fine-grained
+sentiment analysis. Most existing works focus on either generic subjective
+expression or aspect expression extraction. However, in opinion mining, it is
+often desirable to mine the aspect specific opinion expressions (or
+aspectsentiment phrases) containing both the aspect and the opinion. This paper
+proposes a hybrid generative-discriminative framework for extracting such
+expressions. The hybrid model consists of (i) an unsupervised generative
+component for modeling the semantic coherence of terms (words/phrases) based on
+their collocations across different documents, and (ii) a supervised
+discriminative sequence modeling component for opinion phrase extraction.
+Experimental results using Amazon.com reviews demonstrate the effectiveness of
+the approach that significantly outperforms several state-of-the-art baselines.
+Author{1}{Firstname}#=%=#Abhishek
+Author{1}{Lastname}#=%=#Laddha
+Author{1}{Email}#=%=#laddhaabhishek11@gmail.com
+Author{1}{Affiliation}#=%=#Indian Institute of Technology Delhi
+Author{2}{Firstname}#=%=#Arjun
+Author{2}{Lastname}#=%=#Mukherjee
+Author{2}{Email}#=%=#arjun4787@gmail.com
+Author{2}{Affiliation}#=%=#University of Houston
+
+==========

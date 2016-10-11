@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#39
+FinalPaperTitle#=%=#Expressions of Anxiety in Political Texts
+ShortPaperTitle#=%=#Expressions of Anxiety in Political Texts
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Ludovic Rheault
+JobTitle#==#
+Organization#==#
+Abstract#==#Anxiety has a special importance in politics since the emotion is tied to
+decision-making under uncertainty, a feature of democratic institutions.  Yet,
+measuring specific emotions like anxiety in political settings remains a
+challenging task.  The present study tackles this problem by making use of
+natural language processing (NLP) tools to detect anxiety in a corpus of
+digitized parliamentary debates from Canada.  I rely upon a vector space model
+to rank parliamentary speeches based on the semantic similarity of their words
+and syntax with a set of common expressions of anxiety.  After assessing the
+performance of this approach with annotated corpora, I use it to test an
+implementation of state-trait anxiety theory.  The findings support the
+hypothesis that political issues with a lower degree of familiarity, such as
+foreign affairs and immigration, are more anxiogenic than average, a conclusion
+that appears robust to estimators accounting for unobserved individual traits.
+Author{1}{Firstname}#=%=#Ludovic
+Author{1}{Lastname}#=%=#Rheault
+Author{1}{Email}#=%=#ludovic.rheault@utoronto.ca
+Author{1}{Affiliation}#=%=#University of Toronto
+
+==========

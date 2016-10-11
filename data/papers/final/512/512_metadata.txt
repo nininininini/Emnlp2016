@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#512
+FinalPaperTitle#=%=#Learning Robust Representations of Text
+ShortPaperTitle#=%=#Learning Robust Representations of Text
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Timothy Baldwin
+JobTitle#==#
+Organization#==#CIS, The University of Melbourne
+VIC 3010 Australia
+Abstract#==#Deep neural networks have achieved remarkable results across many
+  language processing tasks, however these methods are highly sensitive to
+noise and adversarial attacks.
+  We present a regularization based method for limiting network sensitivity to
+its
+  inputs, inspired by ideas from computer vision, thus learning models
+  that are more robust.
+  Empirical evaluation over a range of sentiment datasets with a
+  convolutional neural network shows that, compared to a baseline
+  model and the dropout method, our method achieves superior
+  performance over noisy inputs and out-of-domain
+  data.
+Author{1}{Firstname}#=%=#Yitong
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#yitongl4@student.unimelb.edu.au
+Author{1}{Affiliation}#=%=#University of Melbourne
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Email}#=%=#tcohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Timothy
+Author{3}{Lastname}#=%=#Baldwin
+Author{3}{Email}#=%=#tb@ldwin.net
+Author{3}{Affiliation}#=%=#The University of Melbourne
+
+==========

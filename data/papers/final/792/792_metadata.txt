@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#792
+FinalPaperTitle#=%=#Morphological Priors for Probabilistic Neural Word Embeddings
+ShortPaperTitle#=%=#Morphological Priors for Probabilistic Neural Word Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jacob Eisenstein
+JobTitle#==#
+Organization#==#Georgia Institute of Technology
+North Ave NW, Atlanta GA 30332
+Abstract#==#Word embeddings allow natural language processing systems to share statistical
+information across related words. These embeddings are typically based on
+distributional statistics, making it difficult for them to generalize to rare
+or unseen words. We propose to improve word embeddings by incorporating
+morphological information, capturing shared sub-word features. Unlike previous
+work that constructs word embeddings directly from morphemes, we combine
+morphological and distributional information in a unified probabilistic
+framework, in which the word embedding is a latent variable. The morphological
+information provides a prior distribution on the latent word embeddings, which
+in turn condition a likelihood function over an observed corpus. This approach
+yields improvements on intrinsic word similarity evaluations, and also in the
+downstream task of part-of-speech tagging.
+Author{1}{Firstname}#=%=#Parminder
+Author{1}{Lastname}#=%=#Bhatia
+Author{1}{Email}#=%=#parminder.bhatia243@gmail.com
+Author{1}{Affiliation}#=%=#
+Author{2}{Firstname}#=%=#Robert
+Author{2}{Lastname}#=%=#Guthrie
+Author{2}{Email}#=%=#rguthrie3@gatech.edu
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+Author{3}{Firstname}#=%=#Jacob
+Author{3}{Lastname}#=%=#Eisenstein
+Author{3}{Email}#=%=#jacobe@gmail.com
+Author{3}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

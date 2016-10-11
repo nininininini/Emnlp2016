@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#831
+FinalPaperTitle#=%=#A Graph Degeneracy-based Approach to Keyword Extraction
+ShortPaperTitle#=%=#A Graph Degeneracy-based Approach to Keyword Extraction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Antoine Tixier
+JobTitle#==#
+Organization#==#
+Abstract#==#We operate a change of paradigm and hypothesize that keywords are more likely
+to be found among influential nodes of a graph-of-words rather than among its
+nodes high on eigenvector-related centrality measures. To test this hypothesis,
+we introduce unsupervised techniques that capitalize on graph degeneracy. Our
+methods strongly and significantly outperform all baselines on two datasets
+(short and medium size documents), and reach best performance on the third one
+(long documents).
+Author{1}{Firstname}#=%=#Antoine
+Author{1}{Lastname}#=%=#Tixier
+Author{1}{Email}#=%=#antoine.tixier-1@colorado.edu
+Author{1}{Affiliation}#=%=#Ecole Polytechnique, Palaiseau, France
+Author{2}{Firstname}#=%=#Fragkiskos
+Author{2}{Lastname}#=%=#Malliaros
+Author{2}{Email}#=%=#fmalliaros@lix.polytechnique.fr
+Author{2}{Affiliation}#=%=#Ecole Polytechnique
+Author{3}{Firstname}#=%=#Michalis
+Author{3}{Lastname}#=%=#Vazirgiannis
+Author{3}{Email}#=%=#michalis.vazirgiannis@gmail.com
+Author{3}{Affiliation}#=%=#Ecole Polytechnique
+
+==========

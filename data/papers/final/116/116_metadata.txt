@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#116
+FinalPaperTitle#=%=#Detecting and Characterizing Events
+ShortPaperTitle#=%=#Detecting and Characterizing Events
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Allison June Barlow Chaney
+JobTitle#==#
+Organization#==#
+Abstract#==#Significant events are characterized by interactions between entities
+(such as countries, organizations, or individuals) that deviate from
+typical interaction patterns. Analysts, including historians,
+political scientists, and journalists, commonly read large quantities
+of text to construct an accurate picture of when and where an event
+happened, who was involved, and in what ways. In this paper, we
+present the Capsule model for analyzing documents to detect
+and characterize events of potential significance. Specifically, we
+develop a model based on topic modeling that distinguishes between
+topics that describe "business as usual" and topics that deviate
+from these patterns. To demonstrate this model, we analyze a corpus of
+over two million U.S. State Department cables from the 1970s. We
+provide an open-source implementation of an inference algorithm for
+the model and a pipeline for exploring its results.
+Author{1}{Firstname}#=%=#Allison
+Author{1}{Lastname}#=%=#Chaney
+Author{1}{Email}#=%=#ajbchaney@gmail.com
+Author{1}{Affiliation}#=%=#Princeton University
+Author{2}{Firstname}#=%=#Hanna
+Author{2}{Lastname}#=%=#Wallach
+Author{2}{Email}#=%=#hanna@dirichlet.net
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Matthew
+Author{3}{Lastname}#=%=#Connelly
+Author{3}{Email}#=%=#mjc96@columbia.edu
+Author{3}{Affiliation}#=%=#Columbia University
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Blei
+Author{4}{Email}#=%=#david.blei@columbia.edu
+Author{4}{Affiliation}#=%=#Columbia University
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#500
+FinalPaperTitle#=%=#Robust Gram Embeddings
+ShortPaperTitle#=%=#Robust Gram Embeddings
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Taygun Kekeç
+JobTitle#==#
+Organization#==#TU Delft
+Mekelweg 4, Delft, Netherlands
+Abstract#==#Word embedding models learn vectorial word representations that can be used in
+a variety of NLP applications. When training data is scarce, these models risk
+losing their generalization abilities due to the complexity of the models and
+the overfitting to finite data. We propose a regularized embedding formulation,
+called \emph{Robust Gram} (RG), which penalizes overfitting by suppressing the
+disparity between target and context embeddings. Our experimental analysis
+shows that the RG model trained on small datasets generalizes better compared
+to alternatives, is more robust to variations in the training set, and
+correlates well to human similarities in a set of word similarity tasks.
+Author{1}{Firstname}#=%=#Taygun
+Author{1}{Lastname}#=%=#Kekec
+Author{1}{Email}#=%=#taygunkekec@gmail.com
+Author{1}{Affiliation}#=%=#TU Delft
+Author{2}{Firstname}#=%=#David M. J.
+Author{2}{Lastname}#=%=#Tax
+Author{2}{Email}#=%=#D.M.J.Tax@tudelft.nl
+Author{2}{Affiliation}#=%=#TU Delft
+
+==========

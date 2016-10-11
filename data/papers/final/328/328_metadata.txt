@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#328
+FinalPaperTitle#=%=#Parsing as Language Modeling
+ShortPaperTitle#=%=#Parsing as Language Modeling
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Do Kook Choe
+JobTitle#==#
+Organization#==#
+Abstract#==#We recast syntactic parsing as a language modeling problem and use recent
+advances in neural network language modeling to achieve a new state of the art
+for constituency Penn Treebank parsing --- 93.8 F1 on section 23, using 2-21 as
+training, 24 as development, plus tri-training. When trees are converted to
+Stanford dependencies, UAS and LAS are 95.9% and 94.1%.
+Author{1}{Firstname}#=%=#Do Kook
+Author{1}{Lastname}#=%=#Choe
+Author{1}{Email}#=%=#dc65@cs.brown.edu
+Author{1}{Affiliation}#=%=#Brown University
+Author{2}{Firstname}#=%=#Eugene
+Author{2}{Lastname}#=%=#Charniak
+Author{2}{Email}#=%=#eugene_charniak@brown.edu
+Author{2}{Affiliation}#=%=#Brown University
+
+==========

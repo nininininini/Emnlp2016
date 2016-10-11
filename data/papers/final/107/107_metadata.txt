@@ -1,0 +1,59 @@
+SubmissionNumber#=%=#107
+FinalPaperTitle#=%=#Conditional Generation and Snapshot Learning in Neural Dialogue Systems
+ShortPaperTitle#=%=#Conditional Generation and Snapshot Learning in Neural Dialogue Systems
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tsung-Hsien Wen
+JobTitle#==#
+Organization#==#Cambridge University Engineering Department
+Trumpington Street
+Cambridge CB21PZ
+United Kingdom
+Abstract#==#Recently a variety of LSTM-based conditional language models (LM) have been
+applied across a range of language generation tasks.
+In this work we study various model architectures and different ways to
+represent and aggregate the source information in an end-to-end neural dialogue
+system framework.
+A method called snapshot learning is also proposed to facilitate learning from
+supervised sequential signals by applying a {\it companion} cross-entropy
+objective function to the conditioning vector.
+The experimental and analytical results demonstrate firstly that competition
+occurs between the conditioning vector and the LM, and the differing
+architectures provide different trade-offs between the two.
+Secondly, the discriminative power and transparency of the conditioning vector
+is key to providing both model interpretability and better performance. 
+Thirdly, snapshot learning leads to consistent performance improvements
+independent of which architecture is used.
+Author{1}{Firstname}#=%=#Tsung-Hsien
+Author{1}{Lastname}#=%=#Wen
+Author{1}{Email}#=%=#thw28@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+Author{2}{Firstname}#=%=#Milica
+Author{2}{Lastname}#=%=#Gasic
+Author{2}{Email}#=%=#mg436@cam.ac.uk
+Author{2}{Affiliation}#=%=#University of Cambridge
+Author{3}{Firstname}#=%=#Nikola
+Author{3}{Lastname}#=%=#Mrkšić
+Author{3}{Email}#=%=#nm480@cam.ac.uk
+Author{3}{Affiliation}#=%=#University of Cambridge
+Author{4}{Firstname}#=%=#Lina M.
+Author{4}{Lastname}#=%=#Rojas Barahona
+Author{4}{Email}#=%=#lina.rojas@eng.cam.ac.uk
+Author{4}{Affiliation}#=%=#University of Cambridge.
+Author{5}{Firstname}#=%=#Pei-Hao
+Author{5}{Lastname}#=%=#Su
+Author{5}{Email}#=%=#phs26@cam.ac.uk
+Author{5}{Affiliation}#=%=#University of Cambridge
+Author{6}{Firstname}#=%=#Stefan
+Author{6}{Lastname}#=%=#Ultes
+Author{6}{Email}#=%=#su259@cam.ac.uk
+Author{6}{Affiliation}#=%=#University of Cambridge
+Author{7}{Firstname}#=%=#David
+Author{7}{Lastname}#=%=#Vandyke
+Author{7}{Email}#=%=#djv27@cam.ac.uk
+Author{7}{Affiliation}#=%=#University of Cambridge
+Author{8}{Firstname}#=%=#Steve
+Author{8}{Lastname}#=%=#Young
+Author{8}{Email}#=%=#sjy@eng.cam.ac.uk
+Author{8}{Affiliation}#=%=#Cambridge University
+
+==========

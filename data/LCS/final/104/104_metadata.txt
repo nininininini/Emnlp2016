@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#104
+FinalPaperTitle#=%=#Columbia-Jadavpur submission for EMNLP 2016 Code-Switching Workshop Shared Task: System description
+ShortPaperTitle#=%=#Columbia-Jadavpur Shared Task system
+NumberOfPages#=%=#4
+CopyrightSigned#=%=#Arunavha Chanda
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe our present system for language identification as a part of the
+EMNLP 2016 Shared Task. We were provided with the Spanish-English corpus
+composed of tweets. We have employed a predictor-corrector algorithm to
+accomplish the goals of this shared task and analyzed the results obtained.
+Author{1}{Firstname}#=%=#Arunavha
+Author{1}{Lastname}#=%=#Chanda
+Author{1}{Email}#=%=#a.chanda@columbia.edu
+Author{1}{Affiliation}#=%=#Columbia University
+Author{2}{Firstname}#=%=#Dipankar
+Author{2}{Lastname}#=%=#Das
+Author{2}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{2}{Affiliation}#=%=#Jadavpur University
+Author{3}{Firstname}#=%=#Chandan
+Author{3}{Lastname}#=%=#Mazumdar
+Author{3}{Email}#=%=#chandanm@cse.jdvu.ac.in
+Author{3}{Affiliation}#=%=#Jadavpur University
+
+==========

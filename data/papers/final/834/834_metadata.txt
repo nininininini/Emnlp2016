@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#834
+FinalPaperTitle#=%=#Weakly Supervised Tweet Stance Classification by Relational Bootstrapping
+ShortPaperTitle#=%=#Weakly Supervised Tweet Stance Classification by Relational Bootstrapping
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Javid Ebrahimi
+JobTitle#==#
+Organization#==#University of Oregon. Eugene, Oregon 97403, USA
+Abstract#==#Supervised stance classification, in such domains as Congressional debates and
+online forums, has been a topic of interest in the past decade. Approaches have
+evolved from text classification to structured output prediction, including
+collective classification and sequence labeling. In this work, we investigate
+collective classification of stances on Twitter, using hinge-loss Markov random
+fields (HL-MRFs). Given the graph of all posts, users, and their relationships,
+we constrain the predicted post labels and latent user labels to correspond
+with the network structure. We focus on a weakly supervised setting, in which
+only a small set of hashtags or phrases is labeled. Using our relational
+approach, we are able to go beyond the stance-indicative patterns and harvest
+more stance-indicative tweets, which can also be used to train any linear text
+classifier when the network structure is not available or is costly.
+Author{1}{Firstname}#=%=#Javid
+Author{1}{Lastname}#=%=#Ebrahimi
+Author{1}{Email}#=%=#jebivid@gmail.com
+Author{1}{Affiliation}#=%=#University of Oregon
+Author{2}{Firstname}#=%=#Dejing
+Author{2}{Lastname}#=%=#Dou
+Author{2}{Email}#=%=#dou@cs.uoregon.edu
+Author{2}{Affiliation}#=%=#University of Oregon
+Author{3}{Firstname}#=%=#Daniel
+Author{3}{Lastname}#=%=#Lowd
+Author{3}{Email}#=%=#lowd@cs.uoregon.edu
+Author{3}{Affiliation}#=%=#University of Oregon
+
+==========

@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#826
+FinalPaperTitle#=%=#Modeling Skip-Grams for Event Detection with Convolutional Neural Networks
+ShortPaperTitle#=%=#Modeling Skip-Grams for Event Detection with Convolutional Neural Networks
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Thien Huu Nguyen
+JobTitle#==#
+Organization#==#Computer Science Department,
+New York University,
+251 Mercer Street
+Room 305
+New York, NY 10012, USA
+Abstract#==#Convolutional neural networks (CNN) have achieved the top performance for event
+detection due to their capacity to induce the underlying structures of the
+$k$-grams in the sentences. However, the current CNN-based event detectors only
+model the consecutive $k$-grams and ignore the non-consecutive $k$-grams that
+might involve important structures for event detection. In this work, we
+propose to improve the current CNN models for ED by introducing the
+non-consecutive convolution. Our systematic evaluation on both the general
+setting and the domain adaptation setting demonstrates the effectiveness of the
+non-consecutive CNN model, leading to the significant performance improvement
+over the current state-of-the-art systems.
+Author{1}{Firstname}#=%=#Thien Huu
+Author{1}{Lastname}#=%=#Nguyen
+Author{1}{Email}#=%=#thien@cs.nyu.edu
+Author{1}{Affiliation}#=%=#New York University
+Author{2}{Firstname}#=%=#Ralph
+Author{2}{Lastname}#=%=#Grishman
+Author{2}{Email}#=%=#grishman@cs.nyu.edu
+Author{2}{Affiliation}#=%=#New York University
+
+==========

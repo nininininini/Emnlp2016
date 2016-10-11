@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1239
+FinalPaperTitle#=%=#Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
+ShortPaperTitle#=%=#Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#published through TACL - Tim Althoff
+JobTitle#==#
+Organization#==#Stanford University
+Abstract#==#Mental illness is one of the most pressing public health issues of our time.
+While counseling and psychotherapy can be effective treatments, our knowledge
+about how to conduct successful counseling conversations has been limited due
+to lack of large-scale data with labeled outcomes of the conversations. In this
+paper, we present a large-scale, quantitative study on the discourse of
+text-message-based counseling conversations. We develop a set of novel
+computational discourse analysis methods to measure how various linguistic
+aspects of conversations are correlated with conversation outcomes. Applying
+techniques such as sequence-based conversation models, language model
+comparisons, message clustering, and psycholinguistics-inspired word frequency
+analyses, we discover actionable conversation strategies that are associated
+with better conversation outcomes.
+Author{1}{Firstname}#=%=#Tim
+Author{1}{Lastname}#=%=#Althoff
+Author{1}{Email}#=%=#althoff@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Clark
+Author{2}{Email}#=%=#kevclark@cs.stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Jure
+Author{3}{Lastname}#=%=#Leskovec
+Author{3}{Email}#=%=#jure@cs.stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#492
+FinalPaperTitle#=%=#Memory-enhanced Decoder for Neural Machine Translation
+ShortPaperTitle#=%=#Memory-enhanced Decoder for Neural Machine Translation
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#mingxuan wang
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose to enhance the RNN decoder in a neural machine translator (NMT) with
+external memory, as a natural but powerful extension to the state in the
+decoding RNN. This memory-enhanced RNN decoder is called \textsc{MemDec}. At
+each time during decoding, \textsc{MemDec} will read from this memory and write
+to this memory once, both with content-based addressing. Unlike the unbounded
+memory in previous work\cite{RNNsearch} to store the representation of source
+sentence, the memory in \textsc{MemDec} is a matrix with pre-determined size
+designed to better capture the information important for the decoding process
+at each time step. Our empirical study on Chinese-English translation shows
+that it can improve by $4.8$ BLEU upon Groundhog and $5.3$ BLEU upon on Moses,
+yielding the best performance achieved with the same training set.
+Author{1}{Firstname}#=%=#Mingxuan
+Author{1}{Lastname}#=%=#Wang
+Author{1}{Email}#=%=#wangmingxuan@ict.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Zhengdong
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#lu.zhengdong@huawei.com
+Author{2}{Affiliation}#=%=#Noah's Ark Lab, Huawei
+Author{3}{Firstname}#=%=#Hang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#HangLi.HL@huawei.com
+Author{3}{Affiliation}#=%=#Noah's Ark lab, Huawei
+Author{4}{Firstname}#=%=#Qun
+Author{4}{Lastname}#=%=#Liu
+Author{4}{Email}#=%=#liuqun@ict.ac.cn
+Author{4}{Affiliation}#=%=#Institute of Computing Technology, Chinese Academy of Sciences
+
+==========

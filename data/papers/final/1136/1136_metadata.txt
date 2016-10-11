@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#1136
+FinalPaperTitle#=%=#Unsupervised Text Recap Extraction for TV Series
+ShortPaperTitle#=%=#Unsupervised Text Recap Extraction for TV Series
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hongliang Yu
+JobTitle#==#
+Organization#==#
+Abstract#==#Sequences found at the beginning of TV shows help the audience absorb the
+essence of previous episodes, and grab their attention with upcoming plots. In
+this paper, we propose a novel task, text recap extraction. Compared with
+conventional summarization, text recap extraction captures the duality of
+summarization and plot contingency between adjacent episodes. We present a new
+dataset, TVRecap, for text recap extraction on TV shows. We propose an
+unsupervised model that identifies text recaps based on plot descriptions. We
+introduce two contingency factors, concept coverage and sparse reconstruction,
+that encourage recaps to prompt the upcoming story development. We also propose
+a multi-view extension of our model which can incorporate dialogues and
+synopses. We conduct extensive experiments on TVRecap, and conclude that our
+model outperforms summarization approaches.
+Author{1}{Firstname}#=%=#Hongliang
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#yuhongliang@cs.cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Shikun
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#shikunz@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Louis-Philippe
+Author{3}{Lastname}#=%=#Morency
+Author{3}{Email}#=%=#morency@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+
+==========

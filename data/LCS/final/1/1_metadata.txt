@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1
+FinalPaperTitle#=%=#Simple Tools for Exploring Variation in Code-switching for Linguists
+ShortPaperTitle#=%=#Simple Tools for Exploring Variation in CS
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Gualberto Guzman
+JobTitle#==#
+Organization#==#University of Texas at Austin
+Abstract#==#One of the benefits of language identification that is particularly relevant
+for code-switching (CS) research is that it permits insight into how the
+languages are mixed (i.e., the level of integration of the languages). The aim
+of this paper is to quantify and visualize the nature of the integration of
+languages in CS documents using simple language-independent metrics that can be
+adopted by linguists. In our contribution, we (a) make a linguistic case for
+classifying CS types according to how the languages are integrated; (b)
+describe our language identification system; (c) introduce an Integration-index
+(I-index) derived from HMM transition probabilities; (d) employ methods for
+visualizing integration via a language signature (or switching profile); and
+(e) illustrate the utility of our simple metrics for linguists as applied to
+Spanish-English texts of different switching profiles.
+Author{1}{Firstname}#=%=#Gualberto A.
+Author{1}{Lastname}#=%=#Guzman
+Author{1}{Email}#=%=#gualbertoguzman@utexas.edu
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Jacqueline
+Author{2}{Lastname}#=%=#Serigos
+Author{2}{Email}#=%=#jserigos@utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+Author{3}{Firstname}#=%=#Barbara E.
+Author{3}{Lastname}#=%=#Bullock
+Author{3}{Email}#=%=#bbullock@austin.utexas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Austin
+Author{4}{Firstname}#=%=#Almeida Jacqueline
+Author{4}{Lastname}#=%=#Toribio
+Author{4}{Email}#=%=#toribio@austin.utexas.edu
+Author{4}{Affiliation}#=%=#University of Texas at Austin
+
+==========

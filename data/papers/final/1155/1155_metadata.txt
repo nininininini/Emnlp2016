@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1155
+FinalPaperTitle#=%=#Measuring the behavioral impact of machine translation quality improvements with A/B testing
+ShortPaperTitle#=%=#Measuring the behavioral impact of machine translation quality improvements with A/B testing
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Duncan Gillespie
+JobTitle#==#
+Organization#==#Etsy, Inc
+20 California St, Floor 3
+San Francisco, CA 94103
+Abstract#==#In this paper we discuss a process for quantifying the behavioral impact of a
+domain-customized machine translation system deployed on a large-scale
+e-commerce platform. We discuss several machine translation systems that we
+trained using aligned text from product listing descriptions written in
+multiple languages. We document the quality improvements of these systems as
+measured through automated quality measures and crowdsourced human quality
+assessments. We then measure the effect of these quality improvements on user
+behavior using an automated A/B testing framework. Through testing we observed
+an increase in key e-commerce metrics, including a significant increase in
+purchases.
+Author{1}{Firstname}#=%=#Ben
+Author{1}{Lastname}#=%=#Russell
+Author{1}{Email}#=%=#brussell@etsy.com
+Author{1}{Affiliation}#=%=#Etsy, Inc.
+Author{2}{Firstname}#=%=#Duncan
+Author{2}{Lastname}#=%=#Gillespie
+Author{2}{Email}#=%=#dgillespie@etsy.com
+Author{2}{Affiliation}#=%=#Etsy, Inc
+
+==========

@@ -1,0 +1,25 @@
+SubmissionNumber#=%=#215
+FinalPaperTitle#=%=#Personalized Emphasis Framing for Persuasive Message Generation
+ShortPaperTitle#=%=#Personalized Emphasis Framing for Persuasive Message Generation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Tao Ding
+JobTitle#==#
+Organization#==#University of Maryland Baltimore County, 1000 Hilltop Cir, Baltimore, MD 21250, USA
+Abstract#==#In this paper, we present a study on personalized emphasis framing which can be
+used to tailor the content of a message to enhance its appeal to different
+individuals. With this framework, we directly model content selection decisions
+based on a set of psychologically-motivated domain-independent personal traits
+including personality (e.g., extraversion and conscientiousness)  and basic
+human values (e.g.,  self-transcendence and hedonism). We also demonstrate how
+the analysis results can be used in automated personalized content selection
+for persuasive message generation.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Ding
+Author{1}{Email}#=%=#taoding01@umbc.edu
+Author{1}{Affiliation}#=%=#University of Maryland Baltimore County
+Author{2}{Firstname}#=%=#Shimei
+Author{2}{Lastname}#=%=#Pan
+Author{2}{Email}#=%=#shimei@umbc.edu
+Author{2}{Affiliation}#=%=#University of Maryland Baltimore County
+
+==========

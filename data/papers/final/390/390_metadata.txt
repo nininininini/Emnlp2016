@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#390
+FinalPaperTitle#=%=#Solving and Generating Chinese Character Riddles
+ShortPaperTitle#=%=#Solving and Generating Chinese Character Riddles
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Chuanqi Tan
+JobTitle#==#Chuanqi Tan
+Organization#==#Beihang University
+XueYuan Road No.37, HaiDian District, BeiJing, China, 100191
+Abstract#==#Chinese character riddle is a riddle game in which the riddle solution is a
+single Chinese character. It is closely connected with the shape, pronunciation
+or meaning of Chinese characters. The riddle description (sentence) is usually
+composed of phrases with rich linguistic phenomena (such as pun, simile, and
+metaphor), which are associated to different parts (namely radicals) of the
+solution character. In this paper, we propose a statistical framework to solve
+and generate Chinese character riddles. Specifically, we learn the alignments
+and rules to identify the metaphors between phrases in riddles and radicals in
+characters. Then, in the solving phase, we utilize a dynamic programming method
+to combine the identified metaphors to obtain candidate solutions. In the
+riddle generation phase, we use a template-based method and a replacement-based
+method to obtain candidate riddle descriptions. We then use Ranking SVM to
+rerank the candidates both in the solving and generation process. Experimental
+results in the solving task show that the proposed method outperform baseline
+methods. We also get very promising results in the generation task according to
+human judges.
+Author{1}{Firstname}#=%=#Chuanqi
+Author{1}{Lastname}#=%=#Tan
+Author{1}{Email}#=%=#tanchuanqi@nlsde.buaa.edu.cn
+Author{1}{Affiliation}#=%=#Beihang University
+Author{2}{Firstname}#=%=#Furu
+Author{2}{Lastname}#=%=#Wei
+Author{2}{Email}#=%=#fuwei@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research Asia
+Author{3}{Firstname}#=%=#Li
+Author{3}{Lastname}#=%=#Dong
+Author{3}{Email}#=%=#li.dong@ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Weifeng
+Author{4}{Lastname}#=%=#Lv
+Author{4}{Email}#=%=#lwf@buaa.edu.cn
+Author{4}{Affiliation}#=%=#Beihang University
+Author{5}{Firstname}#=%=#Ming
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Email}#=%=#mingzhou@microsoft.com
+Author{5}{Affiliation}#=%=#microsoft research asia
+
+==========

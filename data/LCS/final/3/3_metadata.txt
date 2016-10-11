@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#3
+FinalPaperTitle#=%=#Part-of-speech Tagging of Code-Mixed Social Media Text
+ShortPaperTitle#=%=#Part-of-speech Tagging of Code-Mixed Social Media Text
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Souvick Ghosh
+JobTitle#==#
+Organization#==#Jadavpur University,
+Kolkata, WB 700032, India
+Abstract#==#A common step in the processing of any text is the part-of-speech tagging of
+the input text. In this paper, we present an approach to tackle code-mixed text
+from three different languages Bengali, Hindi, and Tamil, apart from  English.
+Our system uses Conditional Random Field, a sequence learning method, which is
+useful to capture patterns of sequences containing code switching to tag each
+word with accurate part-of-speech information. We have used various
+pre-processing and post-processing modules to improve the performance of our
+system. The results were satisfactory, with a highest of 75.22% accuracy in
+Bengali-English mixed data. The methodology that we employed in the task can be
+used for any resource poor language. We adapted standard learning approaches
+that work well with scarce data. We have also ensured that the system is
+portable to different platforms and languages and can be deployed for real-time
+analysis.
+Author{1}{Firstname}#=%=#Souvick
+Author{1}{Lastname}#=%=#Ghosh
+Author{1}{Email}#=%=#souvick.gh@gmail.com
+Author{1}{Affiliation}#=%=#Jadavpur University
+Author{2}{Firstname}#=%=#Satanu
+Author{2}{Lastname}#=%=#Ghosh
+Author{2}{Email}#=%=#satanu.ghosh.94@gmail.com
+Author{2}{Affiliation}#=%=#Maulana Abul Kalam Azad University of Technology
+Author{3}{Firstname}#=%=#Dipankar
+Author{3}{Lastname}#=%=#Das
+Author{3}{Email}#=%=#dipankar.dipnil2005@gmail.com
+Author{3}{Affiliation}#=%=#Jadavpur University
+
+==========

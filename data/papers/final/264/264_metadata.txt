@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#264
+FinalPaperTitle#=%=#Emotion Distribution Learning from Texts
+ShortPaperTitle#=%=#Emotion Distribution Learning from Texts
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Deyu Zhou
+JobTitle#==#
+Organization#==#School of computer science and engineering, Southeast University, Nanjing, China
+Abstract#==#The advent of social media and its prosperity enable users to share their
+opinions and views. Understanding users' emotional states might provide the
+potential to create new business opportunities. Automatically identifying
+users' emotional states from their texts and classifying emotions into finite
+categories such as joy, anger, disgust, etc., can be considered as a text
+classification problem. However, it introduces a challenging learning scenario
+where multiple emotions with different intensities are often found in a single
+sentence. Moreover, some emotions co-occur more often while other emotions
+rarely co-exist. In this paper, we propose a novel approach based on emotion
+distribution learning in order to address the aforementioned issues. The key
+idea is to learn a  mapping function from sentences to their emotion
+distributions describing multiple emotions and their respective intensities.
+Moreover, the relations of emotions are captured based on the Plutchik's wheel
+of emotions and are subsequently incorporated into the learning algorithm in
+order to improve the accuracy of emotion detection. Experimental results show
+that the proposed approach can effectively deal with the emotion distribution
+detection problem and perform remarkably better than both the state-of-the-art
+emotion detection method and multi-label learning methods.
+Author{1}{Firstname}#=%=#Deyu
+Author{1}{Lastname}#=%=#ZHOU
+Author{1}{Email}#=%=#d.zhou@seu.edu.cn
+Author{1}{Affiliation}#=%=#School of computer science and engineering, Southeast University
+Author{2}{Firstname}#=%=#Xuan
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#xuanzhang@seu.edu.cn
+Author{2}{Affiliation}#=%=#School of Computer Science and Engineering, Southeast University
+Author{3}{Firstname}#=%=#Yin
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#zhouying1@seu.edu.cn
+Author{3}{Affiliation}#=%=#School of Computer Science and Engineering, Southeast University
+Author{4}{Firstname}#=%=#Quan
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#zhaoquan@seu.edu.cn
+Author{4}{Affiliation}#=%=#School of Computer Science and Engineering, Southeast University
+Author{5}{Firstname}#=%=#Xin
+Author{5}{Lastname}#=%=#Geng
+Author{5}{Email}#=%=#xgeng@seu.edu.cn
+Author{5}{Affiliation}#=%=#School of Computer Science and Engineering, Southeast University
+
+==========

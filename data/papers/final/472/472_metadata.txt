@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#472
+FinalPaperTitle#=%=#Fast Coupled Sequence Labeling on Heterogeneous Annotations via Context-aware Pruning
+ShortPaperTitle#=%=#Fast Coupled Sequence Labeling on Heterogeneous Annotations via Context-aware Pruning
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zhenghua Li
+JobTitle#==#
+Organization#==#
+Abstract#==#The recently proposed coupled sequence labeling is shown to be able to
+effectively exploit multiple labeled data with heterogeneous annotations but
+suffer from severe inefficiency problem due to the large bundled tag space (Li
+et al., 2015). In their case study of part-of-speech (POS) tagging,  Li et al.
+(2015) manually design context-free tag-to-tag mapping rules with a lot of
+effort to reduce the tag space. 
+
+This paper proposes a context-aware pruning approach that performs token-wise
+constraints on the tag space based on contextual evidences, making the coupled
+approach efficient enough to be applied to the more complex task of joint word
+segmentation (WS) and POS tagging for the first time. Experiments show that
+using the large-scale People Daily as auxiliary heterogeneous data, the coupled
+approach can improve F-score by 95.55-94.88=0.67\% on WS, and by
+90.58-89.49=1.09\% on joint WS\&POS on Penn Chinese Treebank.
+Author{1}{Firstname}#=%=#Zhenghua
+Author{1}{Lastname}#=%=#Li
+Author{1}{Email}#=%=#zhli13@suda.edu.cn
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Jiayuan
+Author{2}{Lastname}#=%=#Chao
+Author{2}{Email}#=%=#china_cjy@163.com
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Min
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#minzhang@suda.edu.cn
+Author{3}{Affiliation}#=%=#Suda
+Author{4}{Firstname}#=%=#Jiwen
+Author{4}{Lastname}#=%=#Yang
+Author{4}{Email}#=%=#jwyang@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+
+==========

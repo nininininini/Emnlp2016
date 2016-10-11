@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#106
+FinalPaperTitle#=%=#Codeswitching Detection via Lexical Features in Conditional Random Fields
+ShortPaperTitle#=%=#Codeswitching Detection via Lexical Features in Conditional Random Fields
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Prajwol Shrestha
+JobTitle#==#
+Organization#==#Verscend Technologies Pvt. Ltd.
+Abstract#==#Half of the world's population is estimated to be at least bilingual. Due to
+this fact many people use multiple languages interchangeably for effective
+communication. At the Second Workshop on Computational Approaches to Code
+Switching, we are presented with a task to label codeswitched, Spanish-English
+(ES-EN) and Modern Standard Arabic-Dialect Arabic (MSA-DA), tweets. We built a
+Conditional Random Fields (CRF) based system using well-rounded features to
+capture not only the two languages but also the other classes. On the
+Spanish-English(ES-EN) classification task, we obtained weighted F1-score of
+0.88 on the tweet level and an accuracy of 96.5% on the token level. On the
+MSA-DA classification task, our system managed to obtain F1-score of 0.66 on
+tweet level and overall token level accuracy of 74.7%.
+Author{1}{Firstname}#=%=#Prajwol
+Author{1}{Lastname}#=%=#Shrestha
+Author{1}{Email}#=%=#prajwol.shrestha18@gmail.com
+Author{1}{Affiliation}#=%=#Kathmandu University, Dhulikhel , Nepal
+
+==========

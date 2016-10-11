@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#464
+FinalPaperTitle#=%=#Antecedent Selection for Sluicing: Structure and Content
+ShortPaperTitle#=%=#Antecedent Selection for Sluicing: Structure and Content
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Pranav Anand
+JobTitle#==#
+Organization#==#Stevenson Academic Services
+UC Santa Cruz
+1156 High St.
+Santa Cruz, CA 95064
+Abstract#==#Sluicing is an elliptical process where the majority of a question
+    can go unpronounced as long as there is a salient antecedent in
+    previous discourse. This paper considers the task of antecedent
+    selection: finding the correct antecedent for a given case of
+    sluicing. We argue that both syntactic and discourse relationships
+    are important in antecedent selection, and we construct
+    linguistically sophisticated features that describe the relevant
+    relationships. We also define features that describe the relation
+    of the content of the antecedent and the sluice type. We develop a
+    linear model which achieves accuracy of 72.4\%, a substantial
+    improvement over a strong manually constructed baseline.
+    Feature analysis confirms that both syntactic and discourse
+    features are important in antecedent selection.
+Author{1}{Firstname}#=%=#Pranav
+Author{1}{Lastname}#=%=#Anand
+Author{1}{Email}#=%=#panand@ucsc.edu
+Author{1}{Affiliation}#=%=#University of California, Santa Cruz
+Author{2}{Firstname}#=%=#Daniel
+Author{2}{Lastname}#=%=#Hardt
+Author{2}{Email}#=%=#dh.itm@cbs.dk
+Author{2}{Affiliation}#=%=#Copenhagen Business School
+
+==========

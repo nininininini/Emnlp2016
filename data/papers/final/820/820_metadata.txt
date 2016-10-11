@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#820
+FinalPaperTitle#=%=#Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser
+ShortPaperTitle#=%=#Distilling an Ensemble of Greedy Dependency Parsers into One MST Parser
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Adhiguna Kuncoro
+JobTitle#==#
+Organization#==#Carnegie Mellon University
+Abstract#==#We introduce two first-order graph-based dependency parsers achieving a new
+state of the art. The first is a consensus parser built from an ensemble of
+independently trained greedy LSTM transition-based parsers with different
+random initializations. We cast this approach as minimum Bayes risk decoding
+(under the Hamming cost) and argue that weaker consensus within the ensemble is
+a useful signal of difficulty or ambiguity. The second parser is a
+“distillation” of the ensemble into a single model. We train the
+distillation parser using a structured hinge loss objective with a novel cost
+that incorporates ensemble uncertainty estimates for each possible attachment,
+thereby avoiding the intractable cross-entropy computations required by
+applying standard distillation objectives to problems with structured outputs.
+The first-order distillation parser matches or surpasses the state of the art
+on English, Chinese, and German.
+Author{1}{Firstname}#=%=#Adhiguna
+Author{1}{Lastname}#=%=#Kuncoro
+Author{1}{Email}#=%=#adhiguna.kuncoro@gmail.com
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Miguel
+Author{2}{Lastname}#=%=#Ballesteros
+Author{2}{Email}#=%=#miguel.ballesteros@upf.edu
+Author{2}{Affiliation}#=%=#Pompeu Fabra University
+Author{3}{Firstname}#=%=#Lingpeng
+Author{3}{Lastname}#=%=#Kong
+Author{3}{Email}#=%=#lingpenk@cs.cmu.edu
+Author{3}{Affiliation}#=%=#Carnegie Mellon University
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Dyer
+Author{4}{Email}#=%=#cdyer@google.com
+Author{4}{Affiliation}#=%=#Google DeepMind
+Author{5}{Firstname}#=%=#Noah A.
+Author{5}{Lastname}#=%=#Smith
+Author{5}{Email}#=%=#nasmith@cs.washington.edu
+Author{5}{Affiliation}#=%=#University of Washington
+
+==========

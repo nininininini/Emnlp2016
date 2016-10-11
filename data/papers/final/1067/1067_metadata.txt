@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#1067
+FinalPaperTitle#=%=#Evaluating Induced CCG Parsers on Grounded Semantic Parsing
+ShortPaperTitle#=%=#Evaluating Induced CCG Parsers on Grounded Semantic Parsing
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Yonatan Bisk
+JobTitle#==#
+Organization#==#
+Abstract#==#We compare the effectiveness of four different syntactic CCG parsers for a
+semantic slot-filling task to explore how much syntactic supervision is
+required for downstream semantic analysis.  This extrinsic, task-based
+evaluation also provides a unique window into the semantics captured (or
+missed) by unsupervised grammar induction systems.
+Author{1}{Firstname}#=%=#Yonatan
+Author{1}{Lastname}#=%=#Bisk
+Author{1}{Email}#=%=#ybisk@isi.edu
+Author{1}{Affiliation}#=%=#ISI/USC
+Author{2}{Firstname}#=%=#Siva
+Author{2}{Lastname}#=%=#Reddy
+Author{2}{Email}#=%=#siva.reddy@ed.ac.uk
+Author{2}{Affiliation}#=%=#University of Edinburgh
+Author{3}{Firstname}#=%=#John
+Author{3}{Lastname}#=%=#Blitzer
+Author{3}{Email}#=%=#blitzer@google.com
+Author{3}{Affiliation}#=%=#
+Author{4}{Firstname}#=%=#Julia
+Author{4}{Lastname}#=%=#Hockenmaier
+Author{4}{Email}#=%=#juliahmr@illinois.edu
+Author{4}{Affiliation}#=%=#University of Illinois Urbana-Champaign
+Author{5}{Firstname}#=%=#Mark
+Author{5}{Lastname}#=%=#Steedman
+Author{5}{Email}#=%=#steedman@inf.ed.ac.uk
+Author{5}{Affiliation}#=%=#University of Edinburgh
+
+==========

@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#394
+FinalPaperTitle#=%=#Structured prediction models for RNN based sequence labeling in clinical text
+ShortPaperTitle#=%=#Structured prediction models for RNN based sequence labeling in clinical text
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#ANJ
+JobTitle#==#
+Organization#==#CICS, UMass Amherst
+Abstract#==#Sequence labeling is a widely used method for named entity recognition and
+information extraction from unstructured natural language data. In the clinical
+domain one major application of sequence labeling involves extraction of
+relevant entities such as medication, indication, and side-effects from
+Electronic Health Record Narratives. Sequence labeling in this domain presents
+its own set of challenges and objectives. In this work we experiment with
+Conditional Random Field based structured learning models with Recurrent Neural
+Networks. We extend the previously studied CRF-LSTM model with explicit
+modeling of pairwise potentials. We also propose an approximate version of
+skip-chain CRF inference with RNN potentials. We use these methods for
+structured prediction in order to improve the exact phrase detection of
+clinical entities.
+Author{1}{Firstname}#=%=#Abhyuday
+Author{1}{Lastname}#=%=#Jagannatha
+Author{1}{Email}#=%=#abhyuday@cs.umass.edu
+Author{1}{Affiliation}#=%=#College of Information and Computer Sciences , UMass AMherst
+Author{2}{Firstname}#=%=#hong
+Author{2}{Lastname}#=%=#yu
+Author{2}{Email}#=%=#hong.yu@umassmed.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts Medical School
+
+==========

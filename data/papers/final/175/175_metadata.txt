@@ -1,0 +1,44 @@
+SubmissionNumber#=%=#175
+FinalPaperTitle#=%=#Speculation and Negation Scope Detection via Convolutional Neural Networks
+ShortPaperTitle#=%=#Speculation and Negation Scope Detection via Convolutional Neural Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Qian Zhong
+JobTitle#==#
+Organization#==#Soochow University
+1st Shizi Street, Gusu Area, Suzhou, Jiangsu, China, 215006
+Abstract#==#Speculation and negation are important in-formation to identify text
+factuality. In this paper, we propose a Convolutional Neural Network
+(CNN)-based model with probabil-istic weighted average pooling to address
+speculation and negation scope detection. In particular, our CNN-based model
+extracts those meaningful features from various syn-tactic paths between the
+cues and the candi-date tokens in both constituency and depen-dency parse
+trees. Evaluation on BioScope shows that our CNN-based model significant-ly
+outperforms the state-of-the-art systems on Abstracts, a sub-corpus in
+BioScope, and achieves comparable performances on Clini-cal Records, another
+sub-corpus in BioScope.
+Author{1}{Firstname}#=%=#Zhong
+Author{1}{Lastname}#=%=#Qian
+Author{1}{Email}#=%=#qianzhongqz@163.com
+Author{1}{Affiliation}#=%=#Soochow University
+Author{2}{Firstname}#=%=#Peifeng
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#pfli@suda.edu.cn
+Author{2}{Affiliation}#=%=#Soochow University
+Author{3}{Firstname}#=%=#Qiaoming
+Author{3}{Lastname}#=%=#Zhu
+Author{3}{Email}#=%=#qmzhu@suda.edu.cn
+Author{3}{Affiliation}#=%=#Soochow University
+Author{4}{Firstname}#=%=#Guodong
+Author{4}{Lastname}#=%=#Zhou
+Author{4}{Email}#=%=#gdzhou@suda.edu.cn
+Author{4}{Affiliation}#=%=#Soochow University
+Author{5}{Firstname}#=%=#Zhunchen
+Author{5}{Lastname}#=%=#Luo
+Author{5}{Email}#=%=#zhunchenluo@gmail.com
+Author{5}{Affiliation}#=%=#China Defense Science and Technology Information Center
+Author{6}{Firstname}#=%=#Wei
+Author{6}{Lastname}#=%=#Luo
+Author{6}{Email}#=%=#htqxjj@126.com
+Author{6}{Affiliation}#=%=#China Defense Science and Technology Information Center
+
+==========

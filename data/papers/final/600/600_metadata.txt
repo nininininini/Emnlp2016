@@ -1,0 +1,54 @@
+SubmissionNumber#=%=#600
+FinalPaperTitle#=%=#Multi-view Response Selection for Human-Computer Conversation
+ShortPaperTitle#=%=#Multi-view Response Selection for Human-Computer Conversation
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Xiangyang Zhou
+JobTitle#==#
+Organization#==#Baidu Inc., 
+No. 10 Xibeiwang East Road,
+Beijing 100193, China
+Abstract#==#In this paper, we study the task of response selection for multi-turn
+human-computer conversation. Previous approaches take word as a unit and view
+context and response as sequences of words. This kind of approaches do not
+explicitly take each utterance as a unit, therefore it is difficult to catch
+utterance-level discourse information and dependencies. In this paper, we
+propose a multi-view response selection model that integrates information from
+two different views, i.e., word sequence view and utterance sequence view. We
+jointly model the two views via deep neural networks. Experimental results on a
+public corpus for context-sensitive response selection demonstrate the
+effectiveness of the proposed multi-view model, which significantly outperforms
+other single-view baselines.
+Author{1}{Firstname}#=%=#Xiangyang
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#zhouxiangyang@baidu.com
+Author{1}{Affiliation}#=%=#Baidu Inc.
+Author{2}{Firstname}#=%=#Daxiang
+Author{2}{Lastname}#=%=#Dong
+Author{2}{Email}#=%=#dongdaxiang@baidu.com
+Author{2}{Affiliation}#=%=#Baidu Inc.
+Author{3}{Firstname}#=%=#Hua
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#wu_hua@baidu.com
+Author{3}{Affiliation}#=%=#Baidu
+Author{4}{Firstname}#=%=#Shiqi
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#zhaoshiqi@baidu.com
+Author{4}{Affiliation}#=%=#Baidu
+Author{5}{Firstname}#=%=#Dianhai
+Author{5}{Lastname}#=%=#Yu
+Author{5}{Email}#=%=#yudianhai@baidu.com
+Author{5}{Affiliation}#=%=#Baidu Inc.
+Author{6}{Firstname}#=%=#Hao
+Author{6}{Lastname}#=%=#Tian
+Author{6}{Email}#=%=#tianhao@baidu.com
+Author{6}{Affiliation}#=%=#Baidu Inc.
+Author{7}{Firstname}#=%=#Xuan
+Author{7}{Lastname}#=%=#Liu
+Author{7}{Email}#=%=#liuxuan@baidu.com
+Author{7}{Affiliation}#=%=#Baidu Inc.
+Author{8}{Firstname}#=%=#Rui
+Author{8}{Lastname}#=%=#Yan
+Author{8}{Email}#=%=#yanrui02@baidu.com
+Author{8}{Affiliation}#=%=#Baidu Inc.
+
+==========

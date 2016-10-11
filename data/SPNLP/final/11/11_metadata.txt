@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#11
+FinalPaperTitle#=%=#Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)
+ShortPaperTitle#=%=#Inside-Outside and Forward-Backward Algorithms Are Just Backprop
+NumberOfPages#=%=#17
+CopyrightSigned#=%=#Jason Eisner
+JobTitle#==#
+Organization#==#Johns Hopkins University
+3400 N. Charles St.
+Baltimore, MD 21218
+Abstract#==#A probabilistic or weighted grammar implies a posterior probability
+distribution over possible parses of a given input sentence.  One often needs
+to extract information from this distribution, by computing the expected counts
+(in the unknown parse) of various grammar rules, constituents, transitions, or
+states.  This requires an algorithm such as inside-outside or forward-backward
+that is tailored to the grammar formalism.  Conveniently, each such algorithm
+can be obtained by automatically differentiating an ``inside''                       
+     
+
+algorithm
+that
+merely computes the log-probability of the evidence (the sentence).  This
+mechanical procedure produces correct and efficient code.  As for any other
+instance of back-propagation, it can be carried out manually or by software. 
+This pedagogical paper carefully spells out the construction and relates it to
+traditional and non-traditional views of these algorithms.
+Author{1}{Firstname}#=%=#Jason
+Author{1}{Lastname}#=%=#Eisner
+Author{1}{Email}#=%=#jason@cs.jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+
+==========

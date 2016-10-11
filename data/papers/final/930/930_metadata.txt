@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#930
+FinalPaperTitle#=%=#Jointly Learning Grounded Task Structures from Language Instruction and Visual Demonstration
+ShortPaperTitle#=%=#Jointly Learning Grounded Task Structures from Language Instruction and Visual Demonstration
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Shaohua Yang
+JobTitle#==#
+Organization#==#
+Abstract#==#To enable language-based communication and collaboration with cognitive robots,
+this paper presents an approach where an agent can learn task models jointly
+from language instruction and visual demonstration using an And-Or Graph (AoG)
+representation. The learned AoG captures a hierarchical task structure where
+linguistic labels (for language communication) are grounded to corresponding
+state changes from the physical environment (for perception and action). Our
+empirical results on a cloth-folding domain have shown that, although state
+detection through visual processing is full of uncertainties and error prone,
+by a tight integration with language the agent is able to learn an effective
+AoG for task representation. The learned AoG can be further applied to infer
+and interpret on-going actions from new visual demonstration using linguistic
+labels at different levels of granularity.
+Author{1}{Firstname}#=%=#Changsong
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#cliu@cse.msu.edu
+Author{1}{Affiliation}#=%=#Michigan State University
+Author{2}{Firstname}#=%=#Shaohua
+Author{2}{Lastname}#=%=#Yang
+Author{2}{Email}#=%=#yangshao@cse.msu.edu
+Author{2}{Affiliation}#=%=#Michigan State University
+Author{3}{Firstname}#=%=#Sari
+Author{3}{Lastname}#=%=#Saba-Sadiya
+Author{3}{Email}#=%=#sadiyasa@cse.msu.edu
+Author{3}{Affiliation}#=%=#Michigan State University
+Author{4}{Firstname}#=%=#Nishant
+Author{4}{Lastname}#=%=#Shukla
+Author{4}{Email}#=%=#shukla@cs.ucla.edu
+Author{4}{Affiliation}#=%=#University of California, Los Angeles
+Author{5}{Firstname}#=%=#Yunzhong
+Author{5}{Lastname}#=%=#He
+Author{5}{Email}#=%=#yunzhong@cs.ucla.edu
+Author{5}{Affiliation}#=%=#University of California, Los Angeles
+Author{6}{Firstname}#=%=#Song-chun
+Author{6}{Lastname}#=%=#Zhu
+Author{6}{Email}#=%=#sczhu@stat.ucla.edu
+Author{6}{Affiliation}#=%=#University of California, Los Angeles
+Author{7}{Firstname}#=%=#Joyce
+Author{7}{Lastname}#=%=#Chai
+Author{7}{Email}#=%=#jchai@cse.msu.edu
+Author{7}{Affiliation}#=%=#Michigan State University
+
+==========

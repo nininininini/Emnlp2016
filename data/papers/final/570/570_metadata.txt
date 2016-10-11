@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#570
+FinalPaperTitle#=%=#Porting an Open Information Extraction System from English to German
+ShortPaperTitle#=%=#Porting an Open Information Extraction System from English to German
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Tobias Falke
+JobTitle#==#
+Organization#==#
+Abstract#==#Many downstream NLP tasks can benefit from Open Information Extraction (Open
+IE) as a semantic representation. While Open IE systems are available for
+English, many other languages lack such tools. In this paper, we present a
+straightforward approach for adapting PropS, a rule-based predicate-argument
+analysis for English, to a new language, German. With this approach, we quickly
+obtain an Open IE system for German covering 89% of the English rule set. It
+yields 1.6 n-ary extractions per sentence at 60% precision, making it
+comparable to systems for English and readily usable in downstream
+applications.
+Author{1}{Firstname}#=%=#Tobias
+Author{1}{Lastname}#=%=#Falke
+Author{1}{Email}#=%=#falke@aiphes.tu-darmstadt.de
+Author{1}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{2}{Firstname}#=%=#Gabriel
+Author{2}{Lastname}#=%=#Stanovsky
+Author{2}{Email}#=%=#gabriel.satanovsky@gmail.com
+Author{2}{Affiliation}#=%=#Bar Ilan University
+Author{3}{Firstname}#=%=#Iryna
+Author{3}{Lastname}#=%=#Gurevych
+Author{3}{Email}#=%=#gurevych@ukp.informatik.tu-darmstadt.de
+Author{3}{Affiliation}#=%=#UKP Lab, Technische Universität Darmstadt
+Author{4}{Firstname}#=%=#Ido
+Author{4}{Lastname}#=%=#Dagan
+Author{4}{Email}#=%=#dagan@cs.biu.ac.il
+Author{4}{Affiliation}#=%=#Bar-Ilan University
+
+==========

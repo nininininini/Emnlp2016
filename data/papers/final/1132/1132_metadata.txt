@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#1132
+FinalPaperTitle#=%=#A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs
+ShortPaperTitle#=%=#A Dataset and Evaluation Metrics for Abstractive Compression
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Kristina Toutanova
+JobTitle#==#
+Organization#==#One Microsoft Way,
+Redmond, WA 98052
+Abstract#==#We introduce a manually-created, multi-reference dataset for abstractive
+sentence and short paragraph compression. First, we examine the impact of
+single- and multi-sentence level editing operations on human compression
+quality as found in this corpus. We observe that substitution and rephrasing
+operations are more meaning preserving than other operations, and that
+compressing in context improves quality. Second, we systematically explore the
+correlations between automatic evaluation metrics and human judgments of
+meaning preservation and grammaticality in the compression task, and analyze
+the impact of the linguistic units used and precision versus recall measures on
+the quality of the metrics. Multi-reference evaluation metrics are shown to
+offer significant advantage over single reference-based metrics.
+Author{1}{Firstname}#=%=#Kristina
+Author{1}{Lastname}#=%=#Toutanova
+Author{1}{Email}#=%=#kristout@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research
+Author{2}{Firstname}#=%=#Chris
+Author{2}{Lastname}#=%=#Brockett
+Author{2}{Email}#=%=#chrisbkt@microsoft.com
+Author{2}{Affiliation}#=%=#Microsoft Research
+Author{3}{Firstname}#=%=#Ke M.
+Author{3}{Lastname}#=%=#Tran
+Author{3}{Email}#=%=#m.k.tran@uva.nl
+Author{3}{Affiliation}#=%=#University of Amsterdam
+Author{4}{Firstname}#=%=#Saleema
+Author{4}{Lastname}#=%=#Amershi
+Author{4}{Email}#=%=#samershi@microsoft.com
+Author{4}{Affiliation}#=%=#Microsoft Research
+
+==========

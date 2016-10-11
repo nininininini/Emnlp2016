@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#817
+FinalPaperTitle#=%=#Improving Sparse Word Representations with Distributional Inference for Semantic Composition
+ShortPaperTitle#=%=#Improving Sparse Word Representations with Distributional Inference for Semantic Composition
+NumberOfPages#=%=#12
+CopyrightSigned#=%=#Thomas Kober
+JobTitle#==#
+Organization#==#University of Sussex
+Brighton BN1 9RH, United Kingdom
+Abstract#==#Distributional models are derived from co-occurrences in a corpus, where only a
+small proportion of all possible plausible co-occurrences will be observed.
+This results in a very sparse vector space, requiring a mechanism for inferring
+missing knowledge. Most methods face this challenge in ways that render the
+resulting word representations uninterpretable, with the consequence that
+semantic composition becomes hard to model. In this paper we explore an
+alternative which involves explicitly inferring unobserved co-occurrences using
+the distributional neighbourhood. We show that distributional inference
+improves sparse word representations on several word similarity benchmarks and
+demonstrate that our model is competitive with the state-of-the-art for
+adjective-noun, noun-noun and verb-object compositions while being fully
+interpretable.
+Author{1}{Firstname}#=%=#Thomas
+Author{1}{Lastname}#=%=#Kober
+Author{1}{Email}#=%=#thk22@sussex.ac.uk
+Author{1}{Affiliation}#=%=#University of Sussex
+Author{2}{Firstname}#=%=#Julie
+Author{2}{Lastname}#=%=#Weeds
+Author{2}{Email}#=%=#juliewe@sussex.ac.uk
+Author{2}{Affiliation}#=%=#University of Sussex
+Author{3}{Firstname}#=%=#Jeremy
+Author{3}{Lastname}#=%=#Reffin
+Author{3}{Email}#=%=#j.p.reffin@sussex.ac.uk
+Author{3}{Affiliation}#=%=#University of Sussex
+Author{4}{Firstname}#=%=#David
+Author{4}{Lastname}#=%=#Weir
+Author{4}{Email}#=%=#d.j.weir@sussex.ac.uk
+Author{4}{Affiliation}#=%=#University of Sussex
+
+==========

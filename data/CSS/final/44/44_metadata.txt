@@ -1,0 +1,22 @@
+SubmissionNumber#=%=#44
+FinalPaperTitle#=%=#News Sentiment and Cross-Country Fluctuations
+ShortPaperTitle#=%=#News Sentiment and Cross-Country Fluctuations
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#SAMUEL FRAIBERGER
+JobTitle#==#
+Organization#==#
+Abstract#==#What is the information content of news-based measures of sentiment? How are
+they related to aggregate economic fluctuations? I construct a sentiment index
+by measuring the net amount of positive expressions in the corpus of Economic
+news articles produced by Reuters over the period 1987 - 2013 and across 12
+countries. The index successfully tracks fluctuations in Gross Domestic Product
+(GDP) at the country level, is a leading indicator of GDP growth and contains
+information to help forecast GDP growth which is not captured by professional
+forecasts. This suggests that forecasters do not appropriately incorporate
+available information in predicting future states of the economy. .
+Author{1}{Firstname}#=%=#Samuel
+Author{1}{Lastname}#=%=#Fraiberger
+Author{1}{Email}#=%=#samuelfraiberger@gmail.com
+Author{1}{Affiliation}#=%=#Northeastern/Harvard
+
+==========

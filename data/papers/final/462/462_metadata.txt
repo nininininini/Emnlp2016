@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#462
+FinalPaperTitle#=%=#A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification
+ShortPaperTitle#=%=#A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#Lianhui Qin
+JobTitle#==#
+Organization#==#Shanghai Jiao Tong University, Shanghai, 200240, China
+Abstract#==#Discourse parsing is considered as one of the most challenging natural language
+processing (NLP) tasks. Implicit discourse relation classification is the
+bottleneck for discourse parsing. Without the guide of explicit discourse
+connectives, the relation of sentence pairs are very hard to be inferred.  This
+paper proposes a stacking neural network model to solve the classification
+problem in which a convolutional neural network (CNN) is utilized for sentence
+modeling and a collaborative gated neural network (CGNN) is proposed for
+feature transformation. 
+Our evaluation and comparisons show that the proposed model outperforms
+previous state-of-the-art systems.
+Author{1}{Firstname}#=%=#Lianhui
+Author{1}{Lastname}#=%=#Qin
+Author{1}{Email}#=%=#qinlianhui@sjtu.edu.cn
+Author{1}{Affiliation}#=%=#Department of Computer Science and Engineering, Shanghai Jiao Tong University
+Author{2}{Firstname}#=%=#Zhisong
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#zzs2011@sjtu.edu.cn
+Author{2}{Affiliation}#=%=#Shanghai Jiao Tong University
+Author{3}{Firstname}#=%=#Hai
+Author{3}{Lastname}#=%=#Zhao
+Author{3}{Email}#=%=#zhaohai@cs.sjtu.edu.cn
+Author{3}{Affiliation}#=%=#Shanghai Jiao Tong University
+
+==========

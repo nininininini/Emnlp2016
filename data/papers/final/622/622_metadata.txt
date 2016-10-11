@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#622
+FinalPaperTitle#=%=#Vector-space models for PPDB paraphrase ranking in context
+ShortPaperTitle#=%=#Vector-space models for PPDB paraphrase ranking in context
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Marianna Apidianaki
+JobTitle#==#
+Organization#==#
+Abstract#==#The PPDB is an automatically built database which contains millions of
+paraphrases in different languages. Paraphrases in this resource are associated
+with features that serve to their ranking and reflect paraphrase quality. This
+context-unaware ranking captures the semantic similarity of paraphrases but
+cannot serve to estimate their adequacy in specific contexts. We propose to use
+vector-space semantic models for selecting PPDB paraphrases that preserve the
+meaning of specific text fragments. This is the first work that addresses the
+substitutability of PPDB paraphrases in context. We show that vector-space
+models of meaning can be successfully applied to this task and increase the
+benefit brought by the use of the PPDB resource in applications.
+Author{1}{Firstname}#=%=#Marianna
+Author{1}{Lastname}#=%=#Apidianaki
+Author{1}{Email}#=%=#marianna.apidianaki@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS, University Paris-Saclay
+
+==========

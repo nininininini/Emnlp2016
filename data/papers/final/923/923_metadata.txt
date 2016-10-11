@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#923
+FinalPaperTitle#=%=#Word Ordering Without Syntax
+ShortPaperTitle#=%=#Word Ordering Without Syntax
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Allen Schmaltz
+JobTitle#==#
+Organization#==#Harvard University
+Abstract#==#Recent work on word ordering has argued that syntactic structure is important,
+or even required, for effectively recovering the order of a sentence. We find
+that, in fact, an n-gram language model with a simple heuristic gives strong
+results on this task. Furthermore, we show that a long short-term memory (LSTM)
+language model is even more effective at recovering order, with our basic model
+outperforming a state-of-the-art syntactic model by 11.5 BLEU points.
+Additional data and larger beams yield further gains, at the expense of
+training and search time.
+Author{1}{Firstname}#=%=#Allen
+Author{1}{Lastname}#=%=#Schmaltz
+Author{1}{Email}#=%=#schmaltz@fas.harvard.edu
+Author{1}{Affiliation}#=%=#Harvard University
+Author{2}{Firstname}#=%=#Alexander M.
+Author{2}{Lastname}#=%=#Rush
+Author{2}{Email}#=%=#srush@seas.harvard.edu
+Author{2}{Affiliation}#=%=#Harvard University
+Author{3}{Firstname}#=%=#Stuart
+Author{3}{Lastname}#=%=#Shieber
+Author{3}{Email}#=%=#shieber@seas.harvard.edu
+Author{3}{Affiliation}#=%=#
+
+==========

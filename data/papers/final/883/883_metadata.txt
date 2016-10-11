@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#883
+FinalPaperTitle#=%=#A Neural Approach to Automated Essay Scoring
+ShortPaperTitle#=%=#A Neural Approach to Automated Essay Scoring
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Kaveh Taghipour
+JobTitle#==#
+Organization#==#Department of Computer Science,
+National University of Singapore,
+13 Computing Drive,
+Singapore 117417
+Abstract#==#Traditional automated essay scoring systems rely on carefully designed features
+to evaluate and score essays. The performance of such systems is tightly bound
+to the quality of the underlying features. However, it is laborious to manually
+design the most informative features for such a system. In this paper, we
+develop an approach based on recurrent neural networks to learn the relation
+between an essay and its assigned score, without any feature engineering. We
+explore several neural network models for the task of automated essay scoring
+and perform some analysis to get some insights of the models. The results show
+that our best system, which is based on long short-term memory networks,
+outperforms a strong baseline by 5.6% in terms of quadratic weighted Kappa,
+without requiring any feature engineering.
+Author{1}{Firstname}#=%=#Kaveh
+Author{1}{Lastname}#=%=#Taghipour
+Author{1}{Email}#=%=#kaveh.taghipour@gmail.com
+Author{1}{Affiliation}#=%=#National University of Singapore
+Author{2}{Firstname}#=%=#Hwee Tou
+Author{2}{Lastname}#=%=#Ng
+Author{2}{Email}#=%=#nght@comp.nus.edu.sg
+Author{2}{Affiliation}#=%=#National University of Singapore
+
+==========

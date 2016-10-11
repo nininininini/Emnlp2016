@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#1240
+FinalPaperTitle#=%=#Comparing Apples to Apple: The Effects of Stemmers on Topic Models
+ShortPaperTitle#=%=#Comparing Apples to Apple: The Effects of Stemmers on Topic Models
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Alexandra Schofield
+JobTitle#==#
+Organization#==#Cornell University Dept of Computer Science
+Gates Hall
+Ithaca, NY 14850
+Abstract#==#Rule-based stemmers such as the Porter stemmer are frequently used to
+preprocess English corpora for topic modeling. In this work, we train and
+evaluate topic models on a variety of corpora using several different stemming
+algorithms. We examine several different quantitative measures of the resulting
+models, including likelihood, coherence, model stability, and entropy. Despite
+their frequent use in topic modeling, we find that stemmers produce no
+meaningful improvement in likelihood and coherence and in fact can degrade
+topic stability.
+Author{1}{Firstname}#=%=#Alexandra
+Author{1}{Lastname}#=%=#Schofield
+Author{1}{Email}#=%=#xanda@cs.cornell.edu
+Author{1}{Affiliation}#=%=#Cornell University
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Mimno
+Author{2}{Email}#=%=#david.mimno@gmail.com
+Author{2}{Affiliation}#=%=#Cornell University
+
+==========

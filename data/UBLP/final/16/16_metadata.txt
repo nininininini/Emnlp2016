@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Towards Broad-coverage Meaning Representation: The Case of Comparison Structures
+ShortPaperTitle#=%=#Towards Broad-coverage Meaning Representation: The Case of Comparison Structures
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Omid Bakhshandeh
+JobTitle#==#
+Organization#==#University of Rochester. Rochester, NY, USA
+Abstract#==#Representing the underlying meaning of text has been a long-standing topic of
+interest in computational linguistics. Recently there has been a renewed
+interest in computational modeling of meaning for various tasks such as
+semantic parsing (Zelle and Mooney, 1996; Berant and Liang, 2014). Open domain
+and broad-coverage semantic representation (Banarescu et al., 2013; Bos, 2008;
+Allen et al., 2008) is required for many language understanding tasks such as
+reading comprehension tests and question answering. We work on deﬁning a
+joint framework for comprehensive semantic representation of the structure of
+comparison and ellipsis structures in language.
+Author{1}{Firstname}#=%=#Omid
+Author{1}{Lastname}#=%=#Bakhshandeh
+Author{1}{Email}#=%=#omidb@cs.rochester.edu
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#James
+Author{2}{Lastname}#=%=#Allen
+Author{2}{Email}#=%=#james@cs.rochester.edu
+Author{2}{Affiliation}#=%=#University of Rochester
+
+==========

@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Storyline detection and tracking using Dynamic Latent Dirichlet Allocation
+ShortPaperTitle#=%=#Storyline detection and tracking using Dynamic Latent Dirichlet Allocation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Gerasimos Spanakis
+JobTitle#==#
+Organization#==#Maastricht University
+Bouillonstraat 8-10, 6211LH, Maastricht
+Netherlands
+Abstract#==#In this paper we consider the problem of detecting and tracking storylines over
+time using news text corpora. World wide web creates vast amounts of
+information and handling, managing and utilizing this information is difficult
+without having systems that are able to identify trends, arcs and stories and
+how they evolve through time. The proposed approach utilizes a dynamic version
+of Latent Dirichlet Allocation (DLDA) over discrete time steps and makes it
+possible to identify topics within storylines as they appear and track them
+through time. Moreover, a graphical tool for visualizing topics and changes is
+implemented and allows for easy navigation through the topics and their
+corresponding documents. Experimental analysis on Reuters RCV1 corpus reveals
+that the proposed approach can be effectively used as a tool for identifying
+turning points in storylines and their evolutions while at the same time
+allowing for an efficient visualization .
+Author{1}{Firstname}#=%=#Daniel
+Author{1}{Lastname}#=%=#Bruggermann
+Author{1}{Email}#=%=#d.bruggermann@maastrichtuniversity.nl
+Author{1}{Affiliation}#=%=#Maastricht University
+Author{2}{Firstname}#=%=#Yannik
+Author{2}{Lastname}#=%=#Hermey
+Author{2}{Email}#=%=#y.hermey@maastrichtuniversity.nl
+Author{2}{Affiliation}#=%=#Maastricht University
+Author{3}{Firstname}#=%=#Carsten
+Author{3}{Lastname}#=%=#Orth
+Author{3}{Email}#=%=#c.orth@maastrichtuniversity.nl
+Author{3}{Affiliation}#=%=#Maastricht University
+Author{4}{Firstname}#=%=#Darius
+Author{4}{Lastname}#=%=#Schneider
+Author{4}{Email}#=%=#d.schneider@maastrichtuniversity.nl
+Author{4}{Affiliation}#=%=#Maastricht University
+Author{5}{Firstname}#=%=#Stefan
+Author{5}{Lastname}#=%=#Selzer
+Author{5}{Email}#=%=#s.selzer@maastrichtuniversity.nl
+Author{5}{Affiliation}#=%=#Maastricht University
+Author{6}{Firstname}#=%=#Gerasimos
+Author{6}{Lastname}#=%=#Spanakis
+Author{6}{Email}#=%=#jerry.spanakis@maastrichtuniversity.nl
+Author{6}{Affiliation}#=%=#Maastricht University
+
+==========

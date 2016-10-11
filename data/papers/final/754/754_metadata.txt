@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#754
+FinalPaperTitle#=%=#Event-Driven Emotion Cause Extraction with Corpus Construction
+ShortPaperTitle#=%=#Event-Driven Emotion Cause Extraction with Corpus Construction
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lin Gui
+JobTitle#==#
+Organization#==#School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen Graduate School, Shenzhen, China
+Abstract#==#In this paper, we present our work in emotion cause extraction. Since there is
+no open
+dataset available, the lack of annotated resources has limited the research in
+this area.
+Thus, we first present a dataset we built using SINA city news. The annotation
+is based on
+the scheme of the W3C Emotion Markup Language. Second, we propose a 7-tuple
+definition
+to describe emotion cause events. Based on this general definition, we propose
+a new
+event-driven emotion cause extraction method using multi-kernel SVMs where a
+syntactical
+tree based approach is used to represent events in text. A convolution kernel
+based multi-kernel SVM are used to extract emotion causes. Because traditional
+convolution
+kernels do not use lexical information at the terminal nodes of syntactic
+trees, we modify the kernel function with a synonym based improvement. Even
+with very limited training data, we can still extract sufficient features for
+the task. Evaluations show that our approach achieves 11.6% higher F-measure
+compared to referenced methods. The contributions of our work include resource
+construction, concept definition and algorithm development.
+Author{1}{Firstname}#=%=#Lin
+Author{1}{Lastname}#=%=#Gui
+Author{1}{Email}#=%=#guilin.nlp@gmail.com
+Author{1}{Affiliation}#=%=#Key Laboratory of Network Oriented Intelligent Computation, Shenzhen Graduate School, Harbin Institute of Technology, Shenzhen 518055
+Author{2}{Firstname}#=%=#Dongyin
+Author{2}{Lastname}#=%=#Wu
+Author{2}{Email}#=%=#wudongyinhit@gmail.com
+Author{2}{Affiliation}#=%=#Laboratory of Network Oriented Intelligent Computation, Shenzhen Graduate School, Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Ruifeng
+Author{3}{Lastname}#=%=#Xu
+Author{3}{Email}#=%=#xuruifeng@hitsz.edu.cn
+Author{3}{Affiliation}#=%=#Laboratory of Network Oriented Intelligent Computation, Shenzhen Graduate School, Harbin Institute of Technology
+Author{4}{Firstname}#=%=#Qin
+Author{4}{Lastname}#=%=#Lu
+Author{4}{Email}#=%=#csluqin@comp.polyu.edu.hk
+Author{4}{Affiliation}#=%=#Department of Computing, the Hong Kong Polytechnic University
+Author{5}{Firstname}#=%=#Yu
+Author{5}{Lastname}#=%=#Zhou
+Author{5}{Email}#=%=#Zhouyu.nlp@gmail.com
+Author{5}{Affiliation}#=%=#Laboratory of Network Oriented Intelligent Computation, Shenzhen Graduate School, Harbin Institute of Technology
+
+==========

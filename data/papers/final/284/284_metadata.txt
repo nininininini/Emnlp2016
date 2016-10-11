@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#284
+FinalPaperTitle#=%=#Supervised Keyphrase Extraction as Positive Unlabeled Learning
+ShortPaperTitle#=%=#Supervised Keyphrase Extraction as Positive Unlabeled Learning
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lucas Sterckx
+JobTitle#==#
+Organization#==#Ghent University - iMinds, Technologiepark 15, B-9052 Ghent, Belgium
+Abstract#==#The problem of noisy and unbalanced training data for supervised keyphrase
+extraction results from the subjectivity of keyphrase assignment, which we
+quantify by crowdsourcing keyphrases for news and fashion magazine articles
+with many annotators per document. We show that annotators exhibit substantial
+disagreement, meaning that single annotator data could lead to very different
+training sets for supervised keyphrase extractors. Thus, annotations from
+single authors or readers lead to noisy training data and poor extraction
+performance of the resulting supervised extractor. We provide a simple but
+effective solution to still work with such data by reweighting the importance
+of unlabeled candidate phrases in a two stage Positive Unlabeled Learning
+setting. We show that performance of trained keyphrase extractors approximates
+a classifier trained on articles labeled by multiple annotators, leading to
+higher average F1 scores and better rankings of keyphrases. We apply this
+strategy to a variety of test collections from different backgrounds and show
+improvements over strong baseline models.
+Author{1}{Firstname}#=%=#Lucas
+Author{1}{Lastname}#=%=#Sterckx
+Author{1}{Email}#=%=#lusterck@intec.ugent.be
+Author{1}{Affiliation}#=%=#Ghent University - iMinds
+Author{2}{Firstname}#=%=#Cornelia
+Author{2}{Lastname}#=%=#Caragea
+Author{2}{Email}#=%=#ccaragea@unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas
+Author{3}{Firstname}#=%=#Thomas
+Author{3}{Lastname}#=%=#Demeester
+Author{3}{Email}#=%=#thomas.demeester@ugent.be
+Author{3}{Affiliation}#=%=#Ghent University - iMinds
+Author{4}{Firstname}#=%=#Chris
+Author{4}{Lastname}#=%=#Develder
+Author{4}{Email}#=%=#chris.develder@intec.ugent.be
+Author{4}{Affiliation}#=%=#Ghent University - iMinds
+
+==========

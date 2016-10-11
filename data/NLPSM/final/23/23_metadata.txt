@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#Learning Latent Local Conversation Modes for Predicting Comment Endorsement in Online Discussions
+ShortPaperTitle#=%=#Learning Latent Local Conversation Modes for Predicting Comment Endorsement in Online Discussions
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Hao Fang
+JobTitle#==#
+Organization#==#
+Abstract#==#Many social media platforms offer a mechanism for readers to react to comments,
+both positively and negatively, which in aggregate can be thought of as
+community endorsement. This paper addresses the problem of predicting community
+endorsement in online discussions, leveraging both the participant response
+structure and the text of the comment. The different types of features are
+integrated in a neural network that uses a novel architecture
+to learn latent modes of discussion structure that perform as well as deep
+neural networks but are more interpretable. In addition, the latent modes can
+be used to weight text features thereby improving prediction accuracy.
+Author{1}{Firstname}#=%=#Hao
+Author{1}{Lastname}#=%=#Fang
+Author{1}{Email}#=%=#hfang@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Hao
+Author{2}{Lastname}#=%=#Cheng
+Author{2}{Email}#=%=#chenghao@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Mari
+Author{3}{Lastname}#=%=#Ostendorf
+Author{3}{Email}#=%=#ostendor@u.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+
+==========

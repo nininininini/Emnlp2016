@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#640
+FinalPaperTitle#=%=#Long-Short Range Context Neural Networks for Language Modeling
+ShortPaperTitle#=%=#LSRC Neural Networks for Language Modeling
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Youssef Oualil
+JobTitle#==#
+Organization#==#Saarland University
+Spoken Language Systems Group
+FR 4.7 Sprach- und Signalverarbeitung, Gebäude C7 1 
+66123 Saarbrücken
+Germany
+Abstract#==#The goal of language modeling techniques is to capture the statistical and
+structural properties of natural 
+languages from training corpora. This task typically involves the learning of
+short range dependencies, 
+which generally model the syntactic properties of a language and/or long range
+dependencies, which are semantic in nature. 
+We propose in this paper a new multi-span architecture, which separately models
+the short and long 
+context information while it dynamically merges them to perform the language
+modeling task. This is 
+done through a novel recurrent Long-Short Range Context (LSRC) network, which 
+explicitly models the local (short) and global (long) context using two
+separate hidden states 
+that evolve in time. This new architecture is an adaptation of the Long-Short
+Term Memory network 
+(LSTM) to take into account the linguistic properties. Extensive experiments
+conducted on the Penn Treebank (PTB) 
+and the Large Text Compression Benchmark (LTCB) corpus showed a significant
+reduction of the perplexity when compared to state-of-the-art language modeling
+techniques.
+Author{1}{Firstname}#=%=#Youssef
+Author{1}{Lastname}#=%=#Oualil
+Author{1}{Email}#=%=#youssef.oualil@lsv.uni-saarland.de
+Author{1}{Affiliation}#=%=#Saarland University
+Author{2}{Firstname}#=%=#Mittul
+Author{2}{Lastname}#=%=#Singh
+Author{2}{Email}#=%=#msingh@lsv.uni-saarland.de
+Author{2}{Affiliation}#=%=#Saarland University
+Author{3}{Firstname}#=%=#Clayton
+Author{3}{Lastname}#=%=#Greenberg
+Author{3}{Email}#=%=#claytong@coli.uni-saarland.de
+Author{3}{Affiliation}#=%=#Saarland University
+Author{4}{Firstname}#=%=#Dietrich
+Author{4}{Lastname}#=%=#Klakow
+Author{4}{Email}#=%=#dietrich.klakow@lsv.uni-saarland.de
+Author{4}{Affiliation}#=%=#Saarland University
+
+==========

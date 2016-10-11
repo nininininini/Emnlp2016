@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#635
+FinalPaperTitle#=%=#Convolutional Neural Network Language Models
+ShortPaperTitle#=%=#Convolutional Neural Network Language Models
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#QUAN
+JobTitle#==#
+Organization#==#University of Trento, Italy
+Abstract#==#Convolutional Neural Networks (CNNs) have shown to yield very strong
+results in several Computer Vision tasks. Their application to
+language has received much less attention, and it has mainly focused
+on static classification tasks, such as sentence classification for
+Sentiment Analysis or relation extraction. In this work, we study the
+application of CNNs to language modeling, a dynamic, sequential
+prediction task that needs models to capture local as well as
+long-range dependency information. Our contribution is two fold. First,
+we show that CNNs achieve 13\% higher absolute performance than
+feed-forward neural language models, demonstrating their potential for language
+representation even in sequential tasks. Second, we gain some
+understanding of the behavior of the model, showing that CNNs in
+language act as feature detectors at a high level of abstraction, as
+in Computer Vision, and that the model can profitably use information from as
+far as 16 words before the target.
+Author{1}{Firstname}#=%=#Ngoc-Quan
+Author{1}{Lastname}#=%=#Pham
+Author{1}{Email}#=%=#ngocquan.pham@studenti.unitn.it
+Author{1}{Affiliation}#=%=#University of Trento
+Author{2}{Firstname}#=%=#Germán
+Author{2}{Lastname}#=%=#Kruszewski
+Author{2}{Email}#=%=#german.kruszewski@unitn.it
+Author{2}{Affiliation}#=%=#University of Trento
+Author{3}{Firstname}#=%=#Gemma
+Author{3}{Lastname}#=%=#Boleda
+Author{3}{Email}#=%=#gemma.boleda@unitn.it
+Author{3}{Affiliation}#=%=#University of Trento
+
+==========

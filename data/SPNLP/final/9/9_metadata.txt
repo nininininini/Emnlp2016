@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Introducing DRAIL -- a Step Towards Declarative Deep Relational Learning
+ShortPaperTitle#=%=#Introducing DRAIL -- a Step Towards Declarative Deep Relational Learning
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Xiao Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce DRAIL, a new declarative framework for specifying Deep Relational
+Models. Our framework separates structural considerations, which express domain
+knowledge, from the learning architecture to simplify the process of building
+complex structural models. 
+
+We show the DRAIL formulation of two NLP tasks, Twitter Part-of-Speech tagging
+and Entity-Relation extraction. We compare the performance of different deep
+learning architectures for these structural learning tasks.
+Author{1}{Firstname}#=%=#Xiao
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#zhang923@purdue.edu
+Author{1}{Affiliation}#=%=#Purdue University
+Author{2}{Firstname}#=%=#María Leonor
+Author{2}{Lastname}#=%=#Pacheco
+Author{2}{Email}#=%=#pachecog@purdue.edu
+Author{2}{Affiliation}#=%=#Purdue University
+Author{3}{Firstname}#=%=#Chang
+Author{3}{Lastname}#=%=#Li
+Author{3}{Email}#=%=#li1873@purdue.edu
+Author{3}{Affiliation}#=%=#Purdue University
+Author{4}{Firstname}#=%=#Dan
+Author{4}{Lastname}#=%=#Goldwasser
+Author{4}{Email}#=%=#dgoldwas@purdue.edu
+Author{4}{Affiliation}#=%=#Purdue University
+
+==========

@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#1211
+FinalPaperTitle#=%=#Using Syntactic and Semantic Context to Explore Psychodemographic Differences in Self-reference
+ShortPaperTitle#=%=#Using Syntactic and Semantic Context to Explore Psychodemographic Differences in Self-reference
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Masoud Rouhizadeh
+JobTitle#==#
+Organization#==#Stony Brook University
+University of Pennsylvania
+Abstract#==#Psychological analysis of language has repeatedly shown that an individual's
+rate of mentioning 1st person singular pronouns predicts a wealth of important
+demographic and psychological factors. However, these analyses are performed
+out of context --- syntactic and semantic --- which may change the magnitude or
+even direction of such relationships.  In this paper, we put "pronouns in their
+context'', exploring the relationship between self-reference and age, gender,
+and depression depending on syntactic position and verbal governor. We find
+that pronouns are overall more predictive when taking dependency relations and
+verb semantic categories into account, and, the direction of the relationship
+can change depending on the semantic class of the verbal governor.
+Author{1}{Firstname}#=%=#Masoud
+Author{1}{Lastname}#=%=#Rouhizadeh
+Author{1}{Email}#=%=#mrouhizadeh@gmail.com
+Author{1}{Affiliation}#=%=#Stony Brook Univ. / Univ. of Pennsylvania
+Author{2}{Firstname}#=%=#Lyle
+Author{2}{Lastname}#=%=#Ungar
+Author{2}{Email}#=%=#ungar@cis.upenn.edu
+Author{2}{Affiliation}#=%=#University of Pennsylvania
+Author{3}{Firstname}#=%=#Anneke
+Author{3}{Lastname}#=%=#Buffone
+Author{3}{Email}#=%=#buffonea@sas.upenn.edu
+Author{3}{Affiliation}#=%=#University of Pennsylvania
+Author{4}{Firstname}#=%=#H. Andrew
+Author{4}{Lastname}#=%=#Schwartz
+Author{4}{Email}#=%=#has@cs.stonybrook.edu
+Author{4}{Affiliation}#=%=#Stony Brook University
+
+==========

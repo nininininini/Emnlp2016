@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#6
+FinalPaperTitle#=%=#A Joint Model of Rhetorical Discourse Structure and Summarization
+ShortPaperTitle#=%=#A Joint Model of Rhetorical Discourse Structure and Summarization
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jacob Eisenstein
+JobTitle#==#
+Organization#==#
+Abstract#==#In Rhetorical Structure Theory, discourse units participate in asymmetric
+relationships, with one element acting as the nucleus and the other as the
+satellite. In the resulting tree-like nuclearity structure, the importance of
+each discourse unit can be measured by the number of relations in which it acts
+as the nucleus or as the satellite. Existing approaches to automatically
+parsing such structures suffer from two problems: they employ local inference
+techniques that do not capture document-level structural regularities, and they
+rely on annotated training data, which is expensive to obtain at the discourse
+level. We investigate the SampleRank structure learning algorithm as a
+potential solution to both problems. SampleRank allows us to incorporate
+arbitrary document-level features in a global stochastic inference algorithm.
+Furthermore, it enables the training of a joint model of discourse structure
+and summarization, which can be learned from document-level summaries alone,
+without discourse-level supervision. We obtain mixed results in the fully
+supervised case, and negative results for the joint model of discourse
+structure and summarization.
+Author{1}{Firstname}#=%=#Naman
+Author{1}{Lastname}#=%=#Goyal
+Author{1}{Email}#=%=#naman.goyal21@gmail.com
+Author{1}{Affiliation}#=%=#Georgia Institute of Technology
+Author{2}{Firstname}#=%=#Jacob
+Author{2}{Lastname}#=%=#Eisenstein
+Author{2}{Email}#=%=#jacobe@gmail.com
+Author{2}{Affiliation}#=%=#Georgia Institute of Technology
+
+==========

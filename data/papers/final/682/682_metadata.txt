@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#682
+FinalPaperTitle#=%=#Exploiting Source-side Monolingual Data in Neural Machine Translation
+ShortPaperTitle#=%=#Exploiting Source-side Monolingual Data in Neural Machine Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Jiajun Zhang
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural Machine Translation (NMT) based on the encoder-decoder architecture has
+recently become a new paradigm. Researchers have proven that the target-side
+monolingual data can greatly enhance the decoder model of NMT. However, the
+source-side monolingual data is not fully explored although it should be useful
+to strengthen the encoder model of NMT, especially when the parallel corpus is
+far from sufficient. In this paper, we propose two approaches to make full use
+of the source-side monolingual data in NMT. The first approach employs the
+self-learning algorithm to generate the synthetic large-scale parallel data for
+NMT training. The second approach applies the multi-task learning framework
+using two NMTs to predict the translation and the reordered source-side
+monolingual sentences simultaneously. The extensive experiments demonstrate
+that the proposed methods obtain significant improvements over the strong
+attention-based NMT.
+Author{1}{Firstname}#=%=#Jiajun
+Author{1}{Lastname}#=%=#Zhang
+Author{1}{Email}#=%=#jiajun.zhang@ia.ac.cn
+Author{1}{Affiliation}#=%=#Institute of Automation Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Chengqing
+Author{2}{Lastname}#=%=#Zong
+Author{2}{Email}#=%=#cqzong@nlpr.ia.ac.cn
+Author{2}{Affiliation}#=%=#Institute of Automation, Chinese Academy of Sciences
+
+==========

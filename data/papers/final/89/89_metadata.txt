@@ -1,0 +1,41 @@
+SubmissionNumber#=%=#89
+FinalPaperTitle#=%=#Capturing Argument Relationship for Chinese Semantic Role Labeling
+ShortPaperTitle#=%=#Capturing Argument Relationship for Chinese Semantic Role Labeling
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Lei Sha
+JobTitle#==#
+Organization#==#Peking University, No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871
+Abstract#==#In this paper, we capture the argument relationships for Chinese semantic role
+labeling task, and improve the task's performance with the help  of argument
+relationships. We split the  relationship between two candidate arguments into
+two categories: (1) Compatible arguments: if one candidate argument belongs to
+a given predicate, then the other is more likely to belong to the same
+predicate; (2) Incompatible arguments: if one candidate argument belongs to a
+given predicate, then the other is less likely to belong to the same predicate.
+However, previous works did not explicitly model   argument relationships. We
+use a simple maximum entropy classifier to capture the two categories of
+argument relationships and test its performance on the Chinese Proposition Bank
+(CPB). The experiments show that argument relationships is effective in Chinese
+semantic role labeling task.
+Author{1}{Firstname}#=%=#Lei
+Author{1}{Lastname}#=%=#Sha
+Author{1}{Email}#=%=#shalei120@sina.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Sujian
+Author{2}{Lastname}#=%=#Li
+Author{2}{Email}#=%=#lisujian@pku.edu.cn
+Author{2}{Affiliation}#=%=#Peking University
+Author{3}{Firstname}#=%=#Baobao
+Author{3}{Lastname}#=%=#Chang
+Author{3}{Email}#=%=#chbb@pku.edu.cn
+Author{3}{Affiliation}#=%=#Peking University
+Author{4}{Firstname}#=%=#Zhifang
+Author{4}{Lastname}#=%=#Sui
+Author{4}{Email}#=%=#szf@pku.edu.cn
+Author{4}{Affiliation}#=%=#
+Author{5}{Firstname}#=%=#Tingsong
+Author{5}{Lastname}#=%=#Jiang
+Author{5}{Email}#=%=#tingsong@pku.edu.cn
+Author{5}{Affiliation}#=%=#Institute of Computational Linguistics,Peking University
+
+==========

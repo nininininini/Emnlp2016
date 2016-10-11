@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#335
+FinalPaperTitle#=%=#How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation
+ShortPaperTitle#=%=#How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Daniele Pighin
+JobTitle#==#Publication chair, on behalf of the authors
+Organization#==#
+Abstract#==#We investigate evaluation metrics for dialogue response generation systems
+where supervised labels, such as task completion, are not available. Recent
+works in response generation have adopted metrics from machine translation to
+compare a model's generated response to a single target response. We show that
+these metrics correlate very weakly with human judgements in the non-technical
+Twitter domain, and not at all in the technical Ubuntu domain. We provide
+quantitative and qualitative results highlighting specific weaknesses in
+existing metrics, and provide recommendations for future development of better
+automatic evaluation metrics for dialogue systems.
+Author{1}{Firstname}#=%=#Chia-Wei
+Author{1}{Lastname}#=%=#Liu
+Author{1}{Email}#=%=#chia-wei.liu@mail.mcgill.ca
+Author{1}{Affiliation}#=%=#McGill University
+Author{2}{Firstname}#=%=#Ryan
+Author{2}{Lastname}#=%=#Lowe
+Author{2}{Email}#=%=#ryan.lowe@mail.mcgill.ca
+Author{2}{Affiliation}#=%=#McGill University
+Author{3}{Firstname}#=%=#Iulian
+Author{3}{Lastname}#=%=#Serban
+Author{3}{Email}#=%=#julianserban@gmail.com
+Author{3}{Affiliation}#=%=#University of Montreal
+Author{4}{Firstname}#=%=#Mike
+Author{4}{Lastname}#=%=#Noseworthy
+Author{4}{Email}#=%=#michael.noseworthy@mail.mcgill.ca
+Author{4}{Affiliation}#=%=#McGill University
+Author{5}{Firstname}#=%=#Laurent
+Author{5}{Lastname}#=%=#Charlin
+Author{5}{Email}#=%=#lcharlin@gmail.com
+Author{5}{Affiliation}#=%=#McGill University
+Author{6}{Firstname}#=%=#Joelle
+Author{6}{Lastname}#=%=#Pineau
+Author{6}{Email}#=%=#jpineau@cs.mcgill.ca
+Author{6}{Affiliation}#=%=#McGill University
+
+==========

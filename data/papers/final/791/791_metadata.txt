@@ -1,0 +1,42 @@
+SubmissionNumber#=%=#791
+FinalPaperTitle#=%=#AMR-to-text generation as a Traveling Salesman Problem
+ShortPaperTitle#=%=#AMR-to-text generation as a Traveling Salesman Problem
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Linfeng Song
+JobTitle#==#
+Organization#==#Computer Science Department of University of Rochester, 160 Trustee Road, Rochester, NY, 14627
+Abstract#==#The task of AMR-to-text generation is to gen-
+erate grammatical text that sustains the seman-
+tic meaning for a given AMR graph. We at-
+tack the task by first partitioning the AMR
+graph into smaller fragments, and then gener-
+ating the translation for each fragment, before
+finally deciding the order by solving an asym-
+metric generalized traveling salesman prob-
+lem (AGTSP). A Maximum Entropy classifier
+is trained to estimate the traveling costs, and a
+TSP solver is used to find the optimized solu-
+tion. The final model reports a BLEU score of
+22.44 on the SemEval-2016 Task8 dataset.
+Author{1}{Firstname}#=%=#Linfeng
+Author{1}{Lastname}#=%=#Song
+Author{1}{Email}#=%=#freesunshine0316@gmail.com
+Author{1}{Affiliation}#=%=#University of Rochester
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Xiaochang
+Author{3}{Lastname}#=%=#Peng
+Author{3}{Email}#=%=#pxc.pku@gmail.com
+Author{3}{Affiliation}#=%=#University of Rochester
+Author{4}{Firstname}#=%=#Zhiguo
+Author{4}{Lastname}#=%=#Wang
+Author{4}{Email}#=%=#zgw.tomorrow@gmail.com
+Author{4}{Affiliation}#=%=#IBM Watson Research Center
+Author{5}{Firstname}#=%=#Daniel
+Author{5}{Lastname}#=%=#Gildea
+Author{5}{Email}#=%=#gildea@cs.rochester.edu
+Author{5}{Affiliation}#=%=#University of Rochester
+
+==========

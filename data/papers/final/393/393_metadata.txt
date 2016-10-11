@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#393
+FinalPaperTitle#=%=#Understanding Negation in Positive Terms Using Syntactic Dependencies
+ShortPaperTitle#=%=#Understanding Negation in Positive Terms Using Syntactic Dependencies
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Zahra Sarabi
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents a two-step procedure to extract positive meaning from
+verbal negation. We first generate potential positive interpretations
+manipulating syntactic dependencies. Then, we score them according to their
+likelihood. Manual annotations show that positive interpretations are
+ubiquitous and intuitive to humans. Experimental results show that dependencies
+are better suited than semantic roles for this task, and automation is
+possible.
+Author{1}{Firstname}#=%=#Zahra
+Author{1}{Lastname}#=%=#Sarabi
+Author{1}{Email}#=%=#zahrasarabi@my.unt.edu
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Firstname}#=%=#Eduardo
+Author{2}{Lastname}#=%=#Blanco
+Author{2}{Email}#=%=#eduardo.blanco@unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas
+
+==========

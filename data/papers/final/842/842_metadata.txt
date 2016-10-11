@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#842
+FinalPaperTitle#=%=#LSTM Shift-Reduce CCG Parsing
+ShortPaperTitle#=%=#LSTM Shift-Reduce CCG Parsing
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Wenduan Xu
+JobTitle#==#
+Organization#==#Computer Lab, Cambridge University
+Abstract#==#We describe a neural shift-reduce parsing
+model for CCG, factored into four unidirectional
+LSTMs and one bidirectional LSTM.
+This factorization allows the linearization of
+the complete parsing history, and results in
+a highly accurate greedy parser that outperforms
+all previous beam-search shift-reduce
+parsers for CCG. By further deriving a globally
+optimized model using a task-based loss,
+we improve over the state of the art by up to
+2.67% labeled F1.
+Author{1}{Firstname}#=%=#Wenduan
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#wx217@cam.ac.uk
+Author{1}{Affiliation}#=%=#Cambridge University
+
+==========

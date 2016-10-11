@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#943
+FinalPaperTitle#=%=#Characterizing the Language of Online Communities and its Relation to Community Reception
+ShortPaperTitle#=%=#Characterizing the Language of Online Communities and its Relation to Community Reception
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Trang Tran
+JobTitle#==#
+Organization#==#
+Abstract#==#This work investigates style and topic aspects of language in online
+communities: looking at both utility as an identifier of the community and
+correlation with community reception of content. Style is characterized using
+hybrid word and part-of-speech tag n-gram language models, while topic is
+represented using Latent Dirichlet Allocation. Experiments with several Reddit
+forums show that style is a better indicator of community identity than topic,
+even for communities organized around specific topics. Further, there is a
+positive correlation between the community reception to a contribution and the
+style similarity to that community, but not so for topic similarity.
+Author{1}{Firstname}#=%=#Trang
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#ttmt001@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Mari
+Author{2}{Lastname}#=%=#Ostendorf
+Author{2}{Email}#=%=#ostendor@u.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

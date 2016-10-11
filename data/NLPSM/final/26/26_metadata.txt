@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#26
+FinalPaperTitle#=%=#Detecting Social Roles in Twitter
+ShortPaperTitle#=%=#Detecting Social Roles in Twitter
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sunghwan Mac Kim
+JobTitle#==#Postdoc
+Organization#==#Data61, CSIRO, Sydney, Australia
+Abstract#==#For social media analysts or social scientists interested in better
+understanding an audience or demographic cohort, being able to group social
+media content by demographic characteristics is a useful mechanism to organise
+data. Social roles are one particular demographic characteristic,
+which includes work, recreational, community and familial roles.
+In our work, we look at the task of detecting social roles from English Twitter
+profiles.
+We create a new annotated dataset for this task. 
+The dataset includes approximately 1,000
+Twitter profiles annotated with social roles. 
+We also describe a machine learning approach for detecting social roles from
+Twitter profiles, 
+which can act as a strong baseline for this dataset.
+Finally, we release a set of word clusters obtained in an unsupervised manner 
+from Twitter profiles. These clusters may be useful for other natural language 
+processing tasks in social media.
+Author{1}{Firstname}#=%=#Sunghwan Mac
+Author{1}{Lastname}#=%=#Kim
+Author{1}{Email}#=%=#mac.kim@csiro.au
+Author{1}{Affiliation}#=%=#CSIRO
+Author{2}{Firstname}#=%=#Stephen
+Author{2}{Lastname}#=%=#Wan
+Author{2}{Email}#=%=#stephen.wan@csiro.au
+Author{2}{Affiliation}#=%=#CSIRO
+Author{3}{Firstname}#=%=#Cecile
+Author{3}{Lastname}#=%=#Paris
+Author{3}{Email}#=%=#cecile.paris@csiro.au
+Author{3}{Affiliation}#=%=#CSIRO
+
+==========

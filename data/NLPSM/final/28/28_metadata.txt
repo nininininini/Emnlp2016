@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#28
+FinalPaperTitle#=%=#Human versus Machine Attention in Document Classification: A Dataset with Crowdsourced Annotations
+ShortPaperTitle#=%=#Human versus Machine Attention in Document Classification: A Dataset with Crowdsourced Annotations
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Nikolaos Pappas
+JobTitle#==#
+Organization#==#Idiap Research Institute
+Rue Marconi 19
+1920 Martigny
+Switzerland
+Abstract#==#We present a dataset in which the contribution of each sentence of a review to
+the review-level rating is quantified by human judges. We define an annotation
+task and crowdsource it for 100 audiobook reviews with 1,662 sentences and 3
+aspects: story, performance, and overall quality. The dataset is suitable for
+intrinsic evaluation of explicit document models with attention mechanisms, for
+multi-aspect sentiment analysis and summarization. We evaluated one such
+document attention model which uses weighted multiple-instance learning to
+jointly model aspect ratings and sentence-level rating contributions, and found
+that there is positive correlation between human and machine attention
+especially for sentences with high human agreement.
+Author{1}{Firstname}#=%=#Nikolaos
+Author{1}{Lastname}#=%=#Pappas
+Author{1}{Email}#=%=#nikolaos.pappas@idiap.ch
+Author{1}{Affiliation}#=%=#Idiap Research Institute
+Author{2}{Firstname}#=%=#Andrei
+Author{2}{Lastname}#=%=#Popescu-Belis
+Author{2}{Email}#=%=#andrei.popescu-belis@idiap.ch
+Author{2}{Affiliation}#=%=#Idiap Research Institute
+
+==========

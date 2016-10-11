@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#12
+FinalPaperTitle#=%=#Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data
+ShortPaperTitle#=%=#Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Rouzbeh Asghari Shirvani
+JobTitle#==#Student
+Organization#==#Howard University Department of Electrical Engineering and Computer Science
+2366 Sixth St NW, Washington, DC 20059
+Abstract#==#Codeswitching is a very common behavior among Swahili speakers, but of the
+little computational work done on Swahili, none has focused on codeswitching.
+This paper addresses two tasks relating to Swahili-English codeswitching:
+word-level language identification and prediction of codeswitch points. Our
+two-step model achieves high accuracy at labeling the language of words using a
+simple feature set combined with language scores on the adjacent words. This
+system is used to label a large Swahili-English internet corpus, which is in
+turn used to train a model for predicting codeswitch points.
+Author{1}{Firstname}#=%=#Mario
+Author{1}{Lastname}#=%=#Piergallini
+Author{1}{Email}#=%=#mario.piergallini@howard.edu
+Author{1}{Affiliation}#=%=#Howard University
+Author{2}{Firstname}#=%=#Rouzbeh
+Author{2}{Lastname}#=%=#Shirvani
+Author{2}{Email}#=%=#rouzbeh.asgharishir@bison.howard.edu
+Author{2}{Affiliation}#=%=#Howard University
+Author{3}{Firstname}#=%=#Gauri
+Author{3}{Lastname}#=%=#S. Gautam
+Author{3}{Email}#=%=#gaurishankar.gaut@bison.howard.edu
+Author{3}{Affiliation}#=%=#Howard University
+Author{4}{Firstname}#=%=#Mohamed
+Author{4}{Lastname}#=%=#Chouikha
+Author{4}{Email}#=%=#mchouikha@howard.edu
+Author{4}{Affiliation}#=%=#Howard University
+
+==========

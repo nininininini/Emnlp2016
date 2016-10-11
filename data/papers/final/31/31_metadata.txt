@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Aspect Level Sentiment Classification with Deep Memory Network
+ShortPaperTitle#=%=#Aspect Level Sentiment Classification with Deep Memory Network
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#duyu tang
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce a deep memory network for aspect level sentiment classification.
+Unlike feature-based SVM and sequential neural models such as LSTM, this
+approach explicitly captures the importance of each context word when inferring
+the sentiment polarity of an aspect.
+Such importance degree and text representation are calculated with multiple
+computational layers, each of which is a neural attention model over an
+external memory. 
+Experiments on laptop and restaurant datasets demonstrate that our approach
+performs comparable to state-of-art feature based SVM system,
+and substantially better than LSTM and attention-based LSTM architectures.
+On both datasets we show that multiple computational layers could improve the
+performance.
+Moreover, our approach is also fast. The deep memory network with 9 layers is
+15 times faster than LSTM with a CPU implementation.
+Author{1}{Firstname}#=%=#Duyu
+Author{1}{Lastname}#=%=#Tang
+Author{1}{Email}#=%=#dytang@ir.hit.edu.cn
+Author{1}{Affiliation}#=%=#Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+Author{2}{Firstname}#=%=#Bing
+Author{2}{Lastname}#=%=#Qin
+Author{2}{Email}#=%=#qinb@ir.hit.edu.cn
+Author{2}{Affiliation}#=%=#Harbin Institute of Technology
+Author{3}{Firstname}#=%=#Ting
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#tliu@ir.hit.edu.cn
+Author{3}{Affiliation}#=%=#Harbin Institute of Technology
+
+==========

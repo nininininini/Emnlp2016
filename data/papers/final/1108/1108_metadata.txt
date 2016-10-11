@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#1108
+FinalPaperTitle#=%=#Learning to Generate Textual Data
+ShortPaperTitle#=%=#Learning to Generate Textual Data
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Daniele Pighin
+JobTitle#==#Publication chair, delegated by the authors
+Organization#==#
+Abstract#==#To learn text understanding models requiring millions of parameters, one needs
+a massive amount of data.
+Instead, we argue that generating data can compensate the need for large
+datasets. While defining generic data generators is tricky, we propose to allow
+these generators to be "weakly" specified, leaving letting the undetermined
+coefficients to be learned from data.  We derived an efficient algorithm called
+GeneRe, that jointly estimate the parameters of the model and the undetermined
+sampling coefficients, removing the need for costly cross-validation. We
+illustrate its benefit by learning to solve math exam questions using a
+sequence-to-sequence recurrent network.
+Author{1}{Firstname}#=%=#Guillaume
+Author{1}{Lastname}#=%=#Bouchard
+Author{1}{Email}#=%=#guillaume.m.bouchard@gmail.com
+Author{1}{Affiliation}#=%=#UCL
+Author{2}{Firstname}#=%=#Pontus
+Author{2}{Lastname}#=%=#Stenetorp
+Author{2}{Email}#=%=#pontus@stenetorp.se
+Author{2}{Affiliation}#=%=#University College London
+Author{3}{Firstname}#=%=#Sebastian
+Author{3}{Lastname}#=%=#Riedel
+Author{3}{Email}#=%=#sebastian.riedel@gmail.com
+Author{3}{Affiliation}#=%=#UCL
+
+==========

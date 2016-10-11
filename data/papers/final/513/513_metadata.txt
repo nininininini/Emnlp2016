@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#513
+FinalPaperTitle#=%=#Neural Headline Generation on Abstract Meaning Representation
+ShortPaperTitle#=%=#Neural Headline Generation on Abstract Meaning Representation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Sho Takase
+JobTitle#==#
+Organization#==#Graduate School of Information Sciences, Tohoku University.
+6-6-05 Aramaki Aza Aoba, Aobaku, Sendai, Miyagi, Japan
+Abstract#==#Neural network-based encoder-decoder models are among recent attractive
+methodologies for tackling natural language generation tasks.
+ This paper investigates the usefulness of structural syntactic and semantic
+information additionally incorporated in a baseline neural attention-based
+model.
+ We encode results obtained from an abstract meaning representation (AMR)
+parser using a modified version of Tree-LSTM.
+ Our proposed attention-based AMR encoder-decoder model improves headline
+generation benchmarks compared with the baseline neural attention-based model.
+Author{1}{Firstname}#=%=#Sho
+Author{1}{Lastname}#=%=#Takase
+Author{1}{Email}#=%=#takase@ecei.tohoku.ac.jp
+Author{1}{Affiliation}#=%=#Tohoku University
+Author{2}{Firstname}#=%=#Jun
+Author{2}{Lastname}#=%=#Suzuki
+Author{2}{Email}#=%=#suzuki.jun@lab.ntt.co.jp
+Author{2}{Affiliation}#=%=#NTT CS Lab.
+Author{3}{Firstname}#=%=#Naoaki
+Author{3}{Lastname}#=%=#Okazaki
+Author{3}{Email}#=%=#okazaki@ecei.tohoku.ac.jp
+Author{3}{Affiliation}#=%=#Tohoku University
+Author{4}{Firstname}#=%=#Tsutomu
+Author{4}{Lastname}#=%=#Hirao
+Author{4}{Email}#=%=#hirao.tsutomu@lab.ntt.co.jp
+Author{4}{Affiliation}#=%=#NTT Communication Science Labs.
+Author{5}{Firstname}#=%=#Masaaki
+Author{5}{Lastname}#=%=#Nagata
+Author{5}{Email}#=%=#nagata.masaaki@lab.ntt.co.jp
+Author{5}{Affiliation}#=%=#+81-774-93-5235
+
+==========

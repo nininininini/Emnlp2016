@@ -1,0 +1,39 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#How Do I Look? Publicity Mining From Distributed Keyword Representation of Socially Infused News Articles
+ShortPaperTitle#=%=#How Do I Look? Publicity Mining From Distributed Keyword Representation of Socially Infused News Articles
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Yu-Lun Hsieh
+JobTitle#==#
+Organization#==#Academia Sinica
+128 Academia Road, Section 2, Nankang, Taipei 11529, Taiwan
+Abstract#==#Previous work on opinion mining and sentiment analysis mainly concerns product,
+movie, or literature reviews; few applied this technique to analyze the
+publicity of person. We present a novel document modeling method that utilizes
+embeddings of emotion keywords to perform reader's emotion classification, and
+calculates a publicity score that serves as a quantifiable measure for the
+publicity of a person of interest. Experiments are conducted on two Chinese
+corpora that in total consists of over forty thousand users' emotional response
+after reading news articles. Results demonstrate that the proposed method can
+outperform state-of-the-art reader-emotion classification methods, and provide
+a substantial ground for publicity score estimation for candidates of political
+elections. We believe it is a promising direction for mining the publicity of a
+person from online social and news media that can be useful for propaganda and
+other purposes.
+Author{1}{Firstname}#=%=#Yu-Lun
+Author{1}{Lastname}#=%=#Hsieh
+Author{1}{Email}#=%=#morphe@iis.sinica.edu.tw
+Author{1}{Affiliation}#=%=#Academia Sinica
+Author{2}{Firstname}#=%=#Yung-Chun
+Author{2}{Lastname}#=%=#Chang
+Author{2}{Email}#=%=#changyc@iis.sinica.edu.tw
+Author{2}{Affiliation}#=%=#Institute of Information Science Academia Sinica, Taipei, Taiwan. & Department of Information Management, National Taiwan University, Taipei, Taiwan
+Author{3}{Firstname}#=%=#Chun-Han
+Author{3}{Lastname}#=%=#Chu
+Author{3}{Email}#=%=#johannchu@gmail.com
+Author{3}{Affiliation}#=%=#Academia Sinica
+Author{4}{Firstname}#=%=#Wen-Lian
+Author{4}{Lastname}#=%=#Hsu
+Author{4}{Email}#=%=#hsu@iis.sinica.edu.tw
+Author{4}{Affiliation}#=%=#Academia Sinica
+
+==========

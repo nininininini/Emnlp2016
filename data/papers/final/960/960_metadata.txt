@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#960
+FinalPaperTitle#=%=#Named Entity Recognition for Novel Types by Transfer Learning
+ShortPaperTitle#=%=#Named Entity Recognition for Novel Types by Transfer Learning
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Lizhen Qu
+JobTitle#==#
+Organization#==#Data61
+
+Tower A, 7 London Circuit
+Canberra City ACT 2601
+Australia
+Abstract#==#In named entity recognition, we often don’t have a large in-domain training
+corpus or a knowledge base with adequate coverage to train a model directly. In
+this paper, we propose a method where, given training data in a related domain
+with similar (but not identical) named entity (NE) types and a small amount of
+in-domain training data, we use transfer learning to learn a domain-specific NE
+model. That is, the novelty in the task setup is that we assume not just domain
+mismatch, but also label mismatch.
+Author{1}{Firstname}#=%=#Lizhen
+Author{1}{Lastname}#=%=#Qu
+Author{1}{Email}#=%=#lizhen.qu@data61.csiro.au
+Author{1}{Affiliation}#=%=#Data61
+Author{2}{Firstname}#=%=#Gabriela
+Author{2}{Lastname}#=%=#Ferraro
+Author{2}{Email}#=%=#Gabriela.Ferraro@data61.csiro.au
+Author{2}{Affiliation}#=%=#Data61
+Author{3}{Firstname}#=%=#Liyuan
+Author{3}{Lastname}#=%=#Zhou
+Author{3}{Email}#=%=#Joe.Zhou@data61.csiro.au
+Author{3}{Affiliation}#=%=#Data61
+Author{4}{Firstname}#=%=#Weiwei
+Author{4}{Lastname}#=%=#Hou
+Author{4}{Email}#=%=#houvivid2013@gmail.com
+Author{4}{Affiliation}#=%=#Data61
+Author{5}{Firstname}#=%=#Timothy
+Author{5}{Lastname}#=%=#Baldwin
+Author{5}{Email}#=%=#tb@ldwin.net
+Author{5}{Affiliation}#=%=#The University of Melbourne
+
+==========

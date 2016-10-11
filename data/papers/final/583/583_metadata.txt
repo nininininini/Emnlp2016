@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#583
+FinalPaperTitle#=%=#HUME: Human UCCA-Based Evaluation of Machine Translation
+ShortPaperTitle#=%=#HUME: Human UCCA-Based Evaluation of Machine Translation
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Alexandra Birch
+JobTitle#==#
+Organization#==#University of Edinburgh
+10 Chrichton Street, EH89AB, Edinburgh, UK
+Abstract#==#Human evaluation of machine translation
+normally uses sentence-level measures
+such as relative ranking or adequacy
+scales. However, these provide no insight
+into possible errors, and do not scale
+well with sentence length. We argue for
+a semantics-based evaluation, which captures
+what meaning components are retained
+in the MT output, thus providing
+a more fine-grained analysis of translation
+quality, and enabling the construction and
+tuning of semantics-based MT. We present
+a novel human semantic evaluation measure,
+Human UCCA-based MT Evaluation
+(HUME), building on the UCCA semantic
+representation scheme. HUME covers
+a wider range of semantic phenomena
+than previous methods and does not
+rely on semantic annotation of the potentially
+garbled MT output. We experiment
+with four language pairs, demonstrating
+HUME’s broad applicability, and report
+good inter-annotator agreement rates and
+correlation with human adequacy scores.
+Author{1}{Firstname}#=%=#Alexandra
+Author{1}{Lastname}#=%=#Birch
+Author{1}{Email}#=%=#lexi.birch@gmail.com
+Author{1}{Affiliation}#=%=#University of Edinburgh
+Author{2}{Firstname}#=%=#Omri
+Author{2}{Lastname}#=%=#Abend
+Author{2}{Email}#=%=#oabend@inf.ed.ac.uk
+Author{2}{Affiliation}#=%=#The University of Edinburgh
+Author{3}{Firstname}#=%=#Ondřej
+Author{3}{Lastname}#=%=#Bojar
+Author{3}{Email}#=%=#bojar@ufal.mff.cuni.cz
+Author{3}{Affiliation}#=%=#Charles University in Prague, Faculty of Mathematics and Physics
+Author{4}{Firstname}#=%=#Barry
+Author{4}{Lastname}#=%=#Haddow
+Author{4}{Email}#=%=#bhaddow@inf.ed.ac.uk
+Author{4}{Affiliation}#=%=#University of Edinburgh
+
+==========

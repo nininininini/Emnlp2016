@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#1072
+FinalPaperTitle#=%=#Improving Semantic Parsing via Answer Type Inference
+ShortPaperTitle#=%=#Improving Semantic Parsing via Answer Type Inference
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Semih Yavuz
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we show the possibility of inferring the answer type before
+solving a factoid question and leveraging the type information to improve
+semantic parsing.  By replacing the topic entity in a question with its type,
+we are able to generate an abstract form of the question, whose answer
+corresponds to the answer type of the original question. A bidirectional LSTM
+model is built to train over the abstract form of questions and infer their
+answer types.  It is also observed that if we convert a question into a
+statement form, our LSTM model achieves better accuracy.  Using the predicted
+type information to rerank the logical forms returned by AgendaIL, one of the
+leading semantic parsers, we are able to improve the F1-score from 49.7 to 52.6
+on the WEBQUESTIONS data.
+Author{1}{Firstname}#=%=#Semih
+Author{1}{Lastname}#=%=#Yavuz
+Author{1}{Email}#=%=#syavuz@cs.ucsb.edu
+Author{1}{Affiliation}#=%=#University of California Santa Barbara
+Author{2}{Firstname}#=%=#Izzeddin
+Author{2}{Lastname}#=%=#Gur
+Author{2}{Email}#=%=#izzeddingur@cs.ucsb.edu
+Author{2}{Affiliation}#=%=#UC Santa Barbara
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Su
+Author{3}{Email}#=%=#qfsuyu@gmail.com
+Author{3}{Affiliation}#=%=#UC Santa Barbara
+Author{4}{Firstname}#=%=#Mudhakar
+Author{4}{Lastname}#=%=#Srivatsa
+Author{4}{Email}#=%=#msrivats@us.ibm.com
+Author{4}{Affiliation}#=%=#IBM Research
+Author{5}{Firstname}#=%=#Xifeng
+Author{5}{Lastname}#=%=#Yan
+Author{5}{Email}#=%=#xyan@cs.ucsb.edu
+Author{5}{Affiliation}#=%=#UC Santa Barbara
+
+==========

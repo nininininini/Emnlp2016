@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#102
+FinalPaperTitle#=%=#A Neural Model for Language Identification in Code-Switched Tweets
+ShortPaperTitle#=%=#A Neural Model for Language Identification in Code-Switched Tweets
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#George Mulcaire
+JobTitle#==#
+Organization#==#Computer Science & Engineering
+University of Washington
+AC101 Paul G. Allen Center for
+     Computer Science & Engineering
+Box 352350
+185 Stevens Way
+Seattle WA 98195-2350
+Abstract#==#Language identification systems suffer when working with short texts or in
+domains with unconventional spelling, such as Twitter or other social media.
+These challenges are explored in a shared task for Language Identification in
+Code-Switched Data (LICS 2016). We apply a hierarchical neural model to this
+task, learning character and contextualized word-level representations to make
+word-level language predictions. This approach performs well on both the 2014
+and 2016 versions of the shared task.
+Author{1}{Firstname}#=%=#Aaron
+Author{1}{Lastname}#=%=#Jaech
+Author{1}{Email}#=%=#ajaech@uw.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#George
+Author{2}{Lastname}#=%=#Mulcaire
+Author{2}{Email}#=%=#gmulc@cs.washington.edu
+Author{2}{Affiliation}#=%=#University of Washington
+Author{3}{Firstname}#=%=#Mari
+Author{3}{Lastname}#=%=#Ostendorf
+Author{3}{Email}#=%=#ostendor@u.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Noah A.
+Author{4}{Lastname}#=%=#Smith
+Author{4}{Email}#=%=#nasmith@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#720
+FinalPaperTitle#=%=#A General Regularization Framework for Domain Adaptation
+ShortPaperTitle#=%=#A General Regularization Framework for Domain Adaptation
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Wei Lu
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a domain adaptation framework, and formally prove that it
+generalizes the feature augmentation technique in (Daume ́ III, 2007) and the
+multi-task regularization framework in (Evgeniou and Pontil, 2004). We show
+that our framework is strictly more general than these approaches and allows
+practitioners to tune hyper-parameters to encourage transfer between close
+domains and avoid negative transfer between distant ones.
+Author{1}{Firstname}#=%=#Wei
+Author{1}{Lastname}#=%=#Lu
+Author{1}{Email}#=%=#wei_lu@sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Hai Leong
+Author{2}{Lastname}#=%=#Chieu
+Author{2}{Email}#=%=#chaileon@dso.org.sg
+Author{2}{Affiliation}#=%=#DSO National Laboratories
+Author{3}{Firstname}#=%=#Jonathan
+Author{3}{Lastname}#=%=#Löfgren
+Author{3}{Email}#=%=#lofgren021@gmail.com
+Author{3}{Affiliation}#=%=#Uppsala University
+
+==========

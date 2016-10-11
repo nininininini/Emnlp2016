@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#141
+FinalPaperTitle#=%=#Unsupervised Word Alignment by Agreement Under ITG Constraint
+ShortPaperTitle#=%=#Unsupervised Word Alignment by Agreement Under ITG Constraint
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Hidetaka Kamigaito
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a novel unsupervised word alignment method that uses a constraint
+based on Inversion Transduction Grammar (ITG) parse trees to jointly unify two
+directional models.
+Previous agreement methods are not helpful for locating alignments with long
+distances because they do not use any syntactic structures.
+In contrast, the proposed method symmetrizes alignments in consideration of
+their structural coherence by using the ITG constraint softly in the posterior
+regularization framework (Ganchev et al., 2010).
+The ITG constraint is also compatible with word alignments that are not covered
+by ITG parse trees.
+Hence, the proposed method is robust to ITG parse errors compared to other
+alignment methods that directly use an ITG model.
+Compared to the baseline agreement method (Ganchev et al., 2010), the
+experimental results show that the proposed method significantly improves
+alignment performance regarding Japanese-English KFTT and BTEC corpus,
+and machine translation performance on the Japanese-English IWSLT 2007 corpus.
+Author{1}{Firstname}#=%=#Hidetaka
+Author{1}{Lastname}#=%=#Kamigaito
+Author{1}{Email}#=%=#kamigaitohidetaka@gmail.com
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{2}{Firstname}#=%=#Akihiro
+Author{2}{Lastname}#=%=#Tamura
+Author{2}{Email}#=%=#akihiro.tamura@gmail.com
+Author{2}{Affiliation}#=%=#National Institute of Information and Communications Technology
+Author{3}{Firstname}#=%=#Hiroya
+Author{3}{Lastname}#=%=#Takamura
+Author{3}{Email}#=%=#takamura@pi.titech.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{4}{Firstname}#=%=#Manabu
+Author{4}{Lastname}#=%=#Okumura
+Author{4}{Email}#=%=#oku@pi.titech.ac.jp
+Author{4}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{5}{Firstname}#=%=#Eiichiro
+Author{5}{Lastname}#=%=#Sumita
+Author{5}{Email}#=%=#eiichiro.sumita@nict.go.jp
+Author{5}{Affiliation}#=%=#National Institute of Information and Communication Technology
+
+==========

@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1059
+FinalPaperTitle#=%=#Controlling Output Length in Neural Encoder-Decoders
+ShortPaperTitle#=%=#Controlling Output Length in Neural Encoder-Decoders
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yuta Kikuchi
+JobTitle#==#
+Organization#==#
+Abstract#==#Neural encoder-decoder models have shown great success in many sequence
+generation tasks. However, previous work has not investigated situations in
+which we would like control the length of encoder-decoder outputs. This
+capability is crucial for applications such as text summarization, in which we
+have to generate concise summaries with a desired length. In this paper, we
+propose methods for controlling the output sequence length for neural
+encoder-decoder models: two decoding-based methods and two learning-based
+methods. Results show that our learning-based methods have the capability to
+control length without degrading summary quality in a summarization task.
+Author{1}{Firstname}#=%=#Yuta
+Author{1}{Lastname}#=%=#Kikuchi
+Author{1}{Email}#=%=#kikuchi@lr.pi.titech.ac.jp
+Author{1}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{2}{Firstname}#=%=#Graham
+Author{2}{Lastname}#=%=#Neubig
+Author{2}{Email}#=%=#gneubig@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Carnegie Mellon University
+Author{3}{Firstname}#=%=#Ryohei
+Author{3}{Lastname}#=%=#Sasano
+Author{3}{Email}#=%=#sasano@pi.titech.ac.jp
+Author{3}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{4}{Firstname}#=%=#Hiroya
+Author{4}{Lastname}#=%=#Takamura
+Author{4}{Email}#=%=#takamura@pi.titech.ac.jp
+Author{4}{Affiliation}#=%=#Tokyo Institute of Technology
+Author{5}{Firstname}#=%=#Manabu
+Author{5}{Lastname}#=%=#Okumura
+Author{5}{Email}#=%=#oku@pi.titech.ac.jp
+Author{5}{Affiliation}#=%=#Tokyo Institute of Technology
+
+==========

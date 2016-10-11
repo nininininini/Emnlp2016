@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#1077
+FinalPaperTitle#=%=#Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification
+ShortPaperTitle#=%=#Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jiacheng Xu
+JobTitle#==#
+Organization#==#Fudan University
+825 Zhangheng Road, Shanghai, China
+Abstract#==#Recently, neural networks have achieved great success on sentiment
+classification due to their ability to alleviate feature engineering. However,
+one of the remaining challenges is to model long texts in document-level
+sentiment classification under a recurrent architecture because of the
+deficiency of the memory unit.
+To address this problem, we present a Cached Long Short-Term Memory neural
+networks (CLSTM) to capture the overall semantic information in long texts.
+CLSTM introduces a cache mechanism, which divides memory into several groups
+with different forgetting rates and thus enables the network to keep sentiment
+information better within a recurrent unit. The proposed CLSTM outperforms the
+state-of-the-art models on three publicly available document-level sentiment
+analysis datasets.
+Author{1}{Firstname}#=%=#Jiacheng
+Author{1}{Lastname}#=%=#Xu
+Author{1}{Email}#=%=#jcxu13@fudan.edu.cn
+Author{1}{Affiliation}#=%=#Fudan University
+Author{2}{Firstname}#=%=#Danlu
+Author{2}{Lastname}#=%=#Chen
+Author{2}{Email}#=%=#dlchen13@fudan.edu.cn
+Author{2}{Affiliation}#=%=#Fudan University
+Author{3}{Firstname}#=%=#Xipeng
+Author{3}{Lastname}#=%=#Qiu
+Author{3}{Email}#=%=#xpqiu@fudan.edu.cn
+Author{3}{Affiliation}#=%=#Fudan University
+Author{4}{Firstname}#=%=#Xuanjing
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#xjhuang@fudan.edu.cn
+Author{4}{Affiliation}#=%=#Fudan University
+
+==========

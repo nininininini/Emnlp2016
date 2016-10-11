@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#1237
+FinalPaperTitle#=%=#Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees
+ShortPaperTitle#=%=#Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees
+NumberOfPages#=%=#14
+CopyrightSigned#=%=#Ehsan Shareghi
+JobTitle#==#
+Organization#==#Faculty of Information Technology, Monash University, Clayton, Victoria, Australia
+Abstract#==#Efficient methods for storing and querying are critical for scaling high-order
+m-gram language models to large corpora. We propose a language model based on
+compressed suffix trees, a representation that is highly compact and can be
+easily held in memory, while supporting queries needed in computing language
+model probabilities on-the-fly. We present several optimizations which improve
+query runtimes up to 2500x, despite only incurring a modest increase in
+construction time and memory usage. For large corpora and high Markov orders,
+our method is highly competitive with the state-of-the-art KenLM package. It
+imposes much lower memory requirements, often by orders of magnitude, and has
+runtimes that are either similar (for training) or comparable (for querying).
+Author{1}{Firstname}#=%=#Ehsan
+Author{1}{Lastname}#=%=#Shareghi
+Author{1}{Email}#=%=#ehsan.shareghi@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Matthias
+Author{2}{Lastname}#=%=#Petri
+Author{2}{Email}#=%=#Matthias.Petri@unimelb.edu.au
+Author{2}{Affiliation}#=%=#The University of Melbourne
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#reza.haffari@gmail.com
+Author{3}{Affiliation}#=%=#Monash University
+Author{4}{Firstname}#=%=#Trevor
+Author{4}{Lastname}#=%=#Cohn
+Author{4}{Email}#=%=#tcohn@unimelb.edu.au
+Author{4}{Affiliation}#=%=#University of Melbourne
+
+==========

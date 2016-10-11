@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#562
+FinalPaperTitle#=%=#Learning principled bilingual mappings of word embeddings while preserving monolingual invariance
+ShortPaperTitle#=%=#Learning principled bilingual mappings of word embeddings while preserving monolingual invariance
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#eneko
+JobTitle#==#
+Organization#==#
+Abstract#==#Mapping word embeddings of different languages into a single space has multiple
+applications. In order to map from a source space into a target space, a common
+approach is to learn a linear mapping that minimizes the distances between
+equivalences listed in a bilingual dictionary. In this paper, we propose a
+framework that generalizes previous work, provides an efficient exact method to
+learn the optimal linear transformation and yields the best bilingual results
+in translation induction while preserving monolingual performance in an analogy
+task.
+Author{1}{Firstname}#=%=#Mikel
+Author{1}{Lastname}#=%=#Artetxe
+Author{1}{Email}#=%=#martetxe003@ikasle.ehu.eus
+Author{1}{Affiliation}#=%=#University of the Basque Country
+Author{2}{Firstname}#=%=#Gorka
+Author{2}{Lastname}#=%=#Labaka
+Author{2}{Email}#=%=#gorka.labaka@ehu.eus
+Author{2}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+Author{3}{Firstname}#=%=#Eneko
+Author{3}{Lastname}#=%=#Agirre
+Author{3}{Email}#=%=#e.agirre@ehu.eus
+Author{3}{Affiliation}#=%=#University of the Basque Country (UPV/EHU)
+
+==========

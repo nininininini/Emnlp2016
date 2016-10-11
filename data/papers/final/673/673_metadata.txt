@@ -1,0 +1,45 @@
+SubmissionNumber#=%=#673
+FinalPaperTitle#=%=#How Transferable are Neural Networks in NLP Applications?
+ShortPaperTitle#=%=#How Transferable are Neural Networks in NLP Applications?
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Lili Mou
+JobTitle#==#
+Organization#==#Peking University
+Abstract#==#Transfer learning is aimed to make use of valuable knowledge in a source domain
+to help model performance in a target domain. It is particularly important to
+neural networks, which are very likely to be overfitting. In some fields like
+image processing, many studies have shown the effectiveness of neural
+network-based transfer learning. For neural NLP, however, existing studies have
+only casually applied transfer learning, and conclusions are inconsistent. In
+this paper, we conduct systematic case studies and provide an illuminating
+picture on the transferability of neural networks in NLP.
+Author{1}{Firstname}#=%=#Lili
+Author{1}{Lastname}#=%=#Mou
+Author{1}{Email}#=%=#doublepower.mou@gmail.com
+Author{1}{Affiliation}#=%=#Peking University
+Author{2}{Firstname}#=%=#Zhao
+Author{2}{Lastname}#=%=#Meng
+Author{2}{Email}#=%=#tedxgdfz@live.com
+Author{2}{Affiliation}#=%=#Software Institute, Peking University, Beijing 100871, P. R. China
+Author{3}{Firstname}#=%=#Rui
+Author{3}{Lastname}#=%=#Yan
+Author{3}{Email}#=%=#rui.yan.pku@gmail.com
+Author{3}{Affiliation}#=%=#Baidu Inc.
+Author{4}{Firstname}#=%=#Ge
+Author{4}{Lastname}#=%=#Li
+Author{4}{Email}#=%=#lige@sei.pku.edu.cn
+Author{4}{Affiliation}#=%=#Peking University
+Author{5}{Firstname}#=%=#Yan
+Author{5}{Lastname}#=%=#Xu
+Author{5}{Email}#=%=#xuyan14@pku.edu.cn
+Author{5}{Affiliation}#=%=#PKU
+Author{6}{Firstname}#=%=#Lu
+Author{6}{Lastname}#=%=#Zhang
+Author{6}{Email}#=%=#zhanglu@sei.pku.edu.cn
+Author{6}{Affiliation}#=%=#Peking University
+Author{7}{Firstname}#=%=#Zhi
+Author{7}{Lastname}#=%=#Jin
+Author{7}{Email}#=%=#zhijin@sei.pku.edu.cn
+Author{7}{Affiliation}#=%=#Peking University
+
+==========

@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#15
+FinalPaperTitle#=%=#Towards a continuous modeling of natural language domains
+ShortPaperTitle#=%=#Towards a continuous modeling of natural language domains
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Sebastian Ruder
+JobTitle#==#
+Organization#==#
+Abstract#==#Humans continuously adapt their style and language to a variety of domains.
+However, a reliable definition of `domain' has eluded researchers thus far.
+Additionally, the notion of discrete domains stands in contrast to the
+multiplicity of heterogeneous domains that humans navigate, many of which
+overlap. In order to better understand the change and variation of human
+language, we draw on research in domain adaptation and extend the notion of
+discrete domains to the continuous spectrum. We propose representation
+learning-based models that can adapt to continuous domains and detail how these
+can be used to investigate variation in language. To this end, we propose to
+use dialogue modeling as a test bed due to its proximity to language modeling
+and its social component.
+Author{1}{Firstname}#=%=#Sebastian
+Author{1}{Lastname}#=%=#Ruder
+Author{1}{Email}#=%=#ruder.sebastian@gmail.com
+Author{1}{Affiliation}#=%=#National University of Ireland, Galway
+Author{2}{Firstname}#=%=#Parsa
+Author{2}{Lastname}#=%=#Ghaffari
+Author{2}{Email}#=%=#parsa@aylien.com
+Author{2}{Affiliation}#=%=#Aylien Ltd.
+Author{3}{Firstname}#=%=#John G.
+Author{3}{Lastname}#=%=#Breslin
+Author{3}{Email}#=%=#john.breslin@insight-centre.org
+Author{3}{Affiliation}#=%=#National University of Ireland, Galway
+
+==========

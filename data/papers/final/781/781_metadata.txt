@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#781
+FinalPaperTitle#=%=#Automatic Extraction of Implicit Interpretations from Modal Constructions
+ShortPaperTitle#=%=#Automatic Extraction of Implicit Interpretations from Modal Constructions
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Jordan Sanders
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper presents an approach to extract implicit interpretations from modal
+constructions. Importantly, our approach uses a deterministic procedure to
+normalize eventualities and generate potential interpretations. An annotation
+effort demonstrates that these interpretations are intuitive to humans and most
+modal constructions convey at least one interpretation. Experimental results
+show that the task is challenging but can be automated.
+Author{1}{Firstname}#=%=#Jordan
+Author{1}{Lastname}#=%=#Sanders
+Author{1}{Email}#=%=#jms0666@unt.edu
+Author{1}{Affiliation}#=%=#University of North Texas
+Author{2}{Firstname}#=%=#Eduardo
+Author{2}{Lastname}#=%=#Blanco
+Author{2}{Email}#=%=#eduardo.blanco@unt.edu
+Author{2}{Affiliation}#=%=#University of North Texas
+
+==========

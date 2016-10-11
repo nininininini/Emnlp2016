@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Computable News Ecosystems: Roles for Humans and Machines
+ShortPaperTitle#=%=#Computable News Ecosystems: Roles for Humans and Machines
+NumberOfPages#=%=#8
+CopyrightSigned#=%=#David A. Caswell
+JobTitle#==#
+Organization#==#Reynolds Journalism Institute, Missouri School of Journalism, Columbia, Missouri, USA
+Abstract#==#Abstract: Two contrasting paradigms for structuring news events and storylines
+are identified and described: the automated paradigm and the manual paradigm. A
+specific manual news structuring system is described, and the high level
+results of three reporting experiments conducted using the system are
+presented. In light of these results I then compare automated and manual
+approaches and argue that they are complementary. A proposal for integrating
+automated and manual techniques within a structured news ecosystem is
+presented, and recommendations for integrated approaches are provided.
+Author{1}{Firstname}#=%=#David
+Author{1}{Lastname}#=%=#Caswell
+Author{1}{Email}#=%=#david@structuredstories.com
+Author{1}{Affiliation}#=%=#Reynolds Journalism Institute
+
+==========

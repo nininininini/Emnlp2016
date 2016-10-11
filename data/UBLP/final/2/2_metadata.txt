@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#An Analysis of Prerequisite Skills for Reading Comprehension
+ShortPaperTitle#=%=#An Analysis of Prerequisite Skills for Reading Comprehension
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Saku Sugawara
+JobTitle#==#
+Organization#==#
+Abstract#==#In our study, we focus on synthetic understanding of documents: specifically
+reading comprehension (RC). A current problem in RC is the need for a method to
+analyze RC system performance to enable further development.
+  We therefore propose a methodology that enables the examination of RC systems
+in multiple aspects. 
+Our methodology consists of three steps. We first define a set of basic skills
+used in RC.
+Next, we manually annotate questions of an existing RC task. Finally, for each
+skill, we show the performances of existing systems that have been proposed for
+each task.
+In this summary, we exemplify the proposed methodology by annotating MCTest
+(Richardson et al., 2013). The results of the annotation show that answering RC
+questions requires combinations of multiple skills. They additionally show that
+our RC skills are useful and promising for decomposing and analyzing the RC
+process.
+Author{1}{Firstname}#=%=#Saku
+Author{1}{Lastname}#=%=#Sugawara
+Author{1}{Email}#=%=#saku@nii.ac.jp
+Author{1}{Affiliation}#=%=#University of Tokyo
+Author{2}{Firstname}#=%=#Akiko
+Author{2}{Lastname}#=%=#Aizawa
+Author{2}{Email}#=%=#aizawa@nii.ac.jp
+Author{2}{Affiliation}#=%=#National Institute of Informatics
+
+==========

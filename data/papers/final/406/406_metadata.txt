@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#406
+FinalPaperTitle#=%=#Learning to Generate Compositional Color Descriptions
+ShortPaperTitle#=%=#Learning to Generate Compositional Color Descriptions
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#William Monroe
+JobTitle#==#
+Organization#==#Stanford University
+Computer Science Department
+353 Serra Mall
+Stanford, CA 94305
+Abstract#==#The production of color language is essential for grounded language generation.
+Color descriptions have many challenging properties: they can be vague,
+compositionally complex, and denotationally rich. We present an effective
+approach to generating color descriptions using recurrent neural networks and a
+Fourier-transformed color representation. Our model outperforms previous work
+on a conditional language modeling task over a large corpus of naturalistic
+color descriptions. In addition, probing the model's output reveals that it can
+accurately produce not only basic color terms but also descriptors with
+non-convex denotations ("greenish"), bare modifiers ("bright", "dull"), and
+compositional phrases ("faded teal") not seen in training.
+Author{1}{Firstname}#=%=#Will
+Author{1}{Lastname}#=%=#Monroe
+Author{1}{Email}#=%=#wmonroe4@cs.stanford.edu
+Author{1}{Affiliation}#=%=#Stanford University
+Author{2}{Firstname}#=%=#Noah D.
+Author{2}{Lastname}#=%=#Goodman
+Author{2}{Email}#=%=#ngoodman@stanford.edu
+Author{2}{Affiliation}#=%=#Stanford University
+Author{3}{Firstname}#=%=#Christopher
+Author{3}{Lastname}#=%=#Potts
+Author{3}{Email}#=%=#cgpotts@stanford.edu
+Author{3}{Affiliation}#=%=#Stanford University
+
+==========

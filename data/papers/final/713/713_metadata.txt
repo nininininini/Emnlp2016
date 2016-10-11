@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#713
+FinalPaperTitle#=%=#Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts
+ShortPaperTitle#=%=#Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Cole Peterson
+JobTitle#==#
+Organization#==#University of Victoria
+3800 Finnerty Rd
+Victoria, BC V8P 5C2
+Abstract#==#The Xenotext Experiment implants poetry into an extremophile's DNA, and uses
+that DNA to generate new poetry in a protein form.  The molecular machinery of
+life requires that these two poems encipher each other under a symmetric
+substitution cipher. We search for ciphers which permit writing under the
+Xenotext constraints, incorporating ideas from cipher-cracking algorithms, and
+using n-gram data to assess a cipher's ``writability''. Our algorithm, Beam
+Verse, is a beam search which uses new heuristics to navigate the cipher-space.
+We find thousands of ciphers which score higher than successful ciphers used to
+write Xenotext constrained texts.
+Author{1}{Firstname}#=%=#Cole
+Author{1}{Lastname}#=%=#Peterson
+Author{1}{Email}#=%=#colpeterson@gmail.com
+Author{1}{Affiliation}#=%=#University of Victoria
+Author{2}{Firstname}#=%=#Alona
+Author{2}{Lastname}#=%=#Fyshe
+Author{2}{Email}#=%=#afyshe@uvic.ca
+Author{2}{Affiliation}#=%=#University of Victoria
+
+==========

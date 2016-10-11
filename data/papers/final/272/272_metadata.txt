@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#272
+FinalPaperTitle#=%=#The Effects of Data Size and Frequency Range on Distributional Semantic Models
+ShortPaperTitle#=%=#The Effects of Data Size and Frequency Range on Distributional Semantic Models
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Magnus Sahlgren
+JobTitle#==#
+Organization#==#
+Abstract#==#This paper investigates the effects of data size and frequency range on
+Distributional Semantic Models. We compare the performance of a number of
+representative models for several test settings over data of varying sizes, and
+over test items of various frequency. Our results show that neural
+network-based models underperform when the data is small, and that the most
+reliable model over data of varying sizes and frequency ranges is the inverted
+factorized model.
+Author{1}{Firstname}#=%=#Magnus
+Author{1}{Lastname}#=%=#Sahlgren
+Author{1}{Email}#=%=#mange@gavagai.se
+Author{1}{Affiliation}#=%=#Gavagai
+Author{2}{Firstname}#=%=#Alessandro
+Author{2}{Lastname}#=%=#Lenci
+Author{2}{Email}#=%=#alessandro.lenci@unipi.it
+Author{2}{Affiliation}#=%=#University of Pisa
+
+==========

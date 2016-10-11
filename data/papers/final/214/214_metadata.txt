@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#214
+FinalPaperTitle#=%=#Combining Supervised and Unsupervised Enembles for Knowledge Base Population
+ShortPaperTitle#=%=#Combining Supervised and Unsupervised Enembles for Knowledge Base Population
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nazneen Rajani
+JobTitle#==#
+Organization#==#University of Texas at Austin
+Abstract#==#We combine supervised and unsupervised methods to ensemble systems for two
+popular Knowledge Base Population (KBP) tasks, Cold Start Slot Filling (CSSF)
+and Tri-lingual Entity Discovery and Linking (TEDL). We demonstrate that it
+outperforms the best system for both tasks in the 2015 competition, several
+ensembling baselines, as well as a state-of-the-art stacking approach. The
+success of our technique on two different and challenging problems demonstrates
+the power and generality of our combined approach to ensembling.
+Author{1}{Firstname}#=%=#Nazneen Fatema
+Author{1}{Lastname}#=%=#Rajani
+Author{1}{Email}#=%=#nrajani@cs.utexas.edu
+Author{1}{Affiliation}#=%=#The University of Texas at Austin
+Author{2}{Firstname}#=%=#Raymond
+Author{2}{Lastname}#=%=#Mooney
+Author{2}{Email}#=%=#mooney@cs.utexas.edu
+Author{2}{Affiliation}#=%=#University of Texas at Austin
+
+==========

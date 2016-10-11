@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Moving away from semantic overfitting in disambiguation datasets
+ShortPaperTitle#=%=#Moving away from semantic overfitting
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Marten Postma
+JobTitle#==#
+Organization#==#Vrije Universiteit Amsterdam, De Boelelaan 1105 1081 HV Amsterdam
+Abstract#==#Entities and events in the world have no frequency, but our communication about
+them and the expressions we use to refer to them do have a strong frequency
+profile. Language expressions and their meanings follow a Zipfian distribution,
+featuring a small amount of very frequent observations and a very long tail of
+low frequent observations. Since our NLP datasets sample texts but do not
+sample the world, they are no exception to Zipf's law. This causes a lack of
+representativeness in our NLP tasks, leading to models that can capture the
+head phenomena in language, but fail when dealing with the long tail. We
+therefore propose a referential challenge for semantic NLP that reflects a
+higher degree of ambiguity and variance and captures a large range of small
+real-world phenomena. To perform well, systems would have to show deep
+understanding on the linguistic tail.
+Author{1}{Firstname}#=%=#Marten
+Author{1}{Lastname}#=%=#Postma
+Author{1}{Email}#=%=#m.c.postma@vu.nl
+Author{1}{Affiliation}#=%=#Vrije Universiteit Amsterdam
+Author{2}{Firstname}#=%=#Filip
+Author{2}{Lastname}#=%=#Ilievski
+Author{2}{Email}#=%=#f.ilievski@vu.nl
+Author{2}{Affiliation}#=%=#VU Amsterdam
+Author{3}{Firstname}#=%=#Piek
+Author{3}{Lastname}#=%=#Vossen
+Author{3}{Email}#=%=#piek.vossen@vu.nl
+Author{3}{Affiliation}#=%=#VU University Amsterdam
+Author{4}{Firstname}#=%=#Marieke
+Author{4}{Lastname}#=%=#van Erp
+Author{4}{Email}#=%=#marieke.van.erp@vu.nl
+Author{4}{Affiliation}#=%=#VU University Amsterdam
+
+==========

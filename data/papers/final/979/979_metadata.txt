@@ -1,0 +1,31 @@
+SubmissionNumber#=%=#979
+FinalPaperTitle#=%=#An Embedding Model for Predicting Roll-Call Votes
+ShortPaperTitle#=%=#An Embedding Model for Predicting Roll-Call Votes
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Peter Kraft
+JobTitle#==#
+Organization#==#
+Abstract#==#We develop a novel embedding-based model for predicting legislative
+  roll-call votes from bill text. The model introduces
+  multidimensional \textit{ideal vectors} for legislators as an
+  alternative to single dimensional ideal point models for
+  quantitatively analyzing roll-call data. These vectors are learned
+  to correspond with pre-trained word embeddings which allows us to
+  analyze which features in a bill text are most predictive of political
+  support. Our model is quite simple, while at the same time allowing
+  us to successfully predict legislator votes on specific bills with
+  higher accuracy than past methods.
+Author{1}{Firstname}#=%=#Peter
+Author{1}{Lastname}#=%=#Kraft
+Author{1}{Email}#=%=#pkraft@college.harvard.edu
+Author{1}{Affiliation}#=%=#Harvard University
+Author{2}{Firstname}#=%=#Hirsh
+Author{2}{Lastname}#=%=#Jain
+Author{2}{Email}#=%=#hirshjain@college.harvard.edu
+Author{2}{Affiliation}#=%=#Harvard University
+Author{3}{Firstname}#=%=#Alexander M.
+Author{3}{Lastname}#=%=#Rush
+Author{3}{Email}#=%=#srush@seas.harvard.edu
+Author{3}{Affiliation}#=%=#Harvard University
+
+==========

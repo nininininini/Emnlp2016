@@ -1,0 +1,23 @@
+SubmissionNumber#=%=#1235
+FinalPaperTitle#=%=#Easy-First Dependency Parsing with Hierarchical Tree LSTMs
+ShortPaperTitle#=%=#Easy-First Dependency Parsing with Hierarchical Tree LSTMs
+NumberOfPages#=%=#18
+CopyrightSigned#=%=#Eli
+JobTitle#==#
+Organization#==#Bar-Ilan University Ramat-Gan 52900 Israel
+Abstract#==#We suggest a compositional vector representation of parse trees that relies on
+a recursive combination of recurrent-neural network encoders. To demonstrate
+its effectiveness, we use the representation as the backbone of a greedy,
+bottom-up dependency parser, achieving very strong accuracies for English and
+Chinese, without relying on external word embeddings. The parser’s 
+implementation is available for download at the first author’s webpage.
+Author{1}{Firstname}#=%=#Eliyahu
+Author{1}{Lastname}#=%=#Kiperwasser
+Author{1}{Email}#=%=#elikip@gmail.com
+Author{1}{Affiliation}#=%=#Bar-Ilan University
+Author{2}{Firstname}#=%=#Yoav
+Author{2}{Lastname}#=%=#Goldberg
+Author{2}{Email}#=%=#yoav.goldberg@gmail.com
+Author{2}{Affiliation}#=%=#Bar Ilan University
+
+==========

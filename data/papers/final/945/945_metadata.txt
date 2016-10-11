@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#945
+FinalPaperTitle#=%=#Rule Extraction for Tree-to-Tree Transducers by Cost Minimization
+ShortPaperTitle#=%=#Rule Extraction for Tree-to-Tree Transducers by Cost Minimization
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Pascual Martinez-Gomez
+JobTitle#==#Researcher
+Organization#==#National Institute of Advanced Industrial Science and Technology
+2-3-26 Aomi, Koto-ku, Tokyo 135-0064, Japan
+Abstract#==#Tree transducers that model expressive linguistic phenomena often require
+word-alignments and a heuristic rule extractor to induce their grammars. 
+However, when the corpus of tree/string pairs is small compared to the size of
+the vocabulary or the complexity of the grammar, word-alignments are
+unreliable.  We propose a general rule extraction algorithm that uses cost
+functions over tree fragments, and formulate the extraction as a cost
+minimization problem.  As a by-product, we are able to introduce back-off
+states at which some cost functions generate right-hand-sides of previously
+unseen left-hand-sides, thus creating transducer rules ``on-the-fly''.               
+     
+
+We test
+the generalization power of our induced tree transducers on a QA task over a
+large Knowledge Base, obtaining a reasonable syntactic accuracy and effectively
+overcoming the typical lack of rule coverage.
+Author{1}{Firstname}#=%=#Pascual
+Author{1}{Lastname}#=%=#Martínez-Gómez
+Author{1}{Email}#=%=#pascual.mg@aist.go.jp
+Author{1}{Affiliation}#=%=#National Institute of Advanced Industrial Science and Technology (AIST)
+Author{2}{Firstname}#=%=#Yusuke
+Author{2}{Lastname}#=%=#Miyao
+Author{2}{Email}#=%=#yusuke@nii.ac.jp
+Author{2}{Affiliation}#=%=#National Instutite of Informatics
+
+==========

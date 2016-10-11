@@ -1,0 +1,21 @@
+SubmissionNumber#=%=#33
+FinalPaperTitle#=%=#Identifying Sensible Participants in Online Discussions
+ShortPaperTitle#=%=#Identifying Sensible Participants in Online Discussions
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Siddharth Jain
+JobTitle#==#Student
+Organization#==#University of Southern California
+Abstract#==#This paper investigates the problem of identifying participants in online
+discussions whose contribution can be considered sensible. Sensibleness of a
+participant can be indicative of the influence a participant may have on the
+course/outcome of the discussion, as well as other participants in terms of
+persuading them towards his/her stance. The proposed sensibleness model uses
+features based on participants' contribution and the discussion domain to
+achieve an F1-score of 0.89 \& 0.78 for Wikipedia: Articles for Deletion and
+4forums.com discussions respectively.
+Author{1}{Firstname}#=%=#Siddharth
+Author{1}{Lastname}#=%=#Jain
+Author{1}{Email}#=%=#siddhajj@usc.edu
+Author{1}{Affiliation}#=%=#USC
+
+==========

@@ -1,0 +1,32 @@
+* Tuesday, November 1st, 2016
+= Session1: Opening Session
++ 08:45--09:00 Welcome Remarks
++ 09:00--10:00 Keynote Speaker
+7 10:00--10:30  # Challenges of Computational Processing of Code-Switching
+= 10:30--11:00 Coffe Break
+= Session 2: Workshop Talks
+11   # SAWT: Sequence Annotation Web Tool
+1 11:00--11:30  # Simple Tools for Exploring Variation in Code-switching for Linguists
+12 11:30--12:00  # Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data
+2   # Accurate Pinyin-English Codeswitched Language Identification
+6   # Unraveling the English-Bengali Code-Mixing Phenomenon
+3   # Part-of-speech Tagging of Code-Mixed Social Media Text
+5 12:00--12:30  # Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline, Stacking and Joint Modelling
+9   # Part of Speech Tagging for Code Switched Data
+= 12:30--14:00 Lunch
+= Session 3: Shared Task
+108 14:00--14:30  # Overview for the Second Shared Task on Language Identification in Code-Switched Data
+100   # The George Washington University System for the Code-Switching Workshop Shared Task 2016
+104   # Columbia-Jadavpur submission for EMNLP 2016 Code-Switching Workshop Shared Task: System description
+102   # A Neural Model for Language Identification in Code-Switched Tweets
+105 14:30--15:00  # Multilingual Code-switching Identification via LSTM Recurrent Neural Networks
+# Paper 102 not shown in the order (it is marked hidden in the schedule)
+103   # The Howard University System Submission for the Shared Task in Language Identification in Spanish-English Codeswitching
+106   # Codeswitching Detection via Lexical Features in Conditional Random Fields
+107   # Language Identification in Code-Switched Text Using Conditional Random Fields and Babelnet
+101   # Codeswitching language identification using Subword Information Enriched Word Vectors
+= 15:30--16:00 Coffe Break
+= Session 4: Panel Discussion and Poster Session
+= 16:00--16:45 Panel Discussion
+= 16:45--18:00 Poster Session
+# Paper 11 not shown in the order (it is marked hidden in the schedule)

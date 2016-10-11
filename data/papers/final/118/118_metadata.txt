@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#118
+FinalPaperTitle#=%=#Event Detection and Co-reference with Minimal Supervision
+ShortPaperTitle#=%=#Event Detection and Co-reference with Minimal Supervision
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Haoruo Peng
+JobTitle#==#
+Organization#==#University of Illinois, Urbana-Champaign
+Urbana, IL, USA
+61801
+Abstract#==#An important aspect of natural language understanding involves recognizing and
+categorizing events and the relations among them. However, these tasks are
+quite subtle and annotating training data for machine learning based approaches
+is an expensive task, resulting in supervised systems that attempt to learn
+complex models from small amounts of data, which they over-fit. This paper
+addresses this challenge by developing an event detection and co-reference
+system with minimal supervision, in the form of a few event examples. We view
+these tasks as semantic similarity problems between event mentions or event
+mentions and an ontology of types, thus facilitating the use of large amounts
+of out of domain text data. Notably, our semantic relatedness function exploits
+the structure of the text by making use of a semantic-role-labeling based
+representation of an event. 
+
+We show that our approach to event detection is competitive with the top
+supervised methods. More significantly, we outperform state-of-the-art
+supervised methods for event co-reference on benchmark data sets, and support
+significantly better transfer across domains.
+Author{1}{Firstname}#=%=#Haoruo
+Author{1}{Lastname}#=%=#Peng
+Author{1}{Email}#=%=#hpeng7@illinois.edu
+Author{1}{Affiliation}#=%=#UIUC
+Author{2}{Firstname}#=%=#Yangqiu
+Author{2}{Lastname}#=%=#Song
+Author{2}{Email}#=%=#yqsong@gmail.com
+Author{2}{Affiliation}#=%=#HKUST
+Author{3}{Firstname}#=%=#Dan
+Author{3}{Lastname}#=%=#Roth
+Author{3}{Email}#=%=#danr@illinois.edu
+Author{3}{Affiliation}#=%=#University of Illinois
+
+==========

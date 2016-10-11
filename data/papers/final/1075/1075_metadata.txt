@@ -1,0 +1,48 @@
+SubmissionNumber#=%=#1075
+FinalPaperTitle#=%=#Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems
+ShortPaperTitle#=%=#Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Dario Bertero
+JobTitle#==#
+Organization#==#Human Language Technology Center,
+Department of Electronic and Computer Engineering,
+The Hong Kong University of Science and Technology,
+Clear Water Bay, Hong Kong
+Abstract#==#In this paper, we describe our approach of enabling an interactive dialogue
+system to recognize user emotion and sentiment in realtime. These modules allow
+otherwise conventional dialogue systems to have “empathy” and answer to the
+user while being aware of their emotion and intent. Emotion recognition from
+speech previously consists of feature engineering and machine learning where
+the first stage causes delay in decoding time. We describe a CNN model to
+extract emotion from raw speech input without feature engineering. This
+approach even achieves an impressive average of 65.7% accuracy on six emotion
+categories, a 4.5% improvement when compared to the conventional feature based
+SVM classification. A separate, CNN-based sentiment analysis module recognizes
+sentiments from speech recognition results, with 74.8 F-measure on
+human-machine dialogues when trained with out-of-domain data.
+Author{1}{Firstname}#=%=#Dario
+Author{1}{Lastname}#=%=#Bertero
+Author{1}{Email}#=%=#dbertero@ust.hk
+Author{1}{Affiliation}#=%=#Human Language Technology Center, The Hong Kong University of Science and Technology
+Author{2}{Firstname}#=%=#Farhad Bin
+Author{2}{Lastname}#=%=#Siddique
+Author{2}{Email}#=%=#fsiddique@connect.ust.hk
+Author{2}{Affiliation}#=%=#Human Language Technology Center, Hong Kong University of Science and Technology
+Author{3}{Firstname}#=%=#Chien-Sheng
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#b01901045@ntu.edu.tw
+Author{3}{Affiliation}#=%=#National Taiwan University
+Author{4}{Firstname}#=%=#Yan
+Author{4}{Lastname}#=%=#Wan
+Author{4}{Email}#=%=#ywanad@connect.ust.hk
+Author{4}{Affiliation}#=%=#Human Language Technology Center, Hong Kong University of Science and Technology
+Author{5}{Firstname}#=%=#Ricky Ho Yin
+Author{5}{Lastname}#=%=#Chan
+Author{5}{Email}#=%=#eehychan@ust.hk
+Author{5}{Affiliation}#=%=#Human Language Technology Center, Hong Kong University of Science and Technology
+Author{6}{Firstname}#=%=#Pascale
+Author{6}{Lastname}#=%=#Fung
+Author{6}{Email}#=%=#pascale@ece.ust.hk
+Author{6}{Affiliation}#=%=#Human Language Technology Center, Hong Kong University of Science and Technology
+
+==========

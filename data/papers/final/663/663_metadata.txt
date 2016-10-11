@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#663
+FinalPaperTitle#=%=#Transition-Based Dependency Parsing with Heuristic Backtracking
+ShortPaperTitle#=%=#Transition-Based Dependency Parsing with Heuristic Backtracking
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Jacob Buckman
+JobTitle#==#
+Organization#==#
+Abstract#==#We introduce a novel approach to the decoding problem in transition-based
+parsing: heuristic backtracking. This algorithm uses a series of partial parses
+on the sentence to locate the best candidate parse, using confidence estimates
+of transition decisions as a heuristic to guide the starting points of the
+search. This allows us to achieve a parse accuracy comparable to beam search,
+despite using fewer transitions. When used to augment a Stack-LSTM
+transition-based parser, the parser shows an unlabeled attachment score of up
+to 93.30% for English and 87.61% for Chinese.
+Author{1}{Firstname}#=%=#Jacob
+Author{1}{Lastname}#=%=#Buckman
+Author{1}{Email}#=%=#jacobbuckman@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University
+Author{2}{Firstname}#=%=#Miguel
+Author{2}{Lastname}#=%=#Ballesteros
+Author{2}{Email}#=%=#miguel.ballesteros@upf.edu
+Author{2}{Affiliation}#=%=#Pompeu Fabra University
+Author{3}{Firstname}#=%=#Chris
+Author{3}{Lastname}#=%=#Dyer
+Author{3}{Email}#=%=#cdyer@google.com
+Author{3}{Affiliation}#=%=#Google DeepMind
+
+==========

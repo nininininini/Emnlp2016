@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#737
+FinalPaperTitle#=%=#Context-Sensitive Lexicon Features for Neural Sentiment Analysis
+ShortPaperTitle#=%=#Context-Sensitive Lexicon Features for Neural Sentiment Analysis
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#tzy
+JobTitle#==#
+Organization#==#Singapore University of Technology and Design, 8 Somapah Road Singapore 487372
+Abstract#==#Sentiment lexicons have been leveraged as a useful source of features for
+sentiment analysis models, leading to the state-of-the-art accuracies. On the
+other hand, most existing methods use sentiment lexicons without considering
+context, typically taking the count, sum of strength, or maximum sentiment
+scores over the whole input. We propose a context-sensitive lexicon-based
+method based on a simple weighted-sum model, using
+a recurrent neural network to learn the sentiments strength, intensification
+and negation of lexicon sentiments in composing the sentiment value of
+sentences. Results show that our model can not only learn such operation
+details, but also give significant improvements over state-of-the-art recurrent
+neural network baselines without lexical features, achieving the best results
+on a Twitter benchmark.
+Author{1}{Firstname}#=%=#Zhiyang
+Author{1}{Lastname}#=%=#Teng
+Author{1}{Email}#=%=#zhiyang_teng@mymail.sutd.edu.sg
+Author{1}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{2}{Firstname}#=%=#Duy Tin
+Author{2}{Lastname}#=%=#Vo
+Author{2}{Email}#=%=#duytin_vo@mymail.sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Yue
+Author{3}{Lastname}#=%=#Zhang
+Author{3}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{3}{Affiliation}#=%=#Singapore University of Technology and Design
+
+==========

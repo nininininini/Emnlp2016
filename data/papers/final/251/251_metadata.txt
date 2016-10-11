@@ -1,0 +1,50 @@
+SubmissionNumber#=%=#251
+FinalPaperTitle#=%=#Exploring Semantic Representation in Brain Activity Using Word Embeddings
+ShortPaperTitle#=%=#Exploring Semantic Representation in Brain Activity Using Word Embeddings
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Yu-Ping Ruan
+JobTitle#==#
+Organization#==#National Engineering Laboratory for Speech and Language Information Processing,
+University of Science and Technology of China, Hefei, China
+Abstract#==#In this paper, we utilize distributed word representations (i.e., word
+embeddings) to analyse the representation of semantics in brain activity.
+The brain activity data were recorded using functional magnetic resonance
+imaging (fMRI) when subjects were viewing words.
+First, we analysed the functional selectivity of different cortex areas by
+calculating the correlations between neural responses and several types of word
+representations,
+including skip-gram word embeddings, visual semantic vectors, and primary
+visual features.
+The results demonstrated consistency with existing neuroscientific knowledge.
+
+Second, we utilized behavioural data as the semantic ground truth to measure
+their relevance with brain activity.
+A method to estimate word embeddings under the constraints of brain activity
+similarities is further proposed based on the semantic word embedding (SWE)
+model.
+The experimental results show that the brain activity data are significantly
+correlated with the behavioural data of human judgements on semantic
+similarity.
+The correlations between the estimated word embeddings and the                       
+ 
+semantic
+ground
+truth
+can be effectively improved after integrating the brain activity data for
+learning, which implies that semantic patterns in neural representations may
+exist that have not been fully captured by state-of-the-art word embeddings
+derived from text corpora.
+Author{1}{Firstname}#=%=#Yu-Ping
+Author{1}{Lastname}#=%=#Ruan
+Author{1}{Email}#=%=#ypruan@mail.ustc.edu.cn
+Author{1}{Affiliation}#=%=#University of Science and Technology of China
+Author{2}{Firstname}#=%=#Zhen-Hua
+Author{2}{Lastname}#=%=#Ling
+Author{2}{Email}#=%=#zhling@ustc.edu.cn
+Author{2}{Affiliation}#=%=#University of Science and Technology of China
+Author{3}{Firstname}#=%=#Yu
+Author{3}{Lastname}#=%=#Hu
+Author{3}{Email}#=%=#yuhu@iflytek.com
+Author{3}{Affiliation}#=%=#iFLYTEK Research, Heifei, China
+
+==========

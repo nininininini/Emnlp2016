@@ -1,0 +1,38 @@
+SubmissionNumber#=%=#660
+FinalPaperTitle#=%=#The Effects of the Content of FOMC Communications on US Treasury Rates
+ShortPaperTitle#=%=#The Effects of the Content of FOMC Communications on US Treasury Rates
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Sunandan Chakraborty
+JobTitle#==#
+Organization#==#
+Abstract#==#This study measures the effects of Federal Open Market Committee text content
+on 
+the direction of short- and medium-term interest rate movements. Because the 
+words relevant to short- and medium-term interest rates differ, we apply a 
+supervised approach to learn distinct sets of topics for each dependent
+variable 
+being examined. We generate predictions with and without controlling for
+factors 
+relevant to interest rate movements, and our prediction results average across 
+multiple training-test splits. Using data from 1999-2016, we achieve 93\% and
+64\% 
+accuracy in predicting Target and Effective Federal Funds Rate movements and
+38\%-40\% 
+accuracy in predicting longer term Treasury Rate movements. We obtain lower but
+
+comparable accuracies after controlling for other macroeconomic and market
+factors.
+Author{1}{Firstname}#=%=#Christopher
+Author{1}{Lastname}#=%=#Rohlfs
+Author{1}{Email}#=%=#Christopher.Rohlfs@morganstanley.com
+Author{1}{Affiliation}#=%=#Morgan Stanley
+Author{2}{Firstname}#=%=#Sunandan
+Author{2}{Lastname}#=%=#Chakraborty
+Author{2}{Email}#=%=#sunandanchakraborty@gmail.com
+Author{2}{Affiliation}#=%=#New York University
+Author{3}{Firstname}#=%=#Lakshminarayanan
+Author{3}{Lastname}#=%=#Subramanian
+Author{3}{Email}#=%=#lakshmi@cs.nyu.edu
+Author{3}{Affiliation}#=%=#New York University
+
+==========

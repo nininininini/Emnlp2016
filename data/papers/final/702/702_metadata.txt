@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#702
+FinalPaperTitle#=%=#Fluency detection on communication networks
+ShortPaperTitle#=%=#Fluency detection on communication networks
+NumberOfPages#=%=#5
+CopyrightSigned#=%=#Thomas Lippincott
+JobTitle#==#
+Organization#==#
+Abstract#==#When considering a social media corpus, we often have access to structural
+information about how messages are flowing between people or organizations. 
+This information is particularly useful when the linguistic evidence is sparse,
+incomplete, or of dubious quality.  In this paper we construct a simple model
+to leverage the structure of Twitter data to help determine the set of
+languages each user is fluent in.  Our results demonstrate that imposing
+several intuitive constraints leads to improvements in performance and
+stability.  We release the first annotated data set for exploring this task,
+and discuss how our approach may be extended to other applications.
+Author{1}{Firstname}#=%=#Tom
+Author{1}{Lastname}#=%=#Lippincott
+Author{1}{Email}#=%=#tom.lippincott@gmail.com
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Benjamin
+Author{2}{Lastname}#=%=#Van Durme
+Author{2}{Email}#=%=#vandurme@cs.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+
+==========

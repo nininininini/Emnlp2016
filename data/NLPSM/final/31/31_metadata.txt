@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#31
+FinalPaperTitle#=%=#Identifying Eyewitness News-worthy Events on Twitter
+ShortPaperTitle#=%=#Identifying Eyewitness News-worthy Events on Twitter
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Erika Varis Doggett
+JobTitle#==#
+Organization#==#Timeline Labs, Santa Monica, CA
+Abstract#==#In this paper we present a filter for identifying posts from eyewitnesses to
+various event types on Twitter, including shootings, police activity, and
+protests. The filter combines sociolinguistic markers and targeted language
+content with straightforward keywords and regular expressions to yield good
+accuracy in the returned tweets. Once a set of eyewitness posts in a given
+semantic context has been produced by the filter, eyewitness events can
+subsequently be identified by enriching the data with additional geolocation
+information and then applying a spatio-temporal clustering. By applying these
+steps we can extract a complete picture of the event as it occurs in real-time,
+sourced entirely from social media.
+Author{1}{Firstname}#=%=#Erika
+Author{1}{Lastname}#=%=#Doggett
+Author{1}{Email}#=%=#erikavaris@gmail.com
+Author{1}{Affiliation}#=%=#Walt Disney Studios
+Author{2}{Firstname}#=%=#Alejandro
+Author{2}{Lastname}#=%=#Cantarero
+Author{2}{Email}#=%=#acantarero@tronc.com
+Author{2}{Affiliation}#=%=#tronc, Inc.
+
+==========

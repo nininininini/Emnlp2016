@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#366
+FinalPaperTitle#=%=#Neural Text Generation from Structured Data with Application to the Biography Domain
+ShortPaperTitle#=%=#Neural Text Generation from Structured Data with Application to the Biography Domain
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#David Grangier
+JobTitle#==#
+Organization#==#Facebook, 1 Facebook Way, Menlo Park, CA
+Abstract#==#This paper introduces a neural model for concept-to-text generation that scales
+to large, rich domains. It generates biographical sentences from fact tables on
+a new dataset of biographies from Wikipedia. This set is an order of magnitude
+larger than existing resources with over 700k samples and a 400k vocabulary.
+Our model builds on conditional neural language models for text generation. To
+deal with the large vocabulary, we extend these models to mix a fixed
+vocabulary with copy actions that transfer sample-specific words from the input
+database to the generated output sentence. To deal with structured data, we
+allow the model to embed words differently depending on the data fields in
+which they occur. Our neural model significantly outperforms a Templated
+Kneser-Ney language model by nearly 15 BLEU.
+Author{1}{Firstname}#=%=#Rémi
+Author{1}{Lastname}#=%=#Lebret
+Author{1}{Email}#=%=#remi.lebret@idiap.ch
+Author{1}{Affiliation}#=%=#Idiap/EPFL
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Grangier
+Author{2}{Email}#=%=#grangier@fb.com
+Author{2}{Affiliation}#=%=#Facebook
+Author{3}{Firstname}#=%=#Michael
+Author{3}{Lastname}#=%=#Auli
+Author{3}{Email}#=%=#michael.auli@gmail.com
+Author{3}{Affiliation}#=%=#Facebook AI Research
+
+==========

@@ -1,0 +1,49 @@
+SubmissionNumber#=%=#1152
+FinalPaperTitle#=%=#Universal Decompositional Semantics on Universal Dependencies
+ShortPaperTitle#=%=#Universal Decompositional Semantics on Universal Dependencies
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Aaron Steven White
+JobTitle#==#
+Organization#==#
+Abstract#==#We present a framework for augmenting data sets from the Universal Dependencies
+project with Universal Decompositional Semantics. Where the Universal
+Dependencies project aims to provide a syntactic dependency annotation standard
+that can be used consistently across many languages as well as a collection of
+corpora that use that standard, our extension has similar aims for semantic
+annotation. We describe results from annotating the English Universal
+Dependencies treebank, dealing with word senses, semantic roles, and event
+properties.
+Author{1}{Firstname}#=%=#Aaron Steven
+Author{1}{Lastname}#=%=#White
+Author{1}{Email}#=%=#aswhite@jhu.edu
+Author{1}{Affiliation}#=%=#Johns Hopkins University
+Author{2}{Firstname}#=%=#Drew
+Author{2}{Lastname}#=%=#Reisinger
+Author{2}{Email}#=%=#reisinger@cogsci.jhu.edu
+Author{2}{Affiliation}#=%=#Johns Hopkins University
+Author{3}{Firstname}#=%=#Keisuke
+Author{3}{Lastname}#=%=#Sakaguchi
+Author{3}{Email}#=%=#keisuke@cs.jhu.edu
+Author{3}{Affiliation}#=%=#Johns Hopkins University
+Author{4}{Firstname}#=%=#Tim
+Author{4}{Lastname}#=%=#Vieira
+Author{4}{Email}#=%=#tim.f.vieira@gmail.com
+Author{4}{Affiliation}#=%=#Johns Hopkins
+Author{5}{Firstname}#=%=#Sheng
+Author{5}{Lastname}#=%=#Zhang
+Author{5}{Email}#=%=#zhangsheng.zero@gmail.com
+Author{5}{Affiliation}#=%=#Johns Hopkins University
+Author{6}{Firstname}#=%=#Rachel
+Author{6}{Lastname}#=%=#Rudinger
+Author{6}{Email}#=%=#rudinger@jhu.edu
+Author{6}{Affiliation}#=%=#Johns Hopkins University
+Author{7}{Firstname}#=%=#Kyle
+Author{7}{Lastname}#=%=#Rawlins
+Author{7}{Email}#=%=#kgr@jhu.edu
+Author{7}{Affiliation}#=%=#Johns Hopkins University
+Author{8}{Firstname}#=%=#Benjamin
+Author{8}{Lastname}#=%=#Van Durme
+Author{8}{Email}#=%=#vandurme@cs.jhu.edu
+Author{8}{Affiliation}#=%=#JHU
+
+==========

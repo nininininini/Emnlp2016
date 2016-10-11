@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#156
+FinalPaperTitle#=%=#Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition
+ShortPaperTitle#=%=#Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Changxing Wu
+JobTitle#==#
+Organization#==#
+Abstract#==#To alleviate the shortage of labeled data, we propose to use
+bilingually-constrained synthetic
+implicit data for implicit discourse relation recognition. These data are
+extracted from a bilingual sentence-aligned corpus according to the
+implicit/explicit mismatch between different languages. Incorporating these
+data via a multi-task neural network model achieves significant improvements
+over baselines, on both the English PDTB and Chinese CDTB data sets.
+Author{1}{Firstname}#=%=#Changxing
+Author{1}{Lastname}#=%=#Wu
+Author{1}{Email}#=%=#wcxnlp@163.com
+Author{1}{Affiliation}#=%=#Xiamen University
+Author{2}{Firstname}#=%=#xiaodong
+Author{2}{Lastname}#=%=#shi
+Author{2}{Email}#=%=#mandel@xmu.edu.cn
+Author{2}{Affiliation}#=%=#Xiamen University
+Author{3}{Firstname}#=%=#Yidong
+Author{3}{Lastname}#=%=#Chen
+Author{3}{Email}#=%=#ydchen@xmu.edu.cn
+Author{3}{Affiliation}#=%=#Department of Cognitive Science, School of Information Science and Technology, Xiamen University
+Author{4}{Firstname}#=%=#Yanzhou
+Author{4}{Lastname}#=%=#Huang
+Author{4}{Email}#=%=#huangyanzhou163@163.com
+Author{4}{Affiliation}#=%=#Xiamen University
+Author{5}{Firstname}#=%=#jinsong
+Author{5}{Lastname}#=%=#su
+Author{5}{Email}#=%=#jssu@xmu.edu.cn
+Author{5}{Affiliation}#=%=#Xiamen university
+
+==========

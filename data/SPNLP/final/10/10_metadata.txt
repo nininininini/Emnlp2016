@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Unsupervised Neural Hidden Markov Models
+ShortPaperTitle#=%=#Unsupervised Neural Hidden Markov Models
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Yonatan Bisk
+JobTitle#==#
+Organization#==#
+Abstract#==#In this work, we present the first results for neuralizing an Unsupervised
+Hidden Markov Model.  We evaluate our approach on tag induction.  Our approach
+outperforms existing generative models and is competitive with the
+state-of-the-art though with a simpler model easily extended to include
+additional context.
+Author{1}{Firstname}#=%=#Ke M.
+Author{1}{Lastname}#=%=#Tran
+Author{1}{Email}#=%=#m.k.tran@uva.nl
+Author{1}{Affiliation}#=%=#University of Amsterdam
+Author{2}{Firstname}#=%=#Yonatan
+Author{2}{Lastname}#=%=#Bisk
+Author{2}{Email}#=%=#ybisk@isi.edu
+Author{2}{Affiliation}#=%=#ISI/USC
+Author{3}{Firstname}#=%=#Ashish
+Author{3}{Lastname}#=%=#Vaswani
+Author{3}{Email}#=%=#vaswani@usc.edu
+Author{3}{Affiliation}#=%=#University of Southern California Information Sciences Institute
+Author{4}{Firstname}#=%=#Daniel
+Author{4}{Lastname}#=%=#Marcu
+Author{4}{Email}#=%=#marcu@isi.edu
+Author{4}{Affiliation}#=%=#ISI/USC
+Author{5}{Firstname}#=%=#Kevin
+Author{5}{Lastname}#=%=#Knight
+Author{5}{Email}#=%=#knight@isi.edu
+Author{5}{Affiliation}#=%=#USC/ISI
+
+==========

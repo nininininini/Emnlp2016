@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#378
+FinalPaperTitle#=%=#Enhanced Personalized Search using Social Data
+ShortPaperTitle#=%=#Enhanced Personalized Search using Social Data
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Dong Zhou
+JobTitle#==#
+Organization#==#Key Laboratory of Knowledge Processing and Networked Manufacturing & School of Computer Science and Engineering, Hunan University of Science and Technology, Xiangtan, Hunan, 411201, China
+Abstract#==#Search personalization that considers the social dimension of the web has
+attracted a significant volume of research in recent years. A user profile is
+usually needed to represent a user’s interests in order to tailor future
+searches. Previous research has typically constructed a profile solely from a
+user’s usage information. When the user has only limited activities in the
+system, the effect of the user profile on search is also constrained. This
+research addresses the setting where a user has only a limited amount of usage
+information. We build enhanced user profiles from a set of annotations and
+resources that users have marked, together with an external knowledge base
+constructed according to usage histories. We present two probabilistic latent
+topic models to simultaneously incorporate social annotations, documents and
+the external knowledge base. Our web search strategy is achieved using
+personalized social query expansion. We introduce a topical query expansion
+model to enhance the search by utilizing individual user profiles. The proposed
+approaches have been intensively evaluated on a large pub-lic social annotation
+dataset. Results show that our models significantly outperformed existing
+personalized query expansion methods which use user profiles solely built from
+past usage in-formation in personalized search.
+Author{1}{Firstname}#=%=#Dong
+Author{1}{Lastname}#=%=#Zhou
+Author{1}{Email}#=%=#dongzhou1979@hotmail.com
+Author{1}{Affiliation}#=%=#Hunan University of Science and Technology
+Author{2}{Firstname}#=%=#Séamus
+Author{2}{Lastname}#=%=#Lawless
+Author{2}{Email}#=%=#seamus.lawless@scss.tcd.ie
+Author{2}{Affiliation}#=%=#Trinity Collge Dublin
+Author{3}{Firstname}#=%=#Xuan
+Author{3}{Lastname}#=%=#Wu
+Author{3}{Email}#=%=#1254909215@qq.com
+Author{3}{Affiliation}#=%=#Hunan University of Science and Technology
+Author{4}{Firstname}#=%=#Wenyu
+Author{4}{Lastname}#=%=#Zhao
+Author{4}{Email}#=%=#719727262@qq.com
+Author{4}{Affiliation}#=%=#Hunan University of Science and Technology
+Author{5}{Firstname}#=%=#Jianxun
+Author{5}{Lastname}#=%=#Liu
+Author{5}{Email}#=%=#ljx529@gmail.com
+Author{5}{Affiliation}#=%=#Hunan University of Science and Technology
+
+==========

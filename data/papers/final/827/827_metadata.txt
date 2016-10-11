@@ -1,0 +1,34 @@
+SubmissionNumber#=%=#827
+FinalPaperTitle#=%=#Semi-Supervised Learning of Sequence Models with Method of Moments
+ShortPaperTitle#=%=#Semi-Supervised Learning of Sequence Models with Method of Moments
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Zita Marinho
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose a fast and scalable method for semi-supervised learning of sequence
+models, based on anchor words and moment matching. Our method can handle hidden
+Markov models with feature-based log-linear emissions. Unlike other
+semi-supervised methods, no decoding passes are necessary on the unlabeled data
+and no graph needs to be constructed---only one pass is necessary to collect
+moment statistics. The model parameters are estimated by solving a small
+quadratic program for each feature. Experiments on part-of-speech (POS) tagging
+for Twitter and for a low resource language (Malagasy) show that our method can
+learn from very few annotated sentences.
+Author{1}{Firstname}#=%=#Zita
+Author{1}{Lastname}#=%=#Marinho
+Author{1}{Email}#=%=#zmarinho@cmu.edu
+Author{1}{Affiliation}#=%=#Carnegie Mellon University / University of Lisbon
+Author{2}{Firstname}#=%=#André F. T.
+Author{2}{Lastname}#=%=#Martins
+Author{2}{Email}#=%=#afm@cs.cmu.edu
+Author{2}{Affiliation}#=%=#Priberam, Instituto de Telecomunicacoes
+Author{3}{Firstname}#=%=#Shay B.
+Author{3}{Lastname}#=%=#Cohen
+Author{3}{Email}#=%=#scohen@inf.ed.ac.uk
+Author{3}{Affiliation}#=%=#University of Edinburgh
+Author{4}{Firstname}#=%=#Noah A.
+Author{4}{Lastname}#=%=#Smith
+Author{4}{Email}#=%=#nasmith@cs.washington.edu
+Author{4}{Affiliation}#=%=#University of Washington
+
+==========

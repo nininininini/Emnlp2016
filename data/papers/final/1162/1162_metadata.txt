@@ -1,0 +1,26 @@
+SubmissionNumber#=%=#1162
+FinalPaperTitle#=%=#Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles
+ShortPaperTitle#=%=#Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Daniele Pighin
+JobTitle#==#Publication chair - on behalf of the authors
+Organization#==#
+Abstract#==#Parsing accuracy using extremely efficient greedy transition-based parsers has
+improved dramatically in recent years thanks to neural-network learning models.
+Despite striking results in dependency parsing, however, neural models have not
+surpassed state-of-the-art approaches in constituency parsing. To remedy this,
+we introduce a new parsing system which uses a stack of sentence spans,
+represented by a bare minimum of LSTM features. We also describe a dynamic
+oracle for this constituency parsing system.  Training with this oracle, we
+achieve the best performance on Penn Treebank of any parser that does not use
+reranking or any external data.
+Author{1}{Firstname}#=%=#James
+Author{1}{Lastname}#=%=#Cross
+Author{1}{Email}#=%=#james.henry.cross.iii@gmail.com
+Author{1}{Affiliation}#=%=#Oregon State University
+Author{2}{Firstname}#=%=#Liang
+Author{2}{Lastname}#=%=#Huang
+Author{2}{Email}#=%=#liang.huang.sh@gmail.com
+Author{2}{Affiliation}#=%=#City University of New York (CUNY)
+
+==========

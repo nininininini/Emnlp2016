@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#1113
+FinalPaperTitle#=%=#Beyond Canonical Texts: A Computational Analysis of Fanfiction
+ShortPaperTitle#=%=#Beyond Canonical Texts: A Computational Analysis of Fanfiction
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Smitha Milli
+JobTitle#==#
+Organization#==#
+Abstract#==#While much computational work on fiction has focused on works in the literary
+canon, user-created fanfiction presents a unique opportunity to study an
+ecosystem of literary production and consumption, embodying qualities both of
+large-scale literary data (55 billion tokens) and also a social network (with
+over 2 million users).                    We present several empirical analyses of
+this
+data in
+order to illustrate the range of affordances it presents to research in NLP,
+computational social science and the digital humanities.  We find that
+fanfiction deprioritizes main protagonists in comparison to canonical texts,
+has a statistically significant difference in attention allocated to female
+characters, and offers promise for predicting reader reactions to stories.
+Author{1}{Firstname}#=%=#Smitha
+Author{1}{Lastname}#=%=#Milli
+Author{1}{Email}#=%=#smilli@berkeley.edu
+Author{1}{Affiliation}#=%=#UC Berkeley
+Author{2}{Firstname}#=%=#David
+Author{2}{Lastname}#=%=#Bamman
+Author{2}{Email}#=%=#dbamman@berkeley.edu
+Author{2}{Affiliation}#=%=#University of California, Berkeley
+
+==========

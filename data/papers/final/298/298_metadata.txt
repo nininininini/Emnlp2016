@@ -1,0 +1,30 @@
+SubmissionNumber#=%=#298
+FinalPaperTitle#=%=#Supervised Attentions for Neural Machine Translation
+ShortPaperTitle#=%=#Supervised Attentions for Neural Machine Translation
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Haitao Mi
+JobTitle#==#
+Organization#==#IBM TJ. Watson Research Center
+1101 Kitchawan Rd, Yorktown Heights, NY 10598
+Abstract#==#In this paper, we improve the attention or alignment accuracy of neural machine
+translation by utilizing the alignments of training sentence pairs. We simply
+compute the distance between the machine attentions and the “true”
+alignments, and minimize this cost in the training procedure. Our experiments
+on large-scale Chinese-to-English task show that our model improves both
+translation and alignment qualities significantly over the large-vocabulary
+neural machine translation system, and even beats a state-of-the-art
+traditional syntax-based system.
+Author{1}{Firstname}#=%=#Haitao
+Author{1}{Lastname}#=%=#Mi
+Author{1}{Email}#=%=#hmi@us.ibm.com
+Author{1}{Affiliation}#=%=#IBM Watson Research Center
+Author{2}{Firstname}#=%=#Zhiguo
+Author{2}{Lastname}#=%=#Wang
+Author{2}{Email}#=%=#zgw.tomorrow@gmail.com
+Author{2}{Affiliation}#=%=#IBM Watson Research Center
+Author{3}{Firstname}#=%=#Abe
+Author{3}{Lastname}#=%=#Ittycheriah
+Author{3}{Email}#=%=#abei@us.ibm.com
+Author{3}{Affiliation}#=%=#IBM
+
+==========

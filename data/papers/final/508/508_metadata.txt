@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#508
+FinalPaperTitle#=%=#Richer Interpolative Smoothing Based on Modified Kneser-Ney Language Modeling
+ShortPaperTitle#=%=#Richer Interpolative Smoothing Based on Modified Kneser-Ney Language Modeling
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Ehsan Shareghi
+JobTitle#==#
+Organization#==#Faculty of Information Technology, Monash University, Clayton, Victoria, Australia
+Abstract#==#In this work we present a generalisation of the Modified Kneser-Ney
+interpolative smoothing for richer smoothing via additional discount
+parameters. We provide mathematical underpinning for the estimator of the new
+discount parameters, and showcase the utility of our rich MKN language models
+on several European languages. We further explore the interdependency among the
+training data size, language model order, and number of discount parameters.
+Our empirical results illustrate that larger number of discount parameters, i)
+allows for better allocation of mass in the smoothing process, particularly on
+small data regime where statistical sparsity is sever, and ii) leads to
+significant reduction in perplexity, particularly for out-of-domain test sets
+which introduce higher ratio of out-of-vocabulary words.
+Author{1}{Firstname}#=%=#Ehsan
+Author{1}{Lastname}#=%=#Shareghi
+Author{1}{Email}#=%=#ehsan.shareghi@monash.edu
+Author{1}{Affiliation}#=%=#Monash University
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohn
+Author{2}{Email}#=%=#tcohn@unimelb.edu.au
+Author{2}{Affiliation}#=%=#University of Melbourne
+Author{3}{Firstname}#=%=#Gholamreza
+Author{3}{Lastname}#=%=#Haffari
+Author{3}{Email}#=%=#reza.haffari@gmail.com
+Author{3}{Affiliation}#=%=#Monash University
+
+==========

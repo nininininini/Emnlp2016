@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#709
+FinalPaperTitle#=%=#Generating Topical Poetry
+ShortPaperTitle#=%=#Generating Topical Poetry
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Marjan Ghazvininejad
+JobTitle#==#
+Organization#==#
+Abstract#==#We describe Hafez, a program that generates any number of distinct poems on a
+user-supplied topic.  Poems obey rhythmic and rhyme constraints.  We describe
+the poetry-generation algorithm, give experimental data concerning its
+parameters, and show its generality with respect to language and poetic form.
+Author{1}{Firstname}#=%=#Marjan
+Author{1}{Lastname}#=%=#Ghazvininejad
+Author{1}{Email}#=%=#ghazvini@isi.edu
+Author{1}{Affiliation}#=%=#USC
+Author{2}{Firstname}#=%=#Xing
+Author{2}{Lastname}#=%=#Shi
+Author{2}{Email}#=%=#xingshi@usc.edu
+Author{2}{Affiliation}#=%=#University of Southern California
+Author{3}{Firstname}#=%=#Yejin
+Author{3}{Lastname}#=%=#Choi
+Author{3}{Email}#=%=#yejin@cs.washington.edu
+Author{3}{Affiliation}#=%=#University of Washington
+Author{4}{Firstname}#=%=#Kevin
+Author{4}{Lastname}#=%=#Knight
+Author{4}{Email}#=%=#knight@isi.edu
+Author{4}{Affiliation}#=%=#USC/ISI
+
+==========

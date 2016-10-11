@@ -1,0 +1,32 @@
+SubmissionNumber#=%=#370
+FinalPaperTitle#=%=#Neural Network for Heterogeneous Annotations
+ShortPaperTitle#=%=#Neural Network for Heterogeneous Annotations
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Hongshen Chen
+JobTitle#==#
+Organization#==#
+Abstract#==#Multiple treebanks annotated under heterogeneous standards give rise to the
+research question of best utilizing multiple resources for improving
+statistical models. Prior research has focused on discrete models, leveraging
+stacking and multi-view learning to address the problem. In this paper, we
+empirically investigate heterogeneous annotations using neural network models,
+building a neural network counterpart to discrete stacking and multiview
+learning, respectively, finding that neural models have their unique advantages
+thanks to the freedom from manual feature engineering. Neural model achieves
+not only better accuracy improvements, but also an order of magnitude faster
+speed compared to its discrete baseline, adding little time cost compared to a
+neural model trained on a single treebank.
+Author{1}{Firstname}#=%=#Hongshen
+Author{1}{Lastname}#=%=#Chen
+Author{1}{Email}#=%=#chenhongshen@ict.ac.cn
+Author{1}{Affiliation}#=%=#Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences
+Author{2}{Firstname}#=%=#Yue
+Author{2}{Lastname}#=%=#Zhang
+Author{2}{Email}#=%=#yue_zhang@sutd.edu.sg
+Author{2}{Affiliation}#=%=#Singapore University of Technology and Design
+Author{3}{Firstname}#=%=#Qun
+Author{3}{Lastname}#=%=#Liu
+Author{3}{Email}#=%=#qun.liu@dcu.ie
+Author{3}{Affiliation}#=%=#Dublin City University
+
+==========

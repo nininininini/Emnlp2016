@@ -1,0 +1,33 @@
+SubmissionNumber#=%=#997
+FinalPaperTitle#=%=#Rationalizing Neural Predictions
+ShortPaperTitle#=%=#Rationalizing Neural Predictions
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Tao Lei
+JobTitle#==#
+Organization#==#CSAIL, MIT
+Abstract#==#Prediction without justification has limited applicability. As a remedy, we
+learn to extract pieces of input text as justifications -- rationales -- that
+are tailored to be short and coherent, yet sufficient for making the same
+prediction. Our approach combines two modular components, generator and
+encoder, which are trained to operate well together. The generator specifies a
+distribution over text fragments as candidate rationales and these are passed
+through the encoder for prediction. Rationales are never given during training.
+Instead, the model is regularized by desiderata for rationales. We evaluate the
+approach on multi-aspect sentiment analysis against manually annotated test
+cases. Our approach outperforms attention-based baseline by a significant
+margin. We also successfully illustrate the method on the question retrieval
+task.
+Author{1}{Firstname}#=%=#Tao
+Author{1}{Lastname}#=%=#Lei
+Author{1}{Email}#=%=#taolei@csail.mit.edu
+Author{1}{Affiliation}#=%=#MIT
+Author{2}{Firstname}#=%=#Regina
+Author{2}{Lastname}#=%=#Barzilay
+Author{2}{Email}#=%=#regina@csail.mit.edu
+Author{2}{Affiliation}#=%=#MIT
+Author{3}{Firstname}#=%=#Tommi
+Author{3}{Lastname}#=%=#Jaakkola
+Author{3}{Email}#=%=#tommi@csail.mit.edu
+Author{3}{Affiliation}#=%=#MIT
+
+==========
