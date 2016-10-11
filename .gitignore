@@ -5,3 +5,5 @@
 *.ilg
 *.log
 *.gz
+auto
+*.tgz

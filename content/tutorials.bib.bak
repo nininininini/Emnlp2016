@@ -1,0 +1,52 @@
+% This file was created with JabRef 2.10.
+% Encoding: ISO8859_1
+
+
+@InProceedings{T-005,
+  Title                    = {Continuous Vector Spaces for Cross-language NLP Applications},
+  Author                   = {Rafael E. Banchs},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+
+@InProceedings{T-003,
+  Title                    = {Lifelong Machine Learning for Natural Language Processing},
+  Author                   = {Zhiyuan Chen and Bing Liu},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+
+@InProceedings{Tutorial-001,
+  Title                    = {Practical Neural Networks for NLP: From Theory to Code},
+  Author                   = {Chris Dyer and Yoav Goldberg and Graham Neubig},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+
+@InProceedings{T-006,
+  Title                    = {Methods and Theories for Large-scale Structured Prediction},
+  Author                   = {Xu Sun and Yansong Feng},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+
+@InProceedings{T-002,
+  Title                    = {Advanced Markov Logic Techniques for Scalable Joint Inference in NLP},
+  Author                   = {Deepak Venugopal and Vibhav Gogate and Vincent Ng},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+
+@InProceedings{T-004,
+  Title                    = {Neural Networks for Sentiment Analysis},
+  Author                   = {Yue Zhang and Duy Tin Vo},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+

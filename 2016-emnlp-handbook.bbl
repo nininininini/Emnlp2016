@@ -1,0 +1,117 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{Tutorial-005}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=e10f82d1e0c05323ed846a4c6b184cdb}{Banchs}{B\bibinitperiod}{Rafael\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e10f82d1e0c05323ed846a4c6b184cdb}{Banchs}{B\bibinitperiod}{Rafael\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e10f82d1e0c05323ed846a4c6b184cdb}
+      \strng{fullhash}{e10f82d1e0c05323ed846a4c6b184cdb}
+      \field{sortinit}{B}
+      \field{labeltitle}{Continuous Vector Spaces for Cross-language NLP Applications}
+      \field{title}{Continuous Vector Spaces for Cross-language NLP Applications}
+    \endentry
+    \entry{Tutorial-003}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=d376ecd15da60042b75c35acc608cc86}{Chen}{C\bibinitperiod}{Zhiyuan}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=9c6fb2af2964f3126cfd4e505a38daca}{Liu}{L\bibinitperiod}{Bing}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d376ecd15da60042b75c35acc608cc86}{Chen}{C\bibinitperiod}{Zhiyuan}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=9c6fb2af2964f3126cfd4e505a38daca}{Liu}{L\bibinitperiod}{Bing}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5d19b4b85cca696e995a29aafda0cafe}
+      \strng{fullhash}{5d19b4b85cca696e995a29aafda0cafe}
+      \field{sortinit}{C}
+      \field{labeltitle}{Lifelong Machine Learning for Natural Language Processing}
+      \field{title}{Lifelong Machine Learning for Natural Language Processing}
+    \endentry
+    \entry{Tutorial-001}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=dc0d6b065a6566cde5d6b93214be1b55}{Dyer}{D\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=33b00f3e2f4f1bb310f1cf8d4a4c500a}{Goldberg}{G\bibinitperiod}{Yoav}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fcd2ecb2a6a4a3db4c9e66dddf4660b1}{Neubig}{N\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=dc0d6b065a6566cde5d6b93214be1b55}{Dyer}{D\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=33b00f3e2f4f1bb310f1cf8d4a4c500a}{Goldberg}{G\bibinitperiod}{Yoav}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=fcd2ecb2a6a4a3db4c9e66dddf4660b1}{Neubig}{N\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ed67180c00e8863ce0a1835b621e7fce}
+      \strng{fullhash}{ed67180c00e8863ce0a1835b621e7fce}
+      \field{sortinit}{D}
+      \field{labeltitle}{Practical Neural Networks for NLP: From Theory to Code}
+      \field{title}{Practical Neural Networks for NLP: From Theory to Code}
+    \endentry
+    \entry{Tutorial-006}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=281895c524b32a9ec1c3fbca8253baaa}{Sun}{S\bibinitperiod}{Xu}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=74cf0f0851b9291c233197ce5d32657f}{Feng}{F\bibinitperiod}{Yansong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=281895c524b32a9ec1c3fbca8253baaa}{Sun}{S\bibinitperiod}{Xu}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=74cf0f0851b9291c233197ce5d32657f}{Feng}{F\bibinitperiod}{Yansong}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5ebeaa5cacf5441d41799d8aef0afb62}
+      \strng{fullhash}{5ebeaa5cacf5441d41799d8aef0afb62}
+      \field{sortinit}{S}
+      \field{labeltitle}{Methods and Theories for Large-scale Structured Prediction}
+      \field{title}{Methods and Theories for Large-scale Structured Prediction}
+    \endentry
+    \entry{Tutorial-002}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=eacc9f7103503f51dfaaf7cb8597e5df}{Venugopal}{V\bibinitperiod}{Deepak}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=75ba7c62a1089a60af819bf1e05339af}{Gogate}{G\bibinitperiod}{Vibhav}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=800a361562c5521177148c8fa518b0da}{Ng}{N\bibinitperiod}{Vincent}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=eacc9f7103503f51dfaaf7cb8597e5df}{Venugopal}{V\bibinitperiod}{Deepak}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=75ba7c62a1089a60af819bf1e05339af}{Gogate}{G\bibinitperiod}{Vibhav}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=800a361562c5521177148c8fa518b0da}{Ng}{N\bibinitperiod}{Vincent}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{10448d57918783db5a248e24dc0f037f}
+      \strng{fullhash}{10448d57918783db5a248e24dc0f037f}
+      \field{sortinit}{V}
+      \field{labeltitle}{Advanced Markov Logic Techniques for Scalable Joint Inference in NLP}
+      \field{title}{Advanced Markov Logic Techniques for Scalable Joint Inference in NLP}
+    \endentry
+    \entry{Tutorial-004}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=b8238061b3c805be2a30dd55bb11fb21}{Zhang}{Z\bibinitperiod}{Yue}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=0dbb35cf60da5efa8de31a1f381ea1c9}{Vo}{V\bibinitperiod}{Duy\bibnamedelima Tin}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b8238061b3c805be2a30dd55bb11fb21}{Zhang}{Z\bibinitperiod}{Yue}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=0dbb35cf60da5efa8de31a1f381ea1c9}{Vo}{V\bibinitperiod}{Duy\bibnamedelima Tin}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fde1cb389d2743b11bde306d931d0a3a}
+      \strng{fullhash}{fde1cb389d2743b11bde306d931d0a3a}
+      \field{sortinit}{Z}
+      \field{labeltitle}{Neural Networks for Sentiment Analysis}
+      \field{title}{Neural Networks for Sentiment Analysis}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -43,14 +43,6 @@
   Timestamp                = {2016.10.11}
 }
 
-@InProceedings{UBLP,
-  Title                    = {Uphill Battles in Language Processing: Scaling early achievements to robust methods},
-  Author                   = {Annie Louis and Michael Roth and Bonnie Webber and Michael White and Luke Zettlemoyer},
-
-  Owner                    = {ssomasundaran},
-  Timestamp                = {2016.10.11}
-}
-
 @InProceedings{SSST,
   Title                    = {Tenth Workshop on Syntax, Semantics and Structure in Statistical Translation},
   Author                   = {Dekai Wu and Marine Carpuat and Khalil Sima'an},

@@ -12,8 +12,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Social events}{6}{section.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{7}{section*.1}
+\contentsline {chapter}{\numberline {2}Tutorials:Tuesday, November 1}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Sponsor Ads}{9}{section*.2}
+\contentsline {section}{\textbf {T1:} \citetitle {Tutorial-001}}{8}{section*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Local Guide}{16}{section*.3}
+\contentsline {section}{\textbf {T2:} \citetitle {Tutorial-002}}{10}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T3:} \citetitle {Tutorial-003}}{12}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T4:} \citetitle {Tutorial-004}}{13}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T5:} \citetitle {Tutorial-005}}{15}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\textbf {T6:} \citetitle {Tutorial-006}}{16}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author index}{18}{section*.7}

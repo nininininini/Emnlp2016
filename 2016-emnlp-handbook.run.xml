@@ -80,16 +80,7 @@
     </requires>
     <requires type="editable">
       <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/content/tutorials.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/content/workshops.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/papers/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/tacl-final/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/CogACLL/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/DiscoMT15/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/LSDSem/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/Louhi15/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/VL15/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/WASSA15/papers.bib</file>
-      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/auto/WMT15/papers.bib</file>
+      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/content/tutorials.bib</file>
     </requires>
   </external>
 </requests>
