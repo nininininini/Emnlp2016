@@ -9,7 +9,7 @@
 \input{auto/SPNLP/schedule.tex}
 \end{wsschedule}
 
-\begin{wsschedule}{CSS}{CSS}{Natural Language Processing and Computational Social Science}{\WShopLocCSS} 
+\begin{wsschedule}{CSS}{CSS}{Structured Prediction for NLP}{\WShopLocCSS} 
 \input{auto/CSS/schedule.tex}
 \end{wsschedule}
 

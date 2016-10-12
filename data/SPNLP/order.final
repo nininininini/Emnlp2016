@@ -1,13 +1,13 @@
 * Saturday, November 5, 2016
 = 09:00--10:30 Section 1
-! 9:00--9:15 Welcome %by Organizers
-! 9:15--10:00 Invited Talk %by Kristina Toutanova
+! 09:00--09:15 Welcome %by Organizers
+! 09:15--10:00 Invited Talk %by Kristina Toutanova
 11 10:00--10:30  # Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)
 + 10:30--11:00 Coffee break
 = 11:00--12:30 Section 2
 ! 11:00--11:45 Invited Talk %by Andrew McCallum
 ! 11:45--12:30 Panel %by Panel: Moderator - Hal Daume
-+ 12:30--2:00 Lunch
++ 12:30--14:00 Lunch
 = 14:00--15:30 Section 3
 + 14:00--14:45 Poster
 4   # Research on attention memory networks as a model for learning natural language inference

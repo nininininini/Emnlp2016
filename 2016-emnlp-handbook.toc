@@ -26,4 +26,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\textbf {T6:} \citetitle {Tutorial-006}}{16}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{18}{section*.7}
+\contentsline {chapter}{\numberline {3}Workshops}{19}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W1:} NLPSM}{20}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W2:} SPNLP}{22}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W3:} CSS}{24}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{{\bfseries W4:} CNS}{26}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author index}{27}{section*.7}

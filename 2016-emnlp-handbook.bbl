@@ -32,6 +32,110 @@
       \field{labeltitle}{Continuous Vector Spaces for Cross-language NLP Applications}
       \field{title}{Continuous Vector Spaces for Cross-language NLP Applications}
     \endentry
+    \entry{CSS-020}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=ec4b69755a33b6320dff165f9464b3cb}{Beieler}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ec4b69755a33b6320dff165f9464b3cb}{Beieler}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ec4b69755a33b6320dff165f9464b3cb}
+      \strng{fullhash}{ec4b69755a33b6320dff165f9464b3cb}
+      \field{sortinit}{B}
+      \field{labeltitle}{Generating Politically-Relevant Event Data}
+      \field{title}{Generating Politically-Relevant Event Data}
+    \endentry
+    \entry{CNS-002}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=eaab9a831d7464ff521fcd71fb0e6fbc}{Bruggermann}{B\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a575a638a8858632b7b4c9f1556ca001}{Hermey}{H\bibinitperiod}{Yannik}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=470d67a0d93ceda2e031b2c1254a97c9}{Orth}{O\bibinitperiod}{Carsten}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=ca5bbf147fcd2905e45d74a93bfefd45}{Schneider}{S\bibinitperiod}{Darius}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4f3a156e2677923f29ecb342666bf839}{Selzer}{S\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=82b60401812d9760c96ede1c6bc2723d}{Spanakis}{S\bibinitperiod}{Gerasimos}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=eaab9a831d7464ff521fcd71fb0e6fbc}{Bruggermann}{B\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=a575a638a8858632b7b4c9f1556ca001}{Hermey}{H\bibinitperiod}{Yannik}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=470d67a0d93ceda2e031b2c1254a97c9}{Orth}{O\bibinitperiod}{Carsten}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=ca5bbf147fcd2905e45d74a93bfefd45}{Schneider}{S\bibinitperiod}{Darius}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=4f3a156e2677923f29ecb342666bf839}{Selzer}{S\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=82b60401812d9760c96ede1c6bc2723d}{Spanakis}{S\bibinitperiod}{Gerasimos}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{03f7360614a460b59427b9da251cae31}
+      \strng{fullhash}{bcebcdd7107c048eda1c78a975c077cb}
+      \field{sortinit}{B}
+      \field{labeltitle}{Storyline detection and tracking using Dynamic Latent Dirichlet Allocation}
+      \field{title}{Storyline detection and tracking using Dynamic Latent Dirichlet Allocation}
+    \endentry
+    \entry{CNS-005}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=467aa9df49aceedba98b8ac6889e207e}{Caselli}{C\bibinitperiod}{Tommaso}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=880e64dada21b83dc9658f06dc6a694c}{Vossen}{V\bibinitperiod}{Piek}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=467aa9df49aceedba98b8ac6889e207e}{Caselli}{C\bibinitperiod}{Tommaso}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=880e64dada21b83dc9658f06dc6a694c}{Vossen}{V\bibinitperiod}{Piek}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{551ae8c30660bf24291b021ed0f11473}
+      \strng{fullhash}{551ae8c30660bf24291b021ed0f11473}
+      \field{sortinit}{C}
+      \field{labeltitle}{The Storyline Annotation and Representation Scheme (StaR): A Proposal}
+      \field{title}{The Storyline Annotation and Representation Scheme (StaR): A Proposal}
+    \endentry
+    \entry{CNS}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=467aa9df49aceedba98b8ac6889e207e}{Caselli}{C\bibinitperiod}{Tommaso}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=cb5e7176c48b9ec0176d772d8a08ba0c}{Miller}{M\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6f5eab98e65d7d968c2b306241f37fd6}{Erp}{E\bibinitperiod}{Marieke}{M\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=880e64dada21b83dc9658f06dc6a694c}{Vossen}{V\bibinitperiod}{Piek}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6b487e9c5376d290129b65c6319bec69}{Caswell}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=467aa9df49aceedba98b8ac6889e207e}{Caselli}{C\bibinitperiod}{Tommaso}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=cb5e7176c48b9ec0176d772d8a08ba0c}{Miller}{M\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=6f5eab98e65d7d968c2b306241f37fd6}{Erp}{E\bibinitperiod}{Marieke}{M\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{hash=880e64dada21b83dc9658f06dc6a694c}{Vossen}{V\bibinitperiod}{Piek}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6b487e9c5376d290129b65c6319bec69}{Caswell}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8b8a5c06b6f9cf951719f8bf0f0afcab}
+      \strng{fullhash}{21b16b42ebd01b9ec75e1c97f76953ef}
+      \field{sortinit}{C}
+      \field{labeltitle}{Computing News Storylines}
+      \field{title}{Computing News Storylines}
+    \endentry
+    \entry{CNS-016}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=6b487e9c5376d290129b65c6319bec69}{Caswell}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6b487e9c5376d290129b65c6319bec69}{Caswell}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b487e9c5376d290129b65c6319bec69}
+      \strng{fullhash}{6b487e9c5376d290129b65c6319bec69}
+      \field{sortinit}{C}
+      \field{labeltitle}{Computable News Ecosystems: Roles for Humans and Machines}
+      \field{title}{Computable News Ecosystems: Roles for Humans and Machines}
+    \endentry
+    \entry{SPNLP}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=e92742530fcafbae797b45437638bb01}{Chang}{C\bibinitperiod}{Kai-Wei}{K\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=1dd218ae435ec5c0143b3fbbc5da192e}{Rush}{R\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d353c169cbdb6171b51ab4026427e690}{Srikumar}{S\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=a45784fe7163b45f11d166564f5d24b6}{Chang}{C\bibinitperiod}{Ming-Wei}{M\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=e92742530fcafbae797b45437638bb01}{Chang}{C\bibinitperiod}{Kai-Wei}{K\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=1dd218ae435ec5c0143b3fbbc5da192e}{Rush}{R\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d353c169cbdb6171b51ab4026427e690}{Srikumar}{S\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=a45784fe7163b45f11d166564f5d24b6}{Chang}{C\bibinitperiod}{Ming-Wei}{M\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{788b78f4f9dbc6dfb352ec6ee17af6a3}
+      \strng{fullhash}{d5b5d7b04e26f647f6bd9ffce0261cf5}
+      \field{sortinit}{C}
+      \field{labeltitle}{Structured Prediction for NLP}
+      \field{title}{Structured Prediction for NLP}
+    \endentry
     \entry{Tutorial-003}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=d376ecd15da60042b75c35acc608cc86}{Chen}{C\bibinitperiod}{Zhiyuan}{Z\bibinitperiod}{}{}{}{}}%
@@ -46,6 +150,65 @@
       \field{sortinit}{C}
       \field{labeltitle}{Lifelong Machine Learning for Natural Language Processing}
       \field{title}{Lifelong Machine Learning for Natural Language Processing}
+    \endentry
+    \entry{CSS-045}{inproceedings}{}
+      \name{labelname}{8}{}{%
+        {{hash=0f81c4efdc1d844204f3934a841c12fd}{Coppersmith}{C\bibinitperiod}{Glen}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a59fcbf87914011fc58e402f607c4c72}{Hollingshead}{H\bibinitperiod}{Kristy}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=3f0587ad01abcd2c846a7f8d82e6c78e}{Schwartz}{S\bibinitperiod}{H.\bibnamedelimi Andrew}{H\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5e07697d5a30194158132ced2f2efc4b}{Ireland}{I\bibinitperiod}{Molly}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f7bde20ceda15a6aab992e6b992272c2}{Resnik}{R\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=96220ca1e3202cf4802d8727e6845482}{Loveys}{L\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=57a5fadff841c64a2582d978c2d69a2a}{Foreman}{F\bibinitperiod}{April}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3350b3e561a7f5f2ca36c5fe7aa8bbe5}{Ingraham}{I\bibinitperiod}{Loring}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=0f81c4efdc1d844204f3934a841c12fd}{Coppersmith}{C\bibinitperiod}{Glen}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=a59fcbf87914011fc58e402f607c4c72}{Hollingshead}{H\bibinitperiod}{Kristy}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=3f0587ad01abcd2c846a7f8d82e6c78e}{Schwartz}{S\bibinitperiod}{H.\bibnamedelimi Andrew}{H\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5e07697d5a30194158132ced2f2efc4b}{Ireland}{I\bibinitperiod}{Molly}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f7bde20ceda15a6aab992e6b992272c2}{Resnik}{R\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=96220ca1e3202cf4802d8727e6845482}{Loveys}{L\bibinitperiod}{Kate}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=57a5fadff841c64a2582d978c2d69a2a}{Foreman}{F\bibinitperiod}{April}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3350b3e561a7f5f2ca36c5fe7aa8bbe5}{Ingraham}{I\bibinitperiod}{Loring}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bc3df15e9d33a4815199cc7a369697a3}
+      \strng{fullhash}{9d301a1c5c441d3441f68e02cc0db161}
+      \field{sortinit}{C}
+      \field{labeltitle}{The Clinical Panel: Leveraging Psychological Expertise During NLP Research}
+      \field{title}{The Clinical Panel: Leveraging Psychological Expertise During NLP Research}
+    \endentry
+    \entry{NLPSM-031}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=d0863ff80e0a158f6c47b20072ad678f}{Doggett}{D\bibinitperiod}{Erika}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d172d807dcea94ab5f15587bbd1677fb}{Cantarero}{C\bibinitperiod}{Alejandro}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d0863ff80e0a158f6c47b20072ad678f}{Doggett}{D\bibinitperiod}{Erika}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d172d807dcea94ab5f15587bbd1677fb}{Cantarero}{C\bibinitperiod}{Alejandro}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ed5be20da387338481cd2c6fcd50a6cc}
+      \strng{fullhash}{ed5be20da387338481cd2c6fcd50a6cc}
+      \field{sortinit}{D}
+      \field{labeltitle}{Identifying Eyewitness News-worthy Events on Twitter}
+      \field{title}{Identifying Eyewitness News-worthy Events on Twitter}
+    \endentry
+    \entry{NLPSM-013}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=fad798cd3972b70e217b653e07abc99d}{Dredze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=727f0184539e9bb97e0d41b46568bf5a}{Andrews}{A\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f54be70af412ebf145f6f7ada24f0026}{DeYoung}{D\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=fad798cd3972b70e217b653e07abc99d}{Dredze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=727f0184539e9bb97e0d41b46568bf5a}{Andrews}{A\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f54be70af412ebf145f6f7ada24f0026}{DeYoung}{D\bibinitperiod}{Jay}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b083d1f30e2122c7cdf6871f58403b09}
+      \strng{fullhash}{b083d1f30e2122c7cdf6871f58403b09}
+      \field{sortinit}{D}
+      \field{labeltitle}{Twitter at the Grammys: A Social Media Corpus for Entity Linking and Disambiguation}
+      \field{title}{Twitter at the Grammys: A Social Media Corpus for Entity Linking and Disambiguation}
     \endentry
     \entry{Tutorial-001}{inproceedings}{}
       \name{labelname}{3}{}{%
@@ -64,6 +227,603 @@
       \field{labeltitle}{Practical Neural Networks for NLP: From Theory to Code}
       \field{title}{Practical Neural Networks for NLP: From Theory to Code}
     \endentry
+    \entry{CNS-010}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=02879cf69572aae53525b4b6f7ba53e9}{Eisenberg}{E\bibinitperiod}{Joshua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2e4dae71d711cabc60d6e8329758c73c}{Finlayson}{F\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=02879cf69572aae53525b4b6f7ba53e9}{Eisenberg}{E\bibinitperiod}{Joshua}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2e4dae71d711cabc60d6e8329758c73c}{Finlayson}{F\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{50fce53725e47ddd7d37d055dc492c22}
+      \strng{fullhash}{50fce53725e47ddd7d37d055dc492c22}
+      \field{sortinit}{E}
+      \field{labeltitle}{Automatic Identification of Narrative Diegesis and Point of View}
+      \field{title}{Automatic Identification of Narrative Diegesis and Point of View}
+    \endentry
+    \entry{NLPSM-019}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=b502a4729e7558e465d70b1480a46621}{Eisner}{E\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b3ff4029884ead9928954ea33714192c}{Rocktäschel}{R\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=501fda621b3a249bc03e442c4f256d6f}{Augenstein}{A\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=5d21fc84d0bfd3bc22349aa129744390}{Bosnjak}{B\bibinitperiod}{Matko}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6cd024b217f3f2f8126e253b8c84d24d}{Riedel}{R\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=b502a4729e7558e465d70b1480a46621}{Eisner}{E\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=b3ff4029884ead9928954ea33714192c}{Rocktäschel}{R\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=501fda621b3a249bc03e442c4f256d6f}{Augenstein}{A\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=5d21fc84d0bfd3bc22349aa129744390}{Bosnjak}{B\bibinitperiod}{Matko}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6cd024b217f3f2f8126e253b8c84d24d}{Riedel}{R\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8408adc87123fd6d31f5da87a273dcb6}
+      \strng{fullhash}{03492df83cb16f6b71059aed9b7447cc}
+      \field{sortinit}{E}
+      \field{labeltitle}{emoji2vec: Learning Emoji Representations from their Description}
+      \field{title}{emoji2vec: Learning Emoji Representations from their Description}
+    \endentry
+    \entry{SPNLP-011}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=c812a8d4324b6fd9e02dc2f87adc14f4}{Eisner}{E\bibinitperiod}{Jason}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c812a8d4324b6fd9e02dc2f87adc14f4}{Eisner}{E\bibinitperiod}{Jason}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c812a8d4324b6fd9e02dc2f87adc14f4}
+      \strng{fullhash}{c812a8d4324b6fd9e02dc2f87adc14f4}
+      \field{sortinit}{E}
+      \field{labeltitle}{Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)}
+      \field{title}{Inside-Outside and Forward-Backward Algorithms Are Just Backprop (tutorial paper)}
+    \endentry
+    \entry{NLPSM-023}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=490573b04aef6b99c4e940aa2b0d0021}{Fang}{F\bibinitperiod}{Hao}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=f72448b448f784a30f7d333a8eee90be}{Cheng}{C\bibinitperiod}{Hao}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=d9964335acf3f82957cd1e681220c042}{Ostendorf}{O\bibinitperiod}{Mari}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=490573b04aef6b99c4e940aa2b0d0021}{Fang}{F\bibinitperiod}{Hao}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=f72448b448f784a30f7d333a8eee90be}{Cheng}{C\bibinitperiod}{Hao}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=d9964335acf3f82957cd1e681220c042}{Ostendorf}{O\bibinitperiod}{Mari}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d71c8ea7ce834b940d1f95e4cdaf28b2}
+      \strng{fullhash}{d71c8ea7ce834b940d1f95e4cdaf28b2}
+      \field{sortinit}{F}
+      \field{labeltitle}{Learning Latent Local Conversation Modes for Predicting Comment Endorsement in Online Discussions}
+      \field{title}{Learning Latent Local Conversation Modes for Predicting Comment Endorsement in Online Discussions}
+    \endentry
+    \entry{NLPSM-035}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=6fc66065d8899f8f2b98cc4e41c750b1}{Fang}{F\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=55d08c361b14de98e0bdcb94acef5103}{Nourbakhsh}{N\bibinitperiod}{Armineh}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d7bcce1e31565f5d66ba384ad759316e}{LIU}{L\bibinitperiod}{XIAOMO}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=79f0934521b19b2dcd6f1d892ef7b3c1}{Shah}{S\bibinitperiod}{Sameena}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=50e89bccd18b3d241fb1e04eeeaa5ce0}{Li}{L\bibinitperiod}{Quanzhi}{Q\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=6fc66065d8899f8f2b98cc4e41c750b1}{Fang}{F\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=55d08c361b14de98e0bdcb94acef5103}{Nourbakhsh}{N\bibinitperiod}{Armineh}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=d7bcce1e31565f5d66ba384ad759316e}{LIU}{L\bibinitperiod}{XIAOMO}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=79f0934521b19b2dcd6f1d892ef7b3c1}{Shah}{S\bibinitperiod}{Sameena}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=50e89bccd18b3d241fb1e04eeeaa5ce0}{Li}{L\bibinitperiod}{Quanzhi}{Q\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9cf46d42720909f3ad71da52d43f703f}
+      \strng{fullhash}{116ef6d0bf9d0899748830b414f18a38}
+      \field{sortinit}{F}
+      \field{labeltitle}{Witness Identification in Twitter}
+      \field{title}{Witness Identification in Twitter}
+    \endentry
+    \entry{CSS-044}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=14050c1c8ee0e9e1c7ae0d106f56d2ec}{Fraiberger}{F\bibinitperiod}{Samuel}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=14050c1c8ee0e9e1c7ae0d106f56d2ec}{Fraiberger}{F\bibinitperiod}{Samuel}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{14050c1c8ee0e9e1c7ae0d106f56d2ec}
+      \strng{fullhash}{14050c1c8ee0e9e1c7ae0d106f56d2ec}
+      \field{sortinit}{F}
+      \field{labeltitle}{News Sentiment and Cross-Country Fluctuations}
+      \field{title}{News Sentiment and Cross-Country Fluctuations}
+    \endentry
+    \entry{CSS-005}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=1d6b68408781c76fcb4d18b3a50f46fd}{Freitas}{F\bibinitperiod}{Jesse}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a8c594661b4a56762abc0b9e37e92872}{Ji}{J\bibinitperiod}{Heng}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1d6b68408781c76fcb4d18b3a50f46fd}{Freitas}{F\bibinitperiod}{Jesse}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a8c594661b4a56762abc0b9e37e92872}{Ji}{J\bibinitperiod}{Heng}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a61a0716cd0442282d3e76c52a3a6856}
+      \strng{fullhash}{a61a0716cd0442282d3e76c52a3a6856}
+      \field{sortinit}{F}
+      \field{labeltitle}{Identifying News from Tweets}
+      \field{title}{Identifying News from Tweets}
+    \endentry
+    \entry{SPNLP-007}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=1a7a3857a2c57825329a92a115a0c7c9}{Goyal}{G\bibinitperiod}{Kartik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=dc0d6b065a6566cde5d6b93214be1b55}{Dyer}{D\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1a7a3857a2c57825329a92a115a0c7c9}{Goyal}{G\bibinitperiod}{Kartik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=dc0d6b065a6566cde5d6b93214be1b55}{Dyer}{D\bibinitperiod}{Chris}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a36b666028908d7bf8153d293ac75d6e}
+      \strng{fullhash}{a36b666028908d7bf8153d293ac75d6e}
+      \field{sortinit}{G}
+      \field{labeltitle}{Posterior regularization for Joint Modeling of Multiple Structured Prediction Tasks with Soft Constraints}
+      \field{title}{Posterior regularization for Joint Modeling of Multiple Structured Prediction Tasks with Soft Constraints}
+    \endentry
+    \entry{SPNLP-006}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=78a420900f50a8470ad085fb05231bf6}{Goyal}{G\bibinitperiod}{Naman}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=78a420900f50a8470ad085fb05231bf6}{Goyal}{G\bibinitperiod}{Naman}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{21312e7b69af96e070498e653cd66cda}
+      \strng{fullhash}{21312e7b69af96e070498e653cd66cda}
+      \field{sortinit}{G}
+      \field{labeltitle}{A Joint Model of Rhetorical Discourse Structure and Summarization}
+      \field{title}{A Joint Model of Rhetorical Discourse Structure and Summarization}
+    \endentry
+    \entry{CSS-043}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=bc739249efa42bdd7b8f2f91c02e9aa1}{Handler}{H\bibinitperiod}{Abram}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ff824f3bb59e7c61c6942f050ee4bdd8}{Denny}{D\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=db345367734bd532af652711d02f6234}{Wallach}{W\bibinitperiod}{Hanna}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=9571b2b14f23c45ebda0321a8ac01394}{O'Connor}{O\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=bc739249efa42bdd7b8f2f91c02e9aa1}{Handler}{H\bibinitperiod}{Abram}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ff824f3bb59e7c61c6942f050ee4bdd8}{Denny}{D\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=db345367734bd532af652711d02f6234}{Wallach}{W\bibinitperiod}{Hanna}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=9571b2b14f23c45ebda0321a8ac01394}{O'Connor}{O\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1c889a5ecb37850cda590e1e305643c2}
+      \strng{fullhash}{ab3211aba2276ff9743971629a09407b}
+      \field{sortinit}{H}
+      \field{labeltitle}{Bag of What? Simple Noun Phrase Extraction for Text Analysis}
+      \field{title}{Bag of What? Simple Noun Phrase Extraction for Text Analysis}
+    \endentry
+    \entry{CSS}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=460909209014ce11714ba7d75523ebc8}{Hovy}{H\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=884b957dd3cfb3cd71da1a8b1c451549}{Bamman}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16c1e3b1529bdb976c7e8edd988cbbac}{Dogruoz}{D\bibinitperiod}{A.\bibnamedelimi Seza}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=453dbaae6267b6b55c5b9531d3eed911}{Jurgens}{J\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9571b2b14f23c45ebda0321a8ac01394}{O'Connor}{O\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=89beda56532ed5958b1bf14ef77dddf8}{Oh}{O\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e0e27be4722830711b3f1b90e5878b4b}{Tsur}{T\bibinitperiod}{Oren}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=16bf4cd63e44f4b2847510f8ea40b0b1}{Volkova}{V\bibinitperiod}{Svitlana}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=460909209014ce11714ba7d75523ebc8}{Hovy}{H\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=884b957dd3cfb3cd71da1a8b1c451549}{Bamman}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16c1e3b1529bdb976c7e8edd988cbbac}{Dogruoz}{D\bibinitperiod}{A.\bibnamedelimi Seza}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=453dbaae6267b6b55c5b9531d3eed911}{Jurgens}{J\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9571b2b14f23c45ebda0321a8ac01394}{O'Connor}{O\bibinitperiod}{Brendan}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=89beda56532ed5958b1bf14ef77dddf8}{Oh}{O\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e0e27be4722830711b3f1b90e5878b4b}{Tsur}{T\bibinitperiod}{Oren}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=16bf4cd63e44f4b2847510f8ea40b0b1}{Volkova}{V\bibinitperiod}{Svitlana}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3988b8b4fbce8fd9aa6a781be9b59d86}
+      \strng{fullhash}{fb1be18c965e8c6e6d7aec5e14faa97e}
+      \field{sortinit}{H}
+      \field{labeltitle}{Natural Language Processing and Computational Social Science}
+      \field{title}{Natural Language Processing and Computational Social Science}
+    \endentry
+    \entry{NLPSM-016}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=ce390fbe97feee8fb9b89dcd1ca77350}{Hsieh}{H\bibinitperiod}{Yu-Lun}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=9d83d0b33ec4860dbdb151c407fd789d}{Chang}{C\bibinitperiod}{Yung-Chun}{Y\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=2b861ae5fbe5cae0d00af75db588e33d}{Chu}{C\bibinitperiod}{Chun-Han}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3df2a6ead31c13d79b914388974d7b3c}{Hsu}{H\bibinitperiod}{Wen-Lian}{W\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ce390fbe97feee8fb9b89dcd1ca77350}{Hsieh}{H\bibinitperiod}{Yu-Lun}{Y\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=9d83d0b33ec4860dbdb151c407fd789d}{Chang}{C\bibinitperiod}{Yung-Chun}{Y\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=2b861ae5fbe5cae0d00af75db588e33d}{Chu}{C\bibinitperiod}{Chun-Han}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=3df2a6ead31c13d79b914388974d7b3c}{Hsu}{H\bibinitperiod}{Wen-Lian}{W\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ddad681c37fde8fc1bf6ae0e1145779d}
+      \strng{fullhash}{b7d302cdc5166856b0a874fe06284d81}
+      \field{sortinit}{H}
+      \field{labeltitle}{How Do I Look? Publicity Mining From Distributed Keyword Representation of Socially Infused News Articles}
+      \field{title}{How Do I Look? Publicity Mining From Distributed Keyword Representation of Socially Infused News Articles}
+    \endentry
+    \entry{SPNLP-004}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=2ec3d7c9bcf8310afc04183fc85ebbe5}{Huang}{H\bibinitperiod}{Degen}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2ec3d7c9bcf8310afc04183fc85ebbe5}{Huang}{H\bibinitperiod}{Degen}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2ec3d7c9bcf8310afc04183fc85ebbe5}
+      \strng{fullhash}{2ec3d7c9bcf8310afc04183fc85ebbe5}
+      \field{sortinit}{H}
+      \field{labeltitle}{Research on attention memory networks as a model for learning natural language inference}
+      \field{title}{Research on attention memory networks as a model for learning natural language inference}
+    \endentry
+    \entry{NLPSM-025}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=2a8d535be94e11fb3f332f46906e765f}{Jaech}{J\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b444bc4f35096f8b94152ce24a35a2e0}{Mulcaire}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=da637f629980b23ef01d979c02a8478f}{Hathi}{H\bibinitperiod}{Shobhit}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d9964335acf3f82957cd1e681220c042}{Ostendorf}{O\bibinitperiod}{Mari}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a0c460aba9a2d1a450d5df136652f4db}{Smith}{S\bibinitperiod}{Noah\bibnamedelima A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=2a8d535be94e11fb3f332f46906e765f}{Jaech}{J\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b444bc4f35096f8b94152ce24a35a2e0}{Mulcaire}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=da637f629980b23ef01d979c02a8478f}{Hathi}{H\bibinitperiod}{Shobhit}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d9964335acf3f82957cd1e681220c042}{Ostendorf}{O\bibinitperiod}{Mari}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a0c460aba9a2d1a450d5df136652f4db}{Smith}{S\bibinitperiod}{Noah\bibnamedelima A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{01d95fe8b39f07c80a7f4f0ec62d4faf}
+      \strng{fullhash}{fea88e54edfd155ce41ab1dcbf354057}
+      \field{sortinit}{J}
+      \field{labeltitle}{Hierarchical Character-Word Models for Language Identification}
+      \field{title}{Hierarchical Character-Word Models for Language Identification}
+    \endentry
+    \entry{NLPSM-033}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=b71549615e28d4775e310f93c716ca5a}{Jain}{J\bibinitperiod}{Siddharth}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b71549615e28d4775e310f93c716ca5a}{Jain}{J\bibinitperiod}{Siddharth}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b71549615e28d4775e310f93c716ca5a}
+      \strng{fullhash}{b71549615e28d4775e310f93c716ca5a}
+      \field{sortinit}{J}
+      \field{labeltitle}{Identifying Sensible Participants in Online Discussions}
+      \field{title}{Identifying Sensible Participants in Online Discussions}
+    \endentry
+    \entry{CSS-031}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=9f0248bd41e3af97d75b5c172049c36f}{Johnson}{J\bibinitperiod}{Kristen}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f19def267a11607b9147cfcac72b2457}{Goldwasser}{G\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=9f0248bd41e3af97d75b5c172049c36f}{Johnson}{J\bibinitperiod}{Kristen}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f19def267a11607b9147cfcac72b2457}{Goldwasser}{G\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9c58dbaeb3982a2d86b6fd60a6fa62a8}
+      \strng{fullhash}{9c58dbaeb3982a2d86b6fd60a6fa62a8}
+      \field{sortinit}{J}
+      \field{labeltitle}{Identifying Stance by Analyzing Political Discourse on Twitter}
+      \field{title}{Identifying Stance by Analyzing Political Discourse on Twitter}
+    \endentry
+    \entry{CSS-001}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=af026d554aa390c386b52267805d7d83}{Joseph}{J\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=cdd58995b8e1c61e1a8d1e10ab36adad}{Carley}{C\bibinitperiod}{Kathleen\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=af026d554aa390c386b52267805d7d83}{Joseph}{J\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=cdd58995b8e1c61e1a8d1e10ab36adad}{Carley}{C\bibinitperiod}{Kathleen\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a3e347dfaafaf055358dddde1fa941d1}
+      \strng{fullhash}{a3e347dfaafaf055358dddde1fa941d1}
+      \field{sortinit}{J}
+      \field{labeltitle}{Relating semantic similarity and semantic association to how humans label other people}
+      \field{title}{Relating semantic similarity and semantic association to how humans label other people}
+    \endentry
+    \entry{NLPSM-026}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=8af2232ab85f221a3c4bbd9775c55757}{Kim}{K\bibinitperiod}{Sunghwan\bibnamedelima Mac}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=caa83d2f96328553a84751d213a72708}{Wan}{W\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f17ec207a7c2e8a9da5c4ff752d0c164}{Paris}{P\bibinitperiod}{Cecile}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8af2232ab85f221a3c4bbd9775c55757}{Kim}{K\bibinitperiod}{Sunghwan\bibnamedelima Mac}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=caa83d2f96328553a84751d213a72708}{Wan}{W\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f17ec207a7c2e8a9da5c4ff752d0c164}{Paris}{P\bibinitperiod}{Cecile}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{adad11de8e74efdf548aabc30e62eea0}
+      \strng{fullhash}{adad11de8e74efdf548aabc30e62eea0}
+      \field{sortinit}{K}
+      \field{labeltitle}{Detecting Social Roles in Twitter}
+      \field{title}{Detecting Social Roles in Twitter}
+    \endentry
+    \entry{CSS-035}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=8af2232ab85f221a3c4bbd9775c55757}{Kim}{K\bibinitperiod}{Sunghwan\bibnamedelima Mac}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=caa83d2f96328553a84751d213a72708}{Wan}{W\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f17ec207a7c2e8a9da5c4ff752d0c164}{Paris}{P\bibinitperiod}{Cecile}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=e4f7d372061b515280a73fa5e8a2fe52}{Brian}{B\bibinitperiod}{Jin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=baa5b334cffe1204a2aacd7996d21175}{Robinson}{R\bibinitperiod}{Bella}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=8af2232ab85f221a3c4bbd9775c55757}{Kim}{K\bibinitperiod}{Sunghwan\bibnamedelima Mac}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=caa83d2f96328553a84751d213a72708}{Wan}{W\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f17ec207a7c2e8a9da5c4ff752d0c164}{Paris}{P\bibinitperiod}{Cecile}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=e4f7d372061b515280a73fa5e8a2fe52}{Brian}{B\bibinitperiod}{Jin}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=baa5b334cffe1204a2aacd7996d21175}{Robinson}{R\bibinitperiod}{Bella}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8a4c3bb2c87462e9660e7ba5a03bf4f1}
+      \strng{fullhash}{7cea15b3ed79ae235a7de3377781327b}
+      \field{sortinit}{K}
+      \field{labeltitle}{The Effects of Data Collection Methods in Twitter}
+      \field{title}{The Effects of Data Collection Methods in Twitter}
+    \endentry
+    \entry{CSS-042}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=18c8128d67ca98f53ca2060bebc408c6}{Knowles}{K\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1a2ef798240b0e0bcc52e4325039b779}{Carroll}{C\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fad798cd3972b70e217b653e07abc99d}{Dredze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=18c8128d67ca98f53ca2060bebc408c6}{Knowles}{K\bibinitperiod}{Rebecca}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1a2ef798240b0e0bcc52e4325039b779}{Carroll}{C\bibinitperiod}{Josh}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=fad798cd3972b70e217b653e07abc99d}{Dredze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{89de67b4b4bdbf35121783ba7405d6fb}
+      \strng{fullhash}{89de67b4b4bdbf35121783ba7405d6fb}
+      \field{sortinit}{K}
+      \field{labeltitle}{Demographer: Extremely Simple Name Demographics}
+      \field{title}{Demographer: Extremely Simple Name Demographics}
+    \endentry
+    \entry{CNS-009}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=a5087a400f9b44635a63a756377375e7}{Krishnan}{K\bibinitperiod}{Vinodh}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a5087a400f9b44635a63a756377375e7}{Krishnan}{K\bibinitperiod}{Vinodh}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=c63e034ea77c7c55818aa4da5f40f479}{Eisenstein}{E\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0decbc220542d17a1eba4b5c67567026}
+      \strng{fullhash}{0decbc220542d17a1eba4b5c67567026}
+      \field{sortinit}{K}
+      \field{labeltitle}{Nonparametric Bayesian Storyline Detection from Microtexts}
+      \field{title}{Nonparametric Bayesian Storyline Detection from Microtexts}
+    \endentry
+    \entry{CSS-041}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=f19a6233ecf40ffa6b19413ce2cbd307}{Makarov}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=8c5f23122cc5eee92ef886569a55d524}{Lorenzini}{L\bibinitperiod}{Jasmine}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ff173ed4abe5843e3795cf88b2d805f3}{Kriesi}{K\bibinitperiod}{Hanspeter}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f19a6233ecf40ffa6b19413ce2cbd307}{Makarov}{M\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=8c5f23122cc5eee92ef886569a55d524}{Lorenzini}{L\bibinitperiod}{Jasmine}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ff173ed4abe5843e3795cf88b2d805f3}{Kriesi}{K\bibinitperiod}{Hanspeter}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{51878a06780b13ef016cafee0db466b6}
+      \strng{fullhash}{51878a06780b13ef016cafee0db466b6}
+      \field{sortinit}{M}
+      \field{labeltitle}{Constructing an Annotated Corpus for Protest Event Mining}
+      \field{title}{Constructing an Annotated Corpus for Protest Event Mining}
+    \endentry
+    \entry{NLPSM-018}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=31e23db7e91c87e1c580a8a0b00fd6d6}{Navindgi}{N\bibinitperiod}{Amit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=477b7dadf9d2c6264c0bbc07f475fb5c}{Brun}{B\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=335a6fdc734754ebe7950847e72ccddb}{Boulard\bibnamedelima Masson}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{Cécile}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3ee4614cfff601e486422fc14676649c}{Nowson}{N\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=31e23db7e91c87e1c580a8a0b00fd6d6}{Navindgi}{N\bibinitperiod}{Amit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=477b7dadf9d2c6264c0bbc07f475fb5c}{Brun}{B\bibinitperiod}{Caroline}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=335a6fdc734754ebe7950847e72ccddb}{Boulard\bibnamedelima Masson}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{Cécile}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3ee4614cfff601e486422fc14676649c}{Nowson}{N\bibinitperiod}{Scott}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{92dc72b4925a3bf0f5dd75dd916b377a}
+      \strng{fullhash}{f2497ddcc679397014d4737431a71674}
+      \field{sortinit}{N}
+      \field{labeltitle}{Steps Toward Automatic Understanding of the Function of Affective Language in Support Groups}
+      \field{title}{Steps Toward Automatic Understanding of the Function of Affective Language in Support Groups}
+    \endentry
+    \entry{CSS-023}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=5aca08c3bbc09f8abfa66b9491d75659}{Nay}{N\bibinitperiod}{John\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5aca08c3bbc09f8abfa66b9491d75659}{Nay}{N\bibinitperiod}{John\bibnamedelima J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5aca08c3bbc09f8abfa66b9491d75659}
+      \strng{fullhash}{5aca08c3bbc09f8abfa66b9491d75659}
+      \field{sortinit}{N}
+      \field{labeltitle}{Gov2Vec: Learning Distributed Representations of Institutions and Their Legal Text}
+      \field{title}{Gov2Vec: Learning Distributed Representations of Institutions and Their Legal Text}
+    \endentry
+    \entry{CNS-004}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=410a48c67f524846c8f19aa3b7c20361}{O'Gorman}{O\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4f080623a5342648a4455d49ec21eead}{Wright-Bettner}{W\bibinithyphendelim B\bibinitperiod}{Kristin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=8c92d21f9aded31210d396bfc368310b}{Palmer}{P\bibinitperiod}{Martha}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=410a48c67f524846c8f19aa3b7c20361}{O'Gorman}{O\bibinitperiod}{Tim}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4f080623a5342648a4455d49ec21eead}{Wright-Bettner}{W\bibinithyphendelim B\bibinitperiod}{Kristin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=8c92d21f9aded31210d396bfc368310b}{Palmer}{P\bibinitperiod}{Martha}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fb973b4980a25c7dca45cc99e73a7826}
+      \strng{fullhash}{fb973b4980a25c7dca45cc99e73a7826}
+      \field{sortinit}{O}
+      \field{labeltitle}{Richer Event Description: Integrating event coreference with temporal, causal and bridging annotation}
+      \field{title}{Richer Event Description: Integrating event coreference with temporal, causal and bridging annotation}
+    \endentry
+    \entry{NLPSM-028}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=a564348d39ffa53de9748372fc872142}{Pappas}{P\bibinitperiod}{Nikolaos}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e1243ab8c580a597298321ed39b018e0}{Popescu-Belis}{P\bibinithyphendelim B\bibinitperiod}{Andrei}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=a564348d39ffa53de9748372fc872142}{Pappas}{P\bibinitperiod}{Nikolaos}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=e1243ab8c580a597298321ed39b018e0}{Popescu-Belis}{P\bibinithyphendelim B\bibinitperiod}{Andrei}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{065f2b67ec24af0875e97e618102448e}
+      \strng{fullhash}{065f2b67ec24af0875e97e618102448e}
+      \field{sortinit}{P}
+      \field{labeltitle}{Human versus Machine Attention in Document Classification: A Dataset with Crowdsourced Annotations}
+      \field{title}{Human versus Machine Attention in Document Classification: A Dataset with Crowdsourced Annotations}
+    \endentry
+    \entry{CNS-013}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=31deed2458525e1d4b26ba9d2f09331e}{Poghosyan}{P\bibinitperiod}{Gevorg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1de8ecb002fdd4fbfb3cd06131fe7bfd}{Ifrim}{I\bibinitperiod}{Georgiana}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=31deed2458525e1d4b26ba9d2f09331e}{Poghosyan}{P\bibinitperiod}{Gevorg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=1de8ecb002fdd4fbfb3cd06131fe7bfd}{Ifrim}{I\bibinitperiod}{Georgiana}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5d8cacacb4b4fcbcc2953d4872a92b70}
+      \strng{fullhash}{5d8cacacb4b4fcbcc2953d4872a92b70}
+      \field{sortinit}{P}
+      \field{labeltitle}{Real-time News Story Detection and Tracking with Hashtags}
+      \field{title}{Real-time News Story Detection and Tracking with Hashtags}
+    \endentry
+    \entry{CSS-022}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=fc60c2cdbb841e416a3c809d64e8bd5a}{Poulston}{P\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=de68db71f49ffe6c834838e36d55f024}{Stevenson}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=188eeff74b94e9549a57c14cf945b8ff}{Bontcheva}{B\bibinitperiod}{Kalina}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=fc60c2cdbb841e416a3c809d64e8bd5a}{Poulston}{P\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=de68db71f49ffe6c834838e36d55f024}{Stevenson}{S\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=188eeff74b94e9549a57c14cf945b8ff}{Bontcheva}{B\bibinitperiod}{Kalina}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{09f86be1c700d3f811ae504a37943c93}
+      \strng{fullhash}{09f86be1c700d3f811ae504a37943c93}
+      \field{sortinit}{P}
+      \field{labeltitle}{User profiling with geo-located posts and demographic data}
+      \field{title}{User profiling with geo-located posts and demographic data}
+    \endentry
+    \entry{CSS-025}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=0e29da9bc0fcfc5687561ea93f89b979}{Priante}{P\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c2b65fb75969f45d586f748263f41922}{Hiemstra}{H\bibinitperiod}{Djoerd}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=164f41d8f7bc233fd3298bb46dc57ce8}{Broek}{B\bibinitperiod}{Tijs}{T\bibinitperiod}{van\bibnamedelima den}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+        {{hash=d876a4805c1dd1f98db92453ce69288e}{Saeed}{S\bibinitperiod}{Aaqib}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ed0ccba21ea7fddec6488d393e8051e3}{Ehrenhard}{E\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b7afebc51949127d7d3e75ac007bca8e}{Need}{N\bibinitperiod}{Ariana}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=0e29da9bc0fcfc5687561ea93f89b979}{Priante}{P\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=c2b65fb75969f45d586f748263f41922}{Hiemstra}{H\bibinitperiod}{Djoerd}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=164f41d8f7bc233fd3298bb46dc57ce8}{Broek}{B\bibinitperiod}{Tijs}{T\bibinitperiod}{van\bibnamedelima den}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+        {{hash=d876a4805c1dd1f98db92453ce69288e}{Saeed}{S\bibinitperiod}{Aaqib}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ed0ccba21ea7fddec6488d393e8051e3}{Ehrenhard}{E\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b7afebc51949127d7d3e75ac007bca8e}{Need}{N\bibinitperiod}{Ariana}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3b71f4312da1144f2a6f318c671684d8}
+      \strng{fullhash}{866069d53854f3dda1c20466457612cd}
+      \field{sortinit}{P}
+      \field{labeltitle}{\#WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions}
+      \field{title}{\#WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions}
+    \endentry
+    \entry{CSS-011}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=4847587c321467798c41476c65d4a8e1}{Reddy}{R\bibinitperiod}{Sravana}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=49fbfd99532ca0bf67fc21d5b6c1328a}{Knight}{K\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4847587c321467798c41476c65d4a8e1}{Reddy}{R\bibinitperiod}{Sravana}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=49fbfd99532ca0bf67fc21d5b6c1328a}{Knight}{K\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f80b18f534054771503956c0fb955463}
+      \strng{fullhash}{f80b18f534054771503956c0fb955463}
+      \field{sortinit}{R}
+      \field{labeltitle}{Obfuscating Gender in Social Media Writing}
+      \field{title}{Obfuscating Gender in Social Media Writing}
+    \endentry
+    \entry{CSS-039}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=0bca572b76963ef338136e38ed608011}{Rheault}{R\bibinitperiod}{Ludovic}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0bca572b76963ef338136e38ed608011}{Rheault}{R\bibinitperiod}{Ludovic}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0bca572b76963ef338136e38ed608011}
+      \strng{fullhash}{0bca572b76963ef338136e38ed608011}
+      \field{sortinit}{R}
+      \field{labeltitle}{Expressions of Anxiety in Political Texts}
+      \field{title}{Expressions of Anxiety in Political Texts}
+    \endentry
+    \entry{CSS-012}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=4f878ffbfc5c3d351b9a1daa20602154}{Rosenthal}{R\bibinitperiod}{Sara}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d077a5ffa37677cc1dd36b00aded94ed}{McKeown}{M\bibinitperiod}{Kathy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4f878ffbfc5c3d351b9a1daa20602154}{Rosenthal}{R\bibinitperiod}{Sara}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d077a5ffa37677cc1dd36b00aded94ed}{McKeown}{M\bibinitperiod}{Kathy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d33e4f1259e5eb61b092bc4b684594fa}
+      \strng{fullhash}{d33e4f1259e5eb61b092bc4b684594fa}
+      \field{sortinit}{R}
+      \field{labeltitle}{Social Proof: The Impact of Author Traits on Influence Detection}
+      \field{title}{Social Proof: The Impact of Author Traits on Influence Detection}
+    \endentry
+    \entry{NLPSM-008}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=dc68724af5b840d9d19696ee29e8b438}{Sadeque}{S\bibinitperiod}{Farig}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=67a5b974557234da8071c47ede9e85c5}{Pedersen}{P\bibinitperiod}{Ted}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4ae5add04e0fc2dde4f9d9db35d1eb80}{Shrestha}{S\bibinitperiod}{Prasha}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41925880a2abdec34a036a3a460e12aa}{Rey-Villamizar}{R\bibinithyphendelim V\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=49a90d0c36d5abd2de968939b124c604}{Bethard}{B\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=dc68724af5b840d9d19696ee29e8b438}{Sadeque}{S\bibinitperiod}{Farig}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=67a5b974557234da8071c47ede9e85c5}{Pedersen}{P\bibinitperiod}{Ted}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=4ae5add04e0fc2dde4f9d9db35d1eb80}{Shrestha}{S\bibinitperiod}{Prasha}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41925880a2abdec34a036a3a460e12aa}{Rey-Villamizar}{R\bibinithyphendelim V\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=49a90d0c36d5abd2de968939b124c604}{Bethard}{B\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{149e226e94ed9e3d73493c42ddd2ae42}
+      \strng{fullhash}{faa82ed1008d5b9eb582ab8c95069f98}
+      \field{sortinit}{S}
+      \field{labeltitle}{Why Do They Leave: Modeling Participation in Online Depression Forums}
+      \field{title}{Why Do They Leave: Modeling Participation in Online Depression Forums}
+    \endentry
+    \entry{CNS-008}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=3920f7c601b19daedb7870454e251dd2}{Simonson}{S\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8f726a7237d8a7205240127104ae84b6}{Davis}{D\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3920f7c601b19daedb7870454e251dd2}{Simonson}{S\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=8f726a7237d8a7205240127104ae84b6}{Davis}{D\bibinitperiod}{Anthony}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b10229c46b061bbfb216e787415bcabf}
+      \strng{fullhash}{b10229c46b061bbfb216e787415bcabf}
+      \field{sortinit}{S}
+      \field{labeltitle}{NASTEA: Investigating Narrative Schemas through Annotated Entities}
+      \field{title}{NASTEA: Investigating Narrative Schemas through Annotated Entities}
+    \endentry
+    \entry{NLPSM-020}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=f75fcad2028c13e76a584edcaad72f87}{Stowe}{S\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=66ccf7573554661b0f346cf5dafcc7cb}{Paul}{P\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8c92d21f9aded31210d396bfc368310b}{Palmer}{P\bibinitperiod}{Martha}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b9c3321370b3b3d9a7a0bd6a4a4d2b80}{Palen}{P\bibinitperiod}{Leysia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c10b64b31977f48e027733a44f08bd21}{Anderson}{A\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=f75fcad2028c13e76a584edcaad72f87}{Stowe}{S\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=66ccf7573554661b0f346cf5dafcc7cb}{Paul}{P\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8c92d21f9aded31210d396bfc368310b}{Palmer}{P\bibinitperiod}{Martha}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b9c3321370b3b3d9a7a0bd6a4a4d2b80}{Palen}{P\bibinitperiod}{Leysia}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c10b64b31977f48e027733a44f08bd21}{Anderson}{A\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6e88b847d02c1013da7868abeeee420b}
+      \strng{fullhash}{6b49f077891181df39061af0c900a3c6}
+      \field{sortinit}{S}
+      \field{labeltitle}{Identifying and Categorizing Disaster-Related Tweets}
+      \field{title}{Identifying and Categorizing Disaster-Related Tweets}
+    \endentry
     \entry{Tutorial-006}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=281895c524b32a9ec1c3fbca8253baaa}{Sun}{S\bibinitperiod}{Xu}{X\bibinitperiod}{}{}{}{}}%
@@ -78,6 +838,27 @@
       \field{sortinit}{S}
       \field{labeltitle}{Methods and Theories for Large-scale Structured Prediction}
       \field{title}{Methods and Theories for Large-scale Structured Prediction}
+    \endentry
+    \entry{SPNLP-010}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=847ba15ca1767126bdc15a95c038f969}{Tran}{T\bibinitperiod}{Ke\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4cc4ca13eda1b8380f1589532b8e33ae}{Bisk}{B\bibinitperiod}{Yonatan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=7f28e84700536646dd6620a0db07ad09}{Vaswani}{V\bibinitperiod}{Ashish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a39610bfa3753b6cd9117b5f1c4854}{Marcu}{M\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fbfd99532ca0bf67fc21d5b6c1328a}{Knight}{K\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=847ba15ca1767126bdc15a95c038f969}{Tran}{T\bibinitperiod}{Ke\bibnamedelima M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4cc4ca13eda1b8380f1589532b8e33ae}{Bisk}{B\bibinitperiod}{Yonatan}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=7f28e84700536646dd6620a0db07ad09}{Vaswani}{V\bibinitperiod}{Ashish}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e2a39610bfa3753b6cd9117b5f1c4854}{Marcu}{M\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fbfd99532ca0bf67fc21d5b6c1328a}{Knight}{K\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9fddda6f65cd6d48e09418dbd0dfa518}
+      \strng{fullhash}{89f2ce44bbf2c5ed4b4509591fa6faea}
+      \field{sortinit}{T}
+      \field{labeltitle}{Unsupervised Neural Hidden Markov Models}
+      \field{title}{Unsupervised Neural Hidden Markov Models}
     \endentry
     \entry{Tutorial-002}{inproceedings}{}
       \name{labelname}{3}{}{%
@@ -96,6 +877,108 @@
       \field{labeltitle}{Advanced Markov Logic Techniques for Scalable Joint Inference in NLP}
       \field{title}{Advanced Markov Logic Techniques for Scalable Joint Inference in NLP}
     \endentry
+    \entry{CSS-032}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=af646e29ea33bb4668bd2672fe09836f}{Wang}{W\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b07148edd14e58e1a70093398ee91b84}{Hamilton}{H\bibinitperiod}{William\bibnamedelima L.}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=900d107125ff0ca84698cb909e4f6c51}{Leskovec}{L\bibinitperiod}{Jure}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=af646e29ea33bb4668bd2672fe09836f}{Wang}{W\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b07148edd14e58e1a70093398ee91b84}{Hamilton}{H\bibinitperiod}{William\bibnamedelima L.}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=900d107125ff0ca84698cb909e4f6c51}{Leskovec}{L\bibinitperiod}{Jure}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5f071f900228a3bc1261c7520ad9e429}
+      \strng{fullhash}{5f071f900228a3bc1261c7520ad9e429}
+      \field{sortinit}{W}
+      \field{labeltitle}{Learning Linguistic Descriptors of User Roles in Online Communities}
+      \field{title}{Learning Linguistic Descriptors of User Roles in Online Communities}
+    \endentry
+    \entry{CSS-047}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e6fa5c4a1596a1eb6f9ecf8754673d4}{Waseem}{W\bibinitperiod}{Zeerak}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e6fa5c4a1596a1eb6f9ecf8754673d4}{Waseem}{W\bibinitperiod}{Zeerak}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9e6fa5c4a1596a1eb6f9ecf8754673d4}
+      \strng{fullhash}{9e6fa5c4a1596a1eb6f9ecf8754673d4}
+      \field{sortinit}{W}
+      \field{labeltitle}{Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter}
+      \field{title}{Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter}
+    \endentry
+    \entry{CSS-018}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=025be2fd4c38d6c79f0852fd2a5129d3}{Wilson}{W\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7147443179f5f0b00a44986a0f561f4d}{Mihalcea}{M\bibinitperiod}{Rada}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a71fc59d4384ad01cb929c4cf89b4d8b}{Boyd}{B\bibinitperiod}{Ryan}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=147e9c5bb30f8821e09debdd1bff4411}{Pennebaker}{P\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=025be2fd4c38d6c79f0852fd2a5129d3}{Wilson}{W\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=7147443179f5f0b00a44986a0f561f4d}{Mihalcea}{M\bibinitperiod}{Rada}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a71fc59d4384ad01cb929c4cf89b4d8b}{Boyd}{B\bibinitperiod}{Ryan}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=147e9c5bb30f8821e09debdd1bff4411}{Pennebaker}{P\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eb18a60c33eec85c39bd11154f513a74}
+      \strng{fullhash}{53b5184c1befb3d8ebd64028c17fb63d}
+      \field{sortinit}{W}
+      \field{labeltitle}{Disentangling Topic Models: A Cross-cultural Analysis of Personal Values through Words}
+      \field{title}{Disentangling Topic Models: A Cross-cultural Analysis of Personal Values through Words}
+    \endentry
+    \entry{SPNLP-008}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=6b33fea5dd105e5a3b26d1d52373d807}{Wolfe}{W\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=fad798cd3972b70e217b653e07abc99d}{Dredze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0d74f80819a3804234928c8924ca6894}{Van\bibnamedelima Durme}{V\bibinitperiod\bibinitdelim D\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=6b33fea5dd105e5a3b26d1d52373d807}{Wolfe}{W\bibinitperiod}{Travis}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=fad798cd3972b70e217b653e07abc99d}{Dredze}{D\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0d74f80819a3804234928c8924ca6894}{Van\bibnamedelima Durme}{V\bibinitperiod\bibinitdelim D\bibinitperiod}{Benjamin}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1ab936a8cc2b68cca91f64f9c712bd22}
+      \strng{fullhash}{1ab936a8cc2b68cca91f64f9c712bd22}
+      \field{sortinit}{W}
+      \field{labeltitle}{A Study of Imitation Learning Methods for Semantic Role Labeling}
+      \field{title}{A Study of Imitation Learning Methods for Semantic Role Labeling}
+    \endentry
+    \entry{NLPSM}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=60041afd12818c28de454aed967365e1}{Yung-jen\bibnamedelima Hsu}{Y\bibinithyphendelim j\bibinitperiod\bibinitdelim H\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1bcfba9c9362ce7af988775a8d5e1b80}{Ku}{K\bibinitperiod}{Lun-Wei}{L\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=03be0d8b7b76dbbc778973cbd576f306}{Li}{L\bibinitperiod}{Cheng-Te}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=60041afd12818c28de454aed967365e1}{Yung-jen\bibnamedelima Hsu}{Y\bibinithyphendelim j\bibinitperiod\bibinitdelim H\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1bcfba9c9362ce7af988775a8d5e1b80}{Ku}{K\bibinitperiod}{Lun-Wei}{L\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=03be0d8b7b76dbbc778973cbd576f306}{Li}{L\bibinitperiod}{Cheng-Te}{C\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7e9c2aca231fcb58b6e00f176c8a5fdf}
+      \strng{fullhash}{7e9c2aca231fcb58b6e00f176c8a5fdf}
+      \field{sortinit}{Y}
+      \field{labeltitle}{SocialNLP 2016: The 4th International Workshop on Natural Language Processing for Social Media}
+      \field{title}{SocialNLP 2016: The 4th International Workshop on Natural Language Processing for Social Media}
+    \endentry
+    \entry{SPNLP-009}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=227e34554b27c77e2d042504ef1edb97}{Zhang}{Z\bibinitperiod}{Xiao}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9596d9f07a0bee376fc1e9961a60d449}{Pacheco}{P\bibinitperiod}{María\bibnamedelima Leonor}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cd3b37966ea3296c8718b5b96f0195bc}{Li}{L\bibinitperiod}{Chang}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f19def267a11607b9147cfcac72b2457}{Goldwasser}{G\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=227e34554b27c77e2d042504ef1edb97}{Zhang}{Z\bibinitperiod}{Xiao}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=9596d9f07a0bee376fc1e9961a60d449}{Pacheco}{P\bibinitperiod}{María\bibnamedelima Leonor}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=cd3b37966ea3296c8718b5b96f0195bc}{Li}{L\bibinitperiod}{Chang}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f19def267a11607b9147cfcac72b2457}{Goldwasser}{G\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eebb4a1ca4788ca9e5946611a9e12c02}
+      \strng{fullhash}{e5532ad73e23e67617386f34bccc907e}
+      \field{sortinit}{Z}
+      \field{labeltitle}{Introducing DRAIL -- a Step Towards Declarative Deep Relational Learning}
+      \field{title}{Introducing DRAIL -- a Step Towards Declarative Deep Relational Learning}
+    \endentry
     \entry{Tutorial-004}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=b8238061b3c805be2a30dd55bb11fb21}{Zhang}{Z\bibinitperiod}{Yue}{Y\bibinitperiod}{}{}{}{}}%
@@ -112,6 +995,28 @@
       \field{title}{Neural Networks for Sentiment Analysis}
     \endentry
   \endsortlist
+  \missing{CSS-007}
+  \missing{CSS-027}
+  \missing{CSS-033}
+  \missing{CSS-029}
+  \missing{CSS-009}
+  \missing{CSS-046}
+  \missing{CSS-026}
+  \missing{CSS-019}
+  \missing{CSS-040}
+  \missing{CSS-010}
+  \missing{CSS-034}
+  \missing{CSS-015}
+  \missing{CSS-037}
+  \missing{CSS-002}
+  \missing{CSS-017}
+  \missing{CSS-008}
+  \missing{CSS-014}
+  \missing{CSS-028}
+  \missing{CSS-038}
+  \missing{CSS-036}
+  \missing{CSS-013}
+  \missing{CSS-030}
 \endrefsection
 \endinput
 

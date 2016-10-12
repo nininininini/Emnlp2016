@@ -81,6 +81,11 @@
     <requires type="editable">
       <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/my-train/content/tutorials.bib</file>
       <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/content/tutorials.bib</file>
+      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/content/workshops.bib</file>
+      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/NLPSM/papers.bib</file>
+      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/SPNLP/papers.bib</file>
+      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/CSS/papers.bib</file>
+      <file>/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/CNS/papers.bib</file>
     </requires>
   </external>
 </requests>
