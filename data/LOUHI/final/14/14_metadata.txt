@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#14
+FinalPaperTitle#=%=#Unsupervised Resolution of Acronyms and Abbreviations in Nursing Notes Using Document-Level Context Models
+ShortPaperTitle#=%=#Unsupervised Resolution of Acronyms and Abbreviations in Nursing Notes Using Document-Level Context Models
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Katrin Kirchhoff
+JobTitle#==#
+Organization#==#University of Washington
+Abstract#==#Automatic simplification of clinical notes continues to be an
+  important challenge for NLP systems. A frequent obstacle to
+  developing more robust NLP systems for the clinical domain
+  is the lack of annotated training data. This study investigates
+  unsupervised techniques for one key aspect of medical text simplification,
+  viz.~the expansion   and disambiguation of acronyms and abbreviations.
+  Our approach combines statistical machine translation with
+  document-context neural language models for the disambiguation of
+  multi-sense terms.  In addition we investigate the use of mismatched
+  training data and self-training. These techniques are evaluated on
+  nursing progress notes and obtain a disambiguation accuracy of 71.6%
+  without any manual annotation effort.
+Author{1}{Firstname}#=%=#Katrin
+Author{1}{Lastname}#=%=#Kirchhoff
+Author{1}{Email}#=%=#katrin@ee.washington.edu
+Author{1}{Affiliation}#=%=#University of Washington
+Author{2}{Firstname}#=%=#Anne M.
+Author{2}{Lastname}#=%=#Turner
+Author{2}{Email}#=%=#amturner@uw.edu
+Author{2}{Affiliation}#=%=#University of Washington
+
+==========

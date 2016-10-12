@@ -1,0 +1,29 @@
+SubmissionNumber#=%=#16
+FinalPaperTitle#=%=#Citation Analysis with Neural Attention Models
+ShortPaperTitle#=%=#Citation Analysis with Neural Attention Models
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Tsendsuren Munkhdalai
+JobTitle#==#
+Organization#==#UMass Medical School, 55 N Lake Ave, Worcester, MA 01655
+Abstract#==#Automated citation analysis (ACA) can be important for many applications
+including author ranking and literature based information retrieval,
+extraction, summarization and question answering. In this study, we developed a
+new compositional attention network (CAN) model to integrate local and global
+attention representations with a hierarchical attention mechanism. Training on
+a new benchmark corpus we built, our evaluation shows that the CAN model
+performs consistently well on both citation classification and sentiment
+analysis tasks.
+Author{1}{Firstname}#=%=#Tsendsuren
+Author{1}{Lastname}#=%=#Munkhdalai
+Author{1}{Email}#=%=#tsendsuren.munkhdalai@umassmed.edu
+Author{1}{Affiliation}#=%=#University of Massachusetts
+Author{2}{Firstname}#=%=#John
+Author{2}{Lastname}#=%=#Lalor
+Author{2}{Email}#=%=#lalor@cs.umass.edu
+Author{2}{Affiliation}#=%=#University of Massachusetts
+Author{3}{Firstname}#=%=#Hong
+Author{3}{Lastname}#=%=#Yu
+Author{3}{Email}#=%=#hong.yu@umassmed.edu
+Author{3}{Affiliation}#=%=#University of Massachusetts Medical School
+
+==========

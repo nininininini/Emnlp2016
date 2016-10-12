@@ -1,62 +1,62 @@
 * 11/01/16
-= 06:30:00 PM--08:00:00 PM Welcome Reception # %room TBD
+= 18:30--20:00 Welcome Reception # %room Salon H
 * 11/02/16
-= 07:30:00 AM--05:30:00 PM Registration
-+ 08:00:00 AM--08:40:00 AM Morning Coffee
-= 08:40:00 AM--10:00:00 AM Session P1: Plenary Session I # %room TBD
-+ 08:40:00 AM--09:00:00 AM Opening Remarks and Introductory Speeches
-! 09:00:00 AM--10:00:00 AM Invited Talk: Learning in extended and approximate Rational Speech Acts models %by Christopher Potts %u http://www.emnlp2016.net/invited-speakers.html#i1
-+ 10:00:00 AM--10:30:00 AM Coffee Break
-= 10:30:00 AM--12:10:00 PM Session 1A: Parsing and Syntax # %room TBD %chair1 TBD
-1162 10:30:00 AM--10:55:00 AM  # Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles
-945 10:55:00 AM--11:20:00 AM  # Rule Extraction for Tree-to-Tree Transducers by Cost Minimization
-585 11:20:00 AM--11:45:00 AM  # A Neural Network for Coordination Boundary Prediction
-1212 11:45:00 AM--12:10:00 PM  # Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction
-= 10:30:00 AM--12:10:00 PM Session 1B: Information Extraction # %room TBD %chair1 TBD
-985 10:30:00 AM--10:55:00 AM  # Distinguishing Past, On-going, and Future Events: The EventStatus Corpus
-57 10:55:00 AM--11:20:00 AM  # Nested Propositions in Open Information Extraction
-189 11:20:00 AM--11:45:00 AM  # A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification
-426 11:45:00 AM--12:10:00 PM  # Learning to Recognize Discontiguous Entities
-= 10:30:00 AM--12:10:00 PM Session 1C: Psycholinguistics / Machine Learning # %room TBD %chair1 TBD
-496 10:30:00 AM--10:55:00 AM  # Modeling Human Reading with Neural Attention
-906 10:55:00 AM--11:20:00 AM  # Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task
-997 11:20:00 AM--11:45:00 AM  # Rationalizing Neural Predictions
-870 11:45:00 AM--12:10:00 PM  # Deep Multi-Task Learning with Shared Memory for Text Classification
-+ 12:10:00 PM--01:40:00 PM Lunch
-= 01:40:00 PM--03:20:00 PM Session 2A: Reading Comprehension and Question Answering # %room TBD %chair1 TBD
-1047 1:40:00 PM--2:05:00 PM  # Natural Language Comprehension with the EpiReader
-392 2:05:00 PM--2:30:00 PM  # Creating Causal Embeddings for Question Answering with Minimal Supervision
-1072 2:30:00 PM--2:55:00 PM  # Improving Semantic Parsing via Answer Type Inference
-722 2:55:00 PM--3:20:00 PM  # Semantic Parsing to Probabilistic Programs for Situated Question Answering
-= 01:40:00 PM--03:20:00 PM Session 2B: Embeddings of Linguistic Structure # %room TBD %chair1 TBD
-857 1:40:00 PM--2:05:00 PM  # Event participant modelling with neural networks
-1060 2:05:00 PM--2:30:00 PM  # Context-Dependent Sense Embedding
-307 2:30:00 PM--2:55:00 PM  # Jointly Embedding Knowledge Graphs and Logical Rules
-886 2:55:00 PM--3:20:00 PM  # Learning Connective-based Word Representations for Implicit Discourse Relation Identification
-= 01:40:00 PM--03:20:00 PM Session 2C: Sentiment and Opinion Analysis # %room TBD %chair1 TBD
-31 1:40:00 PM--2:05:00 PM  # Aspect Level Sentiment Classification with Deep Memory Network
-287 2:05:00 PM--2:30:00 PM  # Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets
-1028 2:30:00 PM--2:55:00 PM  # Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification
-527 2:55:00 PM--3:20:00 PM  # Attention-based LSTM Network for Cross-Lingual Sentiment Classification
-+ 03:20:00 PM--03:50:00 PM Coffee Break
-= 03:50:00 PM--05:30:00 PM Session 3A: Neural Machine Translation # %room TBD %chair1 TBD
-! 03:50:00 PM--04:15:00 PM [TACL] Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation %by Jie Zhou %u https://aclweb.org/anthology/Q/Q16/Q16-1027.pdf 
-190 4:15:00 PM--4:40:00 PM  # Neural versus Phrase-Based Machine Translation Quality: a Case Study
-1073 4:40:00 PM--5:05:00 PM  # Zero-Resource Translation with Multi-Lingual Neural Machine Translation
-492 5:05:00 PM--5:30:00 PM  # Memory-enhanced Decoder for Neural Machine Translation
-= 03:50:00 PM--05:30:00 PM Session 3B: Semi-supervised and Minimally Supervised Learning # %room TBD %chair1 TBD
-827 3:50:00 PM--4:15:00 PM  # Semi-Supervised Learning of Sequence Models with Method of Moments
-! 04:15:00 PM--04:40:00 PM [TACL] Minimally supervised models for number normalization %by Kyle Gorman and Richard Sproat %u https://aclweb.org/anthology/Q/Q16 
-1037 4:40:00 PM--5:05:00 PM  # Learning from Explicit and Implicit Supervision Jointly For Algebra Word Problems
-675 5:05:00 PM--5:30:00 PM  # TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter
-= 03:50:00 PM--05:30:00 PM Session 3C: Summarization and Generation # %room TBD %chair1 TBD
-502 3:50:00 PM--4:15:00 PM  # Language as a Latent Variable: Discrete Generative Models for Sentence Compression
-905 4:15:00 PM--4:40:00 PM  # Globally Coherent Text Generation with Neural Checklist Models
-1132 4:40:00 PM--5:05:00 PM  # A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs
-630 5:05:00 PM--5:30:00 PM  # PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic Text Simplification
-+ 05:30:00 PM--05:35:00 PM Coffee Break
-= 05:35:00 PM--06:10:00 PM Poster Spotlight (Half-minute Madness) # %room TBD %chair1 TBD
-= 06:10:00 PM--08:10:00 PM Poster Session A # %room TBD %chair1 TBD
+= 07:30--17:30 Registration # %room Salon H Prefunction
++ 08:00--08:40 Morning Coffee
+= 08:40--10:00 Session P1: Plenary Session I # %room Salon FG
++ 08:40--09:00 Opening Remarks and Introductory Speeches
+! 09:00--10:00 Invited Talk: Learning in extended and approximate Rational Speech Acts models %by Christopher Potts %u http://www.emnlp2016.net/invited-speakers.html#i1
++ 10:00--10:30 Coffee Break
+= 10:30--12:10 Session 1A: Parsing and Syntax # %room Salon FG %chair1 TBD
+1162 10:30--10:55  # Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles
+945 10:55--11:20  # Rule Extraction for Tree-to-Tree Transducers by Cost Minimization
+585 11:20--11:45  # A Neural Network for Coordination Boundary Prediction
+1212 11:45--12:10  # Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction
+= 10:30--12:10 Session 1B: Information Extraction # %room Salon J %chair1 TBD
+985 10:30--10:55  # Distinguishing Past, On-going, and Future Events: The EventStatus Corpus
+57 10:55--11:20  # Nested Propositions in Open Information Extraction
+189 11:20--11:45  # A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification
+426 11:45--12:10  # Learning to Recognize Discontiguous Entities
+= 10:30--12:10 Session 1C: Psycholinguistics / Machine Learning # %room Room 616 AB %chair1 TBD
+496 10:30--10:55  # Modeling Human Reading with Neural Attention
+906 10:55--11:20  # Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task
+997 11:20--11:45  # Rationalizing Neural Predictions
+870 11:45--12:10  # Deep Multi-Task Learning with Shared Memory for Text Classification
++ 12:10--13:40 Lunch
+= 13:40--15:20 Session 2A: Reading Comprehension and Question Answering # %room Salon FG %chair1 TBD
+1047 13:40--14:05  # Natural Language Comprehension with the EpiReader
+392 14:05--14:30  # Creating Causal Embeddings for Question Answering with Minimal Supervision
+1072 14:30--14:55  # Improving Semantic Parsing via Answer Type Inference
+722 14:55--15:20  # Semantic Parsing to Probabilistic Programs for Situated Question Answering
+= 13:40--15:20 Session 2B: Embeddings of Linguistic Structure # %room Salon J %chair1 TBD
+857 13:40--14:05  # Event participant modelling with neural networks
+1060 14:05--14:30  # Context-Dependent Sense Embedding
+307 14:30--14:55  # Jointly Embedding Knowledge Graphs and Logical Rules
+886 14:55--15:20  # Learning Connective-based Word Representations for Implicit Discourse Relation Identification
+= 13:40--15:20 Session 2C: Sentiment and Opinion Analysis # %room Room 616 AB %chair1 TBD
+31 13:40--14:05  # Aspect Level Sentiment Classification with Deep Memory Network
+287 14:05--14:30  # Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets
+1028 14:30--14:55  # Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification
+527 14:55--15:20  # Attention-based LSTM Network for Cross-Lingual Sentiment Classification
++ 15:20--15:50 Coffee Break
+= 15:50--17:30 Session 3A: Neural Machine Translation # %room Salon FG %chair1 TBD
+! 15:50--16:15 [TACL] Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation %by Jie Zhou, Ying Cao, Xuguang Wang, Peng Li and Wei Xu %u https://aclweb.org/anthology/Q/Q16/Q16-1027.pdf 
+190 16:15--16:40  # Neural versus Phrase-Based Machine Translation Quality: a Case Study
+1073 16:40--17:05  # Zero-Resource Translation with Multi-Lingual Neural Machine Translation
+492 17:05--17:30  # Memory-enhanced Decoder for Neural Machine Translation
+= 15:50--17:30 Session 3B: Semi-supervised and Minimally Supervised Learning # %room Salon J %chair1 TBD
+827 15:50--16:15  # Semi-Supervised Learning of Sequence Models with Method of Moments
+! 16:15--16:40 [TACL] Minimally supervised models for number normalization %by Kyle Gorman and Richard Sproat %u https://aclweb.org/anthology/Q/Q16 
+1037 16:40--17:05  # Learning from Explicit and Implicit Supervision Jointly For Algebra Word Problems
+675 17:05--17:30  # TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter
+= 15:50--17:30 Session 3C: Summarization and Generation # %room Room 616 AB %chair1 TBD
+502 15:50--16:15  # Language as a Latent Variable: Discrete Generative Models for Sentence Compression
+905 16:15--16:40  # Globally Coherent Text Generation with Neural Checklist Models
+1132 16:40--17:05  # A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs
+630 17:05--17:30  # PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic Text Simplification
++ 17:30--17:45 Break
+= 17:45--18:15 Poster Spotlight (Half-minute Madness) # %room Salon FG %chair1 Joel Tetreault, Brendan O'Connor, Courtney Napoles
+= 18:15--20:15 Poster Session A # %room Salon H and J
 7   # Discourse Parsing with Attention-based Hierarchical Neural Networks
 600   # Multi-view Response Selection for Human-Computer Conversation
 605   # Variational Neural Discourse Relation Recognizer
@@ -140,62 +140,62 @@
 28   # SimpleScience: Lexical Simplification of Scientific Terminology
 601   # Automatic Features for Essay Scoring ___ An Empirical Study
 * 11/03/16
-= 07:30:00 AM--05:30:00 PM Registration
-+ 08:00:00 AM--09:00:00 AM Morning Coffee
-= 09:00:00 AM--10:00:00 AM Session P2: Plenary Session II # %room TBD
-! 09:00:00 AM--10:00:00 AM Invited Talk: Learning Models of Language, Action and Perception for Human-Robot Collaboration %by Stephanie Tellex %u http://www.emnlp2016.net/invited-speakers.html#i3
-+ 10:00:00 AM--10:30:00 AM Coffee Break
-= 10:30:00 AM--12:10:00 PM Session 4A: Semantics and Semantic Parsing # %room TBD %chair1 TBD
-850 10:30:00 AM--10:55:00 AM  # Semantic Parsing with Semi-Supervised Sequential Autoencoders
-440 10:55:00 AM--11:20:00 AM  # Equation Parsing : Mapping Sentences to Grounded Equations
-781 11:20:00 AM--11:45:00 AM  # Automatic Extraction of Implicit Interpretations from Modal Constructions
-393 11:45:00 AM--12:10:00 PM  # Understanding Negation in Positive Terms Using Syntactic Dependencies
-= 10:30:00 AM--12:10:00 PM Session 4B: NLP for Social Science and Health # %room TBD %chair1 TBD
-1039 10:30:00 AM--10:55:00 AM  # Demographic Dialectal Variation in Social Media: A Case Study of African-American English
-1091 10:55:00 AM--11:20:00 AM  # Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter?
-116 11:20:00 AM--11:45:00 AM  # Detecting and Characterizing Events
-! 11:45:00 AM--12:10:00 PM [TACL] Minimally supervised models for number normalization %by Kyle Gorman and Richard Sproat %u https://aclweb.org/anthology/Q/Q16/Q16-1033.pdf 
-= 10:30:00 AM--12:10:00 PM Session 4C: Language Models # %room TBD %chair1 TBD
-! 10:30:00 AM--10:55:00 AM [TACL] Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees %by Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn %u https://aclweb.org/anthology/Q/Q16 
-635 10:55:00 AM--11:20:00 AM  # Convolutional Neural Network Language Models
-! 11:20:00 AM--11:45:00 AM [TACL] Sparse Non-negative Matrix Language Modeling %by Joris Pelemans, Noam Shazeer and Ciprian Chelba %u https://aclweb.org/anthology/Q/Q16/Q16-1024.pdf 
-42 11:45:00 AM--12:10:00 PM  # Generalizing and Hybridizing Count-based and Neural Language Models
-+ 12:10:00 PM--01:40:00 PM Lunch
-+ 01:00:00 PM--01:40:00 PM SIGDAT Business Meeting
-= 01:40:00 PM--03:20:00 PM Session 5A: Text Generation # %room TBD %chair1 TBD
-210 1:40:00 PM--2:05:00 PM  # Reasoning about Pragmatics with Neural Listeners and Speakers
-709 2:05:00 PM--2:30:00 PM  # Generating Topical Poetry
-632 2:30:00 PM--2:55:00 PM  # Deep Reinforcement Learning for Dialogue Generation
-366 2:55:00 PM--3:20:00 PM  # Neural Text Generation from Structured Data with Application to the Biography Domain
-= 01:40:00 PM--03:20:00 PM Session 5B: Discourse and Document Structure # %room TBD %chair1 TBD
-280 1:40:00 PM--2:05:00 PM  # What makes a convincing argument? Empirical analysis and detecting attributes of convincingness in Web argumentation
-140 2:05:00 PM--2:30:00 PM  # Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention
-464 2:30:00 PM--2:55:00 PM  # Antecedent Selection for Sluicing: Structure and Content
-576 2:55:00 PM--3:20:00 PM  # Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network
-= 01:40:00 PM--03:20:00 PM Session 5C: Machine Translation and Multilingual Applications # %room TBD %chair1 TBD
-1002 1:40:00 PM--2:05:00 PM  # An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages
-583 2:05:00 PM--2:30:00 PM  # HUME: Human UCCA-Based Evaluation of Machine Translation
-345 2:30:00 PM--2:55:00 PM  # Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping
-260 2:55:00 PM--3:20:00 PM  # Learning Crosslingual Word Embeddings without Bilingual Corpora
-+ 03:20:00 PM--03:50:00 PM Coffee Break
-= 03:50:00 PM--05:30:00 PM Session 6A: Neural Sequence-to-Sequence Models # %room TBD %chair1 TBD
-1111 3:50:00 PM--4:15:00 PM  # Sequence-to-Sequence Learning as Beam-Search Optimization
-858 4:15:00 PM--4:40:00 PM  # Online Segment to Segment Neural Transduction
-1071 4:40:00 PM--5:05:00 PM  # Sequence-Level Knowledge Distillation
-1059 5:05:00 PM--5:30:00 PM  # Controlling Output Length in Neural Encoder-Decoders
-= 03:50:00 PM--05:30:00 PM Session 6B: Text Mining and NLP Applications # %room TBD %chair1 TBD
-713 3:50:00 PM--4:15:00 PM  # Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts
-651 4:15:00 PM--4:40:00 PM  # All Fingers are not Equal: Intensity of References in Scientific Articles
-636 4:40:00 PM--5:05:00 PM  # Improving Users' Demographic Prediction via the Videos They Talk about
-! 05:05:00 PM--05:30:00 PM [TACL] Understanding Satirical Articles Using Common-Sense %by Dan Goldwasser and Xiao Zhang %u https://aclweb.org/anthology/Q/Q16 
-= 03:50:00 PM--05:30:00 PM Session 6C: Knowledge Base and Inference # %room TBD %chair1 TBD
-714 3:50:00 PM--4:15:00 PM  # AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding
-431 4:15:00 PM--4:40:00 PM  # Mining Inference Formulas by Goal-Directed Random Walks
-861 4:40:00 PM--5:05:00 PM  # Lifted Rule Injection for Relation Embeddings
-679 5:05:00 PM--5:30:00 PM  # Key-Value Memory Networks for Directly Reading Documents
-+ 05:30:00 PM--05:35:00 PM Coffee Break
-= 05:35:00 PM--06:10:00 PM Poster Spotlight (Half-minute Madness) # %room TBD %chair1 TBD
-= 06:10:00 PM--08:10:00 PM Poster Session B # %room TBD %chair1 TBD
+= 07:30--17:30 Registration # %room Salon H Prefunction
++ 08:00--09:00 Morning Coffee
+= 09:00--10:00 Session P2: Plenary Session II # %room Salon FG
+! 09:00--10:00 Invited Talk: Learning Models of Language, Action and Perception for Human-Robot Collaboration %by Stefanie Tellex %u http://www.emnlp2016.net/invited-speakers.html#i3
++ 10:00--10:30 Coffee Break
+= 10:30--12:10 Session 4A: Semantics and Semantic Parsing # %room Salon FG %chair1 TBD
+850 10:30--10:55  # Semantic Parsing with Semi-Supervised Sequential Autoencoders
+440 10:55--11:20  # Equation Parsing : Mapping Sentences to Grounded Equations
+781 11:20--11:45  # Automatic Extraction of Implicit Interpretations from Modal Constructions
+393 11:45--12:10  # Understanding Negation in Positive Terms Using Syntactic Dependencies
+= 10:30--12:10 Session 4B: NLP for Social Science and Health # %room Salon J %chair1 TBD
+1039 10:30--10:55  # Demographic Dialectal Variation in Social Media: A Case Study of African-American English
+1091 10:55--11:20  # Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter?
+116 11:20--11:45  # Detecting and Characterizing Events
+! 11:45--12:10 [TACL] Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health %by Tim Althoff, Kevin Clark and Jure Leskovec %u https://aclweb.org/anthology/Q/Q16/Q16-1033.pdf 
+= 10:30--12:10 Session 4C: Language Models # %room Room 616 AB %chair1 TBD
+! 10:30--10:55 [TACL] Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees %by Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn %u https://aclweb.org/anthology/Q/Q16 
+635 10:55--11:20  # Convolutional Neural Network Language Models
+! 11:20--11:45 [TACL] Sparse Non-negative Matrix Language Modeling %by Joris Pelemans, Noam Shazeer and Ciprian Chelba %u https://aclweb.org/anthology/Q/Q16/Q16-1024.pdf 
+42 11:45--12:10  # Generalizing and Hybridizing Count-based and Neural Language Models
++ 12:10--13:40 Lunch
++ 13:00--13:40 SIGDAT Business Meeting
+= 13:40--15:20 Session 5A: Text Generation # %room Salon FG %chair1 TBD
+210 13:40--14:05  # Reasoning about Pragmatics with Neural Listeners and Speakers
+709 14:05--14:30  # Generating Topical Poetry
+632 14:30--14:55  # Deep Reinforcement Learning for Dialogue Generation
+366 14:55--15:20  # Neural Text Generation from Structured Data with Application to the Biography Domain
+= 13:40--15:20 Session 5B: Discourse and Document Structure # %room Salon J %chair1 TBD
+280 13:40--14:05  # What makes a convincing argument? Empirical analysis and detecting attributes of convincingness in Web argumentation
+140 14:05--14:30  # Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention
+464 14:30--14:55  # Antecedent Selection for Sluicing: Structure and Content
+576 14:55--15:20  # Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network
+= 13:40--15:20 Session 5C: Machine Translation and Multilingual Applications # %room Room 616 AB %chair1 TBD
+1002 13:40--14:05  # An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages
+583 14:05--14:30  # HUME: Human UCCA-Based Evaluation of Machine Translation
+345 14:30--14:55  # Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping
+260 14:55--15:20  # Learning Crosslingual Word Embeddings without Bilingual Corpora
++ 15:20--15:50 Coffee Break
+= 15:50--17:30 Session 6A: Neural Sequence-to-Sequence Models # %room Salon FG %chair1 TBD
+1111 15:50--16:15  # Sequence-to-Sequence Learning as Beam-Search Optimization
+858 16:15--16:40  # Online Segment to Segment Neural Transduction
+1071 16:40--17:05  # Sequence-Level Knowledge Distillation
+1059 17:05--17:30  # Controlling Output Length in Neural Encoder-Decoders
+= 15:50--17:30 Session 6B: Text Mining and NLP Applications # %room Salon J %chair1 TBD
+713 15:50--16:15  # Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts
+651 16:15--16:40  # All Fingers are not Equal: Intensity of References in Scientific Articles
+636 16:40--17:05  # Improving Users' Demographic Prediction via the Videos They Talk about
+! 17:05--17:30 [TACL] Understanding Satirical Articles Using Common-Sense %by Dan Goldwasser and Xiao Zhang %u https://aclweb.org/anthology/Q/Q16 
+= 15:50--17:30 Session 6C: Knowledge Base and Inference # %room Room 616 AB %chair1 TBD
+714 15:50--16:15  # AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding
+431 16:15--16:40  # Mining Inference Formulas by Goal-Directed Random Walks
+861 16:40--17:05  # Lifted Rule Injection for Relation Embeddings
+679 17:05--17:30  # Key-Value Memory Networks for Directly Reading Documents
++ 17:30--17:45 Break
+= 17:45--18:15 Poster Spotlight (Half-minute Madness) # %room Salon FG %chair1 Joel Tetreault, Brendan O'Connor, Courtney Napoles
+= 18:15--20:15 Poster Session B # %room Salon H and J
 825   # Analyzing Framing through the Casts of Characters in the News
 900   # The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues
 215   # Personalized Emphasis Framing for Persuasive Message Generation
@@ -279,63 +279,55 @@
 1145   # Learning to refine text based recommendations
 677   # There's No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction
 * 11/04/16
-= 07:30:00 AM--05:30:00 PM Registration
-+ 08:00:00 AM--09:00:00 AM Morning Coffee
-= 09:00:00 AM--10:00:00 AM Session P3: Plenary Session # %room TBD
-! 09:00:00 AM--10:00:00 AM Invited Talk: You Talking to Me? Speech-based and multimodal approaches for human versus computer addressee detection %by Andreas Stolke %u http://www.emnlp2016.net/invited-speakers.html#i2
-+ 10:00:00 AM--10:30:00 AM Coffee Break
-= 10:30:00 AM--12:10:00 PM Session 7A: Dialogue Systems # %room TBD %chair1 TBD
-335 10:30:00 AM--10:55:00 AM  # How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation
-577 10:55:00 AM--11:20:00 AM  # Addressee and Response Selection for Multi-Party Conversation
-1118 11:20:00 AM--11:45:00 AM  # Nonparametric Bayesian Models for Spoken Language Understanding
-107 11:45:00 AM--12:10:00 PM  # Conditional Generation and Snapshot Learning in Neural Dialogue Systems
-= 10:30:00 AM--12:10:00 PM Session 7B: Semantic Similarity # %room TBD %chair1 TBD
-860 10:30:00 AM--10:55:00 AM  # Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment
-572 10:55:00 AM--11:20:00 AM  # SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity
-93 11:20:00 AM--11:45:00 AM  # POLY: Mining Relational Paraphrases from Multilingual Sentences
-940 11:45:00 AM--12:10:00 PM  # Exploiting Sentence Similarities for Better Alignments
-= 10:30:00 AM--12:10:00 PM Session 7C: Dependency Parsing # %room TBD %chair1 TBD
-845 10:30:00 AM--10:55:00 AM  # Bi-directional Attention with Agreement for Dependency Parsing
-! 10:55:00 AM--11:20:00 AM [TACL] The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages %by Dingquan Wang and Jason Eisner %u https://aclweb.org/anthology/Q/Q16 
-! 11:20:00 AM--11:45:00 AM [TACL] Easy-First Dependency Parsing with Hierarchical Tree LSTMs %by Eliyahu Kiperwasser and Yoav Goldberg %u https://aclweb.org/anthology/Q/Q16/Q12-1032.pdf 
-71 11:45:00 AM--12:10:00 PM  # Anchoring and Agreement in Syntactic Annotations
-+ 12:10:00 PM--01:40:00 PM Lunch
-= 01:40:00 PM--03:25:00 PM Session 8A: Short Paper Oral Session I # %room TBD %chair1 TBD
-25 1:40:00 PM--1:55:00 PM  # Tense Manages to Predict Implicative Behavior in Verbs
-691 1:55:00 PM--2:10:00 PM  # Who did What: A Large-Scale Person-Centered Cloze Dataset
-1095 2:10:00 PM--2:25:00 PM  # Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser
-406 2:25:00 PM--2:40:00 PM  # Learning to Generate Compositional Color Descriptions
-889 2:40:00 PM--2:55:00 PM  # A Decomposable Attention Model for Natural Language Inference
-1008 2:55:00 PM--3:10:00 PM  # Deep Reinforcement Learning for Mention-Ranking Coreference Models
-462 3:10:00 PM--3:25:00 PM  # A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification
-= 01:40:00 PM--03:25:00 PM Session 8B: Short Paper Oral Session II # %room TBD %chair1 TBD
-687 1:40:00 PM--1:55:00 PM  # Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation
-417 1:55:00 PM--2:10:00 PM  # Why Neural Translations are the Right Length
-298 2:10:00 PM--2:25:00 PM  # Supervised Attentions for Neural Machine Translation
-562 2:25:00 PM--2:40:00 PM  # Learning principled bilingual mappings of word embeddings while preserving monolingual invariance
-1155 2:40:00 PM--2:55:00 PM  # Measuring the behavioral impact of machine translation quality improvements with A/B testing
-813 2:55:00 PM--3:10:00 PM  # Creating a Large Benchmark for Open Information Extraction
-156 3:10:00 PM--3:25:00 PM  # Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition
-= 01:40:00 PM--03:25:00 PM Session 8C: Short Paper Oral Session III # %room TBD %chair1 TBD
-663 1:40:00 PM--1:55:00 PM  # Transition-Based Dependency Parsing with Heuristic Backtracking
-923 1:55:00 PM--2:10:00 PM  # Word Ordering Without Syntax
-97 2:10:00 PM--2:25:00 PM  # Morphological Segmentation Inside-Out
-328 2:25:00 PM--2:40:00 PM  # Parsing as Language Modeling
-920 2:40:00 PM--2:55:00 PM  # Human-in-the-Loop Parsing
-219 2:55:00 PM--3:10:00 PM  # Unsupervised Timeline Generation for Wikipedia History Articles
-1229 3:10:00 PM--3:25:00 PM  # Encoding Temporal Information for Time-Aware Link Prediction
-+ 03:25:00 PM--03:50:00 PM Coffee Break
-= 03:50:00 PM--05:50:00 PM Session P4: Plenary Session (Best Paper and Closing) # %room TBD %chair1 TBD
-559 3:50:00 PM--4:20:00 PM  # Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
-910 4:20:00 PM--4:50:00 PM  # Global Neural CCG Parsing with Optimality Guarantees
-489 4:50:00 PM--5:20:00 PM  # Learning a Lexicon and Translation Model from Phoneme Lattices
-903 5:20:00 PM--5:50:00 PM  # SQuAD: 100,000+ Questions for Machine Comprehension of Text
-1232   # The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages
-1233   # Minimally supervised models for number normalization
-1234   # Sparse Non-negative Matrix Language Modeling
-1235   # Easy-First Dependency Parsing with Hierarchical Tree LSTMs
-#1236  # NOTE: PAPER PRESENT IN THE SCHEDULE BUT NOT IN THE METADATA  # Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation
-1237   # Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees
-1238   # Understanding Satirical Articles Using Common-Sense
-1239   # Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
-1240   # Comparing Apples to Apple: The Effects of Stemmers on Topic Models
+= 07:30--17:30 Registration # %room Salon H Prefunction
++ 08:00--09:00 Morning Coffee
+= 09:00--10:00 Session P3: Plenary Session # %room Salon FG
+! 09:00--10:00 Invited Talk: You Talking to Me? Speech-based and multimodal approaches for human versus computer addressee detection %by Andreas Stolcke %u http://www.emnlp2016.net/invited-speakers.html#i2
++ 10:00--10:30 Coffee Break
+= 10:30--12:10 Session 7A: Dialogue Systems # %room Salon FG %chair1 TBD
+335 10:30--10:55  # How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation
+577 10:55--11:20  # Addressee and Response Selection for Multi-Party Conversation
+1118 11:20--11:45  # Nonparametric Bayesian Models for Spoken Language Understanding
+107 11:45--12:10  # Conditional Generation and Snapshot Learning in Neural Dialogue Systems
+= 10:30--12:10 Session 7B: Semantic Similarity # %room Salon J %chair1 TBD
+860 10:30--10:55  # Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment
+572 10:55--11:20  # SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity
+93 11:20--11:45  # POLY: Mining Relational Paraphrases from Multilingual Sentences
+940 11:45--12:10  # Exploiting Sentence Similarities for Better Alignments
+= 10:30--12:10 Session 7C: Dependency Parsing # %room Room 616 AB %chair1 TBD
+845 10:30--10:55  # Bi-directional Attention with Agreement for Dependency Parsing
+! 10:55--11:20 [TACL] The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages %by Dingquan Wang and Jason Eisner %u https://aclweb.org/anthology/Q/Q16 
+! 11:20--11:45 [TACL] Easy-First Dependency Parsing with Hierarchical Tree LSTMs %by Eliyahu Kiperwasser and Yoav Goldberg %u https://aclweb.org/anthology/Q/Q16/Q16-1032.pdf 
+71 11:45--12:10  # Anchoring and Agreement in Syntactic Annotations
++ 12:10--13:40 Lunch
+= 13:40--15:25 Session 8A: Short Paper Oral Session I # %room Salon FG %chair1 TBD
+25 13:40--13:55  # Tense Manages to Predict Implicative Behavior in Verbs
+691 13:55--14:10  # Who did What: A Large-Scale Person-Centered Cloze Dataset
+1095 14:10--14:25  # Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser
+406 14:25--14:40  # Learning to Generate Compositional Color Descriptions
+889 14:40--14:55  # A Decomposable Attention Model for Natural Language Inference
+1008 14:55--15:10  # Deep Reinforcement Learning for Mention-Ranking Coreference Models
+462 15:10--15:25  # A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification
+= 13:40--15:25 Session 8B: Short Paper Oral Session II # %room Salon J %chair1 TBD
+687 13:40--13:55  # Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation
+417 13:55--14:10  # Why Neural Translations are the Right Length
+298 14:10--14:25  # Supervised Attentions for Neural Machine Translation
+562 14:25--14:40  # Learning principled bilingual mappings of word embeddings while preserving monolingual invariance
+1155 14:40--14:55  # Measuring the behavioral impact of machine translation quality improvements with A/B testing
+813 14:55--15:10  # Creating a Large Benchmark for Open Information Extraction
+156 15:10--15:25  # Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition
+= 13:40--15:25 Session 8C: Short Paper Oral Session III # %room Room 616 AB %chair1 TBD
+663 13:40--13:55  # Transition-Based Dependency Parsing with Heuristic Backtracking
+923 13:55--14:10  # Word Ordering Without Syntax
+97 14:10--14:25  # Morphological Segmentation Inside-Out
+328 14:25--14:40  # Parsing as Language Modeling
+920 14:40--14:55  # Human-in-the-Loop Parsing
+219 14:55--15:10  # Unsupervised Timeline Generation for Wikipedia History Articles
+1229 15:10--15:25  # Encoding Temporal Information for Time-Aware Link Prediction
++ 15:25--15:50 Coffee Break
+= 15:50--17:30 Session P4: Plenary Session (Best Paper) # %room Salon FG %chair1 TBD
+559 15:50--16:15  # Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
+910 16:15--16:40  # Global Neural CCG Parsing with Optimality Guarantees
+489 16:40--17:05  # Learning a Lexicon and Translation Model from Phoneme Lattices
+903 17:05--17:30  # SQuAD: 100,000+ Questions for Machine Comprehension of Text
+= 17:30--17:50 Session P5: Plenary Session (Closing Remarks) # %room Salon FG

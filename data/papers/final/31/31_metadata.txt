@@ -21,8 +21,8 @@ Moreover, our approach is also fast. The deep memory network with 9 layers is
 15 times faster than LSTM with a CPU implementation.
 Author{1}{Firstname}#=%=#Duyu
 Author{1}{Lastname}#=%=#Tang
-Author{1}{Email}#=%=#dytang@ir.hit.edu.cn
-Author{1}{Affiliation}#=%=#Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology
+Author{1}{Email}#=%=#dutang@microsoft.com
+Author{1}{Affiliation}#=%=#Microsoft Research Asia
 Author{2}{Firstname}#=%=#Bing
 Author{2}{Lastname}#=%=#Qin
 Author{2}{Email}#=%=#qinb@ir.hit.edu.cn

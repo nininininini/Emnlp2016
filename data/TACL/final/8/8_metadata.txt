@@ -1,10 +1,10 @@
-SubmissionNumber#=%=#1239
+SubmissionNumber#=%=#8
 FinalPaperTitle#=%=#Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
 ShortPaperTitle#=%=#Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health
 NumberOfPages#=%=#14
-CopyrightSigned#=%=#published through TACL - Tim Althoff
+CopyrightSigned#=%=#NA
 JobTitle#==#
-Organization#==#Stanford University
+Organization#==#
 Abstract#==#Mental illness is one of the most pressing public health issues of our time.
 While counseling and psychotherapy can be effective treatments, our knowledge
 about how to conduct successful counseling conversations has been limited due

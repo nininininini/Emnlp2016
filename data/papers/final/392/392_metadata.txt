@@ -38,7 +38,7 @@ Author{3}{Affiliation}#=%=#University of Arizona
 Author{4}{Firstname}#=%=#Peter
 Author{4}{Lastname}#=%=#Clark
 Author{4}{Email}#=%=#peterc@allenai.org
-Author{4}{Affiliation}#=%=#Allen Institute for AI
+Author{4}{Affiliation}#=%=#Allen Institute for Artificial Intelligence
 Author{5}{Firstname}#=%=#Michael
 Author{5}{Lastname}#=%=#Hammond
 Author{5}{Email}#=%=#hammond@email.arizona.edu

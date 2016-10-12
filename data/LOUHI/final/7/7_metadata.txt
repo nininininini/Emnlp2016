@@ -1,0 +1,47 @@
+SubmissionNumber#=%=#7
+FinalPaperTitle#=%=#Analysis of Anxious Word Usage on Online Health Forums
+ShortPaperTitle#=%=#Analysis of Anxious Word Usage on Online Health Forums
+NumberOfPages#=%=#6
+CopyrightSigned#=%=#Nicolas Rey
+JobTitle#==#
+Organization#==#
+Abstract#==#Online health communities and support groups are a valuable source of
+information for users suffering from a physical or mental illness. Users turn
+to these forums for moral support or advice on specific conditions, symptoms,
+or side effects of medications. This paper describes and studies the linguistic
+patterns of a community of support forum users over time focused on the used of
+anxious related words. We introduce a methodology to identify groups of
+individuals exhibiting linguistic patterns associated with anxiety and the
+correlations between this linguistic pattern and other word usage. We find some
+evidence that participation in these groups does yield positive effects on
+their users by reducing the frequency of anxious related word used over time.
+Author{1}{Firstname}#=%=#Nicolas
+Author{1}{Lastname}#=%=#Rey-Villamizar
+Author{1}{Email}#=%=#nicolasreyv@gmail.com
+Author{1}{Affiliation}#=%=#University of Houston
+Author{2}{Firstname}#=%=#Prasha
+Author{2}{Lastname}#=%=#Shrestha
+Author{2}{Email}#=%=#pshrestha3@uh.edu
+Author{2}{Affiliation}#=%=#University of Houston
+Author{3}{Firstname}#=%=#Farig
+Author{3}{Lastname}#=%=#Sadeque
+Author{3}{Email}#=%=#farig@email.arizona.edu
+Author{3}{Affiliation}#=%=#University of Arizona
+Author{4}{Firstname}#=%=#Steven
+Author{4}{Lastname}#=%=#Bethard
+Author{4}{Email}#=%=#bethard@email.arizona.edu
+Author{4}{Affiliation}#=%=#University of Arizona
+Author{5}{Firstname}#=%=#Ted
+Author{5}{Lastname}#=%=#Pedersen
+Author{5}{Email}#=%=#tpederse@d.umn.edu
+Author{5}{Affiliation}#=%=#University of Minnesota, Duluth
+Author{6}{Firstname}#=%=#Arjun
+Author{6}{Lastname}#=%=#Mukherjee
+Author{6}{Email}#=%=#arjun4787@gmail.com
+Author{6}{Affiliation}#=%=#University of Houston
+Author{7}{Firstname}#=%=#Thamar
+Author{7}{Lastname}#=%=#Solorio
+Author{7}{Email}#=%=#thamar.solorio@gmail.com
+Author{7}{Affiliation}#=%=#UH
+
+==========

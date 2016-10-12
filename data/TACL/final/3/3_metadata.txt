@@ -1,11 +1,10 @@
-SubmissionNumber#=%=#1234
+SubmissionNumber#=%=#3
 FinalPaperTitle#=%=#Sparse Non-negative Matrix Language Modeling
 ShortPaperTitle#=%=#Sparse Non-negative Matrix Language Modeling
 NumberOfPages#=%=#14
-CopyrightSigned#=%=#Ciprian Chelba
+CopyrightSigned#=%=#NA
 JobTitle#==#
-Organization#==#Google Inc.,
-1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+Organization#==#
 Abstract#==#We present Sparse Non-negative Matrix (SNM) estimation, a novel probability
 estimation technique for language modeling that can efficiently incorporate
 arbitrary features. We evaluate SNM language models on two corpora: the One

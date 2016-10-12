@@ -1,12 +1,10 @@
-SubmissionNumber#=%=#1240
+SubmissionNumber#=%=#9
 FinalPaperTitle#=%=#Comparing Apples to Apple: The Effects of Stemmers on Topic Models
 ShortPaperTitle#=%=#Comparing Apples to Apple: The Effects of Stemmers on Topic Models
 NumberOfPages#=%=#14
-CopyrightSigned#=%=#Alexandra Schofield
+CopyrightSigned#=%=#NA
 JobTitle#==#
-Organization#==#Cornell University Dept of Computer Science
-Gates Hall
-Ithaca, NY 14850
+Organization#==#
 Abstract#==#Rule-based stemmers such as the Porter stemmer are frequently used to
 preprocess English corpora for topic modeling. In this work, we train and
 evaluate topic models on a variety of corpora using several different stemming

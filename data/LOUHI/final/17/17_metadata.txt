@@ -1,0 +1,40 @@
+SubmissionNumber#=%=#17
+FinalPaperTitle#=%=#Replicability of Research in Biomedical Natural Language Processing: a pilot evaluation for a coding task
+ShortPaperTitle#=%=#Replicability evaluation for a coding task
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Aurelie Neveol
+JobTitle#==#
+Organization#==#
+Abstract#==#The scientific community is facing raising concerns about the reproducibility
+of research in many fields. To address this issue in Natural Language
+Processing, the CLEF eHealth 2016 lab offered a replication track together with
+the Clinical Information Extraction task. Herein, we report detailed results of
+the replication
+experiments carried out with the three systems submitted to the track. While
+all results were ultimately replicated, we found that the systems were poorly
+rated by analysts on documentation aspects such as ”ease of understanding
+system requirements” (33%) and ”provision of information while system is
+running”
+(33%). As a result, simple steps could be taken by system authors to increase
+the ease of replicability of their work, thereby increasing the ease of
+re-using the systems. Our experiments aim to raise the awareness of the
+community towards the challenges of replication and community sharing of NLP
+systems.
+Author{1}{Firstname}#=%=#Aurelie
+Author{1}{Lastname}#=%=#Neveol
+Author{1}{Email}#=%=#neveol@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Kevin
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Email}#=%=#kevin.cohen@gmail.com
+Author{2}{Affiliation}#=%=#University of Colorado
+Author{3}{Firstname}#=%=#Cyril
+Author{3}{Lastname}#=%=#Grouin
+Author{3}{Email}#=%=#cyril.grouin@limsi.fr
+Author{3}{Affiliation}#=%=#LIMSI-CNRS
+Author{4}{Firstname}#=%=#Aude
+Author{4}{Lastname}#=%=#Robert
+Author{4}{Email}#=%=#aude.robert@inserm.fr
+Author{4}{Affiliation}#=%=#INSERM, CépiDC
+
+==========

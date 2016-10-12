@@ -1,0 +1,24 @@
+SubmissionNumber#=%=#2
+FinalPaperTitle#=%=#Minimally supervised models for number normalization
+ShortPaperTitle#=%=#Minimally supervised models for number normalization
+NumberOfPages#=%=#13
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
+Abstract#==#We propose two models for verbalizing numbers, a key component in speech
+recognition and synthesis systems. The first model uses an end-to-end recurrent
+neural network. The second model, drawing inspiration from the linguistics
+literature, uses finite-state transducers constructed with a minimal amount of
+training data. While both models achieve near-perfect performance, the latter
+model can be trained using several orders of magnitude less data than the
+former, making it particularly useful for low-resource languages.
+Author{1}{Firstname}#=%=#Kyle
+Author{1}{Lastname}#=%=#Gorman
+Author{1}{Email}#=%=#kbg@google.com
+Author{1}{Affiliation}#=%=#Google, Inc.
+Author{2}{Firstname}#=%=#Richard
+Author{2}{Lastname}#=%=#Sproat
+Author{2}{Email}#=%=#rws@xoba.com
+Author{2}{Affiliation}#=%=#Google
+
+==========

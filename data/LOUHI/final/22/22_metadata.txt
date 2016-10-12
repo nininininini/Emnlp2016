@@ -1,0 +1,37 @@
+SubmissionNumber#=%=#22
+FinalPaperTitle#=%=#Modelling Radiological Language with Bidirectional Long Short-Term Memory Networks
+ShortPaperTitle#=%=#Modelling Radiological Language with Bidirectional Long Short-Term Memory Networks
+NumberOfPages#=%=#11
+CopyrightSigned#=%=#Cornegruta
+JobTitle#==#
+Organization#==#
+Abstract#==#Motivated by the need to automate medical information extraction from free-text
+radiological reports, we present a bi-directional long short-term memory
+(BiLSTM) neural network architecture for modelling radiological language. The
+model has been used to address two NLP tasks: medical named-entity recognition
+(NER) and negation detection. We investigate whether learning several types of
+word embeddings improves BiLSTM's performance on those tasks. Using a large
+dataset of chest x-ray reports, we compare the proposed model to a baseline
+dictionary-based NER system and a negation detection system that leverages the
+hand-crafted rules of the NegEx algorithm and the grammatical relations
+obtained from the Stanford Dependency Parser. Compared to these more
+traditional rule-based systems, we argue that BiLSTM offers a strong
+alternative for both our tasks.
+Author{1}{Firstname}#=%=#Savelie
+Author{1}{Lastname}#=%=#Cornegruta
+Author{1}{Email}#=%=#savelie.cornegruta@kcl.ac.uk
+Author{1}{Affiliation}#=%=#King's College London
+Author{2}{Firstname}#=%=#Robert
+Author{2}{Lastname}#=%=#Bakewell
+Author{2}{Email}#=%=#robert.bakewell@kcl.ac.uk
+Author{2}{Affiliation}#=%=#King's College London
+Author{3}{Firstname}#=%=#Samuel
+Author{3}{Lastname}#=%=#Withey
+Author{3}{Email}#=%=#samuel.withey@kcl.ac.uk
+Author{3}{Affiliation}#=%=#King's College London
+Author{4}{Firstname}#=%=#Giovanni
+Author{4}{Lastname}#=%=#Montana
+Author{4}{Email}#=%=#giovanni.montana@kcl.ac.uk
+Author{4}{Affiliation}#=%=#King's College London
+
+==========

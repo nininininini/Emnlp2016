@@ -1,0 +1,27 @@
+SubmissionNumber#=%=#23
+FinalPaperTitle#=%=#NLP and Online Health Reports: What do we say and what do we mean?
+ShortPaperTitle#=%=#NLP and Online Health Reports: What do we say and what do we mean?
+NumberOfPages#=%=#1
+CopyrightSigned#=%=#Collier
+JobTitle#==#
+Organization#==#University of Cambridge, Cambridge, UK
+Abstract#==#Social media sites such as microblogs and discussion board forums have the
+potential to be rich source of information about human health. Going beyond
+simple keyword search and harnessing the data for insights that can benefit
+public health presents both opportunities and challenges to natural language
+pro- cessing (NLP). In this talk I survey the progress made using NLP methods,
+e.g. for adverse drug reaction profiling, flu surveillance and the study of
+depressive disorders. I will then look at the technical challenges in
+understanding such messages, in particular how NLP can automatically
+encode/normalise laymen’s lan- guage to the formal terminologies of
+healthcare professionals. To this end I present state of the art results from
+our recent work on using deep neural networks to de-conflate word senses as
+well as ‘translating’ from social media messages to SNOMED-CT. I will
+finish by briefly reflecting on the practical and ethical challenges that lie
+ahead.
+Author{1}{Firstname}#=%=#Nigel
+Author{1}{Lastname}#=%=#Collier
+Author{1}{Email}#=%=#nhc30@cam.ac.uk
+Author{1}{Affiliation}#=%=#University of Cambridge
+
+==========

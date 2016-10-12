@@ -1,0 +1,35 @@
+SubmissionNumber#=%=#19
+FinalPaperTitle#=%=#Hybrid methods for ICD-10 coding of death certificates
+ShortPaperTitle#=%=#Hybrid methods for ICD-10 coding of death certificates
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Pierre Zweigenbaum
+JobTitle#==#
+Organization#==#LIMSI
+Rue John von Neumann
+Campus Universitaire d'Orsay
+Bât 508
+91405 Orsay cedex
+FRANCE
+Abstract#==#ICD-10 coding of death certificates has received renewed attention recently
+with the organization of the CLEF eHealth 2016 clinical information extraction
+task (CLEF eHealth 2016 Task 2).  This task has been addressed either with
+dictionary projection methods or with supervised machine learning methods, but
+none of the participants have tried to design hybrid methods to process these
+data.
+The goal of the present paper is to explore such hybrid methods.
+It proposes several hybrid methods which outperform both plain dictionary
+projection and supervised machine learning on the training set.
+On the official test set, it obtains an F-measure of 0.8586 which is 1pt above
+the best published results so far on this corpus (p<0.0001).  Moreover, it does
+so with no manual dictionary tuning, and thus has potential for generalization
+to other languages with little effort.
+Author{1}{Firstname}#=%=#Pierre
+Author{1}{Lastname}#=%=#Zweigenbaum
+Author{1}{Email}#=%=#pz@limsi.fr
+Author{1}{Affiliation}#=%=#LIMSI-CNRS
+Author{2}{Firstname}#=%=#Thomas
+Author{2}{Lastname}#=%=#Lavergne
+Author{2}{Email}#=%=#lavergne@limsi.fr
+Author{2}{Affiliation}#=%=#LIMSI/CNRS & Université Paris Sud
+
+==========

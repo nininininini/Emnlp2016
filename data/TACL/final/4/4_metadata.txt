@@ -1,10 +1,10 @@
-SubmissionNumber#=%=#1235
+SubmissionNumber#=%=#4
 FinalPaperTitle#=%=#Easy-First Dependency Parsing with Hierarchical Tree LSTMs
 ShortPaperTitle#=%=#Easy-First Dependency Parsing with Hierarchical Tree LSTMs
 NumberOfPages#=%=#18
-CopyrightSigned#=%=#Eli
+CopyrightSigned#=%=#Eliyahu Kiperwasser
 JobTitle#==#
-Organization#==#Bar-Ilan University Ramat-Gan 52900 Israel
+Organization#==#
 Abstract#==#We suggest a compositional vector representation of parse trees that relies on
 a recursive combination of recurrent-neural network encoders. To demonstrate
 its effectiveness, we use the representation as the backbone of a greedy,

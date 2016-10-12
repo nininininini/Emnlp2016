@@ -1,0 +1,21 @@
+* Saturday, November 5, 2016
+= 09:00--10:15 Session I - Machine-Learning # %chair1 Pierre Zweigenbaum
+8 09:00--09:25  # An Investigation of Recurrent Neural Architectures for Drug Name Recognition
+11 09:25--09:50  # Clinical Text Prediction with Numerically Grounded Conditional Language Models
+22 09:50--10:15  # Modelling Radiological Language with Bidirectional Long Short-Term Memory Networks
+= 10:15--10:30 Session II - Boosters # %chair1 Pierre Zweigenbaum
+= 11:00--12:30 Session III - Posters
+4 11:00--12:30  # Data Resource Acquisition from People at Various Stages of Cognitive Decline ___ Design and Exploration Considerations
+7 11:00--12:30  # Analysis of Anxious Word Usage on Online Health Forums
+10 11:00--12:30  # Retrofitting Word Vectors of MeSH Terms to Improve Semantic Similarity Measures
+14 11:00--12:30  # Unsupervised Resolution of Acronyms and Abbreviations in Nursing Notes Using Document-Level Context Models
+15 11:00--12:30  # Low-resource OCR error detection and correction in French Clinical Texts
+16 11:00--12:30  # Citation Analysis with Neural Attention Models
+17 11:00--12:30  # Replicability of Research in Biomedical Natural Language Processing: a pilot evaluation for a coding task
++ 12:30--14:00 Lunch break
+= 14:00--15:30 Session IV - Invited talk # %chair1 Pierre Zweigenbaum
+23 14:00--15:30  # NLP and Online Health Reports: What do we say and what do we mean?
+= 16:00--17:15 Session V - NLP for literature and clinical documents
+9 16:00--16:25  # Leveraging coreference to identify arms in medical abstracts: An experimental study
+19 16:25--16:50  # Hybrid methods for ICD-10 coding of death certificates
+21 16:50--17:15  # Exploring Query Expansion for Entity Searches in PubMed

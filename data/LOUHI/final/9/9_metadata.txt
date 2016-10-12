@@ -1,0 +1,36 @@
+SubmissionNumber#=%=#9
+FinalPaperTitle#=%=#Leveraging coreference to identify arms in medical abstracts: An experimental study
+ShortPaperTitle#=%=#Leveraging coreference to identify arms in medical abstracts: An experimental study
+NumberOfPages#=%=#10
+CopyrightSigned#=%=#Elisa Ferracane
+JobTitle#==#
+Organization#==#University of Texas at Austin
+305 E. 23rd Street STOP B5100
+Austin, TX 78712
+Abstract#==#Performing systematic reviews is a critical yet manual, labor-intensive step in
+evidence-based medicine. Automating systematic reviews is an active area of
+research, requiring innovations in machine learning and computational
+linguistics. We examine how coreference resolution can aid in identifying the
+arms of a study, an often overlooked piece of information needed to synthesize
+the results in a systematic review. A classification model that performs better
+with the coreference features supports the intuition that coreference is able
+to capture the discourse salience of arms. We note that control arms do not
+benefit as much from these features.
+Author{1}{Firstname}#=%=#Elisa
+Author{1}{Lastname}#=%=#Ferracane
+Author{1}{Email}#=%=#elisa@ferracane.com
+Author{1}{Affiliation}#=%=#University of Texas at Austin
+Author{2}{Firstname}#=%=#Iain
+Author{2}{Lastname}#=%=#Marshall
+Author{2}{Email}#=%=#iainjmarshall@gmail.com
+Author{2}{Affiliation}#=%=#King's College London
+Author{3}{Firstname}#=%=#Byron C.
+Author{3}{Lastname}#=%=#Wallace
+Author{3}{Email}#=%=#byron@ccs.neu.edu
+Author{3}{Affiliation}#=%=#Northeastern University
+Author{4}{Firstname}#=%=#Katrin
+Author{4}{Lastname}#=%=#Erk
+Author{4}{Email}#=%=#katrin.erk@mail.utexas.edu
+Author{4}{Affiliation}#=%=#University of Texas at Austin
+
+==========

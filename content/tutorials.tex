@@ -1,13 +1,19 @@
 \newcommand{\tutorialauthors}[1]{
     \paperauthor{\citefullauthornames{#1}}}
+
+
+  
+      
 \chapter{\label{chap:Tutorials}Tutorials:Tuesday, November 1}
 \thispagestyle{emptyheader}
-\setheaders{Tutorials}{\daydateyear}
+%\setheaders{Tutorials}{\daydateyear}
+\setheaders{Tutorials}{Tuesday, November 1}
 \setlength{\parindent}{0in}
 \setlength{\parskip}{2ex}
 \renewcommand{\baselinestretch}{0.87}
-\section*{Overview}
-\renewcommand{\arraystretch}{1.2}
+%\section*{Overview}
+%\renewcommand{\arraystretch}{1.2}
+
 %begin{longtable}{cc}
 %begin{longtable}{r>{\raggedright}p{0.83\columnwidth}}
 % & \textbf{\large{}September 17\smallskip{}} \tabularnewline
@@ -47,23 +53,23 @@
 \begin{SingleTrackSchedule}
 9:00 & -- & 12:30 & {\bfseries Morning Tutorials} \hfill \\
   & & & \papertitle{Tutorial-001}\newline
-  \tutorialauthors{Tutorial-001} \hfill\emph{\TutLocA} \\
+  \tutorialauthors{Tutorial-001} \hfill\emph{\TutLocA} \\ \\
   & & & \papertitle{Tutorial-002} \newline
-  \tutorialauthors{Tutorial-002} \hfill\emph{\TutLocB} \\
+  \tutorialauthors{Tutorial-002} \hfill\emph{\TutLocB} \\ \\
    & & & \papertitle{Tutorial-003} \newline
-  \tutorialauthors{Tutorial-003} \hfill\emph{\TutLocC} \\
-12:30 & -- & 14:00 & {\bfseries Lunch break} \hfill \\
+  \tutorialauthors{Tutorial-003} \hfill\emph{\TutLocC} \\ \\
+12:30 & -- & 14:00 & {\bfseries Lunch break} \hfill \\ \\ 
 14:00 & -- & 17:30 & {\bfseries Afternoon Tutorials} \hfill \\
  & & & \papertitle{Tutorial-004}\newline
-  \tutorialauthors{Tutorial-004} \hfill\emph{\TutLocD} \\
+  \tutorialauthors{Tutorial-004} \hfill\emph{\TutLocD} \\ \\
   & & & \papertitle{Tutorial-005}\newline
-  \tutorialauthors{Tutorial-005} \hfill\emph{\TutLocE} \\
+  \tutorialauthors{Tutorial-005} \hfill\emph{\TutLocE} \\ \\
    & & & \papertitle{Tutorial-006}\newline
   \tutorialauthors{Tutorial-006} \hfill\emph{\TutLocF} \\
 \end{SingleTrackSchedule}
 
 \clearpage{}
-
+ 
 \begin{bio}
 \textbf{Chris Dyer (CMU)}
  Chris’s research looks at the intersection between machine learning and natural language processing, in particular focusing on representation learning, structured models, and multilinguality. He has received best paper nominations and awards at NAACL, EMNLP, and ACL. He is the author of the CNN toolkit, which was used by the Jelinek 2016 Summer Workshop on neural machine translation.
@@ -89,11 +95,11 @@ Everything in the tutorial will be grounded in code —- we will show how to pro
 \clearpage{}
 
 \begin{bio}
-	\textbf{Deepak Venugopal} completed his Ph.D. at the University of Texas at Dallas in 2015 after which he joined the department of computer science at the University of Memphis where he is currently an assistant professor. His main research interests are in Probabilistic Graphical Models, Statistical Relational Models and their applications in natural language processing and cyber-security. His re- search work has resulted in several key techniques for scalable inference and learning in Statistical Relational Models.
+	\textbf{Deepak Venugopal} completed his Ph.D. at the University of Texas at Dallas in 2015 after which he joined the department of computer science at the University of Memphis where he is currently an assistant professor. His main research interests are in Probabilistic Graphical Models, Statistical Relational Models and their applications in natural language processing and cyber-security. His research work has resulted in several key techniques for scalable inference and learning in Statistical Relational Models.
 
-\textbf{Vibhav Gogate} is an Assistant Professor in the Computer Science Department at the Univer- sity of Texas at Dallas. He got his Ph.D. at University of California, Irvine in 2009 and then did a two-year post-doc at University of Washington. His current research focus is on probabilistic graphical models and its first-order logic based extensions such as Markov logic. He is best known for his work on inference algorithms that combine the power of logic and probability including lifted probabilistic inference algorithms. He is the co-winner of the last two probabilistic inference competitions the 2010 UAI approximate inference challenge and the 2012 PASCAL probabilistic inference competition.
+\textbf{Vibhav Gogate} is an Assistant Professor in the Computer Science Department at the University of Texas at Dallas. He got his Ph.D. at University of California, Irvine in 2009 and then did a two-year post-doc at University of Washington. His current research focus is on probabilistic graphical models and its first-order logic based extensions such as Markov logic. He is best known for his work on inference algorithms that combine the power of logic and probability including lifted probabilistic inference algorithms. He is the co-winner of the last two probabilistic inference competitions the 2010 UAI approximate inference challenge and the 2012 PASCAL probabilistic inference competition.
 
-\textbf{Vincent Ng} is an Associate Professor of Computer Science and a member of the Human Lan- guage Technology Research Institute at the University of Texas at Dallas. He is best known for his work on coreference resolution in the NLP community. He has recently been collaborating with the co-authors of this proposal on modeling complex NLP tasks using Markov Logic. 
+\textbf{Vincent Ng} is an Associate Professor of Computer Science and a member of the Human Language Technology Research Institute at the University of Texas at Dallas. He is best known for his work on coreference resolution in the NLP community. He has recently been collaborating with the co-authors of this proposal on modeling complex NLP tasks using Markov Logic. 
 \index{Venugopal, Deepak} \index{Gogate, Vibhav} \index{Ng, Vincent}
 
 \end{bio} 
@@ -104,7 +110,7 @@ Everything in the tutorial will be grounded in code —- we will show how to pro
 
 Realizing these weaknesses, researchers have turned to joint inference approaches in recent years. One such approach involves the use of Markov logic, which is defined as a set of weighted first-order logic formulas and, at a high level, unifies first-order logic with probabilistic graphical models. It is an ideal modeling language (knowledge representation) for compactly representing relational and uncertain knowledge in NLP. In a typical use case of MLNs in NLP, the application designer describes the background knowledge using a few first-order logic sentences and then uses software packages such as Alchemy, Tuffy , and Markov the beast to perform learning and inference (prediction) over the MLN. However, despite its obvious advantages, over the years, researchers and practitioners have found it difficult to use MLNs effectively in many NLP applications. The main reason for this is that it is hard to scale inference and learning algorithms for MLNs to large datasets and complex models, that are typical in NLP.
 
-In this tutorial, we will introduce the audience to recent advances in scaling up inference and learning in MLNs as well as new approaches to make MLNs a “black-box” for NLP applications (with only minor tuning required on the part of the user). Specifically, we will introduce attendees to a key idea that has emerged in the MLN research community over the last few years, lifted inference , which refers to inference techniques that take advantage of symmetries (e.g., synonyms), both exact and approximate, in the MLN. We will describe how these next-generation inference techniques can be used to perform effective joint inference. We will also present our new software package for inference and learning in MLNs, Alchemy 2.0, which is based on lifted inference, focusing primarily on how it can be used to scale up inference and learning in large models and datasets for applications such as semantic similarity determination, information extraction and question answering. 
+In this tutorial, we will introduce the audience to recent advances in scaling up inference and learning in MLNs as well as new approaches to make MLNs a “black-box” for NLP applications (with only minor tuning required on the part of the user). Specifically, we will introduce attendees to a key idea that has emerged in the MLN research community over the last few years, lifted inference, which refers to inference techniques that take advantage of symmetries (e.g., synonyms), both exact and approximate, in the MLN. We will describe how these next-generation inference techniques can be used to perform effective joint inference. We will also present our new software package for inference and learning in MLNs, Alchemy 2.0, which is based on lifted inference, focusing primarily on how it can be used to scale up inference and learning in large models and datasets for applications such as semantic similarity determination, information extraction and question answering. 
 \end{tutorial} 
 
 \clearpage{}

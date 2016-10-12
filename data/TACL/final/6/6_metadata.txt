@@ -1,10 +1,10 @@
-SubmissionNumber#=%=#1237
+SubmissionNumber#=%=#6
 FinalPaperTitle#=%=#Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees
 ShortPaperTitle#=%=#Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees
 NumberOfPages#=%=#14
-CopyrightSigned#=%=#Ehsan Shareghi
+CopyrightSigned#=%=#NA
 JobTitle#==#
-Organization#==#Faculty of Information Technology, Monash University, Clayton, Victoria, Australia
+Organization#==#
 Abstract#==#Efficient methods for storing and querying are critical for scaling high-order
 m-gram language models to large corpora. We propose a language model based on
 compressed suffix trees, a representation that is highly compact and can be

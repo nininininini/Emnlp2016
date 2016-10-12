@@ -1,0 +1,28 @@
+SubmissionNumber#=%=#21
+FinalPaperTitle#=%=#Exploring Query Expansion for Entity Searches in PubMed
+ShortPaperTitle#=%=#Exploring Query Expansion for Entity Searches in PubMed
+NumberOfPages#=%=#7
+CopyrightSigned#=%=#Chungchi Huang
+JobTitle#==#
+Organization#==#
+Abstract#==#Identifying relevant studies from the entire scientific literature is an
+important task in biomedical research. Past efforts have incorporated
+semantically recognized biological entities and medical ontologies into
+biomedical literature search. However, semantic relations are largely
+overlooked by biomedical search engines. In this work, we aim to discover
+synonymous biomedical semantic relations between entities and explore their
+uses in query (semantics) understanding for improved retrieval performance.
+Specifically, we discover synonymous semantic relations from PubMed queries and
+apply them to query expansion and specification. In these two real-world
+scenarios, better PubMed retrieval effectiveness, in terms of recall and
+precision, can be achieved, demonstrating the utility of our proposed approach.
+Author{1}{Firstname}#=%=#Chung-Chi
+Author{1}{Lastname}#=%=#Huang
+Author{1}{Email}#=%=#u901571@gmail.com
+Author{1}{Affiliation}#=%=#NLM, NIH
+Author{2}{Firstname}#=%=#Zhiyong
+Author{2}{Lastname}#=%=#Lu
+Author{2}{Email}#=%=#u901571@gmail.com
+Author{2}{Affiliation}#=%=#NCBI, NLM
+
+==========

@@ -1,0 +1,46 @@
+SubmissionNumber#=%=#10
+FinalPaperTitle#=%=#Retrofitting Word Vectors of MeSH Terms to Improve Semantic Similarity Measures
+ShortPaperTitle#=%=#Retrofitting Word Vectors of MeSH Terms to Improve Semantic Similarity Measures
+NumberOfPages#=%=#9
+CopyrightSigned#=%=#Zhiguo Yu
+JobTitle#==#
+Organization#==#The University of Texas Health Science Center at Houston
+
+7000 Fannin St, Houston, TX 77030
+Abstract#==#Estimation of the semantic relatedness between biomedical concepts has utility
+for many informatics applications. Automated methods fall into two broad
+categories: methods based on distributional statistics drawn from text corpora,
+and methods based on the structure of existing knowledge resources. In the
+former case, taxonomic structure is disregarded. In the latter, semantically
+relevant empirical information is not considered. In this paper, we present a
+method that retrofits the context vector representation of MeSH terms by using
+additional linkage information from UMLS/MeSH hierarchy such that linked
+concepts have similar vector representations. We evaluated the method relative
+to previously published physician and coder's ratings on sets of MeSH terms.
+Our experimental results demonstrate that the retrofitted word vector measures
+obtain a higher correlation with physician judgments. The results also
+demonstrate a clear improvement on the correlation with experts' ratings from
+the retrofitted vector representation in comparison to the vector
+representation without retrofitting.
+Author{1}{Firstname}#=%=#Zhiguo
+Author{1}{Lastname}#=%=#Yu
+Author{1}{Email}#=%=#zhiguoyu1989@gmail.com
+Author{1}{Affiliation}#=%=#University of Txeas Health Science Center at Houston
+Author{2}{Firstname}#=%=#Trevor
+Author{2}{Lastname}#=%=#Cohen
+Author{2}{Email}#=%=#Trevor.Cohen@uth.tmc.edu
+Author{2}{Affiliation}#=%=#Unversity of Texas Health Science Center at Houston
+Author{3}{Firstname}#=%=#Byron
+Author{3}{Lastname}#=%=#Wallace
+Author{3}{Email}#=%=#byron.wallace@utexas.edu
+Author{3}{Affiliation}#=%=#University of Texas at Austin
+Author{4}{Firstname}#=%=#Elmer
+Author{4}{Lastname}#=%=#Bernstam
+Author{4}{Email}#=%=#Elmer.V.Bernstam@uth.tmc.edu
+Author{4}{Affiliation}#=%=#University of Texas Science Center at Houston
+Author{5}{Firstname}#=%=#Todd
+Author{5}{Lastname}#=%=#Johnson
+Author{5}{Email}#=%=#Todd.R.Johnson@uth.tmc.edu
+Author{5}{Affiliation}#=%=#University of Texas Health Scicence Center at Houston
+
+==========

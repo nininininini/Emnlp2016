@@ -1,10 +1,10 @@
-SubmissionNumber#=%=#1238
+SubmissionNumber#=%=#7
 FinalPaperTitle#=%=#Understanding Satirical Articles Using Common-Sense
 ShortPaperTitle#=%=#Understanding Satirical Articles Using Common-Sense
 NumberOfPages#=%=#13
-CopyrightSigned#=%=#Siddharth Patwardhan
-JobTitle#==#EMNLP pub chair
-Organization#==#EMNLP 2016
+CopyrightSigned#=%=#NA
+JobTitle#==#
+Organization#==#
 Abstract#==#Automatic satire detection is a subtle text classification task, for machines
 and at times, even for humans. In this paper we argue that satire detection
 should be approached using common-sense inferences, rather than traditional
