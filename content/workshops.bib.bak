@@ -26,7 +26,7 @@
   Timestamp                = {2016.10.11}
 }
 
-@InProceedings{Louhi,
+@InProceedings{LOUHI,
   Title                    = {Louhi 2016: the Seventh International Workshop on Health Text Mining and Information Analysis},
   Author                   = {Grouin, Cyril and Hamon, Thierry and N{\'e}v{\'e}ol, Aur{\'e}lie and Zweigenbaum, Pierre },
 
@@ -43,6 +43,14 @@
   Timestamp                = {2016.10.11}
 }
 
+@InProceedings{UBLP,
+  Title                    = {Uphill Battles in Language Processing: Scaling early achievements to robust methods},
+  Author                   = {Annie Louis and Michael Roth and Bonnie Webber and Michael White and Luke Zettlemoyer},
+
+  Owner                    = {ssomasundaran},
+  Timestamp                = {2016.10.11}
+}
+
 @InProceedings{SSST,
   Title                    = {Tenth Workshop on Syntax, Semantics and Structure in Statistical Translation},
   Author                   = {Dekai Wu and Marine Carpuat and Khalil Sima'an},
@@ -52,7 +60,7 @@
 }
 
 @InProceedings{NLPSM,
-  Title                    = { SocialNLP 2016: The 4th International Workshop on Natural Language Processing for Social Media},
+  Title                    = {SocialNLP 2016: The 4th International Workshop on Natural Language Processing for Social Media},
   Author                   = {Yung-jen Hsu, Jane and Ku, Lun-Wei and Li, Cheng-Te},
 
   Date-added               = {2016-10-10 21:46:26 +0000},

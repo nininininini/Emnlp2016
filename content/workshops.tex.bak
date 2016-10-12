@@ -9,8 +9,12 @@
 \input{auto/SPNLP/schedule.tex}
 \end{wsschedule}
 
-\begin{wsschedule}{CSS}{CSS}{Structured Prediction for NLP}{\WShopLocCSS} 
+\begin{wsschedule}{CSS}{CSS}{Natural Language Processing and Computational Social Science}{\WShopLocCSS} 
 \input{auto/CSS/schedule.tex}
+\end{wsschedule}
+
+\begin{wsschedule}{LOUHI}{LOUHI}{Louhi 2016: the Seventh International Workshop on Health Text Mining and Information Analysis}{\WShopLocLouhi} 
+\input{auto/LOUHI/schedule.tex}
 \end{wsschedule}
 
 \begin{wsschedule}{CNS}{CNS}{Computing News Storylines}{\WShopLocCNS} 

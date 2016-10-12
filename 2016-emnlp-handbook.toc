@@ -34,6 +34,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{{\bfseries W3:} CSS}{24}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W4:} CNS}{26}{section.3.4}
+\contentsline {section}{{\bfseries W4:} LOUHI}{26}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{27}{section*.7}
+\contentsline {section}{{\bfseries W5:} CNS}{28}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author index}{29}{section*.7}

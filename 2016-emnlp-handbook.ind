@@ -7,23 +7,34 @@
 
   \indexspace
 
+  \item Bakewell, Robert, \hyperpage{26}
   \item Baldwin,Tim, \hyperpage{5}
+  \item Bamman, David, \hyperpage{24}
   \item Banchs, Rafael E., \hyperpage{7}, \hyperpage{15}
-  \item Bethard, Steven, \hyperpage{20}
+  \item Beieler, John, \hyperpage{24}
+  \item Bernstam, Elmer, \hyperpage{26}
+  \item Bethard, Steven, \hyperpage{20}, \hyperpage{26}
   \item Bisk, Yonatan, \hyperpage{23}
+  \item Bontcheva, Kalina, \hyperpage{24}
   \item Bosnjak, Matko, \hyperpage{20}
   \item Bouchard, Guillaume, \hyperpage{4}
   \item Boulard Masson, C\IeC {\'e}cile, \hyperpage{20}
-  \item Bruggermann, Daniel, \hyperpage{27}
+  \item Boyd, Ryan, \hyperpage{25}
+  \item Brian, Jin, \hyperpage{25}
+  \item Broek, Tijs van den, \hyperpage{25}
+  \item Bruggermann, Daniel, \hyperpage{28}
   \item Brun, Caroline, \hyperpage{20}
 
   \indexspace
 
   \item Callison-Burch, Chris, \hyperpage{2, 3}
   \item Cantarero, Alejandro, \hyperpage{20}
+  \item Carley, Kathleen M., \hyperpage{24}
   \item Carreras, Xavier, \hyperpage{3, 4}
-  \item Caselli, Tommaso, \hyperpage{27}
-  \item Caswell, David, \hyperpage{27}
+  \item Carroll, Josh, \hyperpage{25}
+  \item Caselli, Tommaso, \hyperpage{28}
+  \item Caswell, David, \hyperpage{28}
+  \item Chalapathy, Raghavendra, \hyperpage{26}
   \item Chambers,Nate, \hyperpage{4}
   \item Chang, Kai-Wei, \hyperpage{22}
   \item Chang, Ming-Wei, \hyperpage{22}
@@ -33,36 +44,51 @@
   \item Cheung, Jackie C.K., \hyperpage{3}
   \item Cho,Kyunghyun, \hyperpage{4}
   \item Chu, Chun-Han, \hyperpage{21}
+  \item Cohen, Kevin, \hyperpage{26}
+  \item Cohen, Trevor, \hyperpage{26}
+  \item Collier, Nigel, \hyperpage{27}
   \item Collins,Michael, \hyperpage{4}
+  \item Coppersmith, Glen, \hyperpage{25}
+  \item Cornegruta, Savelie, \hyperpage{26}
 
   \indexspace
 
-  \item Davis, Anthony, \hyperpage{27}
+  \item D'hondt, Eva, \hyperpage{26}
+  \item Davis, Anthony, \hyperpage{28}
   \item DeNero,John, \hyperpage{4}
+  \item Denny, Matthew, \hyperpage{25}
   \item DeYoung, Jay, \hyperpage{20}
   \item Dinu,Georgiana, \hyperpage{4}
   \item Doggett, Erika, \hyperpage{20}
-  \item Dredze, Mark, \hyperpage{20}, \hyperpage{22}
+  \item Dogruoz, A. Seza, \hyperpage{24}
+  \item Dredze, Mark, \hyperpage{20}, \hyperpage{22}, \hyperpage{25}
   \item Duh, Kevin, \hyperpage{3, 4}
   \item Dyer, Chris, \hyperpage{7, 8}, \hyperpage{22}
 
   \indexspace
 
   \item E Banchs, Rafael, \hyperpage{15}
-  \item Eisenberg, Joshua, \hyperpage{27}
-  \item Eisenstein, Jacob, \hyperpage{22}, \hyperpage{27}
+  \item Ehrenhard, Michel, \hyperpage{25}
+  \item Eisenberg, Joshua, \hyperpage{28}
+  \item Eisenstein, Jacob, \hyperpage{22}, \hyperpage{24}, 
+		\hyperpage{28}
   \item Eisner, Ben, \hyperpage{20}
   \item Eisner, Jason, \hyperpage{22}
-  \item Erp, Marieke van, \hyperpage{27}
+  \item Erk, Katrin, \hyperpage{27}
+  \item Erp, Marieke van, \hyperpage{28}
 
   \indexspace
 
   \item Fang, Hao, \hyperpage{20}
   \item Fang, Rui, \hyperpage{21}
   \item Feng, Yansong, \hyperpage{7}, \hyperpage{16}
+  \item Ferracane, Elisa, \hyperpage{27}
   \item Fidler,Sanja, \hyperpage{4}
-  \item Finlayson, Mark, \hyperpage{27}
+  \item Finlayson, Mark, \hyperpage{28}
+  \item Foreman, April, \hyperpage{25}
+  \item Fraiberger, Samuel, \hyperpage{25}
   \item Fraser,Alex, \hyperpage{4}
+  \item Freitas, Jesse, \hyperpage{24}
 
   \indexspace
 
@@ -70,19 +96,27 @@
   \item Ganchev,Kuzman, \hyperpage{4}
   \item Gogate, Vibhav, \hyperpage{7}, \hyperpage{10}
   \item Goldberg, Yoav, \hyperpage{7, 8}
-  \item Goldwasser, Dan, \hyperpage{22}
+  \item Goldwasser, Dan, \hyperpage{22}, \hyperpage{25}
   \item Goyal, Kartik, \hyperpage{22}
   \item Goyal, Naman, \hyperpage{22}
+  \item Grau, Brigitte, \hyperpage{26}
   \item Grefenstette,Ed, \hyperpage{4}
+  \item Grouin, Cyril, \hyperpage{26}
 
   \indexspace
 
+  \item Hamilton, William L., \hyperpage{25}
+  \item Handler, Abram, \hyperpage{25}
   \item Hathi, Shobhit, \hyperpage{21}
-  \item Hermey, Yannik, \hyperpage{27}
+  \item Hermey, Yannik, \hyperpage{28}
+  \item Hiemstra, Djoerd, \hyperpage{25}
   \item Hockenmaier,Julia, \hyperpage{4}
+  \item Hollingshead, Kristy, \hyperpage{25}
+  \item Hovy, Dirk, \hyperpage{24}
   \item Hovy,Dirk, \hyperpage{5}
   \item Hsieh, Yu-Lun, \hyperpage{21}
   \item Hsu, Wen-Lian, \hyperpage{21}
+  \item Huang, Chung-Chi, \hyperpage{27}
   \item Huang, Degen, \hyperpage{22}
   \item Huang,Liang, \hyperpage{4}
   \item Huang,Ruihong, \hyperpage{4}
@@ -90,25 +124,39 @@
 
   \indexspace
 
-  \item Ifrim, Georgiana, \hyperpage{27}
+  \item Ifrim, Georgiana, \hyperpage{28}
+  \item Ingraham, Loring, \hyperpage{25}
+  \item Ireland, Molly, \hyperpage{25}
 
   \indexspace
 
   \item Jaech, Aaron, \hyperpage{21}
   \item Jain, Siddharth, \hyperpage{20}
+  \item Ji, Heng, \hyperpage{24}
+  \item Johnson, Kristen, \hyperpage{25}
+  \item Johnson, Todd, \hyperpage{26}
+  \item Joseph, Kenneth, \hyperpage{24}
+  \item Jurgens, David, \hyperpage{24}
 
   \indexspace
 
   \item Kan,Min-Yen, \hyperpage{4}
   \item Kawahara,Daisuke, \hyperpage{4}
-  \item Kim, Sunghwan Mac, \hyperpage{20}
-  \item Knight, Kevin, \hyperpage{23}
+  \item Kim, Sunghwan Mac, \hyperpage{20}, \hyperpage{25}
+  \item Kirchhoff, Katrin, \hyperpage{26}
+  \item Knight, Kevin, \hyperpage{23, 24}
+  \item Knowles, Rebecca, \hyperpage{25}
+  \item Kokkinakis, Dimitrios, \hyperpage{26}
   \item Kondrak, Greg, \hyperpage{3}
-  \item Krishnan, Vinodh, \hyperpage{27}
+  \item Kriesi, Hanspeter, \hyperpage{25}
+  \item Krishnan, Vinodh, \hyperpage{28}
   \item Ku, Lun-Wei, \hyperpage{20}
 
   \indexspace
 
+  \item Lalor, John, \hyperpage{26}
+  \item Lavergne, Thomas, \hyperpage{27}
+  \item Leskovec, Jure, \hyperpage{25}
   \item Li, Chang, \hyperpage{22}
   \item Li, Cheng-Te, \hyperpage{20}
   \item Li, Hang, \hyperpage{3}
@@ -117,17 +165,28 @@
   \item LIU, XIAOMO, \hyperpage{21}
   \item Liu,Bing, \hyperpage{5}
   \item Liu,Yang, \hyperpage{4}
+  \item Lorenzini, Jasmine, \hyperpage{25}
   \item Louis, Annie, \hyperpage{3}
+  \item Loveys, Kate, \hyperpage{25}
+  \item Lu, Zhiyong, \hyperpage{27}
+  \item Lundholm Fors, Kristina, \hyperpage{26}
 
   \indexspace
 
+  \item Makarov, Peter, \hyperpage{25}
   \item Marcu, Daniel, \hyperpage{23}
+  \item Marshall, Iain, \hyperpage{27}
   \item Martins,Andre, \hyperpage{4}
-  \item Miller, Ben, \hyperpage{27}
+  \item McKeown, Kathy, \hyperpage{24}
+  \item Mihalcea, Rada, \hyperpage{25}
+  \item Miller, Ben, \hyperpage{28}
   \item Mohammad, Saif M., \hyperpage{3}
   \item Mohammad,Saif, \hyperpage{5}
+  \item Montana, Giovanni, \hyperpage{26}
   \item Mooney,Ray, \hyperpage{4}
+  \item Mukherjee, Arjun, \hyperpage{26}
   \item Mulcaire, George, \hyperpage{21}
+  \item Munkhdalai, Tsendsuren, \hyperpage{26}
   \item Muresan,Smaranda, \hyperpage{5}
 
   \indexspace
@@ -135,30 +194,41 @@
   \item Nakov,Preslav, \hyperpage{5}
   \item Nastase,Vivi, \hyperpage{5}
   \item Navindgi, Amit, \hyperpage{20}
+  \item Nay, John J., \hyperpage{24}
+  \item Need, Ariana, \hyperpage{25}
   \item Neubig, Graham, \hyperpage{7, 8}
+  \item Neveol, Aurelie, \hyperpage{26}
   \item Ng, Vincent, \hyperpage{3}, \hyperpage{7}, \hyperpage{10}
+  \item Nordlund, Arto, \hyperpage{26}
   \item Nourbakhsh, Armineh, \hyperpage{21}
   \item Nowson, Scott, \hyperpage{20}
 
   \indexspace
 
-  \item O'Gorman, Tim, \hyperpage{27}
-  \item Orth, Carsten, \hyperpage{27}
+  \item O'Connor, Brendan, \hyperpage{24, 25}
+  \item O'Gorman, Tim, \hyperpage{28}
+  \item Oh, Alice, \hyperpage{24}
+  \item Orth, Carsten, \hyperpage{28}
   \item Ostendorf, Mari, \hyperpage{20, 21}
 
   \indexspace
 
   \item Pacheco, Mar\IeC {\'\i }a Leonor, \hyperpage{22}
   \item Palen, Leysia, \hyperpage{20}
-  \item Palmer, Martha, \hyperpage{20}, \hyperpage{27}
+  \item Palmer, Martha, \hyperpage{20}, \hyperpage{28}
   \item Pappas, Nikolaos, \hyperpage{21}
-  \item Paris, Cecile, \hyperpage{20}
+  \item Paris, Cecile, \hyperpage{20}, \hyperpage{25}
   \item Patwardhan, Siddharth, \hyperpage{3}
   \item Paul, Michael J., \hyperpage{20}
-  \item Pedersen, Ted, \hyperpage{20}
+  \item Pedersen, Ted, \hyperpage{20}, \hyperpage{26}
+  \item Pennebaker, James, \hyperpage{25}
+  \item Petersen, Steffen, \hyperpage{26}
+  \item Piccardi, Massimo, \hyperpage{26}
   \item Pighin, Daniele, \hyperpage{3}
-  \item Poghosyan, Gevorg, \hyperpage{27}
+  \item Poghosyan, Gevorg, \hyperpage{28}
   \item Popescu-Belis, Andrei, \hyperpage{21}
+  \item Poulston, Adam, \hyperpage{24}
+  \item Priante, Anna, \hyperpage{25}
 
   \indexspace
 
@@ -167,30 +237,40 @@
   \indexspace
 
   \item Rasmussen, Priscilla, \hyperpage{3}
-  \item Rey-Villamizar, Nicolas, \hyperpage{20}
-  \item Riedel, Sebastian, \hyperpage{20}
+  \item Reddy, Sravana, \hyperpage{24}
+  \item Resnik, Rebecca, \hyperpage{25}
+  \item Rey-Villamizar, Nicolas, \hyperpage{20}, \hyperpage{26}
+  \item Rheault, Ludovic, \hyperpage{25}
+  \item Riedel, Sebastian, \hyperpage{20}, \hyperpage{26}
   \item Rimell,Laura, \hyperpage{4}
   \item Ringger,Eric, \hyperpage{4}
   \item Ritter,Alan, \hyperpage{4}
   \item Roark,Brian, \hyperpage{5}
+  \item Robert, Aude, \hyperpage{26}
+  \item Robinson, Bella, \hyperpage{25}
   \item Rockt\IeC {\"a}schel, Tim, \hyperpage{20}
+  \item Rosenthal, Sara, \hyperpage{24}
   \item Rush, Alexander, \hyperpage{22}
 
   \indexspace
 
-  \item Sadeque, Farig, \hyperpage{20}
-  \item Schneider, Darius, \hyperpage{27}
-  \item Selzer, Stefan, \hyperpage{27}
+  \item Sadeque, Farig, \hyperpage{20}, \hyperpage{26}
+  \item Saeed, Aaqib, \hyperpage{25}
+  \item Schneider, Darius, \hyperpage{28}
+  \item Schwartz, H. Andrew, \hyperpage{25}
+  \item Selzer, Stefan, \hyperpage{28}
   \item Shah, Sameena, \hyperpage{21}
-  \item Shrestha, Prasha, \hyperpage{20}
-  \item Simonson, Dan, \hyperpage{27}
+  \item Shrestha, Prasha, \hyperpage{20}, \hyperpage{26}
+  \item Simonson, Dan, \hyperpage{28}
   \item Smith, Noah A., \hyperpage{21}
   \item Smith,David, \hyperpage{5}
-  \item Solorio, Thamar, \hyperpage{20}
+  \item Solorio, Thamar, \hyperpage{20}, \hyperpage{26}
   \item Somasundaran, Swapna, \hyperpage{3}
-  \item Spanakis, Gerasimos, \hyperpage{27}
+  \item Spanakis, Gerasimos, \hyperpage{28}
+  \item Spithourakis, Georgios, \hyperpage{26}
   \item Srikumar, Vivek, \hyperpage{22}
   \item Stede,Manfred, \hyperpage{5}
+  \item Stevenson, Mark, \hyperpage{24}
   \item Stevenson, Suzanne, \hyperpage{4}
   \item Stowe, Kevin, \hyperpage{20}
   \item Strube,Michael, \hyperpage{5}
@@ -202,6 +282,8 @@
   \item Tetreault,Joel, \hyperpage{5}
   \item Tin Vo, Duy, \hyperpage{13}
   \item Tran, Ke M., \hyperpage{23}
+  \item Tsur, Oren, \hyperpage{24}
+  \item Turner, Anne M., \hyperpage{26}
 
   \indexspace
 
@@ -210,14 +292,22 @@
   \item Vaswani, Ashish, \hyperpage{23}
   \item Venugopal, Deepak, \hyperpage{7}, \hyperpage{10}
   \item Vo, Duy Tin, \hyperpage{7}, \hyperpage{13}
-  \item Vossen, Piek, \hyperpage{27}
+  \item Volkova, Svitlana, \hyperpage{24}
+  \item Vossen, Piek, \hyperpage{28}
 
   \indexspace
 
-  \item Wan, Stephen, \hyperpage{20}
+  \item Wallace, Byron, \hyperpage{26}
+  \item Wallace, Byron C., \hyperpage{27}
+  \item Wallach, Hanna, \hyperpage{25}
+  \item Wan, Stephen, \hyperpage{20}, \hyperpage{25}
+  \item Wang, Alex, \hyperpage{25}
+  \item Waseem, Zeerak, \hyperpage{25}
   \item Wen-Tau Yih,Scott, \hyperpage{4}
+  \item Wilson, Steven, \hyperpage{25}
+  \item Withey, Samuel, \hyperpage{26}
   \item Wolfe, Travis, \hyperpage{22}
-  \item Wright-Bettner, Kristin, \hyperpage{27}
+  \item Wright-Bettner, Kristin, \hyperpage{28}
   \item Wu,Dekai, \hyperpage{4}
 
   \indexspace
@@ -227,12 +317,16 @@
   \indexspace
 
   \item Yang, Bishan, \hyperpage{3}
+  \item Yu, Hong, \hyperpage{26}
+  \item Yu, Zhiguo, \hyperpage{26}
   \item Yung-jen Hsu, Jane, \hyperpage{20}
 
   \indexspace
 
+  \item Zare Borzeshi, Ehsan, \hyperpage{26}
   \item Zhang, Xiao, \hyperpage{22}
   \item Zhang, Yue, \hyperpage{7}, \hyperpage{13}
   \item Zweig,Geoff, \hyperpage{5}
+  \item Zweigenbaum, Pierre, \hyperpage{27}
 
 \end{theindex}

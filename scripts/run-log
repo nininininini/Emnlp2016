@@ -1,0 +1,54 @@
+cat data/$name/order | ./scripts/order2schedule_workshops.py -id $name  > auto/$name/schedule.tex
+
+cat data/CNS/order.final | ./scripts/order2schedule_workshops.py -id CNS  > auto/CNS/schedule.tex
+
+cat data/NLPSM/order.final | ./scripts/order2schedule_workshops.py -id NLPSM  > auto/NLPSM/schedule.tex
+
+cat data/LOUHI/order | ./scripts/verify_schedule.py
+cat data/LOUHI/order.final | ./scripts/verify_schedule.py
+mkdir -p auto/LOUHI
+cat data/LOUHI/order.final | ./scripts/order2schedule_workshops.py -id LOUHI
+cat data/LOUHI/order.final | ./scripts/order2schedule_workshops.py -id LOUHI > auto/LOUHI/schedule.tex
+./scripts/meta2bibtex.py data/LOUHI/final LOUHI
+
+
+cat data/SPNLP/order | ./scripts/verify_schedule.py
+-- had erros, fixed 
+cat data/SPNLP/order.final | ./scripts/verify_schedule.py
+mkdir -p auto/SPNLP
+./scripts/meta2bibtex.py data/SPNLP/final SPNLP
+cat data/SPNLP/order | ./scripts/order2schedule_workshops.py -id SPNLP
+M-AH552375:EMNLP-2016-Swapna ssomasundaran$ cat data/SPNLP/order | ./scripts/order2schedule_workshops.py -id SPNLP
+Traceback (most recent call last):
+  File "./scripts/order2schedule_workshops.py", line 35, in <module>
+    cs.parse_order_file( sys.stdin, args.id )
+  File "/Users/ssomasundaran/Google Drive/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/scripts/handbook.py", line 276, in parse_order_file
+    self.sessions[session_name].add_paper( ExternalItem(line) )
+  File "/Users/ssomasundaran/Google Drive/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/scripts/handbook.py", line 134, in __init__
+    if not validate_time(self.time): raise ValueError("Incorrect value for time <%s>"% self.time)
+ValueError: Incorrect value for time <9:00--9:15>
+
+%%%%%%%%%%%%%%%%%%%%%%%% FIXED BY MAKING IT 09:00--09:15 %%%%%%%%% EXPECTS TWO DIGIT NUMBER
+cat data/SPNLP/order.final | ./scripts/order2schedule_workshops.py -id SPNLP > auto/SPNLP/schedule.tex
+
+
+cat data/CSS/order.final | ./scripts/verify_schedule.py
+mkdir -p auto/CSS
+cat data/CSS/order.final | ./scripts/order2schedule_workshops.py -id CSS 
+ERROR --  
+M-AH552375:EMNLP-2016-Swapna ssomasundaran$ cat data/CSS/order.final | ./scripts/order2schedule_workshops.py -id CSS
+Traceback (most recent call last):
+  File "./scripts/order2schedule_workshops.py", line 35, in <module>
+    cs.parse_order_file( sys.stdin, args.id )
+  File "/Users/ssomasundaran/Google Drive/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/scripts/handbook.py", line 254, in parse_order_file
+    raise ValueError("Error in time range format <%s>"%timerange)
+ValueError: Error in time range format <9:00--10:30>
+
+cat data/CSS/order.final | ./scripts/order2schedule_workshops.py -id CSS > auto/CSS/schedule.tex
+./scripts/meta2bibtex.py data/CSS/final CSS
+
+
+
+
+
+
