@@ -4,12 +4,35 @@ cat data/CNS/order.final | ./scripts/order2schedule_workshops.py -id CNS  > auto
 
 cat data/NLPSM/order.final | ./scripts/order2schedule_workshops.py -id NLPSM  > auto/NLPSM/schedule.tex
 
+cat data/TACL/order | ./scripts/verify_schedule.py
+cat data/TACL/order.final | ./scripts/verify_schedule.py
+mkdir -p auto/TACL
+cat data/TACL/order | ./scripts/order2schedule_workshops.py -id TACL
+cat data/TACL/order.final | ./scripts/order2schedule_workshops.py -id TACL > auto/TACL/schedule.tex
+./scripts/meta2bibtex.py data/TACL/final TACL
+
+
+cat data/LCS/order | ./scripts/verify_schedule.py
+cat data/LCS/order.final | ./scripts/verify_schedule.py
+mkdir -p auto/LCS
+cat data/LCS/order.final | ./scripts/order2schedule_workshops.py -id LCS
+cat data/LCS/order.final | ./scripts/order2schedule_workshops.py -id LCS > auto/LCS/schedule.tex
+./scripts/meta2bibtex.py data/LCS/final LCS
+
 cat data/LOUHI/order | ./scripts/verify_schedule.py
 cat data/LOUHI/order.final | ./scripts/verify_schedule.py
 mkdir -p auto/LOUHI
 cat data/LOUHI/order.final | ./scripts/order2schedule_workshops.py -id LOUHI
 cat data/LOUHI/order.final | ./scripts/order2schedule_workshops.py -id LOUHI > auto/LOUHI/schedule.tex
 ./scripts/meta2bibtex.py data/LOUHI/final LOUHI
+
+cat data/UBLP/order | ./scripts/verify_schedule.py
+cat data/UBLP/order.final | ./scripts/verify_schedule.py
+mkdir -p auto/UBLP
+cat data/UBLP/order.final | ./scripts/order2schedule_workshops.py -id UBLP
+cat data/UBLP/order.final | ./scripts/order2schedule_workshops.py -id UBLP > auto/UBLP/schedule.tex
+./scripts/meta2bibtex.py data/UBLP/final UBLP
+
 
 
 cat data/SPNLP/order | ./scripts/verify_schedule.py

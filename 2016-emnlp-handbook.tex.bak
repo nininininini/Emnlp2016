@@ -87,6 +87,14 @@
 
 \addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/CNS/papers.bib}
 
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/LCS/papers.bib}
+
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/papers/papers.bib}
+
+\addbibresource{/Users/ssomasundaran/GoogleDriveNoSpace/review/2016_Chair_EMNLP/EMNLP-2016-Swapna/auto/TACL/papers.bib}
+
+
+
 \makeatother
 
 \begin{document}
