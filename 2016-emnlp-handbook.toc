@@ -1,59 +1,73 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Tutorials:Tuesday, November 1}{1}{chapter.1}
+\contentsline {chapter}{\numberline {1}Conference Information}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T1:} \citetitle {Tutorial-001}}{2}{section*.1}
+\contentsline {section}{Preface by the General Chair}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T2:} \citetitle {Tutorial-002}}{4}{section*.2}
+\contentsline {section}{Preface by the Program Committee Co-Chairs}{2}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T3:} \citetitle {Tutorial-003}}{6}{section*.3}
+\contentsline {section}{Organizing Committee}{5}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T4:} \citetitle {Tutorial-004}}{7}{section*.4}
+\contentsline {section}{Program Committee}{6}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T5:} \citetitle {Tutorial-005}}{9}{section*.5}
+\contentsline {section}{Social events}{8}{section.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\textbf {T6:} \citetitle {Tutorial-006}}{10}{section*.6}
+\contentsline {chapter}{\numberline {2}Tutorials:Tuesday, November 1}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Workshops}{13}{chapter.2}
+\contentsline {section}{\textbf {T1:} \citetitle {Tutorial-001}}{10}{section*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W1:} NLPSM}{14}{section.2.1}
+\contentsline {section}{\textbf {T2:} \citetitle {Tutorial-002}}{12}{section*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W2:} SPNLP}{16}{section.2.2}
+\contentsline {section}{\textbf {T3:} \citetitle {Tutorial-003}}{14}{section*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W3:} CSS}{18}{section.2.3}
+\contentsline {section}{\textbf {T4:} \citetitle {Tutorial-004}}{15}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W4:} LOUHI}{20}{section.2.4}
+\contentsline {section}{\textbf {T5:} \citetitle {Tutorial-005}}{17}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W5:} CNS}{22}{section.2.5}
+\contentsline {section}{\textbf {T6:} \citetitle {Tutorial-006}}{18}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{{\bfseries W6:} UBLP}{23}{section.2.6}
+\contentsline {chapter}{\numberline {3}Workshops}{21}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Main Conference: Wednesday, November 2}{27}{chapter.3}
+\contentsline {section}{{\bfseries W1:} NLPSM}{22}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Christopher Potts}{33}{section.3.1}
+\contentsline {section}{{\bfseries W2:} LCS}{24}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 1}{34}{section.3.2}
+\contentsline {section}{{\bfseries W3:} SPNLP}{26}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 2}{38}{section.3.3}
+\contentsline {section}{{\bfseries W4:} CSS}{28}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 3}{42}{section.3.4}
+\contentsline {section}{{\bfseries W5:} LOUHI}{30}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Main Conference: Thursday, November 3}{63}{chapter.4}
+\contentsline {section}{{\bfseries W6:} CNS}{32}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Stefanie Tellex}{69}{section.4.1}
+\contentsline {section}{{\bfseries W7:} UBLP}{33}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{71}{section.4.2}
+\contentsline {chapter}{\numberline {4}Main Conference: Wednesday, November 2}{37}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 5}{75}{section.4.3}
+\contentsline {section}{Invited Speaker: Christopher Potts}{43}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{79}{section.4.4}
+\contentsline {section}{Session 1}{44}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Main Conference: Friday, November 4}{99}{chapter.5}
+\contentsline {section}{Session 2}{48}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Andreas Stolcke}{100}{section.5.1}
+\contentsline {section}{Session 3}{52}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{101}{section.5.2}
+\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{73}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{105}{section.5.3}
+\contentsline {section}{Invited Speaker: Stefanie Tellex}{79}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{112}{section*.7}
+\contentsline {section}{Session 4}{81}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 5}{85}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 6}{89}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{109}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Invited Speaker: Andreas Stolcke}{110}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 7}{111}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 8}{115}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author index}{122}{section*.7}

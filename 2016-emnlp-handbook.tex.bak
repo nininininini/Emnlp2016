@@ -142,7 +142,8 @@
 
 \pagestyle{fancy}
 
-%TODO \include{content/conference-info}
+%TODO 
+\include{content/conference-info}
 
 %TODO 
 \include{content/tutorials}

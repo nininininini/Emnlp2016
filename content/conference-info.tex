@@ -28,16 +28,181 @@ XXXXXXXXXXXX
 \section{Preface by the Program Committee Co-Chairs}
 
 \begin{flushright}
-Month XX, 2016 
+October 08, 2016 
 \par\end{flushright}
 
-\noindent  XXX XXX XXX XXXX 
+\noindent  Welcome to the 2016 Conference on Empirical Methods in Natural Language Processing!
+This year we received 1,087 valid submissions, of which 687 were long
+papers and 400 were short papers.\footnote{By the submission deadline
+  we received 1,185 papers, but to compute the acceptance statistics
+  we exclude 57 papers that were withdrawn (34 long and 23 short), and
+  41 papers that were rejected without review due to a violation of
+  the submission instructions (26 long and 15 short).}
+We accepted 177 long papers (25.8\% acceptance rate) and 
+87 short papers (21.8\% acceptance rate), for a total of 
+264 papers and an overall acceptance rate of 24.3\%.
+
+The technical program at EMNLP 2016 consists of a total of 273 papers, including 9 journal papers accepted by the Transactions of ACL. 
+As in past editions, we have structured the conference into three parallel oral sessions in the day and two poster sessions in the evening. 
+%% KD: I've simplified this paragraph a bit. I think we don't need to be so detailed. The following text is kept in case you want to revert
+%As in past editions, we have structured the
+%conference into oral and poster sessions (109 papers get an oral talk,
+%and the rest get poster presentations).
+%
+%As usual, the conference will run for three days. Each day will start
+%with an invited talk, followed by parallel sessions for oral
+%presentations (with three sessions in parallel). A plenary session
+%featuring four best papers will conclude the conference. Posters will
+%be presented in the evening of the first two days, with roughly 50
+%``long'' posters and 33 ``short'' posters each evening. 
+Borrowing from
+recent NAACL conference innovations, we also run poster spotlight sessions (also called \emph{HMM: Half-Minute Madness}\footnote{Neologism coined by Joel Tetreault, our HMM chair.}), where poster presenters of long papers have 30 seconds and one slide to advertise their work. Poster sessions are becoming larger due to the rapid growth in our field, and we believe it 
+is important to ensure that all papers receive the exposure they deserve. 
+
+We are excited and grateful to have three distinguished speakers for our invited keynote talks. Christopher Potts (Stanford University) will present recent advances in rational speech acts and pragmatics. Andreas Stolcke (Microsoft Research) will talk about the challenges and opportunities in human-human-machine dialog. Stefanie Tellex (Brown University) will discuss novel methods and frameworks for enabling human-robot collaboration. We think that these are exciting research areas that can potentially impact---and be impacted by---the EMNLP community in the near future. We look forward to their keynotes and the conversations afterwards. 
+
+
+% START reports 873 total users
+% Special users: PC (2) + ACs (41) + Pub Chairs (2, they're not reviewers) + TACL user (1) : 46 special users
+% Other: KevinTmp DuhTmp + Yoav Artzi has a duplicate; total other: 2
+% Jian does not have a user
+% Thus, there are 873-46-2=825 reviewers
+
+% Version 2
+% The committe spreadsheet from START has 871 records
+% The first line is the header
+% 45 records have some manager role: cat committee-2016-10-06.tsv | awk '{print $3, $4, $11, $12}' FS='\t' | grep 'Yes' | wc
+% including: PC (2) + AC (41) + Sid + TACL User = 45
+% 2 records do not have manager role: Daniele Pighin (pub chair) and KevinTmp
+% Thus 871-1-45-2 = 823
+
+%The program committee consisted of 864 members: 823 reviewers, 41
+%area chairs, and ourselves. In addition, 100 people served as secondary
+%reviewers. 
+The program committee includes 823 primary reviewers and 99 secondary reviewers. 
+The committee was structured into 12 thematic areas, handled by 41 area chairs. We are
+grateful to all program committee members for their effort and dedication during our tight reviewing schedule; without them we cannot create a strong high-quality program. 
+We are also thankful for all authors who submitted papers, which overall cover a diverse range of topics. 
+
+Best paper awards were organized around three categories: best 
+paper, best short paper, and best resource paper. The latter category
+was introduced at EMNLP 2015. Since resources have become central for
+scientific progress in our field, we would like this category of award
+to become a standard. The selection process was bottom-up: reviewers
+and area chairs suggested candidates, which were short-listed by us program chairs. 
+Then, for each category we created a
+committee of experts to discuss the papers in depth, and we chaired the committees. 
+
+For {\bf best paper}, the committee members were Stephen Clark, Hal
+Daum\'{e} III, Chris Dyer, and Julia Hockenmaier. The committee selected
+two best long papers:
+\begin{itemize}
+\item Best Paper: \emph{Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning}, by Karthik Narasimhan, Adam Yala and Regina Barzilay.
+\item Best Paper: \emph{Global Neural CCG Parsing with Optimality
+  Guarantees}, by Kenton Lee, Mike Lewis and Luke Zettlemoyer.
+\end{itemize}
+In addition, two papers were given an honorable mention for best paper:
+\begin{itemize}
+\item Honorable Mention for Best Paper: \emph{Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles}, by James Cross and Liang Huang.
+\item Honorable Mention for Best Paper: \emph{Sequence-to-Sequence
+  Learning as Beam-Search Optimization}, by Sam Wiseman and Alexander
+  M. Rush.
+\end{itemize}
+
+For {\bf best short paper}, the committee had Stefan Riezler, Anoop Sarkar, and Noah Smith, and the award went to:
+\begin{itemize}
+\item Best Short Paper: \emph{Learning a Lexicon and Translation Model from Phoneme Lattices}, by Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do and Satoshi Nakamura. 
+\end{itemize}
+
+For {\bf best resource paper}, the committee consisted of Eneko Agirre, Mirella Lapata, and Sebastian Riedel, and the award went to:
+\begin{itemize}
+\item Best Resource Paper: \emph{SQuAD: 100,000+ Questions for Machine Comprehension of Text}, by Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev and Percy Liang. 
+\end{itemize}
+
+
+\vskip 1em
+
+We are grateful to the many people who helped us at various stages of the program preparation. In particular, we would like to thank:
+%KD: I'm moving the thanking of authors up to the paragraph about program committee
+%We are grateful to a number of people.. First and foremost, we are grateful to the authors who submitted papers, which overall cover a wide range of topics. 
+%In addition, the following individuals explicitly contributed:
+\begin{itemize}
+\item Jian Su and Chris Callison-Burch, who gave us advice and support throughout the whole process, not only in their capacity as program chairs of EMNLP 2015, but also as general chair of EMNLP 2016 (Jian) and SIGDAT secretary-treasurer (Chris).
+  %They were the program chairs of EMNLP 2015. Plus, Jian is general chair of this edition, and Chris is SIGDAT secretary.
+\item The 41 area chairs, whose expertise and dedication we relied on heavily. They selected reviewers,
+  coordinated the review process, led discussions, and made recommendations. We owe you a favor:
+  %
+  Yoav Artzi, Tim Baldwin, Guillaume Bouchard, Nate Chambers,
+  Kyunghyun Cho, Michael Collins, John DeNero, Georgiana Dinu, Sanja
+  Fidler, Alex Fraser, Kuzman Ganchev, Ed Grefenstette, Julia
+  Hockenmaier, Dirk Hovy, Liang Huang, Ruihong Huang, Min-Yen Kan,
+  Daisuke Kawahara, Yang Liu, Bing Liu, Andr{\'e} F.T. Martins, Saif Mohammad,
+  Ray Mooney, Smaranda Muresan, Preslav Nakov, Vivi Nastase, Ariadna
+  Quattoni, Laura Rimell, Eric Ringger, Alan Ritter, Brian Roark,
+  David Smith, Manfred Stede, Suzanne Stevenson, Michael Strube, Joel
+  Tetreault, Lucy Vanderwende, Dekai Wu, Wei Xu, Scott Wen-Tau Yih, and
+  Geoff Zweig.
+
+%%   Scott Wen-Tau Yih, Ruihong Huang, Min-Yen Kan, Alan Ritter, Nate Chambers, 
+%% Julia Hockenmaier, Sanja Fidler,
+%% Suzanne Stevenson,
+%% Guillaume Bouchard, Ariadna Quattoni, Kuzman Ganchev, Eric Ringger, Kyunghyun Cho,
+%% Alex Fraser, Dekai Wu, Yang Liu, John DeNero,
+%% Andre Martins, Daisuke Kawahara, Liang Huang, Michael Collins,
+%% Yoav Artzi, Ray Mooney, Georgiana Dinu, Ed Grefenstette, Laura Rimell,
+%% Bing Liu, Saif Mohammad, Dirk Hovy,
+%% Tim Baldwin, Smaranda Muresan,
+%% Geoff Zweig, Brian Roark,
+%% Wei Xu, Lucy Vanderwende, Michael Strube, Manfred Stede,
+%% Preslav Nakov, Joel Tetreault, Vivi Nastase, David Smith  
+%KD: We already thanked them earlier; I think for flow, we should focus on named individuals here.
+%\item The 923 individuals of the program committee (including
+ % secondary reviewers), who provided reviews for all papers and
+ % participated in discussions.
+\item Priscilla Rasmussen, our local organizer who performed amazing feats to make everything work.
+\item Siddharth Patwardhan and Daniele Pighin, the publication chairs.
+\item Joel Tetreault, Brendan O'Connor, and Courtney Napoles for organizing {\em the HMM sessions}. 
+\item All session chairs. 
+\item Jackie C.K. Cheung, who maintained the EMNLP 2016 website with up-to-date information. 
+\item Yejin Choi, who kept us connected with the ACL Exec. 
+\item Kristina Toutanova and Lillian Lee, who helped us regarding TACL papers.
+\item Janyce Wiebe, Michael Strube, and Anoop Sarkar, who provided detailed advice about chairing a program committee of a large conference  at the initial planning stages of the process.
+\item Ani Nenkova, Owen Rambow, Katrin Erk and Noah Smith (program
+  co-chairs of NAACL and ACL this year), with which we coordinated
+  several aspects of the major conferences this year.
+\item The Softconf support team, Rich Gerber and Paolo Gai, who assisted us in using
+  the Start Conference Manager. 
+    
+\end{itemize}
+
+
+On behalf of all attendees at the conference, we would also like to acknowledge the generosity of our sponsors: Amazon, Baidu, Google, Grammarly, Bloomberg, Citadel, eBay, Facebook, IBM Research, Maluuba, Microsoft, AI@ISI, Nuance, VoiceBox, Yandex, and Oracle.
+  
+
+% People to thank
+% CCB
+% Yejin
+% Owen Rambow, Ani Nenkov, Noah Smith, Katrin Erk
+% Jan Wiebe
+% Softconf folks
+% AC, HMM, session chairs?
+% Strube, Anoop Sarkar  (chatted about PC advice)
+
+
+Chairing the program committee of EMNLP has been a great honor and a
+rich scientific experience. 
+We are grateful to the SIGDAT for giving us this opportunity. 
+%We are grateful to the 2015 \& 2016 SIGDAT officers (Mark Steedman, Pascale Fung, Mirella Lapata, Chris Callison-Burch, Mark Johnson, Noah Smith) for giving us this opportunity. 
+And we hope that you will find the program as
+exciting and enjoyable as we do!
+
 
 
 \begin{flushright}
-\emph{} \index{Callison-Burch, Chris}\index{Su, Jian}
+\noindent Xavier Carreras and Kevin Duh\\
+\emph{} \index{ Carreras, Xavier}\index{ Duh, Kevin}
 \\
- EMNLP 2015 Program Committee Co-Chairs 
+ EMNLP 2016 Program Committee Co-Chairs 
 \par\end{flushright}
 
 \clearpage{}
@@ -71,7 +236,7 @@ Month XX, 2016
 \item \textbf{Publication co-Chairs} 
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Siddharth Patwardhan, IBM \index{Patwardhan, Siddharth}
+\item Siddharth Patwardhan, Apple \index{Patwardhan, Siddharth}
 \item Daniele Pighin, Google Inc. \index{Pighin, Daniele} 
 \end{itemize}
 \item \textbf{Publicity Chair} 
@@ -125,18 +290,18 @@ Month XX, 2016
 \item \emph{Information Extraction, Information Retrieval, and Question Answering}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Nate Chambers, United States Naval Academy \index{Chambers,Nate}
-\item    Ruihong Huang, Texas A\&M University \index{Huang,Ruihong}
-\item    Min-Yen Kan, National University of Singapore \index{Kan,Min-Yen}
-\item    Alan Ritter, The Ohio State University \index{Ritter,Alan}
-\item    Scott Wen-Tau Yih, Microsoft Research \index{Wen-Tau Yih,Scott}
+\item Nate Chambers, United States Naval Academy \index{Chambers, Nate}
+\item    Ruihong Huang, Texas A\&M University \index{Huang, Ruihong}
+\item    Min-Yen Kan, National University of Singapore \index{Kan, Min-Yen}
+\item    Alan Ritter, The Ohio State University \index{Ritter, Alan}
+\item    Scott Wen-Tau Yih, Microsoft Research \index{Wen-Tau Yih, Scott}
 \end{itemize}
 
 \item \emph{Language and Vision}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Sanja Fidler, University of Toronto \index{Fidler,Sanja}
-\item    Julia Hockenmaier, University of Illinois at Urbana-Champaign\index{Hockenmaier,Julia}
+\item Sanja Fidler, University of Toronto \index{Fidler, Sanja}
+\item    Julia Hockenmaier, University of Illinois at Urbana-Champaign\index{Hockenmaier, Julia}
 \end{itemize}
 
 \item \emph{Linguistic Theories and Psycholinguistics}
@@ -149,78 +314,78 @@ Month XX, 2016
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
 \item Guillaume Bouchard, University College London \index{Bouchard, Guillaume}
- \item   Kyunghyun Cho, New York University \index{Cho,Kyunghyun}
-\item    Kuzman Ganchev, Google \index{Ganchev,Kuzman}
-\item    Ariadna Quattoni, Xerox Research Centre Europe \index{Quattoni,Ariadna}
-\item    Eric Ringger, Facebook \index{Ringger,Eric}
+ \item   Kyunghyun Cho, New York University \index{Cho, Kyunghyun}
+\item    Kuzman Ganchev, Google \index{Ganchev, Kuzman}
+\item    Ariadna Quattoni, Xerox Research Centre Europe \index{Quattoni, Ariadna}
+\item    Eric Ringger, Facebook \index{Ringger, Eric}
 \end{itemize}
 
 \item \emph{Machine Translation and Multilinguality}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item John DeNero, UC Berkeley \index{DeNero,John}
-\item    Alex Fraser, Ludwig-Maximilians-Universitat Munchen \index{Fraser,Alex}
-\item    Yang Liu, Tsinghua University \index{Liu,Yang}
-\item    Dekai Wu, Hong Kong University of Science and Technology \index{Wu,Dekai}
+\item John DeNero, UC Berkeley \index{DeNero, John}
+\item    Alex Fraser, Ludwig-Maximilians-Universitat Munchen \index{Fraser, Alex}
+\item    Yang Liu, Tsinghua University \index{Liu, Yang}
+\item    Dekai Wu, Hong Kong University of Science and Technology \index{Wu, Dekai}
 \end{itemize}
 
 \item \emph{Segmentation, Tagging, and Parsing}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Michael Collins, Columbia University  \index{Collins,Michael}
-\item    Liang Huang, Oregon State University  \index{Huang,Liang}
-\item    Daisuke Kawahara, Kyoto University  \index{Kawahara,Daisuke}
-\item    Andre Martins, Priberam Labs \index{Martins,Andre}
+\item Michael Collins, Columbia University  \index{Collins, Michael}
+\item    Liang Huang, Oregon State University  \index{Huang, Liang}
+\item    Daisuke Kawahara, Kyoto University  \index{Kawahara, Daisuke}
+\item    Andre Martins, Priberam Labs \index{Martins, Andre}
 \end{itemize}
 
 \item \emph{Semantics}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Yoav Artzi, Cornell Tech \index{Artzi,Yoav}
-\item    Georgiana Dinu, IBM \index{Dinu,Georgiana}
-\item    Ed Grefenstette, Google DeepMind \index{Grefenstette,Ed}
-\item    Ray Mooney, University of Texas at Austin \index{Mooney,Ray}
-\item    Laura Rimell, University of Cambridge \index{Rimell,Laura}
+\item Yoav Artzi, Cornell Tech \index{Artzi, Yoav}
+\item    Georgiana Dinu, IBM \index{Dinu, Georgiana}
+\item    Ed Grefenstette, Google DeepMind \index{Grefenstette, Ed}
+\item    Ray Mooney, University of Texas at Austin \index{Mooney, Ray}
+\item    Laura Rimell, University of Cambridge \index{Rimell, Laura}
 \end{itemize}
 
 \item \emph{Sentiment Analysis and Opinion Mining}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Dirk Hovy, University of Copenhagen \index{Hovy,Dirk}
-\item   Bing Liu, University of Illinois at Chicago \index{Liu,Bing} 
-\item    Saif Mohammad, National Research Council Canada \index{Mohammad,Saif}
+\item Dirk Hovy, University of Copenhagen \index{Hovy, Dirk}
+\item   Bing Liu, University of Illinois at Chicago \index{Liu, Bing} 
+\item    Saif Mohammad, National Research Council Canada \index{Mohammad, Saif}
 \end{itemize}
 
 \item \emph{Social Media and Computational Social Science}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Tim Baldwin, University of Melbourne \index{Baldwin,Tim}
-\item    Smaranda Muresan,  Columbia University \index{Muresan,Smaranda}
+\item Tim Baldwin, University of Melbourne \index{Baldwin, Tim}
+\item    Smaranda Muresan,  Columbia University \index{Muresan, Smaranda}
 \end{itemize}
 
 \item \emph{Spoken Lanugage Processing}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Brian Roark, Google \index{Roark,Brian}
-\item    Geoff Zweig, Microsoft Research \index{Zweig,Geoff}
+\item Brian Roark, Google \index{Roark, Brian}
+\item    Geoff Zweig, Microsoft Research \index{Zweig, Geoff}
 \end{itemize}
 
 \item \emph{Summarization, Generation, Discourse, Dialogue}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item Manfred Stede, Potsdam University \index{Stede,Manfred}
-\item    Michael Strube, Heidelberg Institute for Theoretical Studies \index{Strube,Michael}
-\item    Lucy Vanderwende, Microsoft Research \index{Vanderwende,Lucy}
-\item    Wei Xu, University of Pennsylvania \index{Xu,Wei}
+\item Manfred Stede, Potsdam University \index{Stede, Manfred}
+\item    Michael Strube, Heidelberg Institute for Theoretical Studies \index{Strube, Michael}
+\item    Lucy Vanderwende, Microsoft Research \index{Vanderwende, Lucy}
+\item    Wei Xu, University of Pennsylvania \index{Xu, Wei}
 \end{itemize}
 
 \item \emph{Text Mining and NLP Applications}
 
 \begin{itemize}[nosep, leftmargin=0.5cm, label={}]
-\item  Preslav Nakov, Qatar Computing Research Institute  \index{Nakov,Preslav}
-\item    Vivi Nastase, FBK  \index{Nastase,Vivi}
-\item    David Smith, Northeastern University  \index{Smith,David}
-\item    Joel Tetreault, Yahoo! Labs \index{Tetreault,Joel}
+\item  Preslav Nakov, Qatar Computing Research Institute  \index{Nakov, Preslav}
+\item    Vivi Nastase, FBK  \index{Nastase, Vivi}
+\item    David Smith, Northeastern University  \index{Smith, David}
+\item    Joel Tetreault, Yahoo! Labs \index{Tetreault, Joel}
 \end{itemize}
 
 

@@ -112,6 +112,46 @@
       \field{labeltitle}{Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages}
       \field{title}{Towards Semi-Automatic Generation of Proposition Banks for Low-Resource Languages}
     \endentry
+    \entry{LCS-100}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=b3351753ec38762a37c9322d19d5a1f4}{Al-Badrashiny}{A\bibinithyphendelim B\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b3351753ec38762a37c9322d19d5a1f4}{Al-Badrashiny}{A\bibinithyphendelim B\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f5739420c2a3372880744078e785752}
+      \strng{fullhash}{3f5739420c2a3372880744078e785752}
+      \field{sortinit}{A}
+      \field{labeltitle}{The George Washington University System for the Code-Switching Workshop Shared Task 2016}
+      \field{title}{The George Washington University System for the Code-Switching Workshop Shared Task 2016}
+    \endentry
+    \entry{LCS-009}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=f2c687f695c4466cad10a425145cfd07}{AlGhamdi}{A\bibinitperiod}{Fahad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e7864c48232773719628e88202b4c5b3}{Molina}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=85da4a50ae7cb62d903f463e16c94061}{Hawwari}{H\bibinitperiod}{Abdelati}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b6bab755a6e1c55dbd780910fc69d302}{Soto}{S\bibinitperiod}{Victor}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=f5cb368011303fe22ab5c7141448c62d}{Hirschberg}{H\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=f2c687f695c4466cad10a425145cfd07}{AlGhamdi}{A\bibinitperiod}{Fahad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e7864c48232773719628e88202b4c5b3}{Molina}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=85da4a50ae7cb62d903f463e16c94061}{Hawwari}{H\bibinitperiod}{Abdelati}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b6bab755a6e1c55dbd780910fc69d302}{Soto}{S\bibinitperiod}{Victor}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=f5cb368011303fe22ab5c7141448c62d}{Hirschberg}{H\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{186b8b99f3432121c0c68d194306f1c4}
+      \strng{fullhash}{987a752fedd629159a1013a7759230c9}
+      \field{sortinit}{A}
+      \field{labeltitle}{Part of Speech Tagging for Code Switched Data}
+      \field{title}{Part of Speech Tagging for Code Switched Data}
+    \endentry
     \entry{papers-464}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=e362c920d3db8a4a4797adc1c28c4c39}{Anand}{A\bibinitperiod}{Pranav}{P\bibinitperiod}{}{}{}{}}%
@@ -348,6 +388,23 @@
       \field{sortinit}{B}
       \field{labeltitle}{Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task}
       \field{title}{Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task}
+    \endentry
+    \entry{LCS-005}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=2e1cc867a43b0795346863e3f09d43d4}{Barman}{B\bibinitperiod}{Utsab}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=680d8715519c4039ca2552d169f91101}{Wagner}{W\bibinitperiod}{Joachim}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1c88bd3bd135b8a2e838fa1fed6cbf19}{Foster}{F\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2e1cc867a43b0795346863e3f09d43d4}{Barman}{B\bibinitperiod}{Utsab}{U\bibinitperiod}{}{}{}{}}%
+        {{hash=680d8715519c4039ca2552d169f91101}{Wagner}{W\bibinitperiod}{Joachim}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=1c88bd3bd135b8a2e838fa1fed6cbf19}{Foster}{F\bibinitperiod}{Jennifer}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{af31e508097206e19d2c7d1c2f83f555}
+      \strng{fullhash}{af31e508097206e19d2c7d1c2f83f555}
+      \field{sortinit}{B}
+      \field{labeltitle}{Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline, Stacking and Joint Modelling}
+      \field{title}{Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline, Stacking and Joint Modelling}
     \endentry
     \entry{papers-219}{inproceedings}{}
       \name{labelname}{2}{}{%
@@ -737,6 +794,23 @@
       \field{labeltitle}{Computable News Ecosystems: Roles for Humans and Machines}
       \field{title}{Computable News Ecosystems: Roles for Humans and Machines}
     \endentry
+    \entry{LCS-007}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=e520c8d99387cbcc905ff32e5bfacf8a}{Çetinoğlu}{Ç\bibinitperiod}{Özlem}{Ö\bibinitperiod}{}{}{}{}}%
+        {{hash=91f8503f8be840f9c837cf46189398be}{Schulz}{S\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=cd06ab34de3d2c4a3cd2460258b167d1}{Vu}{V\bibinitperiod}{Ngoc\bibnamedelima Thang}{N\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e520c8d99387cbcc905ff32e5bfacf8a}{Çetinoğlu}{Ç\bibinitperiod}{Özlem}{Ö\bibinitperiod}{}{}{}{}}%
+        {{hash=91f8503f8be840f9c837cf46189398be}{Schulz}{S\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=cd06ab34de3d2c4a3cd2460258b167d1}{Vu}{V\bibinitperiod}{Ngoc\bibnamedelima Thang}{N\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d90f06d85c3c0c3f7344482892f21fd9}
+      \strng{fullhash}{d90f06d85c3c0c3f7344482892f21fd9}
+      \field{sortinit}{C}
+      \field{labeltitle}{Challenges of Computational Processing of Code-Switching}
+      \field{title}{Challenges of Computational Processing of Code-Switching}
+    \endentry
     \entry{papers-651}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=12ef4925945d218592da34e0e46c4eb4}{Chakraborty}{C\bibinitperiod}{Tanmoy}{T\bibinitperiod}{}{}{}{}}%
@@ -768,6 +842,40 @@
       \field{sortinit}{C}
       \field{labeltitle}{An Investigation of Recurrent Neural Architectures for Drug Name Recognition}
       \field{title}{An Investigation of Recurrent Neural Architectures for Drug Name Recognition}
+    \endentry
+    \entry{LCS-104}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=0ae2977b46ca798ad4adc5b21ed7a35a}{Chanda}{C\bibinitperiod}{Arunavha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2be80fdc9a37b451dbaa34a0180f9fb2}{Das}{D\bibinitperiod}{Dipankar}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bacb7deb587afe3f680fed5f641b86f3}{Mazumdar}{M\bibinitperiod}{Chandan}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0ae2977b46ca798ad4adc5b21ed7a35a}{Chanda}{C\bibinitperiod}{Arunavha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2be80fdc9a37b451dbaa34a0180f9fb2}{Das}{D\bibinitperiod}{Dipankar}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bacb7deb587afe3f680fed5f641b86f3}{Mazumdar}{M\bibinitperiod}{Chandan}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ffb9af7984d30b189a93ef5d3042bdb8}
+      \strng{fullhash}{ffb9af7984d30b189a93ef5d3042bdb8}
+      \field{sortinit}{C}
+      \field{labeltitle}{Columbia-Jadavpur submission for EMNLP 2016 Code-Switching Workshop Shared Task: System description}
+      \field{title}{Columbia-Jadavpur submission for EMNLP 2016 Code-Switching Workshop Shared Task: System description}
+    \endentry
+    \entry{LCS-006}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=0ae2977b46ca798ad4adc5b21ed7a35a}{Chanda}{C\bibinitperiod}{Arunavha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2be80fdc9a37b451dbaa34a0180f9fb2}{Das}{D\bibinitperiod}{Dipankar}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bacb7deb587afe3f680fed5f641b86f3}{Mazumdar}{M\bibinitperiod}{Chandan}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0ae2977b46ca798ad4adc5b21ed7a35a}{Chanda}{C\bibinitperiod}{Arunavha}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=2be80fdc9a37b451dbaa34a0180f9fb2}{Das}{D\bibinitperiod}{Dipankar}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=bacb7deb587afe3f680fed5f641b86f3}{Mazumdar}{M\bibinitperiod}{Chandan}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ffb9af7984d30b189a93ef5d3042bdb8}
+      \strng{fullhash}{ffb9af7984d30b189a93ef5d3042bdb8}
+      \field{sortinit}{C}
+      \field{labeltitle}{Unraveling the English-Bengali Code-Mixing Phenomenon}
+      \field{title}{Unraveling the English-Bengali Code-Mixing Phenomenon}
     \endentry
     \entry{papers-116}{inproceedings}{}
       \name{labelname}{4}{}{%
@@ -1168,6 +1276,27 @@
       \field{sortinit}{D}
       \field{labeltitle}{Low-resource OCR error detection and correction in French Clinical Texts}
       \field{title}{Low-resource OCR error detection and correction in French Clinical Texts}
+    \endentry
+    \entry{LCS}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ea1e0efe4f3dcaf0a50c1119d83f7ca8}{Fung}{F\bibinitperiod}{Pascale}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cf92da13510ad603f049137fc7b70d53}{Ghoneim}{G\bibinitperiod}{Mahmoud}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f5cb368011303fe22ab5c7141448c62d}{Hirschberg}{H\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ea1e0efe4f3dcaf0a50c1119d83f7ca8}{Fung}{F\bibinitperiod}{Pascale}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cf92da13510ad603f049137fc7b70d53}{Ghoneim}{G\bibinitperiod}{Mahmoud}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=f5cb368011303fe22ab5c7141448c62d}{Hirschberg}{H\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f0d45186c87b6b22661cb3a5068b26a7}
+      \strng{fullhash}{60b935d2048935c73fa9c9d59d12ca9b}
+      \field{sortinit}{D}
+      \field{labeltitle}{Second Workshop on Computational Approaches to Code Switching}
+      \field{title}{Second Workshop on Computational Approaches to Code Switching}
     \endentry
     \entry{papers-215}{inproceedings}{}
       \name{labelname}{2}{}{%
@@ -1659,6 +1788,23 @@
       \field{labeltitle}{Generating Topical Poetry}
       \field{title}{Generating Topical Poetry}
     \endentry
+    \entry{LCS-003}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=4f168a4cc355f42b202090f10b156cd8}{Ghosh}{G\bibinitperiod}{Souvick}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=af5786b7392c264f893da3b3504cc604}{Ghosh}{G\bibinitperiod}{Satanu}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2be80fdc9a37b451dbaa34a0180f9fb2}{Das}{D\bibinitperiod}{Dipankar}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=4f168a4cc355f42b202090f10b156cd8}{Ghosh}{G\bibinitperiod}{Souvick}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=af5786b7392c264f893da3b3504cc604}{Ghosh}{G\bibinitperiod}{Satanu}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2be80fdc9a37b451dbaa34a0180f9fb2}{Das}{D\bibinitperiod}{Dipankar}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{75ec8fa16fa1384d325f1e7af39eea3f}
+      \strng{fullhash}{75ec8fa16fa1384d325f1e7af39eea3f}
+      \field{sortinit}{G}
+      \field{labeltitle}{Part-of-speech Tagging of Code-Mixed Social Media Text}
+      \field{title}{Part-of-speech Tagging of Code-Mixed Social Media Text}
+    \endentry
     \entry{SPNLP-007}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=1a7a3857a2c57825329a92a115a0c7c9}{Goyal}{G\bibinitperiod}{Kartik}{K\bibinitperiod}{}{}{}{}}%
@@ -1783,6 +1929,25 @@
       \field{sortinit}{G}
       \field{labeltitle}{Jointly Embedding Knowledge Graphs and Logical Rules}
       \field{title}{Jointly Embedding Knowledge Graphs and Logical Rules}
+    \endentry
+    \entry{LCS-001}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=20295547ec66df325aab5af316d92943}{Guzman}{G\bibinitperiod}{Gualberto\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ad98112a93c5eaf4701d11b125e6289e}{Serigos}{S\bibinitperiod}{Jacqueline}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c79fc04c4490ec0d3e1b8c4946b0e99b}{Bullock}{B\bibinitperiod}{Barbara\bibnamedelima E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=7d9afdb06e1690dfdde163ed86d648e7}{Toribio}{T\bibinitperiod}{Almeida\bibnamedelima Jacqueline}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=20295547ec66df325aab5af316d92943}{Guzman}{G\bibinitperiod}{Gualberto\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=ad98112a93c5eaf4701d11b125e6289e}{Serigos}{S\bibinitperiod}{Jacqueline}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c79fc04c4490ec0d3e1b8c4946b0e99b}{Bullock}{B\bibinitperiod}{Barbara\bibnamedelima E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=7d9afdb06e1690dfdde163ed86d648e7}{Toribio}{T\bibinitperiod}{Almeida\bibnamedelima Jacqueline}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b3eef91d1dd1c623ef65fdc341399e8f}
+      \strng{fullhash}{ac87da158ab4183bdcdbb95e10e3798d}
+      \field{sortinit}{G}
+      \field{labeltitle}{Simple Tools for Exploring Variation in Code-switching for Linguists}
+      \field{title}{Simple Tools for Exploring Variation in Code-switching for Linguists}
     \endentry
     \entry{papers-280}{inproceedings}{}
       \name{labelname}{2}{}{%
@@ -2102,6 +2267,25 @@
       \field{sortinit}{I}
       \field{labeltitle}{Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network}
       \field{title}{Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network}
+    \endentry
+    \entry{LCS-102}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=2a8d535be94e11fb3f332f46906e765f}{Jaech}{J\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b444bc4f35096f8b94152ce24a35a2e0}{Mulcaire}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=d9964335acf3f82957cd1e681220c042}{Ostendorf}{O\bibinitperiod}{Mari}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a0c460aba9a2d1a450d5df136652f4db}{Smith}{S\bibinitperiod}{Noah\bibnamedelima A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=2a8d535be94e11fb3f332f46906e765f}{Jaech}{J\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b444bc4f35096f8b94152ce24a35a2e0}{Mulcaire}{M\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=d9964335acf3f82957cd1e681220c042}{Ostendorf}{O\bibinitperiod}{Mari}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a0c460aba9a2d1a450d5df136652f4db}{Smith}{S\bibinitperiod}{Noah\bibnamedelima A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{01d95fe8b39f07c80a7f4f0ec62d4faf}
+      \strng{fullhash}{9e4aa423e11172542308525b4921e8fa}
+      \field{sortinit}{J}
+      \field{labeltitle}{A Neural Model for Language Identification in Code-Switched Tweets}
+      \field{title}{A Neural Model for Language Identification in Code-Switched Tweets}
     \endentry
     \entry{NLPSM-025}{inproceedings}{}
       \name{labelname}{5}{}{%
@@ -3382,6 +3566,31 @@
       \field{labeltitle}{Gated Word-Character Recurrent Language Model}
       \field{title}{Gated Word-Character Recurrent Language Model}
     \endentry
+    \entry{LCS-108}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=e7864c48232773719628e88202b4c5b3}{Molina}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2c687f695c4466cad10a425145cfd07}{AlGhamdi}{A\bibinitperiod}{Fahad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=cf92da13510ad603f049137fc7b70d53}{Ghoneim}{G\bibinitperiod}{Mahmoud}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=85da4a50ae7cb62d903f463e16c94061}{Hawwari}{H\bibinitperiod}{Abdelati}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=41925880a2abdec34a036a3a460e12aa}{Rey-Villamizar}{R\bibinithyphendelim V\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=e7864c48232773719628e88202b4c5b3}{Molina}{M\bibinitperiod}{Giovanni}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2c687f695c4466cad10a425145cfd07}{AlGhamdi}{A\bibinitperiod}{Fahad}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=cf92da13510ad603f049137fc7b70d53}{Ghoneim}{G\bibinitperiod}{Mahmoud}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=85da4a50ae7cb62d903f463e16c94061}{Hawwari}{H\bibinitperiod}{Abdelati}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=41925880a2abdec34a036a3a460e12aa}{Rey-Villamizar}{R\bibinithyphendelim V\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=12a453176341a7ee5fd3aabc3c890037}{Diab}{D\bibinitperiod}{Mona}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6bb50a3855a49fbff4108ea3e7d02300}
+      \strng{fullhash}{02c5e5e984b3c27b97b13bc1dc8e284e}
+      \field{sortinit}{M}
+      \field{labeltitle}{Overview for the Second Shared Task on Language Identification in Code-Switched Data}
+      \field{title}{Overview for the Second Shared Task on Language Identification in Code-Switched Data}
+    \endentry
     \entry{papers-406}{inproceedings}{}
       \name{labelname}{3}{}{%
         {{hash=af4e7fdbdccc11aa8a2243afc04916e2}{Monroe}{M\bibinitperiod}{Will}{W\bibinitperiod}{}{}{}{}}%
@@ -3983,6 +4192,25 @@
       \field{labeltitle}{Statistical Script Learning with Recurrent Neural Networks}
       \field{title}{Statistical Script Learning with Recurrent Neural Networks}
     \endentry
+    \entry{LCS-012}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=80acdbcb4fe85629ad061ce87d049491}{Piergallini}{P\bibinitperiod}{Mario}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a8f4f7d8ebce92d58a166ec815bc3f83}{Shirvani}{S\bibinitperiod}{Rouzbeh}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=993846b27e9010d64457a27dae3d3a72}{S.\bibnamedelimi Gautam}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{Gauri}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=b372143087f1bf0da0852747c467cc9c}{Chouikha}{C\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=80acdbcb4fe85629ad061ce87d049491}{Piergallini}{P\bibinitperiod}{Mario}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a8f4f7d8ebce92d58a166ec815bc3f83}{Shirvani}{S\bibinitperiod}{Rouzbeh}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=993846b27e9010d64457a27dae3d3a72}{S.\bibnamedelimi Gautam}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{Gauri}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=b372143087f1bf0da0852747c467cc9c}{Chouikha}{C\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f63c1c09f4c36eaa4e857024ff996017}
+      \strng{fullhash}{41b46fd3a85768690da7d6d79b5b321a}
+      \field{sortinit}{P}
+      \field{labeltitle}{Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data}
+      \field{title}{Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data}
+    \endentry
     \entry{papers-317}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=d9895a17ea4dc2e20e0c99859a4ef71f}{Pilehvar}{P\bibinitperiod}{Mohammad\bibnamedelima Taher}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
@@ -4525,6 +4753,44 @@
       \field{labeltitle}{The Effects of Data Size and Frequency Range on Distributional Semantic Models}
       \field{title}{The Effects of Data Size and Frequency Range on Distributional Semantic Models}
     \endentry
+    \entry{LCS-011}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=aab06466b4f86744878eb9431a68d4ba}{Samih}{S\bibinitperiod}{Younes}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=76909703261ef1b33f19747336799233}{Maier}{M\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ac4826768da90eb0ef40ee37ef17293c}{Kallmeyer}{K\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=aab06466b4f86744878eb9431a68d4ba}{Samih}{S\bibinitperiod}{Younes}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=76909703261ef1b33f19747336799233}{Maier}{M\bibinitperiod}{Wolfgang}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=ac4826768da90eb0ef40ee37ef17293c}{Kallmeyer}{K\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{98983837ad6ffc744c795c660df584f5}
+      \strng{fullhash}{98983837ad6ffc744c795c660df584f5}
+      \field{sortinit}{S}
+      \field{labeltitle}{SAWT: Sequence Annotation Web Tool}
+      \field{title}{SAWT: Sequence Annotation Web Tool}
+    \endentry
+    \entry{LCS-105}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=aab06466b4f86744878eb9431a68d4ba}{Samih}{S\bibinitperiod}{Younes}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ea27cc12bf113d95f2d8b6db865b277}{Maharjan}{M\bibinitperiod}{Suraj}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4553b8afa114814e1e68bd4c17b52e6f}{Attia}{A\bibinitperiod}{Mohammed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ac4826768da90eb0ef40ee37ef17293c}{Kallmeyer}{K\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=aab06466b4f86744878eb9431a68d4ba}{Samih}{S\bibinitperiod}{Younes}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=4ea27cc12bf113d95f2d8b6db865b277}{Maharjan}{M\bibinitperiod}{Suraj}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4553b8afa114814e1e68bd4c17b52e6f}{Attia}{A\bibinitperiod}{Mohammed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ac4826768da90eb0ef40ee37ef17293c}{Kallmeyer}{K\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=b47889ad94571547c92970150485798b}{Solorio}{S\bibinitperiod}{Thamar}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1b26849a56854bf33e6f45608a2dbd01}
+      \strng{fullhash}{e5b28db9b344892149e55826e8947333}
+      \field{sortinit}{S}
+      \field{labeltitle}{Multilingual Code-switching Identification via LSTM Recurrent Neural Networks}
+      \field{title}{Multilingual Code-switching Identification via LSTM Recurrent Neural Networks}
+    \endentry
     \entry{papers-781}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=1c1a300338446c7867bf401ecc1d5bbe}{Sanders}{S\bibinitperiod}{Jordan}{J\bibinitperiod}{}{}{}{}}%
@@ -4701,6 +4967,38 @@
       \field{labeltitle}{Does String-Based Neural MT Learn Source Syntax?}
       \field{title}{Does String-Based Neural MT Learn Source Syntax?}
     \endentry
+    \entry{LCS-103}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=a8f4f7d8ebce92d58a166ec815bc3f83}{Shirvani}{S\bibinitperiod}{Rouzbeh}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=80acdbcb4fe85629ad061ce87d049491}{Piergallini}{P\bibinitperiod}{Mario}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=96dd19da109ee707972282096c0d76d9}{Gautam}{G\bibinitperiod}{Gauri\bibnamedelima Shankar}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b372143087f1bf0da0852747c467cc9c}{Chouikha}{C\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=a8f4f7d8ebce92d58a166ec815bc3f83}{Shirvani}{S\bibinitperiod}{Rouzbeh}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=80acdbcb4fe85629ad061ce87d049491}{Piergallini}{P\bibinitperiod}{Mario}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=96dd19da109ee707972282096c0d76d9}{Gautam}{G\bibinitperiod}{Gauri\bibnamedelima Shankar}{G\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=b372143087f1bf0da0852747c467cc9c}{Chouikha}{C\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b40e69c2f51c6f5b7eefe90b53bdc307}
+      \strng{fullhash}{c3e7b3c127173a290de818f4befd857a}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Howard University System Submission for the Shared Task in Language Identification in Spanish-English Codeswitching}
+      \field{title}{The Howard University System Submission for the Shared Task in Language Identification in Spanish-English Codeswitching}
+    \endentry
+    \entry{LCS-106}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=b77bb08bf50e86c01c97b438926b8fde}{Shrestha}{S\bibinitperiod}{Prajwol}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b77bb08bf50e86c01c97b438926b8fde}{Shrestha}{S\bibinitperiod}{Prajwol}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b77bb08bf50e86c01c97b438926b8fde}
+      \strng{fullhash}{b77bb08bf50e86c01c97b438926b8fde}
+      \field{sortinit}{S}
+      \field{labeltitle}{Codeswitching Detection via Lexical Features in Conditional Random Fields}
+      \field{title}{Codeswitching Detection via Lexical Features in Conditional Random Fields}
+    \endentry
     \entry{papers-287}{inproceedings}{}
       \name{labelname}{4}{}{%
         {{hash=4c0680f90ff1fc49345832d1f5ca90a8}{Shu}{S\bibinitperiod}{Lei}{L\bibinitperiod}{}{}{}{}}%
@@ -4719,6 +5017,21 @@
       \field{sortinit}{S}
       \field{labeltitle}{Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets}
       \field{title}{Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets}
+    \endentry
+    \entry{LCS-107}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=b5cf1a69f12ab0e5670c611aa9b51254}{Sikdar}{S\bibinitperiod}{Utpal\bibnamedelima Kumar}{U\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=3a1996a80c53941089cdf39c1a77b30b}{Gambäck}{G\bibinitperiod}{Björn}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b5cf1a69f12ab0e5670c611aa9b51254}{Sikdar}{S\bibinitperiod}{Utpal\bibnamedelima Kumar}{U\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=3a1996a80c53941089cdf39c1a77b30b}{Gambäck}{G\bibinitperiod}{Björn}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60e128696c0dd6739530dd9c8e328ce4}
+      \strng{fullhash}{60e128696c0dd6739530dd9c8e328ce4}
+      \field{sortinit}{S}
+      \field{labeltitle}{Language Identification in Code-Switched Text Using Conditional Random Fields and Babelnet}
+      \field{title}{Language Identification in Code-Switched Text Using Conditional Random Fields and Babelnet}
     \endentry
     \entry{papers-849}{inproceedings}{}
       \name{labelname}{3}{}{%
@@ -5728,6 +6041,34 @@
       \field{sortinit}{W}
       \field{labeltitle}{Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition}
       \field{title}{Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition}
+    \endentry
+    \entry{LCS-101}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=58182f52485df5ffe4ce86de9381d4e4}{Xia}{X\bibinitperiod}{Meng\bibnamedelima Xuan}{M\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=58182f52485df5ffe4ce86de9381d4e4}{Xia}{X\bibinitperiod}{Meng\bibnamedelima Xuan}{M\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{58182f52485df5ffe4ce86de9381d4e4}
+      \strng{fullhash}{58182f52485df5ffe4ce86de9381d4e4}
+      \field{sortinit}{X}
+      \field{labeltitle}{Codeswitching language identification using Subword Information Enriched Word Vectors}
+      \field{title}{Codeswitching language identification using Subword Information Enriched Word Vectors}
+    \endentry
+    \entry{LCS-002}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=58182f52485df5ffe4ce86de9381d4e4}{Xia}{X\bibinitperiod}{Meng\bibnamedelima Xuan}{M\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=bd1431d7366e05c8cd60e2a4f1a58405}{Cheung}{C\bibinitperiod}{Jackie\bibnamedelimb Chi\bibnamedelima Kit}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=58182f52485df5ffe4ce86de9381d4e4}{Xia}{X\bibinitperiod}{Meng\bibnamedelima Xuan}{M\bibinitperiod\bibinitdelim X\bibinitperiod}{}{}{}{}}%
+        {{hash=bd1431d7366e05c8cd60e2a4f1a58405}{Cheung}{C\bibinitperiod}{Jackie\bibnamedelimb Chi\bibnamedelima Kit}{J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f467232d2243e616b32c135f57bf26ea}
+      \strng{fullhash}{f467232d2243e616b32c135f57bf26ea}
+      \field{sortinit}{X}
+      \field{labeltitle}{Accurate Pinyin-English Codeswitched Language Identification}
+      \field{title}{Accurate Pinyin-English Codeswitched Language Identification}
     \endentry
     \entry{papers-354}{inproceedings}{}
       \name{labelname}{3}{}{%

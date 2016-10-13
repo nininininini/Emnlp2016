@@ -1,9 +1,46 @@
 \chapter{Workshops\label{chap:Workshops}}
 
+
+\thispagestyle{emptyheader}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.1}
+\vspace{-1em}
+\begin{tabular}{@{}%
+  >{\raggedright\arraybackslash}p{.3\textwidth}
+  >{\raggedright\arraybackslash}p{.65\textwidth}
+  >{\raggedleft\arraybackslash}p{.05\textwidth}}
+
+ \multicolumn{3}{l}{\hspace{-1mm}\large Tuesday} \\ \\ \hline
+  \WShopLocNLPSM & 4th International Workshop on Natural Language Processing for Social Media & p.\pageref{NLPSM} \\ \\
+  \WShopLocLCS & Computational Approaches to Linguistic Code Switching &  p.\pageref{LCS} \\ \\
+%  \WShopLocD & Fourth Workshop on Computational Linguistics for Literature & p.\pageref{WShopD} \\
+%  \WShopLocE & Cognitive Modeling and Computational Linguistics & p.\pageref{WShopE} \\
+%  \WShopLocF & The 3rd Workshop on EVENTS: Definition, Detection, Coreference, and Representation & p.\pageref{WShopF} \\
+%  \WShopLocG & The 11th Workshop on Multiword Expressions & p.\pageref{WShopG} \\
+%  \WShopLocH & Ninth Workshop on Syntax, Semantics and Structure in Statistical Translation & p.\pageref{WShopH} \\
+  \\
+
+  \multicolumn{3}{l}{\hspace{-1mm}\large Saturday} \\ \\ \hline
+  \WShopLocSPNLP & Structured Prediction for NLP & p.\pageref{SPNLP} \\ \\
+  \WShopLocCSS & Natural Language Processing and Computational Social Science & p.\pageref{CSS} \\ \\
+  \WShopLocLouhi & Louhi 2016: the Seventh International Workshop on Health Text Mining and Information Analysis & p.\pageref{LOUHI} \\ \\
+  \WShopLocCNS & Computing News Storylines & p.\pageref{CNS} \\ \\
+  \WShopLocUBLP & Uphill Battles in Language Processing: Scaling early achievements to robust methods & p.\pageref{UBLP} \\
+  %\WShopLocN & Vector Space Modeling for NLP & p.\pageref{WShopN} \\
+
+\end{tabular}
+\end{center}
+
+
+
 \begin{wsschedule}{NLPSM}{NLPSM}{4th International Workshop on Natural Language Processing for Social Media}{\WShopLocNLPSM} 
 \input{auto/NLPSM/schedule.tex}
 \end{wsschedule}
 
+\begin{wsschedule}{LCS}{LCS}{Computational Approaches to Linguistic Code Switching}{\WShopLocLCS} 
+\input{auto/LCS/schedule.tex}
+\end{wsschedule}
 
 \begin{wsschedule}{SPNLP}{SPNLP}{Structured Prediction for NLP}{\WShopLocSPNLP} 
 \input{auto/SPNLP/schedule.tex}

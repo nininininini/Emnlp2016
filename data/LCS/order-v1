@@ -1,0 +1,29 @@
+* Tuesday, November 1, 2016
+= 08:45--10:30 Session1: Opening Session
++ 08:45--09:00 Welcome Remarks
++ 09:00--10:00 Keynote Speakers
+7 10:00--10:30  # Challenges of Computational Processing of Code-Switching
++ 10:30--11:00 Coffee Break
+= 11:00--12:30 Session 2: Workshop Talks
+11 11:00--11:10  # SAWT: Sequence Annotation Web Tool
+1 11:10--11:20  # Simple Tools for Exploring Variation in Code-switching for Linguists
+12 11:20--11:30  # Word-Level Language Identification and Predicting Codeswitching Points in Swahili-English Language Data
+2 11:30--11:40  # Accurate Pinyin-English Codeswitched Language Identification
+6 11:40--11:50  # Unraveling the English-Bengali Code-Mixing Phenomenon
+3 11:50--12:00  # Part-of-speech Tagging of Code-Mixed Social Media Text
+5 12:00--12:10  # Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline, Stacking and Joint Modelling
+9 12:10--12:20  # Part of Speech Tagging for Code Switched Data
++ 12:30--14:00 Lunch
+= 14:00--15:30 Session 3: Shared Task
+108 14:00--14:10  # Overview for the Second Shared Task on Language Identification in Code-Switched Data
+100 14:10--14:20  # The George Washington University System for the Code-Switching Workshop Shared Task 2016
+104 14:20--14:30  # Columbia-Jadavpur submission for EMNLP 2016 Code-Switching Workshop Shared Task: System description
+102 14:30--15:00  # A Neural Model for Language Identification in Code-Switched Tweets
+105 15:00--15:30  # Multilingual Code-switching Identification via LSTM Recurrent Neural Networks
++ 15:30--16:00 Coffee Break
+= 16:00--16:45 Session 4: Panel Discussion
+= 16:45--18:00 Poster Session
+103 16:45--17:00  # The Howard University System Submission for the Shared Task in Language Identification in Spanish-English Codeswitching
+106 17:00--17:15  # Codeswitching Detection via Lexical Features in Conditional Random Fields
+107 17:15--17:30  # Language Identification in Code-Switched Text Using Conditional Random Fields and Babelnet
+101 17:30--18:00  # Codeswitching language identification using Subword Information Enriched Word Vectors
