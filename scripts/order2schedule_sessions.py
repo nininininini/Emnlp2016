@@ -54,16 +54,21 @@ for date in cs.dates:
 
         parallel_sessions = filter(lambda x: isinstance(x, Session) and not x.poster, events)
         poster_sessions = filter(lambda x: isinstance(x, Session) and x.poster, events)
-        session_num = parallel_sessions[0].num
+        
+        #SW session_num = parallel_sessions[0].num
 
-        if ( len(parallel_sessions) == 1 ) and ( session_num is not None ) and ( len(parallel_sessions[0].get_papers_only() ) > 0 ):
+        if ( len(parallel_sessions) == 1 ) and ( parallel_sessions[0].num is not None ) and ( len(parallel_sessions[0].get_papers_only() ) > 0 ):
             # I want to deal with those for example for the Best Paper Session
+            # this is indeed a parallel session, but one that spans the full conference
             pass
-        elif ( len(parallel_sessions) + len(poster_sessions) == 1 ) or ( session_num == None ):
-            debug("skipping session num=%s InParallel=%d"%( session_num, len(parallel_sessions) + len(poster_sessions) ) )
-            continue
+        #elif ( len(parallel_sessions) + len(poster_sessions) == 1 ) or ( parallel_sessions[0].num == None ):
+        #elif ( len(parallel_sessions)  == 1 ) or ( parallel_sessions[0].num == None ):
+         #   debug("skipping session num=%s InParallel=%d"%( parallel_sessions[0].num, len(parallel_sessions) + len(poster_sessions) ) )
+          #  continue
 
-        if len(parallel_sessions) + len(poster_sessions) > 1:
+        #if len(parallel_sessions) + len(poster_sessions) > 1:
+        if len(parallel_sessions)  > 1:
+            
             path = os.path.join(args.output_dir, '%s-Session-%s.tex' % (day, parallel_sessions[0].num))
             out = open(path, 'w')
             print >> sys.stderr, "\\input{%s}" % (path)
@@ -71,7 +76,7 @@ for date in cs.dates:
             # PARALLEL SESSIONS
             # Print the Session overview (single-page at-a-glance grid)
             if len(parallel_sessions) > 1:
-
+                session_num = parallel_sessions[0].num #SW moved this from above to here
                 # Session with the maximum number of papers
                 papers_per_session = [ len(ps.papers) for ps in parallel_sessions]
                 max_num_papers = max(papers_per_session)
@@ -107,7 +112,9 @@ for date in cs.dates:
             else:
                 debug("skipping index for session <%s> <%s>"% ( parallel_sessions[0].name, parallel_sessions[0].desc )) 
 
-            for track, session in enumerate(poster_sessions, len(parallel_sessions)):
+            #for track, session in enumerate(poster_sessions, len(parallel_sessions)):
+            #SW:  IF YOU NEED TO PRINT THE POSTER OVERVIEW (IF IT IS A TRACK ALONG WITH PARALLEL SESSIONS)
+            for track, session in enumerate(poster_sessions, len(poster_sessions)):
                 chair = session.chair()
                 print >>out, '\\bigskip{}'
                 if chair[1] == '':
@@ -127,11 +134,18 @@ for date in cs.dates:
             print >>out, '\\clearpage'
             out.close()
 
-        path = os.path.join(args.output_dir, '%s-Session-%s-abstracts.tex' % (day, parallel_sessions[0].num))
-        out = open(path, 'w')
-        print >> sys.stderr, "\\input{%s}" % (path)
+        #path = os.path.join(args.output_dir, '%s-Session-%s-abstracts.tex' % (day, parallel_sessions[0].num))
+        #out = open(path, 'w')
+        #print >> sys.stderr, "\\input{%s}" % (path)
 
-        if len(parallel_sessions) > 0:
+        #if len(parallel_sessions) > 0:
+        if len(parallel_sessions) > 1: # IT IS SAFE TO ASSUME THAT WHEN ABSTRACTS NEED TO BE PRINTED, THERE WILL BE MORE THAN ONE PAPER. ELSE IT IS A PLANARY SESSION, OR REGISTRATION
+            if parallel_sessions[0].num == None:
+                continue
+            print 'printing parallel session abstract to %s-Session-%s-abstracts.tex' % (day, parallel_sessions[0].num)
+            path = os.path.join(args.output_dir, '%s-Session-%s-abstracts.tex' % (day, parallel_sessions[0].num))
+            out = open(path, 'w')
+            print >> sys.stderr, "\\input{%s}" % (path)
             # Now print the abstracts of the papers in each of the sessions
             # Print the papers
             print >>out, '\\newpage'
@@ -149,23 +163,40 @@ for date in cs.dates:
                         if paper.id is not None: print >>out, '\\paperabstract{%s}{%s}{%s}' % (paper.id, paper.time, paper.prefix)
                     print >>out, '\\clearpage'
             print >>out, '\n'
+            out.close()
         else:
-            debug("########## Skipping Abstracts for session <%s> <%s>"% ( session.name, session.desc) ) 
+            if len(parallel_sessions) > 0:
+                debug("########## Skipping Abstracts for session <%s> <%s>"% ( parallel_sessions[0].num, parallel_sessions[0].desc) ) 
 
         # POSTER SESSIONS
-        for session in poster_sessions:
-            chair = session.chair()
-            if chair[1] == '':
-                print >>out, '\\noindent{\\bfseries\\large %s: %s}\\par' % (session.name, session.desc)
-            else:
-                print >>out, '\\noindent{\\bfseries\\large %s: %s} \\hfill \\emph{\\sessionchair{%s}{%s}}\\par' % (
-                    session.name, session.desc, chair[0], chair[1])
-            print >>out, '\\noindent{\\PosterLoc \\hfill \emph{%s}}\\par'% (timef(session.time))
+        # PRINT POSTER ABSTRACTS 
+        if len(poster_sessions) > 0:
+        #if len(poster_sessions) > 1: # IT IS SAFE TO ASSUME THAT WHEN ABSTRACTS NEED TO BE PRINTED, THERE WILL BE MORE THAN ONE PAPER. ELSE IT IS A PLANARY SESSION, OR REGISTRATION
+            session_title = poster_sessions[0].desc.replace(' ','-')
+            print 'printing POSTER session abstract to %s-Poster-%s-abstracts.tex' % (day, session_title)
+            #path = os.path.join(args.output_dir, '%s-Session-%s-abstracts.tex' % (day, poster_sessions[0].num))
+            path = os.path.join(args.output_dir, '%s-Poster-%s-abstracts.tex' % (day, session_title))
+            out = open(path, 'w')
+            print >> sys.stderr, "\\input{%s}" % (path)
+            # Now print the abstracts of the papers in each of the sessions
+            # Print the papers
+            print >>out, '\\newpage'
+            #print >>out, '\\section*{Abstracts: Session %s}' % (poster_sessions[0].num)
+            print >>out, '\\section*{Abstracts: %s}' % (poster_sessions[0].desc)
             print >>out, '\\bigskip{}'
-            for paper in session.papers:
-                if paper.id is not None: print >>out, '\\posterabstract{%s}{%s}' % (paper.id, paper.prefix)
-            print >>out, '\\clearpage'
-        out.close()
+            for session in poster_sessions:
+                chair = session.chair()
+                if chair[1] == '':
+                    #print >>out, '\\noindent{\\bfseries\\large %s: %s}\\par' % (session.name, session.desc)
+                    print >>out, '\\noindent{\\bfseries\\large  %s}\\par' % ( session.desc)
+                else:
+                    print >>out, '\\noindent{\\bfseries\\large  %s} \\hfill \\emph{\\sessionchair{%s}{%s}}\\par' % (session.desc, chair[0], chair[1])
+                print >>out, '\\noindent{\\PosterLoc \\hfill \emph{%s}}\\par'% (timef(session.time))
+                print >>out, '\\bigskip{}'
+                for paper in session.papers:
+                    if paper.id is not None: print >>out, '\\posterabstract{%s}{%s}' % (paper.id, paper.prefix)
+                print >>out, '\\clearpage'
+            out.close()
 
 
 

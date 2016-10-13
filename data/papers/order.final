@@ -1,7 +1,7 @@
 * Tuesday, November 1, 2016
 = 18:30--20:00 Welcome Reception # %room Salon H
 * Wednesday, November 2, 2016
-= 07:30--17:30 Registration # %room Salon H Prefunction
+= 07:30--17:30 Registration day1 # %room Salon H Prefunction
 + 08:00--08:40 Morning Coffee
 = 08:40--10:00 Session P1: Plenary Session I # %room Salon FG
 + 08:40--09:00 Opening Remarks and Introductory Speeches
@@ -55,7 +55,7 @@
 1132 16:40--17:05  # A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs
 630 17:05--17:30  # PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic Text Simplification
 + 17:30--17:45 Break
-= 17:45--18:15 Poster Spotlight (Half-minute Madness) # %room Salon FG %chair1 Joel Tetreault, Brendan O'Connor, Courtney Napoles
+= 17:45--18:15 Poster Spotlight (Half-minute Madness) day 1 # %room Salon FG %chair1 Joel Tetreault, Brendan O'Connor, Courtney Napoles
 = 18:15--20:15 Poster Session A # %room Salon H and J
 7   # Discourse Parsing with Attention-based Hierarchical Neural Networks
 600   # Multi-view Response Selection for Human-Computer Conversation
@@ -140,7 +140,7 @@
 28   # SimpleScience: Lexical Simplification of Scientific Terminology
 601   # Automatic Features for Essay Scoring ___ An Empirical Study
 * Thursday, November 3, 2016
-= 07:30--17:30 Registration # %room Salon H Prefunction
+= 07:30--17:30 Registration day 2 # %room Salon H Prefunction
 + 08:00--09:00 Morning Coffee
 = 09:00--10:00 Session P2: Plenary Session II # %room Salon FG
 ! 09:00--10:00 Invited Talk: Learning Models of Language, Action and Perception for Human-Robot Collaboration %by Stefanie Tellex %u http://www.emnlp2016.net/invited-speakers.html#i3
@@ -194,7 +194,7 @@
 861 16:40--17:05  # Lifted Rule Injection for Relation Embeddings
 679 17:05--17:30  # Key-Value Memory Networks for Directly Reading Documents
 + 17:30--17:45 Break
-= 17:45--18:15 Poster Spotlight (Half-minute Madness) # %room Salon FG %chair1 Joel Tetreault, Brendan O'Connor, Courtney Napoles
+= 17:45--18:15 Poster Spotlight (Half-minute Madness) day 2 # %room Salon FG %chair1 Joel Tetreault, Brendan O'Connor, Courtney Napoles
 = 18:15--20:15 Poster Session B # %room Salon H and J
 825   # Analyzing Framing through the Casts of Characters in the News
 900   # The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues
@@ -279,7 +279,7 @@
 1145   # Learning to refine text based recommendations
 677   # There's No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction
 * Friday, November 4, 2016
-= 07:30--17:30 Registration # %room Salon H Prefunction
+= 07:30--17:30 Registration day 3 # %room Salon H Prefunction
 + 08:00--09:00 Morning Coffee
 = 09:00--10:00 Session P3: Plenary Session # %room Salon FG
 ! 09:00--10:00 Invited Talk: You Talking to Me? Speech-based and multimodal approaches for human versus computer addressee detection %by Andreas Stolcke %u http://www.emnlp2016.net/invited-speakers.html#i2

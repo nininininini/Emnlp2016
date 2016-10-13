@@ -1,0 +1,129 @@
+\input{auto/papers/Tuesday-overview.tex}
+\clearpage{}
+
+\chapter{Main Conference: Wednesday, November 2}
+
+\thispagestyle{emptyheader}
+\section*{Overview}
+
+\input{auto/papers/Wednesday-overview.tex}
+\clearpage{}
+
+\section{Invited Speaker: Christopher Potts}
+\index{Potts, Christopher}
+
+\begin{center}
+\textbf{\Large{}Learning in extended and approximate Rational Speech Acts models}{\Large{}\vspace{1em}
+}
+\par\end{center}{\Large \par}
+
+\begin{center}
+Wednesday, November 2, 2016,  \vspace{1em}
+\\
+ \PlenaryLoc \\
+ \vspace{1em}
+
+\par\end{center}
+
+\noindent \textbf{Abstract:} The Rational Speech Acts (RSA) model treats language use as a recursive process in which probabilistic speaker and listener agents reason about each other's intentions to enrich, and negotiate, the semantics of their language along broadly Gricean lines. RSA builds on early work by the philosopher David Lewis and others on signaling systems as well as more recent developments in Bayesian cognitive modeling. Over the last five years, RSA has been shown to provide a unified account of numerous core phenomena in pragmatics, including metaphor, hyperbole, sarcasm, politeness, and a wide range of conversational implicatures. Its precise, quantitative nature has also facilitated an outpouring of new experimental work on these phenomena. However, applications of RSA to large-scale problems in NLP and AI have so far been limited, because the exact version of the model is intractable along several dimensions. In this talk, I'll report on recent progress in approximating RSA in ways that retains its core properties while enabling application to large datasets and complex environments in which language and action are brought together. 
+
+\vspace{3em}
+
+\vfill{}
+\noindent \textbf{Biography:}  Christopher Potts is Professor of Linguistics and, by courtesy, of Computer Science, at Stanford, and Director of the Center for the Study of Language and Information (CSLI) at Stanford. He earned his BA in Linguistics from NYU in 1999 and his PhD from UC Santa Cruz in 2003. He was on the faculty in Linguistics at UMass Amherst from 2003 until 2009, when he headed west once again, to join Stanford Linguistics. He was a co-editor at Linguistic Inquiry 2004–2006, an associate editor at Linguistics and Philosophy 2009–2012, and has been an Action Editor at TACL since 2014. In his research, he uses computational methods to explore how emotion is expressed in language and how linguistic production and interpretation are influenced by the context of utterance. He is the author of the 2005 book The Logic of Conventional Implicatures as well as numerous scholarly papers in computational and theoretical linguistics.
+
+\clearpage{}
+
+
+\input{auto/papers/Wednesday-Session-1.tex}
+\input{auto/papers/Wednesday-Session-1-abstracts.tex}
+\input{auto/papers/Wednesday-Session-2.tex}
+\input{auto/papers/Wednesday-Session-2-abstracts.tex}
+\input{auto/papers/Wednesday-Session-3.tex}
+\input{auto/papers/Wednesday-Session-3-abstracts.tex}
+%\input{auto/papers/Wednesday-Poster-Poster-Spotlight-(Half-minute-Madness)-day-1-abstracts.tex}
+\input{auto/papers/Wednesday-Poster-Poster-Session-A-abstracts.tex}
+
+\chapter{Main Conference: Thursday, November 3}
+\thispagestyle{emptyheader}
+\section*{Overview}
+\input{auto/papers/Thursday-overview.tex}
+\clearpage{}
+
+\section{Invited Speaker: Stefanie Tellex}
+\index{Tellex, Stefanie}
+
+\begin{center}
+\textbf{\Large{}Learning Models of Language, Action and Perception for Human-Robot Collaboration}{\Large{}\vspace{1em}
+}
+\par\end{center}{\Large \par}
+
+\begin{center}
+Thursday, November 3, 2016,  \vspace{1em}
+\\
+ \PlenaryLoc \\
+ \vspace{1em}
+
+\par\end{center}
+
+\noindent \textbf{Abstract:} 
+Robots can act as a force multiplier for people, whether a robot assisting an astronaut with a repair on the International Space station, a UAV taking flight over our cities, or an autonomous vehicle driving through our streets. To achieve complex tasks, it is essential for robots to move beyond merely interacting with people and toward collaboration, so that one person can easily and flexibly work with many autonomous robots. The aim of my research program is to create autonomous robots that collaborate with people to meet their needs by learning decision-theoretic models for communication, action, and perception. Communication for collaboration requires models of language that map between sentences and aspects of the external world. My work enables a robot to learn compositional models for word meanings that allow a robot to explicitly reason and communicate about its own uncertainty, increasing the speed and accuracy of human-robot communication. Action for collaboration requires models that match how people think and talk, because people communicate about all aspects of a robot's behavior, from low-level motion preferences (e.g., "Please fly up a few feet") to high-level requests (e.g., "Please inspect the building"). I am creating new methods for learning how to plan in very large, uncertain state-action spaces by using hierarchical abstraction. Perception for collaboration requires the robot to detect, localize, and manipulate the objects in its environment that are most important to its human collaborator. I am creating new methods for autonomously acquiring perceptual models in situ so the robot can perceive the objects most relevant to the human's goals. My unified decision-theoretic framework supports data-driven training and robust, feedback-driven human-robot collaboration. 
+
+\vspace{3em}
+
+\vfill{}
+\noindent \textbf{Biography:}  
+ Stefanie Tellex is an Assistant Professor of Computer Science and Assistant Professor of Engineering at Brown University. Her group, the Humans To Robots Lab, creates robots that seamlessly collaborate with people to meet their needs using language, gesture, and probabilistic inference, aiming to empower every person with a collaborative robot. She completed her Ph.D. at the MIT Media Lab in 2010, where she developed models for the meanings of spatial prepositions and motion verbs. Her postdoctoral work at MIT CSAIL focused on creating robots that understand natural language. She has published at SIGIR, HRI, RSS, AAAI, IROS, ICAPs and ICMI, winning Best Student Paper at SIGIR and ICMI, Best Paper at RSS, and an award from the CCC Blue Sky Ideas Initiative. Her awards include being named one of IEEE Spectrum's AI's 10 to Watch in 2013, the Richard B. Salomon Faculty Research Award at Brown University, a DARPA Young Faculty Award in 2015, and a 2016 Sloan Research Fellowship. Her work has been featured in the press on National Public Radio, MIT Technology Review, Wired UK and the Smithsonian. She was named one of Wired UK's Women Who Changed Science In 2015 and listed as one of MIT Technology Review's Ten Breakthrough Technologies in 2016. 
+\clearpage{}
+
+
+
+\input{auto/papers/Thursday-Session-4.tex}
+\input{auto/papers/Thursday-Session-4-abstracts.tex}
+\input{auto/papers/Thursday-Session-5.tex}
+\input{auto/papers/Thursday-Session-5-abstracts.tex}
+\input{auto/papers/Thursday-Session-6.tex}
+\input{auto/papers/Thursday-Session-6-abstracts.tex}
+%\input{auto/papers/Thursday-Poster-Poster-Spotlight-(Half-minute-Madness)-day-2-abstracts.tex}
+\input{auto/papers/Thursday-Poster-Poster-Session-B-abstracts.tex}
+
+
+\chapter{Main Conference: Friday, November 4}
+\thispagestyle{emptyheader}
+\section*{Overview}
+\input{auto/papers/Friday-overview.tex}
+\clearpage{}
+
+
+\section{Invited Speaker: Andreas Stolcke}
+\index{Stolcke, Andreas}
+
+\begin{center}
+\textbf{\Large{}You Talking to Me? Speech-based and multimodal approaches for human versus computer addressee detection}{\Large{}\vspace{1em}
+}
+\par\end{center}{\Large \par}
+
+\begin{center}
+Friday, November 4, 2016,  \vspace{1em}
+\\
+ \PlenaryLoc \\
+ \vspace{1em}
+
+\par\end{center}
+
+\noindent \textbf{Abstract:} 
+ As dialog systems become ubiquitous, we must learn how to detect when a system is spoken to, and avoid mistaking human-human speech as computer-directed input. In this talk I will discuss approaches to addressee detection in this human-human-machine dialog scenario, based on what is being said (lexical information), how it is being said (acoustic-prosodic properties), and non-speech multimodal and contextual information. I will present experimental results showing that a combination of these cues can be used effectively for human/computer address classification in several dialog scenarios. 
+
+\vspace{3em}
+
+\vfill{}
+\noindent \textbf{Biography:}  
+ Andreas Stolcke received a Ph.D. in computer science from the University of California at Berkeley. He was subsequently a Senior Research Engineer with the Speech Technology and Research Laboratory at SRI International, Menlo Park, CA, and is currently a Principal Researcher with the Speech and Dialog Research Group in the Microsoft Advanced Technology-Information Services group, working out of Mountain View, CA. His research interests include language modeling, speech recognition, speaker recognition, and speech understanding. He has published over 200 papers in these areas, as well as SRILM, a widely used open-source toolkit for statistical language modeling. He is a Fellow of the IEEE and of ISCA, the International Speech Communications Association. 
+\clearpage{}
+
+
+
+\input{auto/papers/Friday-Session-7.tex}
+\input{auto/papers/Friday-Session-7-abstracts.tex}
+\input{auto/papers/Friday-Session-8.tex}
+\input{auto/papers/Friday-Session-8-abstracts.tex}

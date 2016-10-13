@@ -32,6 +32,9 @@
  pdfkeywords={EMNLP 2016, Handbook},
  colorlinks, citecolor=dkblue, filecolor=dkblue, linkcolor=dkblue, urlcolor=blue}
 
+%SW
+\usepackage[T1]{fontenc}
+
 \makeatletter
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
@@ -139,15 +142,15 @@
 
 \pagestyle{fancy}
 
-%TODO 
-\include{content/conference-info}
+%TODO \include{content/conference-info}
 
 %TODO 
 \include{content/tutorials}
 
 %TODO 
 \include{content/workshops}
-%TODO \include{content/conference-days}
+%TODO 
+\include{content/conference-days}
 
 %TODO \cleardoublepage{}
 

@@ -18,9 +18,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Tutorials
 % --------------------------------------------------------------------------------
-\newcommand{\TutLocA}{\mbox{TBD TBD TBD TBD TBD TBD}}
-\newcommand{\TutLocB}{\mbox{TBD }}
-\newcommand{\TutLocC}{\mbox{TBD TBD TBD TBD TBD TBD}}
+\newcommand{\TutLocA}{\mbox{Salon K}}
+\newcommand{\TutLocB}{\mbox{Room 616B}}
+\newcommand{\TutLocC}{\mbox{Room 616A}}
 \newcommand{\TutLocD}{\mbox{TBD}}
 \newcommand{\TutLocE}{\mbox{TBD TBD TBD TBD TBD TBD}}
 \newcommand{\TutLocF}{\mbox{TBD}}
@@ -61,6 +61,10 @@
 \newcommand{\PlenaryLoc}{\mbox{Main Auditorium}}
 \newcommand{\FarewellLoc}{\mbox{Culturgest}}
 \newcommand{\ConferenceLoc}{\mbox{Pateo Alfacinha}} % Conference Dinner
+
+\newcommand{\SigdatLoc}{\mbox{}}
+\newcommand{\OpeningLoc}{\mbox{}}
+\newcommand{\BreakLoc}{\mbox{}}
 
 \newcommand{\UnknownLoc}{\mbox{}}
 

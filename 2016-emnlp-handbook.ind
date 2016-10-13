@@ -1,368 +1,1118 @@
 \begin{theindex}
 
-  \item Aizawa, Akiko, \hyperpage{29}
-  \item Allen, James, \hyperpage{29}
-  \item Anderson, Kenneth, \hyperpage{20}
-  \item Andrews, Nicholas, \hyperpage{20}
-  \item Artzi,Yoav, \hyperpage{4}
-  \item Augenstein, Isabelle, \hyperpage{20}
+  \item \IeC {\"O}zbal, G\IeC {\"o}zde, \hyperpage{68}, \hyperpage{96}
 
   \indexspace
 
-  \item Bakewell, Robert, \hyperpage{26}
-  \item Bakhshandeh, Omid, \hyperpage{29}
-  \item Baldwin,Tim, \hyperpage{5}
-  \item Bamman, David, \hyperpage{24}
-  \item Banchs, Rafael E., \hyperpage{7}, \hyperpage{15}
-  \item Beieler, John, \hyperpage{24}
-  \item Benikova, Darina, \hyperpage{29}
-  \item Bernstam, Elmer, \hyperpage{26}
-  \item Bethard, Steven, \hyperpage{20}, \hyperpage{26}, \hyperpage{30}
-  \item Bisk, Yonatan, \hyperpage{23}
-  \item Bontcheva, Kalina, \hyperpage{24}
-  \item Bosnjak, Matko, \hyperpage{20}
-  \item Bouchard, Guillaume, \hyperpage{4}
-  \item Boulard Masson, C\IeC {\'e}cile, \hyperpage{20}
-  \item Boyd, Ryan, \hyperpage{25}
-  \item Breslin, John G., \hyperpage{30}
-  \item Brian, Jin, \hyperpage{25}
-  \item Broek, Tijs van den, \hyperpage{25}
-  \item Bruggermann, Daniel, \hyperpage{28}
-  \item Brun, Caroline, \hyperpage{20}
+  \item Abdelwahab, Ahmed, \hyperpage{29}, \hyperpage{50}
+  \item Abdul-Mageed, Muhammad, \hyperpage{68}, \hyperpage{96}
+  \item Abend, Omri, \hyperpage{78}
+  \item Adar, Eytan, \hyperpage{32}, \hyperpage{61}
+  \item Agirre, Eneko, \hyperpage{108}
+  \item Agrawal, Aishwarya, \hyperpage{64}, \hyperpage{67}, 
+		\hyperpage{84}, \hyperpage{93}
+  \item Agrawal, Harsh, \hyperpage{31}, \hyperpage{57}
+  \item Aizawa, Akiko, \hyperpage{23}
+  \item Akbik, Alan, \hyperpage{31}, \hyperpage{59}
+  \item Al-Onaizan, Yaser, \hyperpage{43}
+  \item Allegretti, Stefani, \hyperpage{64}, \hyperpage{83}
+  \item Allen, James, \hyperpage{23}
+  \item Amershi, Saleema, \hyperpage{45}
+  \item Anand, Pranav, \hyperpage{77}
+  \item Anastasopoulos, Antonios, \hyperpage{78}
+  \item Anderson, Kenneth, \hyperpage{14}
+  \item Andreas, Jacob, \hyperpage{76}
+  \item Andrews, Nicholas, \hyperpage{14}
+  \item Antol, Stanislaw, \hyperpage{64}, \hyperpage{84}
+  \item Apidianaki, Marianna, \hyperpage{67}, \hyperpage{95}
+  \item Artetxe, Mikel, \hyperpage{108}
+  \item Arthur, Philip, \hyperpage{64}, \hyperpage{86}
+  \item Artzi, Yoav, \hyperpage{66}, \hyperpage{89}
+  \item Aubakirova, Malika, \hyperpage{68}, \hyperpage{96}
+  \item Augenstein, Isabelle, \hyperpage{14}, \hyperpage{30, 31}, 
+		\hyperpage{56}, \hyperpage{59}
+  \item Auli, Michael, \hyperpage{76}
+  \item Avery, Cordelia, \hyperpage{67}, \hyperpage{93}
 
   \indexspace
 
-  \item Callison-Burch, Chris, \hyperpage{2, 3}
-  \item Cantarero, Alejandro, \hyperpage{20}
-  \item Carley, Kathleen M., \hyperpage{24}
-  \item Carreras, Xavier, \hyperpage{3, 4}
-  \item Carroll, Josh, \hyperpage{25}
-  \item Caselli, Tommaso, \hyperpage{28}
-  \item Caswell, David, \hyperpage{28}
-  \item Chalapathy, Raghavendra, \hyperpage{26}
-  \item Chambers,Nate, \hyperpage{4}
-  \item Chang, Kai-Wei, \hyperpage{22}
-  \item Chang, Ming-Wei, \hyperpage{22}
-  \item Chang, Yung-Chun, \hyperpage{21}
-  \item Chen, Zhiyuan, \hyperpage{7}, \hyperpage{12}
-  \item Cheng, Hao, \hyperpage{20}
-  \item Cheung, Jackie C.K., \hyperpage{3}
-  \item Cheung, Jackie Chi Kit, \hyperpage{30}
-  \item Cho,Kyunghyun, \hyperpage{4}
-  \item Chu, Chun-Han, \hyperpage{21}
-  \item Church, Ken, \hyperpage{29}
-  \item Cohen, Kevin, \hyperpage{26}
-  \item Cohen, Trevor, \hyperpage{26}
-  \item Collier, Nigel, \hyperpage{27}
-  \item Collins,Michael, \hyperpage{4}
-  \item Coppersmith, Glen, \hyperpage{25}
-  \item Cornegruta, Savelie, \hyperpage{26}
+  \item B. Hashemi, Homa, \hyperpage{65}, \hyperpage{89}
+  \item B\IeC {\"u}chler, Marco, \hyperpage{66}, \hyperpage{91}
+  \item Bachman, Philip, \hyperpage{39}
+  \item Badgett, Allison, \hyperpage{31}, \hyperpage{56}
+  \item Bakewell, Robert, \hyperpage{20}
+  \item Bakhshandeh, Omid, \hyperpage{23}
+  \item Balasubramanian, Niranjan, \hyperpage{64}, \hyperpage{83}
+  \item Baldwin, Timothy, \hyperpage{31}, \hyperpage{56}, 
+		\hyperpage{67}, \hyperpage{94}
+  \item Bali, Kalika, \hyperpage{73}
+  \item Ballesteros, Miguel, \hyperpage{32}, \hyperpage{61}, 
+		\hyperpage{65}, \hyperpage{67}, \hyperpage{89}, 
+		\hyperpage{95}, \hyperpage{110}
+  \item Bamman, David, \hyperpage{18}, \hyperpage{68}, \hyperpage{96}
+  \item Banchs, Rafael E., \hyperpage{1}, \hyperpage{9}
+  \item Bansal, Mohit, \hyperpage{31}, \hyperpage{57}, \hyperpage{64}, 
+		\hyperpage{68}, \hyperpage{85}, \hyperpage{96}, 
+		\hyperpage{106}
+  \item Barak, Libby, \hyperpage{37}
+  \item Barbu, Andrei, \hyperpage{104}
+  \item Barzilay, Regina, \hyperpage{37}, \hyperpage{66}, 
+		\hyperpage{68}, \hyperpage{92}, \hyperpage{97}
+  \item Batra, Dhruv, \hyperpage{31}, \hyperpage{57}, \hyperpage{64}, 
+		\hyperpage{67}, \hyperpage{84}, \hyperpage{93}
+  \item Bauer, Sandro, \hyperpage{110}
+  \item Begum, Rafiya, \hyperpage{73}
+  \item Beieler, John, \hyperpage{18}
+  \item Bekki, Daisuke, \hyperpage{106}
+  \item Benikova, Darina, \hyperpage{23}
+  \item Bentivogli, Luisa, \hyperpage{43}
+  \item Bernstam, Elmer, \hyperpage{20}
+  \item Bertero, Dario, \hyperpage{32}, \hyperpage{61}
+  \item Berzak, Yevgeni, \hyperpage{104}
+  \item Bethard, Steven, \hyperpage{14}, \hyperpage{20}, \hyperpage{24}
+  \item Bharadwaj, Akash, \hyperpage{64}, \hyperpage{84}
+  \item Bhatia, Parminder, \hyperpage{28}, \hyperpage{48}
+  \item Bhattacharyya, Pushpak, \hyperpage{32}, \hyperpage{59}, 
+		\hyperpage{66}, \hyperpage{92}
+  \item Bhutani, Nikita, \hyperpage{36}
+  \item Bian, Jiang, \hyperpage{29}, \hyperpage{49}
+  \item Birch, Alexandra, \hyperpage{78}
+  \item Bird, Steven, \hyperpage{78}
+  \item Bisazza, Arianna, \hyperpage{43}
+  \item Bisk, Yonatan, \hyperpage{17}, \hyperpage{67}, \hyperpage{95}
+  \item Bizzoni, Yuri, \hyperpage{66}, \hyperpage{91}
+  \item Blache, Philippe, \hyperpage{67}, \hyperpage{94}
+  \item Blanco, Eduardo, \hyperpage{72}
+  \item Blei, David, \hyperpage{73}
+  \item Blitzer, John, \hyperpage{67}, \hyperpage{95}
+  \item Blodgett, Su Lin, \hyperpage{73}
+  \item Blunsom, Phil, \hyperpage{45}, \hyperpage{72}, \hyperpage{80}
+  \item Bojar, Ond\IeC {\v r}ej, \hyperpage{78}
+  \item Boleda, Gemma, \hyperpage{74}
+  \item Bontcheva, Kalina, \hyperpage{18}, \hyperpage{30}, 
+		\hyperpage{56}
+  \item Bordes, Antoine, \hyperpage{82}
+  \item Boschee, Elizabeth, \hyperpage{29}, \hyperpage{50}
+  \item Bosnjak, Matko, \hyperpage{14}
+  \item Bouchard, Guillaume, \hyperpage{65}, \hyperpage{87}
+  \item Boulard Masson, C\IeC {\'e}cile, \hyperpage{14}
+  \item Boyd, Ryan, \hyperpage{19}
+  \item Boydstun, Amber, \hyperpage{63}, \hyperpage{83}
+  \item Braud, Chlo\IeC {\'e}, \hyperpage{40}
+  \item Breslin, John G., \hyperpage{24}, \hyperpage{32}, 
+		\hyperpage{59}
+  \item Brian, Jin, \hyperpage{19}
+  \item Brockett, Chris, \hyperpage{45}
+  \item Broek, Tijs van den, \hyperpage{19}
+  \item Bruggermann, Daniel, \hyperpage{22}
+  \item Brun, Caroline, \hyperpage{14}
+  \item Brunato, Dominique, \hyperpage{45}
+  \item Brychc\IeC {\'\i }n, Tom\IeC {\'a}\IeC {\v s}, \hyperpage{28}, 
+		\hyperpage{47}
+  \item Buckman, Jacob, \hyperpage{110}
+  \item Buffone, Anneke, \hyperpage{68}, \hyperpage{96}
+  \item Burgess, Matthew, \hyperpage{32}, \hyperpage{61}
+  \item Buys, Jan, \hyperpage{80}
 
   \indexspace
 
-  \item D'hondt, Eva, \hyperpage{26}
-  \item Davis, Anthony, \hyperpage{28}
-  \item DeNero,John, \hyperpage{4}
-  \item Denny, Matthew, \hyperpage{25}
-  \item DeYoung, Jay, \hyperpage{20}
-  \item Dinu,Georgiana, \hyperpage{4}
-  \item Do, Quynh Ngoc Thi, \hyperpage{30}
-  \item Doggett, Erika, \hyperpage{20}
-  \item Dogruoz, A. Seza, \hyperpage{24}
-  \item Dredze, Mark, \hyperpage{20}, \hyperpage{22}, \hyperpage{25}
-  \item Duh, Kevin, \hyperpage{3, 4}
-  \item Dyer, Chris, \hyperpage{7, 8}, \hyperpage{22}
+  \item Cai, Rangjia, \hyperpage{28}, \hyperpage{48}
+  \item Callison-Burch, Chris, \hyperpage{32}, \hyperpage{59}, 
+		\hyperpage{106}
+  \item Camacho-Collados, Jose, \hyperpage{28}, \hyperpage{47}
+  \item Cantarero, Alejandro, \hyperpage{14}
+  \item Caragea, Cornelia, \hyperpage{66}, \hyperpage{92}
+  \item Carbonell, Jaime, \hyperpage{64}, \hyperpage{84}
+  \item Card, Dallas, \hyperpage{63}, \hyperpage{83}
+  \item Carley, Kathleen M., \hyperpage{18}
+  \item Carman, Mark, \hyperpage{32}, \hyperpage{59}
+  \item Carroll, Josh, \hyperpage{19}
+  \item Caselli, Tommaso, \hyperpage{22}
+  \item Cases, Ignacio, \hyperpage{36}
+  \item Caswell, David, \hyperpage{22}
+  \item Cettolo, Mauro, \hyperpage{43}
+  \item Chai, Joyce, \hyperpage{64}, \hyperpage{84}
+  \item Chakraborty, Sunandan, \hyperpage{68}, \hyperpage{97}
+  \item Chakraborty, Tanmoy, \hyperpage{81}
+  \item Chalapathy, Raghavendra, \hyperpage{20}
+  \item Chan, Ricky Ho Yin, \hyperpage{32}, \hyperpage{61}
+  \item Chandrasekaran, Arjun, \hyperpage{31}, \hyperpage{57}
+  \item Chaney, Allison, \hyperpage{73}
+  \item Chang, Baobao, \hyperpage{28}, \hyperpage{30}, \hyperpage{46}, 
+		\hyperpage{54}, \hyperpage{67}, \hyperpage{95}, 
+		\hyperpage{111}
+  \item Chang, Kai-Wei, \hyperpage{16}, \hyperpage{44}
+  \item Chang, Ming-Wei, \hyperpage{16}, \hyperpage{44}, \hyperpage{64}, 
+		\hyperpage{83}
+  \item Chang, Yung-Chun, \hyperpage{15}
+  \item Chao, Jiayuan, \hyperpage{30}, \hyperpage{53}
+  \item Charlin, Laurent, \hyperpage{102}
+  \item Charniak, Eugene, \hyperpage{110}
+  \item Chen, Danlu, \hyperpage{65}, \hyperpage{88}
+  \item Chen, Hongshen, \hyperpage{30}, \hyperpage{53}
+  \item Chen, Huimin, \hyperpage{65}, \hyperpage{87}
+  \item Chen, Jianshu, \hyperpage{66}, \hyperpage{91}
+  \item Chen, Jifan, \hyperpage{65}, \hyperpage{88}
+  \item Chen, Yidong, \hyperpage{109}
+  \item Chen, Zhiyuan, \hyperpage{1}, \hyperpage{6}
+  \item Cheng, Hao, \hyperpage{14}, \hyperpage{104}
+  \item Cheng, Jianpeng, \hyperpage{29}, \hyperpage{49}
+  \item Cheng, Peng, \hyperpage{66}, \hyperpage{90}
+  \item Chersoni, Emmanuele, \hyperpage{67}, \hyperpage{94}
+  \item Cheung, Jackie Chi Kit, \hyperpage{24}, \hyperpage{65}, 
+		\hyperpage{89}
+  \item Chiang, David, \hyperpage{78}
+  \item Chieu, Hai Leong, \hyperpage{31}, \hyperpage{58}, 
+		\hyperpage{68}, \hyperpage{97}
+  \item Cho, Kyunghyun, \hyperpage{43}, \hyperpage{67}, \hyperpage{94}
+  \item Choe, Do Kook, \hyperpage{110}
+  \item Choi, Yejin, \hyperpage{45}, \hyperpage{76}
+  \item Chollampatt, Shamil, \hyperpage{66}, \hyperpage{92}
+  \item Choudhury, Monojit, \hyperpage{73}
+  \item Christie, Gordon, \hyperpage{31}, \hyperpage{57}, 
+		\hyperpage{64}, \hyperpage{84}
+  \item Chu, Chun-Han, \hyperpage{15}
+  \item Church, Ken, \hyperpage{23}
+  \item Cimino, Andrea, \hyperpage{45}
+  \item Clark, Kevin, \hyperpage{29}, \hyperpage{50}, \hyperpage{107}
+  \item Clark, Peter, \hyperpage{39}, \hyperpage{64}, \hyperpage{83}
+  \item Clark, Stephen, \hyperpage{28}, \hyperpage{47}
+  \item Cohen, Kevin, \hyperpage{20}
+  \item Cohen, Shay B., \hyperpage{44}
+  \item Cohen, Trevor, \hyperpage{20}
+  \item Cohn, Trevor, \hyperpage{31}, \hyperpage{57}, \hyperpage{67}, 
+		\hyperpage{78}, \hyperpage{94}
+  \item Collier, Nigel, \hyperpage{21}, \hyperpage{65}, \hyperpage{88}
+  \item Collins, Michael, \hyperpage{28}, \hyperpage{49}
+  \item Collins-Thompson, Kevyn, \hyperpage{66}, \hyperpage{91}
+  \item Condoravdi, Cleo, \hyperpage{36}
+  \item Connelly, Matthew, \hyperpage{73}
+  \item Coppersmith, Glen, \hyperpage{19}
+  \item Cornegruta, Savelie, \hyperpage{20}, \hyperpage{67}, 
+		\hyperpage{93}
+  \item Cotterell, Ryan, \hyperpage{31}, \hyperpage{58}, \hyperpage{67}, 
+		\hyperpage{94}, \hyperpage{110}
+  \item Cross, James, \hyperpage{35}
+  \item Cui, Lei, \hyperpage{30}, \hyperpage{54}
 
   \indexspace
 
-  \item E Banchs, Rafael, \hyperpage{15}
-  \item Ehrenhard, Michel, \hyperpage{25}
-  \item Eisenberg, Joshua, \hyperpage{28}
-  \item Eisenstein, Jacob, \hyperpage{22}, \hyperpage{24}, 
-		\hyperpage{28}
-  \item Eisner, Ben, \hyperpage{20}
-  \item Eisner, Jason, \hyperpage{22}
-  \item Erk, Katrin, \hyperpage{27}
-  \item Erp, Marieke van, \hyperpage{28, 29}
-  \item Eskenazi, Maxine, \hyperpage{29}
+  \item D'hondt, Eva, \hyperpage{20}
+  \item Dagan, Ido, \hyperpage{31}, \hyperpage{56}, \hyperpage{108}
+  \item Dahlmeier, Daniel, \hyperpage{29}, \hyperpage{50}
+  \item Darrell, Trevor, \hyperpage{28}, \hyperpage{48}
+  \item Das, Abhishek, \hyperpage{31}, \hyperpage{57}
+  \item Das, Dipanjan, \hyperpage{106}
+  \item Davis, Anthony, \hyperpage{22}
+  \item De Leon, Eduardo, \hyperpage{66}, \hyperpage{92}
+  \item Dell'Orletta, Felice, \hyperpage{45}
+  \item Delli Bovi, Claudio, \hyperpage{28}, \hyperpage{47}
+  \item Demberg, Vera, \hyperpage{40}
+  \item Demeester, Thomas, \hyperpage{66}, \hyperpage{82}, 
+		\hyperpage{92}
+  \item Deng, Li, \hyperpage{66}, \hyperpage{91}, \hyperpage{104}
+  \item Deng, Zhi-Hong, \hyperpage{36}
+  \item Denis, Pascal, \hyperpage{40}
+  \item Denny, Matthew, \hyperpage{19}
+  \item Develder, Chris, \hyperpage{66}, \hyperpage{92}
+  \item DeYoung, Jay, \hyperpage{14}
+  \item Ding, Tao, \hyperpage{64}, \hyperpage{83}
+  \item Do, Quynh Ngoc Thi, \hyperpage{24}
+  \item Dodge, Jesse, \hyperpage{82}
+  \item Doggett, Erika, \hyperpage{14}
+  \item Dogruoz, A. Seza, \hyperpage{18}
+  \item Dollmann, Markus, \hyperpage{66}, \hyperpage{90}
+  \item Dong, Daxiang, \hyperpage{28}, \hyperpage{46}
+  \item Dong, Fei, \hyperpage{32}, \hyperpage{61}
+  \item Dong, Li, \hyperpage{29, 30}, \hyperpage{49}, \hyperpage{55}
+  \item Dou, Dejing, \hyperpage{32}, \hyperpage{59}
+  \item Dredze, Mark, \hyperpage{14}, \hyperpage{16}, \hyperpage{19}
+  \item Dror, Rotem, \hyperpage{28}, \hyperpage{48}
+  \item Duan, Hong, \hyperpage{28}, \hyperpage{46}, \hyperpage{49}
+  \item Duong, Long, \hyperpage{78}
+  \item Dyer, Chris, \hyperpage{1, 2}, \hyperpage{16}, 
+		\hyperpage{64, 65}, \hyperpage{67}, \hyperpage{72}, 
+		\hyperpage{74}, \hyperpage{84}, \hyperpage{89}, 
+		\hyperpage{93}, \hyperpage{95}, \hyperpage{110}
 
   \indexspace
 
-  \item Fang, Hao, \hyperpage{20}
-  \item Fang, Rui, \hyperpage{21}
-  \item Feng, Yansong, \hyperpage{7}, \hyperpage{16}
-  \item Ferracane, Elisa, \hyperpage{27}
-  \item Fidler,Sanja, \hyperpage{4}
-  \item Finlayson, Mark, \hyperpage{28}
-  \item Foreman, April, \hyperpage{25}
-  \item Fraiberger, Samuel, \hyperpage{25}
-  \item Fraser,Alex, \hyperpage{4}
-  \item Freitas, Jesse, \hyperpage{24}
+  \item E Banchs, Rafael, \hyperpage{9}
+  \item Ebert, Sebastian, \hyperpage{30}, \hyperpage{53}
+  \item Ebrahimi, Javid, \hyperpage{32}, \hyperpage{59}
+  \item Ehrenhard, Michel, \hyperpage{19}
+  \item Eichstaedt, Johannes, \hyperpage{68}, \hyperpage{96}
+  \item Eisenberg, Joshua, \hyperpage{22}
+  \item Eisenstein, Jacob, \hyperpage{16}, \hyperpage{18}, 
+		\hyperpage{22}, \hyperpage{28}, \hyperpage{48}, 
+		\hyperpage{64}, \hyperpage{83}
+  \item Eisner, Ben, \hyperpage{14}
+  \item Eisner, Jason, \hyperpage{16}, \hyperpage{67}, \hyperpage{94}
+  \item Erk, Katrin, \hyperpage{21}, \hyperpage{103}
+  \item Erp, Marieke van, \hyperpage{22, 23}
+  \item Eskenazi, Maxine, \hyperpage{23}, \hyperpage{66}, 
+		\hyperpage{91}
+  \item Espinosa Anke, Luis, \hyperpage{28}, \hyperpage{47}
 
   \indexspace
 
-  \item Galley, Michel, \hyperpage{3}
-  \item Ganchev,Kuzman, \hyperpage{4}
-  \item Ghaffari, Parsa, \hyperpage{30}
-  \item Gogate, Vibhav, \hyperpage{7}, \hyperpage{10}
-  \item Goldberg, Yoav, \hyperpage{7, 8}
-  \item Goldwasser, Dan, \hyperpage{22}, \hyperpage{25}
-  \item Goyal, Kartik, \hyperpage{22}
-  \item Goyal, Naman, \hyperpage{22}
-  \item Grau, Brigitte, \hyperpage{26}
-  \item Grefenstette,Ed, \hyperpage{4}
-  \item Grouin, Cyril, \hyperpage{26}
+  \item Falke, Tobias, \hyperpage{31}, \hyperpage{56}
+  \item Fang, Hao, \hyperpage{14}, \hyperpage{104}
+  \item Fang, Rui, \hyperpage{15}
+  \item Fast, Ethan, \hyperpage{29}, \hyperpage{52}
+  \item Federico, Marcello, \hyperpage{43}
+  \item Felshin, Sue, \hyperpage{67}, \hyperpage{93}
+  \item Feng, Yansong, \hyperpage{1}, \hyperpage{10}
+  \item Ferracane, Elisa, \hyperpage{21}
+  \item Ferraro, Gabriela, \hyperpage{31}, \hyperpage{56}
+  \item Ficler, Jessica, \hyperpage{35}
+  \item Finlayson, Mark, \hyperpage{22}
+  \item Firat, Orhan, \hyperpage{43}
+  \item Fisch, Adam, \hyperpage{82}
+  \item Florian, Radu, \hyperpage{78}
+  \item Foreman, April, \hyperpage{19}
+  \item Fraiberger, Samuel, \hyperpage{19}
+  \item Freitas, Jesse, \hyperpage{18}
+  \item Frishkoff, Gwen, \hyperpage{66}, \hyperpage{91}
+  \item Fukui, Akira, \hyperpage{28}, \hyperpage{48}
+  \item Funakoshi, Kotaro, \hyperpage{102}
+  \item Fung, Pascale, \hyperpage{32}, \hyperpage{61}
+  \item Fyshe, Alona, \hyperpage{67}, \hyperpage{81}, \hyperpage{95}
 
   \indexspace
 
-  \item Hamilton, William L., \hyperpage{25}
-  \item Hamon, Thierry, \hyperpage{26}
-  \item Handler, Abram, \hyperpage{25}
-  \item Hathi, Shobhit, \hyperpage{21}
-  \item Hermey, Yannik, \hyperpage{28}
-  \item Hiemstra, Djoerd, \hyperpage{25}
-  \item Hockenmaier,Julia, \hyperpage{4}
-  \item Hollingshead, Kristy, \hyperpage{25}
-  \item Hovy, Dirk, \hyperpage{24}
-  \item Hovy, Eduard, \hyperpage{29}
-  \item Hovy,Dirk, \hyperpage{5}
-  \item Hsieh, Yu-Lun, \hyperpage{21}
-  \item Hsu, Wen-Lian, \hyperpage{21}
-  \item Huang, Chung-Chi, \hyperpage{27}
-  \item Huang, Degen, \hyperpage{22}
-  \item Huang,Liang, \hyperpage{4}
-  \item Huang,Ruihong, \hyperpage{4}
-  \item Hurst, Amy, \hyperpage{30}
-  \item Hwa, Rebecca, \hyperpage{3}
+  \item Galley, Michel, \hyperpage{76}
+  \item Ganguly, Niloy, \hyperpage{73}
+  \item Gao, Bin, \hyperpage{29}, \hyperpage{49}
+  \item Gao, Jianfeng, \hyperpage{66}, \hyperpage{76}, \hyperpage{91}, 
+		\hyperpage{104}
+  \item Gasic, Milica, \hyperpage{102}
+  \item Ge, Tao, \hyperpage{30}, \hyperpage{54}, \hyperpage{111}
+  \item Geierhos, Michaela, \hyperpage{66}, \hyperpage{90}
+  \item Geng, Xin, \hyperpage{29}, \hyperpage{51}
+  \item Gerz, Daniela, \hyperpage{103}
+  \item Ghaffari, Parsa, \hyperpage{24}, \hyperpage{32}, \hyperpage{59}
+  \item Ghazvininejad, Marjan, \hyperpage{76}
+  \item Gildea, Daniel, \hyperpage{68}, \hyperpage{97}
+  \item Gillespie, Duncan, \hyperpage{108}
+  \item Gimpel, Kevin, \hyperpage{64}, \hyperpage{85}, \hyperpage{106}
+  \item Giorgi, Salvatore, \hyperpage{68}, \hyperpage{96}
+  \item Gogate, Vibhav, \hyperpage{1}, \hyperpage{4}
+  \item Goldberg, Adele E., \hyperpage{37}
+  \item Goldberg, Yoav, \hyperpage{1, 2}, \hyperpage{35}, 
+		\hyperpage{67}, \hyperpage{95}
+  \item Goldwasser, Dan, \hyperpage{16}, \hyperpage{19}
+  \item Golub, David, \hyperpage{65}, \hyperpage{86}
+  \item Gong, Yeyun, \hyperpage{30}, \hyperpage{55}
+  \item Goodman, Noah D., \hyperpage{106}
+  \item Goyal, Kartik, \hyperpage{16}
+  \item Goyal, Naman, \hyperpage{16}
+  \item Goyal, Yash, \hyperpage{64}, \hyperpage{84}
+  \item Grangier, David, \hyperpage{76}
+  \item Grau, Brigitte, \hyperpage{20}
+  \item Green, Lisa, \hyperpage{73}
+  \item Greenberg, Clayton, \hyperpage{64}, \hyperpage{84}
+  \item Grefenstette, Edward, \hyperpage{72}
+  \item Grishman, Ralph, \hyperpage{30}, \hyperpage{56}
+  \item Gross, Justin, \hyperpage{63}, \hyperpage{83}
+  \item Grouin, Cyril, \hyperpage{20}
+  \item Grundkiewicz, Roman, \hyperpage{64}, \hyperpage{85}
+  \item Grycner, Adam, \hyperpage{103}
+  \item Gu, Yanhui, \hyperpage{29}, \hyperpage{52}
+  \item Gu, Youyang, \hyperpage{68}, \hyperpage{97}
+  \item Gui, Lin, \hyperpage{65}, \hyperpage{87}
+  \item Guo, Li, \hyperpage{40}
+  \item Guo, Shu, \hyperpage{40}
+  \item Guo, Ya, \hyperpage{30}, \hyperpage{53}
+  \item Gur, Izzeddin, \hyperpage{29}, \hyperpage{39}, \hyperpage{49}
+  \item Gurevych, Iryna, \hyperpage{31}, \hyperpage{56}, \hyperpage{77}
+  \item Guthrie, Robert, \hyperpage{28}, \hyperpage{48}
+  \item Guzm\IeC {\'a}n, Francisco, \hyperpage{65}, \hyperpage{86}
 
   \indexspace
 
-  \item Ifrim, Georgiana, \hyperpage{28}
-  \item Ilievski, Filip, \hyperpage{29}
-  \item Ingraham, Loring, \hyperpage{25}
-  \item Ireland, Molly, \hyperpage{25}
+  \item Habernal, Ivan, \hyperpage{77}
+  \item Haddow, Barry, \hyperpage{78}
+  \item Haffari, Gholamreza, \hyperpage{31}, \hyperpage{57}
+  \item Hahn, Michael, \hyperpage{37}
+  \item Hai, Zhen, \hyperpage{66}, \hyperpage{90}
+  \item Hajishirzi, Hannaneh, \hyperpage{65}, \hyperpage{87}
+  \item Hamilton, William L., \hyperpage{19}, \hyperpage{29}, 
+		\hyperpage{32}, \hyperpage{50}, \hyperpage{60}
+  \item Hammond, Michael, \hyperpage{39}
+  \item Hamon, Thierry, \hyperpage{20}
+  \item Han, Jiawei, \hyperpage{82}
+  \item Han, Wenjuan, \hyperpage{30}, \hyperpage{53}
+  \item Handler, Abram, \hyperpage{19}
+  \item Hardt, Daniel, \hyperpage{77}
+  \item Hathi, Shobhit, \hyperpage{15}
+  \item He, Ji, \hyperpage{66}, \hyperpage{91}
+  \item He, Luheng, \hyperpage{110}
+  \item He, Shizhu, \hyperpage{30}, \hyperpage{55}
+  \item He, Wenqi, \hyperpage{82}
+  \item He, Xiaodong, \hyperpage{65, 66}, \hyperpage{86}, 
+		\hyperpage{91}, \hyperpage{104}
+  \item He, Yunzhong, \hyperpage{64}, \hyperpage{84}
+  \item Hendricks, Lisa Anne, \hyperpage{67}, \hyperpage{93}
+  \item Hermann, Karl Moritz, \hyperpage{72}
+  \item Hermey, Yannik, \hyperpage{22}
+  \item Hiemstra, Djoerd, \hyperpage{19}
+  \item Hill, Felix, \hyperpage{103}
+  \item Hirao, Tsutomu, \hyperpage{32}, \hyperpage{61}
+  \item Hoang, Duc Tam, \hyperpage{66}, \hyperpage{92}
+  \item Hockenmaier, Julia, \hyperpage{67}, \hyperpage{95}
+  \item Hollingshead, Kristy, \hyperpage{19}
+  \item Horvitz, Eric, \hyperpage{29}, \hyperpage{52}
+  \item Hospedales, Timothy, \hyperpage{31}, \hyperpage{57}
+  \item Hou, Weiwei, \hyperpage{31}, \hyperpage{56}
+  \item Hovy, Dirk, \hyperpage{18}
+  \item Hovy, Eduard, \hyperpage{23}
+  \item Hsieh, Yu-Lun, \hyperpage{15}
+  \item Hsu, Wen-Lian, \hyperpage{15}
+  \item Hu, Yu, \hyperpage{29}, \hyperpage{52}
+  \item Hu, Zhiting, \hyperpage{65}, \hyperpage{88}
+  \item Huang, Chu-Ren, \hyperpage{67}, \hyperpage{94}
+  \item Huang, Chung-Chi, \hyperpage{21}
+  \item Huang, Degen, \hyperpage{16}
+  \item Huang, Liang, \hyperpage{35}
+  \item Huang, Lifu, \hyperpage{82}
+  \item Huang, Minlie, \hyperpage{29}, \hyperpage{50}
+  \item Huang, Ruihong, \hyperpage{31}, \hyperpage{36}, \hyperpage{56}
+  \item Huang, Xuanjing, \hyperpage{30}, \hyperpage{37}, \hyperpage{53}, 
+		\hyperpage{55}, \hyperpage{65}, \hyperpage{88}
+  \item Huang, Yan, \hyperpage{104}
+  \item Huang, Yanzhou, \hyperpage{109}
+  \item Huang, Yu-Yang, \hyperpage{30}, \hyperpage{54}
+  \item Hui, Siu Cheung, \hyperpage{28}, \hyperpage{46}
+  \item Hullman, Jessica, \hyperpage{32}, \hyperpage{61}
+  \item Hurst, Amy, \hyperpage{24}
+  \item Hwa, Rebecca, \hyperpage{65}, \hyperpage{89}
 
   \indexspace
 
-  \item Jaech, Aaron, \hyperpage{21}
-  \item Jain, Siddharth, \hyperpage{20}
-  \item Ji, Heng, \hyperpage{24}
-  \item Johnson, Kristen, \hyperpage{25}
-  \item Johnson, Todd, \hyperpage{26}
-  \item Joseph, Kenneth, \hyperpage{24}
-  \item Jurgens, David, \hyperpage{24}
+  \item Ifrim, Georgiana, \hyperpage{22}
+  \item Iida, Ryu, \hyperpage{77}
+  \item Ilievski, Filip, \hyperpage{23}
+  \item Ingraham, Loring, \hyperpage{19}
+  \item Ireland, Molly, \hyperpage{19}
+  \item Islam, Aminul, \hyperpage{66}, \hyperpage{92}
+  \item Ittycheriah, Abe, \hyperpage{31}, \hyperpage{58}, 
+		\hyperpage{108}
 
   \indexspace
 
-  \item Kabbara, Jad, \hyperpage{30}
-  \item Kan,Min-Yen, \hyperpage{4}
-  \item Kawahara,Daisuke, \hyperpage{4}
-  \item Kim, Sunghwan Mac, \hyperpage{20}, \hyperpage{25}
-  \item Kirchhoff, Katrin, \hyperpage{26}
-  \item Knight, Kevin, \hyperpage{23, 24}
-  \item Knowles, Rebecca, \hyperpage{25}
-  \item Kokkinakis, Dimitrios, \hyperpage{26}
-  \item Kondrak, Greg, \hyperpage{3}
-  \item Kriesi, Hanspeter, \hyperpage{25}
-  \item Krishnan, Vinodh, \hyperpage{28}
-  \item Ku, Lun-Wei, \hyperpage{20}
+  \item Jaakkola, Tommi, \hyperpage{37}, \hyperpage{68}, \hyperpage{97}
+  \item Jaech, Aaron, \hyperpage{15}
+  \item Jagadish, H V, \hyperpage{36}
+  \item Jagannatha, Abhyuday, \hyperpage{30}, \hyperpage{55}
+  \item Jain, Hirsh, \hyperpage{68}, \hyperpage{96}
+  \item Jain, Siddharth, \hyperpage{14}
+  \item Jansen, Peter, \hyperpage{39}
+  \item Ji, Heng, \hyperpage{18}, \hyperpage{32}, \hyperpage{59}, 
+		\hyperpage{82}
+  \item Ji, Rongrong, \hyperpage{28}, \hyperpage{46}
+  \item Ji, Shihao, \hyperpage{29}, \hyperpage{51}
+  \item Jiang, Jing, \hyperpage{41}
+  \item Jiang, Tingsong, \hyperpage{67}, \hyperpage{95}, 
+		\hyperpage{111}
+  \item Jiang, Wenbin, \hyperpage{28}, \hyperpage{48}
+  \item Jiang, Yong, \hyperpage{30}, \hyperpage{53}
+  \item Jin, Zhi, \hyperpage{28}, \hyperpage{48}
+  \item Johnson, Kristen, \hyperpage{19}
+  \item Johnson, Mark, \hyperpage{35}
+  \item Johnson, Todd, \hyperpage{20}
+  \item Joseph, Kenneth, \hyperpage{18}
+  \item Joshi, Aditya, \hyperpage{32}, \hyperpage{59}
+  \item Junczys-Dowmunt, Marcin, \hyperpage{64}, \hyperpage{85}
+  \item Jurafsky, Dan, \hyperpage{29}, \hyperpage{32}, \hyperpage{36}, 
+		\hyperpage{50}, \hyperpage{60}, \hyperpage{76}
+  \item Jurgens, David, \hyperpage{18}
 
   \indexspace
 
-  \item Lalor, John, \hyperpage{26}
-  \item Lavergne, Thomas, \hyperpage{27}
-  \item Lee, Kyusong, \hyperpage{29}
-  \item Leskovec, Jure, \hyperpage{25}
-  \item Lewis, Timothy, \hyperpage{30}
-  \item Li, Chang, \hyperpage{22}
-  \item Li, Cheng-Te, \hyperpage{20}
-  \item Li, Hang, \hyperpage{3}
-  \item Li, Quanzhi, \hyperpage{21}
-  \item Liu, Bing, \hyperpage{7}, \hyperpage{12}
-  \item LIU, XIAOMO, \hyperpage{21}
-  \item Liu,Bing, \hyperpage{5}
-  \item Liu,Yang, \hyperpage{4}
-  \item Lorenzini, Jasmine, \hyperpage{25}
-  \item Louis, Annie, \hyperpage{3}, \hyperpage{29}
-  \item Loveys, Kate, \hyperpage{25}
-  \item Lu, Zhiyong, \hyperpage{27}
-  \item Lundholm Fors, Kristina, \hyperpage{26}
+  \item Kabbara, Jad, \hyperpage{24}
+  \item Kamigaito, Hidetaka, \hyperpage{67}, \hyperpage{95}
+  \item Kanayama, Hiroshi, \hyperpage{78}
+  \item Kann, Katharina, \hyperpage{31}, \hyperpage{58}
+  \item Karimi, Amir-Hossein, \hyperpage{82}
+  \item Katz, Boris, \hyperpage{67}, \hyperpage{93}, \hyperpage{104}
+  \item Kawahara, Daisuke, \hyperpage{28}, \hyperpage{48}
+  \item Kawakami, Kazuya, \hyperpage{67}, \hyperpage{93}
+  \item Kekec, Taygun, \hyperpage{32}, \hyperpage{61}
+  \item Keller, Frank, \hyperpage{37}
+  \item Kembhavi, Aniruddha, \hyperpage{39}
+  \item Kenyon-Dean, Kian, \hyperpage{65}, \hyperpage{89}
+  \item Kiddon, Chlo\IeC {\'e}, \hyperpage{45}
+  \item Kiela, Douwe, \hyperpage{28}, \hyperpage{47}
+  \item Kikuchi, Yuta, \hyperpage{80}
+  \item Kim, Annice, \hyperpage{41}
+  \item Kim, Sunghwan Mac, \hyperpage{14}, \hyperpage{19}
+  \item Kim, Yea Seul, \hyperpage{32}, \hyperpage{61}
+  \item Kim, Yoon, \hyperpage{80}
+  \item Kim, Young-Bum, \hyperpage{68}, \hyperpage{97}
+  \item Kirchhoff, Katrin, \hyperpage{20}
+  \item Klakow, Dietrich, \hyperpage{40}, \hyperpage{64}, 
+		\hyperpage{84}
+  \item Klein, Dan, \hyperpage{76}
+  \item Kliegl, Reinhold, \hyperpage{29}, \hyperpage{50}
+  \item Kloetzer, Julien, \hyperpage{77}
+  \item Knight, Kevin, \hyperpage{17, 18}, \hyperpage{64}, 
+		\hyperpage{76}, \hyperpage{85, 86}, \hyperpage{108}
+  \item Knowles, Rebecca, \hyperpage{19}
+  \item Ko\IeC {\v c}isk\IeC {\'y}, Tom\IeC {\'a}\IeC {\v s}, 
+		\hyperpage{72}
+  \item Kober, Thomas, \hyperpage{65}, \hyperpage{88}
+  \item Kochersberger, Kevin, \hyperpage{64}, \hyperpage{84}
+  \item Kokkinakis, Dimitrios, \hyperpage{20}
+  \item Koncel-Kedziorski, Rik, \hyperpage{65}, \hyperpage{87}
+  \item Kong, Lingpeng, \hyperpage{65}, \hyperpage{89}
+  \item Konstas, Ioannis, \hyperpage{65}, \hyperpage{87}
+  \item Korhonen, Anna, \hyperpage{103, 104}
+  \item Kraft, Peter, \hyperpage{68}, \hyperpage{96}
+  \item Kriesi, Hanspeter, \hyperpage{19}
+  \item Krishnamurthy, Jayant, \hyperpage{39}
+  \item Krishnan, Vinodh, \hyperpage{22}
+  \item Kruengkrai, Canasai, \hyperpage{77}
+  \item Kruszewski, Germ\IeC {\'a}n, \hyperpage{74}
+  \item Ku, Lun-Wei, \hyperpage{14}
+  \item Kumar, Arun, \hyperpage{110}
+  \item Kumaravel, Sadhana, \hyperpage{64}, \hyperpage{83}
+  \item Kunchukuttan, Anoop, \hyperpage{66}, \hyperpage{92}
+  \item Kuncoro, Adhiguna, \hyperpage{65}, \hyperpage{89}
+  \item Kurata, Gakuto, \hyperpage{68}, \hyperpage{97}
+  \item Kurohashi, Sadao, \hyperpage{28}, \hyperpage{48}, 
+		\hyperpage{108}
+  \item Kushman, Nate, \hyperpage{66}, \hyperpage{92}
+  \item Kwon, Heeyoung, \hyperpage{64}, \hyperpage{83}
 
   \indexspace
 
-  \item Makarov, Peter, \hyperpage{25}
-  \item Marcu, Daniel, \hyperpage{23}
-  \item Marshall, Iain, \hyperpage{27}
-  \item Martins,Andre, \hyperpage{4}
-  \item Matuszek, Cynthia, \hyperpage{30}
-  \item McKeown, Kathy, \hyperpage{24}
-  \item Mihalcea, Rada, \hyperpage{25}
-  \item Miller, Ben, \hyperpage{28}
-  \item Mitamura, Teruko, \hyperpage{29}
-  \item Moens, Marie-Francine, \hyperpage{30}
-  \item Mohammad, Saif M., \hyperpage{3}
-  \item Mohammad,Saif, \hyperpage{5}
-  \item Montana, Giovanni, \hyperpage{26}
-  \item Mooney, Raymond, \hyperpage{29}
-  \item Mooney,Ray, \hyperpage{4}
-  \item Mukherjee, Arjun, \hyperpage{26}
-  \item Mulcaire, George, \hyperpage{21}
-  \item Munkhdalai, Tsendsuren, \hyperpage{26}
-  \item Muresan,Smaranda, \hyperpage{5}
+  \item L\IeC {\"o}fgren, Jonathan, \hyperpage{31}, \hyperpage{58}
+  \item Labaka, Gorka, \hyperpage{108}
+  \item Laddha, Abhishek, \hyperpage{29}, \hyperpage{51}
+  \item Laddha, Ankit, \hyperpage{64}, \hyperpage{84}
+  \item Lalor, John, \hyperpage{20}, \hyperpage{29}, \hyperpage{51}
+  \item Landwehr, Niels, \hyperpage{29}, \hyperpage{50}
+  \item Lapata, Mirella, \hyperpage{29}, \hyperpage{49}
+  \item Lavergne, Thomas, \hyperpage{21}
+  \item Lawless, S\IeC {\'e}amus, \hyperpage{29}, \hyperpage{52}
+  \item Lebret, R\IeC {\'e}mi, \hyperpage{76}
+  \item Lee, Kyusong, \hyperpage{23}
+  \item Lei, Tao, \hyperpage{37}, \hyperpage{68}, \hyperpage{97}
+  \item Lenci, Alessandro, \hyperpage{31}, \hyperpage{58}, 
+		\hyperpage{67}, \hyperpage{94}
+  \item Leskovec, Jure, \hyperpage{19}, \hyperpage{29}, \hyperpage{32}, 
+		\hyperpage{50}, \hyperpage{60}
+  \item Lewis, Mike, \hyperpage{110}
+  \item Lewis, Timothy, \hyperpage{24}
+  \item Li, Chang, \hyperpage{16}
+  \item Li, Cheng-Te, \hyperpage{14}
+  \item Li, Ge, \hyperpage{28}, \hyperpage{48}
+  \item Li, Guangxia, \hyperpage{66}, \hyperpage{90}
+  \item Li, Hang, \hyperpage{43}
+  \item Li, Jiwei, \hyperpage{76}
+  \item Li, Lihong, \hyperpage{66}, \hyperpage{91}
+  \item Li, Peifeng, \hyperpage{30}, \hyperpage{54}
+  \item Li, Peng, \hyperpage{31}, \hyperpage{58}
+  \item Li, Qi, \hyperpage{28}, \hyperpage{46}
+  \item Li, Quanzhi, \hyperpage{15}
+  \item Li, Ran, \hyperpage{29}, \hyperpage{52}
+  \item Li, Rui, \hyperpage{31}, \hyperpage{58}
+  \item Li, Sujian, \hyperpage{30}, \hyperpage{54}, \hyperpage{67}, 
+		\hyperpage{77}, \hyperpage{95}, \hyperpage{111}
+  \item Li, Tao, \hyperpage{103}
+  \item Li, Tianshi, \hyperpage{28}, \hyperpage{46}
+  \item Li, Xiao-Li, \hyperpage{66}, \hyperpage{90}
+  \item Li, Yitong, \hyperpage{67}, \hyperpage{94}
+  \item Li, Yunyao, \hyperpage{31}, \hyperpage{59}
+  \item Li, Zhenghua, \hyperpage{30}, \hyperpage{53}
+  \item Lin, Shou-De, \hyperpage{30}, \hyperpage{54}
+  \item Lin, Yankai, \hyperpage{65}, \hyperpage{87}
+  \item Ling, Wang, \hyperpage{72}
+  \item Ling, Zhen-Hua, \hyperpage{29}, \hyperpage{52}
+  \item Lippincott, Tom, \hyperpage{32}, \hyperpage{60}
+  \item Litman, Diane, \hyperpage{64}, \hyperpage{83}
+  \item Liu, Bing, \hyperpage{1}, \hyperpage{6}, \hyperpage{41}
+  \item Liu, Changsong, \hyperpage{64}, \hyperpage{84}
+  \item Liu, Chia-Wei, \hyperpage{102}
+  \item Liu, Jianxun, \hyperpage{29}, \hyperpage{52}
+  \item Liu, Kang, \hyperpage{30}, \hyperpage{55}, \hyperpage{82}
+  \item Liu, Pengfei, \hyperpage{37}, \hyperpage{65}, \hyperpage{88}
+  \item Liu, Qun, \hyperpage{28}, \hyperpage{30}, \hyperpage{43}, 
+		\hyperpage{46}, \hyperpage{53}
+  \item Liu, Tianyu, \hyperpage{111}
+  \item Liu, Tie-Yan, \hyperpage{29}, \hyperpage{49}
+  \item Liu, Ting, \hyperpage{41}
+  \item LIU, XIAOMO, \hyperpage{15}
+  \item Liu, Xuan, \hyperpage{28}, \hyperpage{46}
+  \item Liu, Yang, \hyperpage{77}
+  \item Liu, Zhiyuan, \hyperpage{65}, \hyperpage{87}
+  \item Livescu, Karen, \hyperpage{64}, \hyperpage{85}
+  \item Locascio, Nicholas, \hyperpage{66}, \hyperpage{92}
+  \item Lorenzini, Jasmine, \hyperpage{19}
+  \item Louis, Annie, \hyperpage{23}
+  \item Louvan, Samuel, \hyperpage{64}, \hyperpage{83}
+  \item Loveys, Kate, \hyperpage{19}
+  \item Lowd, Daniel, \hyperpage{32}, \hyperpage{59}
+  \item Lowe, Ryan, \hyperpage{102}
+  \item Lu, Qin, \hyperpage{65}, \hyperpage{87}
+  \item Lu, Wei, \hyperpage{31}, \hyperpage{36}, \hyperpage{58}, 
+		\hyperpage{68}, \hyperpage{97}
+  \item Lu, Zhengdong, \hyperpage{43}
+  \item Lu, Zhiyong, \hyperpage{21}
+  \item Lundholm Fors, Kristina, \hyperpage{20}
+  \item Luo, Wei, \hyperpage{30}, \hyperpage{54}
+  \item Luo, Zhunchen, \hyperpage{30}, \hyperpage{54}
+  \item Luu Anh, Tuan, \hyperpage{28}, \hyperpage{46}
+  \item Lv, Weifeng, \hyperpage{30}, \hyperpage{55}
 
   \indexspace
 
-  \item N\IeC {\'e}v\IeC {\'e}ol, Aur\IeC {\'e}lie, \hyperpage{26}
-  \item Nakov,Preslav, \hyperpage{5}
-  \item Nastase,Vivi, \hyperpage{5}
-  \item Navindgi, Amit, \hyperpage{20}
-  \item Nay, John J., \hyperpage{24}
-  \item Need, Ariana, \hyperpage{25}
-  \item Neubig, Graham, \hyperpage{7, 8}
-  \item Neveol, Aurelie, \hyperpage{26}
-  \item Ng, Vincent, \hyperpage{3}, \hyperpage{7}, \hyperpage{10}
-  \item Nordlund, Arto, \hyperpage{26}
-  \item Nourbakhsh, Armineh, \hyperpage{21}
-  \item Nowson, Scott, \hyperpage{20}
+  \item M\IeC {\"u}ller, Thomas, \hyperpage{30}, \hyperpage{53}
+  \item M\IeC {\`a}rquez, Llu\IeC {\'\i }s, \hyperpage{65}, 
+		\hyperpage{86}
+  \item Ma, Chao, \hyperpage{81}
+  \item Ma, Shulei, \hyperpage{36}
+  \item Ma, Tengfei, \hyperpage{78}
+  \item Makarov, Peter, \hyperpage{19}
+  \item Malliaros, Fragkiskos, \hyperpage{66}, \hyperpage{91}
+  \item Manning, Christopher D., \hyperpage{107}
+  \item Marcu, Daniel, \hyperpage{17}
+  \item Marinho, Zita, \hyperpage{44}
+  \item Marshall, Iain, \hyperpage{21}, \hyperpage{30}, \hyperpage{54}
+  \item Mart\IeC {\'\i }nez-G\IeC {\'o}mez, Pascual, \hyperpage{35}, 
+		\hyperpage{106}
+  \item Martins, Andr\IeC {\'e} F. T., \hyperpage{44}
+  \item Matsumoto, Yuji, \hyperpage{32}, \hyperpage{60}
+  \item Matsushima, Shin, \hyperpage{29}, \hyperpage{51}
+  \item Matuszek, Cynthia, \hyperpage{24}
+  \item May, Jonathan, \hyperpage{64}, \hyperpage{86}
+  \item McAllester, David, \hyperpage{106}
+  \item McKeown, Kathy, \hyperpage{18}
+  \item Melis, G\IeC {\'a}bor, \hyperpage{72}
+  \item Meng, Zhao, \hyperpage{28}, \hyperpage{48}
+  \item Mesgar, Mohsen, \hyperpage{30}, \hyperpage{54}
+  \item Mi, Haitao, \hyperpage{31}, \hyperpage{58}, \hyperpage{108}
+  \item Miao, Yishu, \hyperpage{45}
+  \item Michael, Julian, \hyperpage{110}
+  \item Mihalcea, Rada, \hyperpage{19}
+  \item Milios, Evangelos, \hyperpage{66}, \hyperpage{92}
+  \item Miller, Alexander, \hyperpage{82}
+  \item Miller, Ben, \hyperpage{22}
+  \item Milli, Smitha, \hyperpage{68}, \hyperpage{96}
+  \item Mineshima, Koji, \hyperpage{106}
+  \item Misra, Dipendra Kumar, \hyperpage{66}, \hyperpage{89}
+  \item Mitamura, Teruko, \hyperpage{23}
+  \item Miyamoto, Yasumasa, \hyperpage{67}, \hyperpage{94}
+  \item Miyao, Yusuke, \hyperpage{35}, \hyperpage{106}
+  \item Moens, Marie-Francine, \hyperpage{24}
+  \item Moh'd, Abidalrahman, \hyperpage{66}, \hyperpage{92}
+  \item Monroe, Will, \hyperpage{76}, \hyperpage{106}
+  \item Montana, Giovanni, \hyperpage{20}
+  \item Mooney, Raymond, \hyperpage{23}, \hyperpage{67}, \hyperpage{93}
+  \item Morales, Alvaro, \hyperpage{67}, \hyperpage{93}
+  \item Morency, Louis-Philippe, \hyperpage{66}, \hyperpage{90}
+  \item Moritz, Maria, \hyperpage{66}, \hyperpage{91}
+  \item Mortensen, David, \hyperpage{64}, \hyperpage{84}
+  \item Mou, Lili, \hyperpage{28}, \hyperpage{48}
+  \item Mrk\IeC {\v s}i\IeC {\'c}, Nikola, \hyperpage{102}
+  \item Muis, Aldrian Obaja, \hyperpage{36}
+  \item Mukherjee, Arjun, \hyperpage{20}, \hyperpage{29}, 
+		\hyperpage{51}
+  \item Mukherjee, Tanmoy, \hyperpage{31}, \hyperpage{57}
+  \item Mulcaire, George, \hyperpage{15}
+  \item Munkhdalai, Tsendsuren, \hyperpage{20}
+  \item Murphy, Brian, \hyperpage{67}, \hyperpage{95}
 
   \indexspace
 
-  \item O'Connor, Brendan, \hyperpage{24, 25}
-  \item O'Gorman, Tim, \hyperpage{28}
-  \item Oh, Alice, \hyperpage{24}
-  \item Orth, Carsten, \hyperpage{28}
-  \item Ostendorf, Mari, \hyperpage{20, 21}
+  \item N\IeC {\'e}v\IeC {\'e}ol, Aur\IeC {\'e}lie, \hyperpage{20}
+  \item Nagata, Masaaki, \hyperpage{32}, \hyperpage{61}
+  \item Naik, Chetan, \hyperpage{64}, \hyperpage{83}
+  \item Nakamura, Satoshi, \hyperpage{64}, \hyperpage{86}
+  \item Nakano, Mikio, \hyperpage{102}
+  \item Nakazawa, Toshiaki, \hyperpage{28}, \hyperpage{48}, 
+		\hyperpage{108}
+  \item Nakov, Preslav, \hyperpage{65}, \hyperpage{86}
+  \item Napoles, Courtney, \hyperpage{68}, \hyperpage{98}
+  \item Narasimhan, Karthik, \hyperpage{66}, \hyperpage{92}
+  \item Narayanam, Ramasuri, \hyperpage{81}
+  \item Navindgi, Amit, \hyperpage{14}
+  \item Nay, John J., \hyperpage{18}
+  \item Need, Ariana, \hyperpage{19}
+  \item Neubig, Graham, \hyperpage{1, 2}, \hyperpage{64}, 
+		\hyperpage{74}, \hyperpage{80}, \hyperpage{86}
+  \item Neveol, Aurelie, \hyperpage{20}
+  \item Ng, Hwee Tou, \hyperpage{66}, \hyperpage{91, 92}
+  \item Ng, See Kiong, \hyperpage{28}, \hyperpage{46}
+  \item Ng, Vincent, \hyperpage{1}, \hyperpage{4}
+  \item Nguyen, Thien Huu, \hyperpage{30}, \hyperpage{56}
+  \item Ni, Jian, \hyperpage{78}
+  \item Nimishakavi, Madhav, \hyperpage{28}, \hyperpage{47}
+  \item Noji, Hiroshi, \hyperpage{35}
+  \item Nordlund, Arto, \hyperpage{20}
+  \item Noseworthy, Mike, \hyperpage{102}
+  \item Nourbakhsh, Armineh, \hyperpage{15}
+  \item Nowson, Scott, \hyperpage{14}
 
   \indexspace
 
-  \item Pacheco, Mar\IeC {\'\i }a Leonor, \hyperpage{22}
-  \item Palen, Leysia, \hyperpage{20}
-  \item Palmer, Martha, \hyperpage{20}, \hyperpage{28}
-  \item Pappas, Nikolaos, \hyperpage{21}
-  \item Paris, Cecile, \hyperpage{20}, \hyperpage{25}
-  \item Patwardhan, Siddharth, \hyperpage{3}
-  \item Paul, Michael J., \hyperpage{20}
-  \item Pedersen, Ted, \hyperpage{20}, \hyperpage{26}
-  \item Pelecanos, Jason, \hyperpage{29}
-  \item Pennebaker, James, \hyperpage{25}
-  \item Petersen, Steffen, \hyperpage{26}
-  \item Piccardi, Massimo, \hyperpage{26}
-  \item Pichotta, Karl, \hyperpage{29}
-  \item Pighin, Daniele, \hyperpage{3}
-  \item Poghosyan, Gevorg, \hyperpage{28}
-  \item Popescu-Belis, Andrei, \hyperpage{21}
-  \item Postma, Marten, \hyperpage{29}
-  \item Poulston, Adam, \hyperpage{24}
-  \item Priante, Anna, \hyperpage{25}
+  \item O'Connor, Brendan, \hyperpage{18, 19}, \hyperpage{73}
+  \item O'Gorman, Tim, \hyperpage{22}
+  \item Oh, Alice, \hyperpage{18}
+  \item Oh, Jong-Hoon, \hyperpage{77}
+  \item Okazaki, Naoaki, \hyperpage{32}, \hyperpage{61}
+  \item Okumura, Manabu, \hyperpage{67}, \hyperpage{80}, \hyperpage{95}
+  \item Onishi, Takeshi, \hyperpage{106}
+  \item Orth, Carsten, \hyperpage{22}
+  \item Ostendorf, Mari, \hyperpage{14, 15}, \hyperpage{32}, 
+		\hyperpage{60}, \hyperpage{66}, \hyperpage{91}
+  \item Otani, Naoki, \hyperpage{28}, \hyperpage{48}
+  \item Oualil, Youssef, \hyperpage{64}, \hyperpage{84}
+  \item Ouchi, Hiroki, \hyperpage{102}
 
   \indexspace
 
-  \item Quattoni,Ariadna, \hyperpage{4}
+  \item P, Deepak, \hyperpage{64}, \hyperpage{86}
+  \item Pacheco, Mar\IeC {\'\i }a Leonor, \hyperpage{16}
+  \item Padhi, Inkit, \hyperpage{64}, \hyperpage{85}
+  \item Palen, Leysia, \hyperpage{14}
+  \item Paletz, Susannah, \hyperpage{64}, \hyperpage{83}
+  \item Palmer, Martha, \hyperpage{14}, \hyperpage{22}
+  \item Pan, Shimei, \hyperpage{64}, \hyperpage{83}
+  \item Pan, Sinno Jialin, \hyperpage{29}, \hyperpage{50}
+  \item Pan, Xiaoman, \hyperpage{32}, \hyperpage{59}
+  \item Pappas, Nikolaos, \hyperpage{15}
+  \item Parikh, Ankur, \hyperpage{106}
+  \item Parikh, Devi, \hyperpage{31}, \hyperpage{57}, \hyperpage{67}, 
+		\hyperpage{93}
+  \item Paris, Cecile, \hyperpage{14}, \hyperpage{19}
+  \item Park, Dong Huk, \hyperpage{28}, \hyperpage{48}
+  \item Parveen, Daraksha, \hyperpage{30}, \hyperpage{54}
+  \item Patel, Kevin, \hyperpage{32}, \hyperpage{59}
+  \item Paul, Michael J., \hyperpage{14}
+  \item Pavlek, Barbara, \hyperpage{66}, \hyperpage{91}
+  \item Pavlick, Ellie, \hyperpage{32}, \hyperpage{59}, \hyperpage{106}
+  \item Pedersen, Ted, \hyperpage{14}, \hyperpage{20}
+  \item Pelecanos, Jason, \hyperpage{23}
+  \item Peng, Haoruo, \hyperpage{28}, \hyperpage{46}
+  \item Peng, Xiaochang, \hyperpage{68}, \hyperpage{97}
+  \item Pennebaker, James, \hyperpage{19}
+  \item Petersen, Steffen, \hyperpage{20}
+  \item Peterson, Cole, \hyperpage{81}
+  \item Pham, Ngoc-Quan, \hyperpage{74}
+  \item Piccardi, Massimo, \hyperpage{20}
+  \item Pichotta, Karl, \hyperpage{23}
+  \item Pighin, Daniele, \hyperpage{68}, \hyperpage{96}
+  \item Pilehvar, Mohammad Taher, \hyperpage{65}, \hyperpage{88}
+  \item Pineau, Joelle, \hyperpage{102}
+  \item Poghosyan, Gevorg, \hyperpage{22}
+  \item Popescu-Belis, Andrei, \hyperpage{15}
+  \item Postma, Marten, \hyperpage{23}
+  \item Potts, Christopher, \hyperpage{33}, \hyperpage{106}
+  \item Poulston, Adam, \hyperpage{18}
+  \item Precup, Doina, \hyperpage{65}, \hyperpage{89}
+  \item Premtoon, Varot, \hyperpage{67}, \hyperpage{93}
+  \item Priante, Anna, \hyperpage{19}
 
   \indexspace
 
-  \item Rajagopal, Dheeraj, \hyperpage{29}
-  \item Rasmussen, Priscilla, \hyperpage{3}
-  \item Reddy, Sravana, \hyperpage{24}
-  \item Resnik, Rebecca, \hyperpage{25}
-  \item Rey-Villamizar, Nicolas, \hyperpage{20}, \hyperpage{26}
-  \item Rheault, Ludovic, \hyperpage{25}
-  \item Riedel, Sebastian, \hyperpage{20}, \hyperpage{26}
-  \item Rimell,Laura, \hyperpage{4}
-  \item Ringger,Eric, \hyperpage{4}
-  \item Ritter,Alan, \hyperpage{4}
-  \item Roark,Brian, \hyperpage{5}
-  \item Robert, Aude, \hyperpage{26}
-  \item Robinson, Bella, \hyperpage{25}
-  \item Rockt\IeC {\"a}schel, Tim, \hyperpage{20}
-  \item Rosenthal, Sara, \hyperpage{24}
-  \item Roth, Michael, \hyperpage{29}
-  \item Ruder, Sebastian, \hyperpage{30}
-  \item Rush, Alexander, \hyperpage{22}
+  \item Qian, Jin, \hyperpage{30}, \hyperpage{53}
+  \item Qian, Peng, \hyperpage{30}, \hyperpage{55}
+  \item Qian, Zhong, \hyperpage{30}, \hyperpage{54}
+  \item Qin, Bing, \hyperpage{41}
+  \item Qin, Lianhui, \hyperpage{107}
+  \item Qiu, Lin, \hyperpage{40}
+  \item Qiu, Xipeng, \hyperpage{30}, \hyperpage{37}, \hyperpage{55}, 
+		\hyperpage{65}, \hyperpage{88}
+  \item Qu, Lizhen, \hyperpage{31}, \hyperpage{56}
+  \item Qu, Meng, \hyperpage{82}
+  \item QU, Weiguang, \hyperpage{29}, \hyperpage{52}
 
   \indexspace
 
-  \item Sadeque, Farig, \hyperpage{20}, \hyperpage{26}
-  \item Saeed, Aaqib, \hyperpage{25}
-  \item Schneider, Darius, \hyperpage{28}
-  \item Schwartz, H. Andrew, \hyperpage{25}
-  \item Selzer, Stefan, \hyperpage{28}
-  \item Shah, Sameena, \hyperpage{21}
-  \item Shrestha, Prasha, \hyperpage{20}, \hyperpage{26}
-  \item Simonson, Dan, \hyperpage{28}
-  \item Smith, Noah A., \hyperpage{21}
-  \item Smith,David, \hyperpage{5}
-  \item Solorio, Thamar, \hyperpage{20}, \hyperpage{26}
-  \item Somasundaran, Swapna, \hyperpage{3}
-  \item Spanakis, Gerasimos, \hyperpage{28}
-  \item Spithourakis, Georgios, \hyperpage{26}
-  \item Srikumar, Vivek, \hyperpage{22}
-  \item Stede,Manfred, \hyperpage{5}
-  \item Stevenson, Mark, \hyperpage{24}
-  \item Stevenson, Suzanne, \hyperpage{4}
-  \item Stowe, Kevin, \hyperpage{20}
-  \item Strube,Michael, \hyperpage{5}
-  \item Su, Jian, \hyperpage{1--3}
-  \item Sugawara, Saku, \hyperpage{29}
-  \item Sun, Xu, \hyperpage{7}, \hyperpage{16}
+  \item Radev, Dragomir, \hyperpage{36}
+  \item Rahimi, Zahra, \hyperpage{64}, \hyperpage{83}
+  \item Rajagopal, Dheeraj, \hyperpage{23}
+  \item Rajani, Nazneen Fatema, \hyperpage{67}, \hyperpage{93}
+  \item Rawlins, Kyle, \hyperpage{65}, \hyperpage{88}
+  \item Ray, Arijit, \hyperpage{31}, \hyperpage{57}
+  \item Reddy, Siva, \hyperpage{67}, \hyperpage{95}
+  \item Reddy, Sravana, \hyperpage{18}
+  \item Reffin, Jeremy, \hyperpage{65}, \hyperpage{88}
+  \item Reichart, Roi, \hyperpage{28, 29}, \hyperpage{48}, 
+		\hyperpage{53}, \hyperpage{103}
+  \item Reisinger, Drew, \hyperpage{65}, \hyperpage{88}
+  \item Ren, Xiang, \hyperpage{82}
+  \item Resnik, Rebecca, \hyperpage{19}
+  \item Rey-Villamizar, Nicolas, \hyperpage{14}, \hyperpage{20}
+  \item Rheault, Ludovic, \hyperpage{19}
+  \item Rice, Caitlin, \hyperpage{64}, \hyperpage{83}
+  \item Richardson, John, \hyperpage{108}
+  \item Riedel, Sebastian, \hyperpage{14}, \hyperpage{20}, 
+		\hyperpage{31}, \hyperpage{59}, \hyperpage{65}, 
+		\hyperpage{82}, \hyperpage{87}
+  \item Rijhwani, Shruti, \hyperpage{73}
+  \item Riloff, Ellen, \hyperpage{36}
+  \item Ritter, Alan, \hyperpage{44}, \hyperpage{76}
+  \item Robert, Aude, \hyperpage{20}
+  \item Robinson, Bella, \hyperpage{19}
+  \item Rochette, Alexandre, \hyperpage{68}, \hyperpage{97}
+  \item Rockt\IeC {\"a}schel, Tim, \hyperpage{14}, \hyperpage{30}, 
+		\hyperpage{56}, \hyperpage{82}
+  \item Rohlfs, Christopher, \hyperpage{68}, \hyperpage{97}
+  \item Rohrbach, Anna, \hyperpage{28}, \hyperpage{48}
+  \item Rohrbach, Marcus, \hyperpage{28}, \hyperpage{48}
+  \item Rojas Barahona, Lina M., \hyperpage{102}
+  \item Roller, Stephen, \hyperpage{103}
+  \item Rosenthal, Sara, \hyperpage{18}
+  \item Roth, Dan, \hyperpage{28}, \hyperpage{46}, \hyperpage{72}
+  \item Roth, Michael, \hyperpage{23}
+  \item Rouhizadeh, Masoud, \hyperpage{68}, \hyperpage{96}
+  \item Rousseau, Francois, \hyperpage{66}, \hyperpage{91}
+  \item Routledge, Bryan, \hyperpage{65}, \hyperpage{67}, 
+		\hyperpage{89}, \hyperpage{93}
+  \item Roy, Subhro, \hyperpage{72}
+  \item Ruan, Yu-Ping, \hyperpage{29}, \hyperpage{52}
+  \item Ruder, Sebastian, \hyperpage{24}, \hyperpage{32}, 
+		\hyperpage{59}
+  \item Rudinger, Rachel, \hyperpage{65}, \hyperpage{88}
+  \item Rudra, Koustav, \hyperpage{73}
+  \item Rush, Alexander, \hyperpage{16}
+  \item Rush, Alexander M., \hyperpage{68}, \hyperpage{80}, 
+		\hyperpage{96}, \hyperpage{110}
+  \item Russell, Ben, \hyperpage{108}
 
   \indexspace
 
-  \item Taylor, Matthew, \hyperpage{30}
-  \item Tetreault,Joel, \hyperpage{5}
-  \item Tin Vo, Duy, \hyperpage{13}
-  \item Tran, Ke M., \hyperpage{23}
-  \item Tsur, Oren, \hyperpage{24}
-  \item Turner, Anne M., \hyperpage{26}
+  \item Saba-Sadiya, Sari, \hyperpage{64}, \hyperpage{84}
+  \item Sadeque, Farig, \hyperpage{14}, \hyperpage{20}
+  \item Sadler, Brian, \hyperpage{29}, \hyperpage{49}
+  \item Saeed, Aaqib, \hyperpage{19}
+  \item Saenko, Kate, \hyperpage{67}, \hyperpage{93}
+  \item Saggion, Horacio, \hyperpage{28}, \hyperpage{47}
+  \item Sahlgren, Magnus, \hyperpage{31}, \hyperpage{58}
+  \item Saini, Uday Singh, \hyperpage{28}, \hyperpage{47}
+  \item Sakaguchi, Keisuke, \hyperpage{65}, \hyperpage{68}, 
+		\hyperpage{88}, \hyperpage{98}
+  \item Salakhutdinov, Ruslan, \hyperpage{65}, \hyperpage{88}
+  \item Sanders, Jordan, \hyperpage{72}
+  \item Sankaran, Baskaran, \hyperpage{31}, \hyperpage{43}, 
+		\hyperpage{58}
+  \item Santus, Enrico, \hyperpage{67}, \hyperpage{94}
+  \item Sarabi, Zahra, \hyperpage{72}
+  \item Sarawagi, Sunita, \hyperpage{64}, \hyperpage{85}
+  \item Sarikaya, Ruhi, \hyperpage{68}, \hyperpage{97}
+  \item Sasano, Ryohei, \hyperpage{80}
+  \item Sayeed, Asad, \hyperpage{40}
+  \item Sch\IeC {\"u}tze, Hinrich, \hyperpage{30, 31}, \hyperpage{53}, 
+		\hyperpage{58}, \hyperpage{110}
+  \item Schmaltz, Allen, \hyperpage{110}
+  \item Schneider, Darius, \hyperpage{22}
+  \item Schumacher, Elliot, \hyperpage{66}, \hyperpage{91}
+  \item Schwartz, H. Andrew, \hyperpage{19}, \hyperpage{68}, 
+		\hyperpage{96}
+  \item Selzer, Stefan, \hyperpage{22}
+  \item Serban, Iulian, \hyperpage{102}
+  \item Sha, Lei, \hyperpage{67}, \hyperpage{95}, \hyperpage{111}
+  \item Shah, Sameena, \hyperpage{15}
+  \item Shareghi, Ehsan, \hyperpage{31}, \hyperpage{57}
+  \item Sharp, Rebecca, \hyperpage{39}
+  \item Shi, Peng, \hyperpage{31}, \hyperpage{58}
+  \item Shi, Xing, \hyperpage{64}, \hyperpage{76}, \hyperpage{85}, 
+		\hyperpage{108}
+  \item Shieber, Stuart, \hyperpage{110}
+  \item Shindo, Hiroyuki, \hyperpage{32}, \hyperpage{60}
+  \item Shrestha, Prasha, \hyperpage{14}, \hyperpage{20}
+  \item Shu, Lei, \hyperpage{41}
+  \item Shukla, Nishant, \hyperpage{64}, \hyperpage{84}
+  \item Siddique, Farhad Bin, \hyperpage{32}, \hyperpage{61}
+  \item Sim, Yanchuan, \hyperpage{65}, \hyperpage{89}
+  \item Simion, Andrei, \hyperpage{28}, \hyperpage{49}
+  \item Simonson, Dan, \hyperpage{22}
+  \item Singh, Mittul, \hyperpage{64}, \hyperpage{84}
+  \item Skianis, Konstantinos, \hyperpage{66}, \hyperpage{91}
+  \item Smith, Laura, \hyperpage{68}, \hyperpage{96}
+  \item Smith, Noah A., \hyperpage{15}, \hyperpage{44}, \hyperpage{63}, 
+		\hyperpage{65}, \hyperpage{67}, \hyperpage{83}, 
+		\hyperpage{89}, \hyperpage{93}, \hyperpage{95}
+  \item Solanki, Rishi, \hyperpage{68}, \hyperpage{96}
+  \item Solorio, Thamar, \hyperpage{14}, \hyperpage{20}
+  \item Song, Linfeng, \hyperpage{68}, \hyperpage{97}
+  \item Song, Yangqiu, \hyperpage{28}, \hyperpage{46}
+  \item Sordoni, Alessandro, \hyperpage{39}
+  \item Soto, Axel, \hyperpage{66}, \hyperpage{92}
+  \item Sountsov, Pavel, \hyperpage{64}, \hyperpage{85}
+  \item Spanakis, Gerasimos, \hyperpage{22}
+  \item Spithourakis, Georgios, \hyperpage{20}, \hyperpage{31}, 
+		\hyperpage{59}
+  \item Srikumar, Vivek, \hyperpage{16}, \hyperpage{103}
+  \item Srivatsa, Mudhakar, \hyperpage{29}, \hyperpage{39}, 
+		\hyperpage{49}
+  \item Stanovsky, Gabriel, \hyperpage{31}, \hyperpage{56}, 
+		\hyperpage{108}
+  \item Steedman, Mark, \hyperpage{67}, \hyperpage{95}
+  \item Stein, Cliff, \hyperpage{28}, \hyperpage{49}
+  \item Stenetorp, Pontus, \hyperpage{65}, \hyperpage{87}
+  \item Sterckx, Lucas, \hyperpage{66}, \hyperpage{92}
+  \item Stevenson, Mark, \hyperpage{18}
+  \item Stevenson, Suzanne, \hyperpage{37}
+  \item Stolcke, Andreas, \hyperpage{100}
+  \item Stowe, Kevin, \hyperpage{14}
+  \item Strapparava, Carlo, \hyperpage{68}, \hyperpage{96}
+  \item Strube, Michael, \hyperpage{30}, \hyperpage{54}
+  \item Su, Pei-Hao, \hyperpage{102}
+  \item Su, Yu, \hyperpage{29}, \hyperpage{39}, \hyperpage{49}
+  \item Subramanian, Lakshminarayanan, \hyperpage{68}, \hyperpage{97}
+  \item Sugawara, Saku, \hyperpage{23}
+  \item Sui, Zhifang, \hyperpage{30}, \hyperpage{54}, \hyperpage{67}, 
+		\hyperpage{95}, \hyperpage{111}
+  \item Suleman, Kaheer, \hyperpage{39}
+  \item Sumita, Eiichiro, \hyperpage{67}, \hyperpage{95}
+  \item Sun, Huan, \hyperpage{29}, \hyperpage{49}
+  \item Sun, Maosong, \hyperpage{65}, \hyperpage{87}
+  \item Sun, Xiangyan, \hyperpage{66}, \hyperpage{90}
+  \item Sun, Xu, \hyperpage{1}, \hyperpage{10}
+  \item Surdeanu, Mihai, \hyperpage{39}
+  \item Susanto, Raymond Hendy, \hyperpage{68}, \hyperpage{97}
+  \item Suzuki, Jun, \hyperpage{32}, \hyperpage{61}
 
   \indexspace
 
-  \item Van Durme, Benjamin, \hyperpage{22}
-  \item Vanderwende,Lucy, \hyperpage{5}
-  \item Vaswani, Ashish, \hyperpage{23}
-  \item Venugopal, Deepak, \hyperpage{7}, \hyperpage{10}
-  \item Vo, Duy Tin, \hyperpage{7}, \hyperpage{13}
-  \item Volkova, Svitlana, \hyperpage{24}
-  \item Vossen, Piek, \hyperpage{28, 29}
+  \item T\IeC {\"a}ckstr\IeC {\"o}m, Oscar, \hyperpage{106}
+  \item Tabassum, Jeniya, \hyperpage{44}
+  \item Tafjord, Oyvind, \hyperpage{39}
+  \item Taghipour, Kaveh, \hyperpage{66}, \hyperpage{91}
+  \item Takamura, Hiroya, \hyperpage{67}, \hyperpage{80}, 
+		\hyperpage{95}
+  \item Takase, Sho, \hyperpage{32}, \hyperpage{61}
+  \item Takeuchi, Johane, \hyperpage{102}
+  \item Talukdar, Partha, \hyperpage{28}, \hyperpage{47}
+  \item Tamura, Akihiro, \hyperpage{67}, \hyperpage{95}
+  \item Tan, Chuanqi, \hyperpage{30}, \hyperpage{55}
+  \item Tanaka, Ribeka, \hyperpage{106}
+  \item Tang, Duyu, \hyperpage{41}
+  \item Tax, David M. J., \hyperpage{32}, \hyperpage{61}
+  \item Tay, Yi, \hyperpage{28}, \hyperpage{46}
+  \item Taylor, Matthew, \hyperpage{24}
+  \item Tchernowitz, Ilan, \hyperpage{29}, \hyperpage{53}
+  \item Tekiroglu, Serra Sinem, \hyperpage{68}, \hyperpage{96}
+  \item Tellex, Stefanie, \hyperpage{69}
+  \item Teng, Zhiyang, \hyperpage{31}, \hyperpage{58}, \hyperpage{65}, 
+		\hyperpage{87}
+  \item Tetreault, Joel, \hyperpage{68}, \hyperpage{98}
+  \item Teufel, Simone, \hyperpage{110}
+  \item Thater, Stefan, \hyperpage{40}
+  \item Tian, Fei, \hyperpage{29}, \hyperpage{31}, \hyperpage{49}, 
+		\hyperpage{57}
+  \item Tian, Hao, \hyperpage{28}, \hyperpage{46}
+  \item Tilk, Ottokar, \hyperpage{40}
+  \item Tin Vo, Duy, \hyperpage{7}
+  \item Tixier, Antoine, \hyperpage{66}, \hyperpage{91}
+  \item Tong, Yunhai, \hyperpage{36}
+  \item Torisawa, Kentaro, \hyperpage{77}
+  \item Toutanova, Kristina, \hyperpage{45}
+  \item Tran, Ke M., \hyperpage{17}, \hyperpage{45}
+  \item Tran, Trang, \hyperpage{32}, \hyperpage{60}
+  \item Tripathi, Vaibhav, \hyperpage{32}, \hyperpage{59}
+  \item Trischler, Adam, \hyperpage{39}
+  \item Tsuboi, Yuta, \hyperpage{102}
+  \item Tsur, Oren, \hyperpage{18}
+  \item Tu, Cunchao, \hyperpage{65}, \hyperpage{87}
+  \item Tu, Kewei, \hyperpage{30}, \hyperpage{40}, \hyperpage{53}, 
+		\hyperpage{67}, \hyperpage{94}
+  \item Ture, Ferhan, \hyperpage{29}, \hyperpage{50}
+  \item Turner, Anne M., \hyperpage{20}
 
   \indexspace
 
-  \item Wallace, Byron, \hyperpage{26}
-  \item Wallace, Byron C., \hyperpage{27}
-  \item Wallach, Hanna, \hyperpage{25}
-  \item Wan, Stephen, \hyperpage{20}, \hyperpage{25}
-  \item Wang, Alex, \hyperpage{25}
-  \item Waseem, Zeerak, \hyperpage{25}
-  \item Webber, Bonnie, \hyperpage{29}
-  \item Wen-Tau Yih,Scott, \hyperpage{4}
-  \item White, Michael, \hyperpage{29}
-  \item Wilson, Steven, \hyperpage{25}
-  \item Withey, Samuel, \hyperpage{26}
-  \item Wolfe, Travis, \hyperpage{22}
-  \item Wright-Bettner, Kristin, \hyperpage{28}
-  \item Wu,Dekai, \hyperpage{4}
+  \item Ultes, Stefan, \hyperpage{102}
+  \item Ungar, Lyle, \hyperpage{68}, \hyperpage{96}
+  \item Upadhyay, Shyam, \hyperpage{44}, \hyperpage{72}
+  \item Uszkoreit, Hans, \hyperpage{29}, \hyperpage{52}
+  \item Uszkoreit, Jakob, \hyperpage{106}
 
   \indexspace
 
-  \item Xu,Wei, \hyperpage{5}
+  \item Van Durme, Benjamin, \hyperpage{16}, \hyperpage{32}, 
+		\hyperpage{60}, \hyperpage{65}, \hyperpage{88}
+  \item Vandyke, David, \hyperpage{102}
+  \item Vaswani, Ashish, \hyperpage{17}
+  \item Vazirgiannis, Michalis, \hyperpage{66}, \hyperpage{91}
+  \item Venturi, Giulia, \hyperpage{45}
+  \item Venugopal, Deepak, \hyperpage{1}, \hyperpage{4}
+  \item Venugopalan, Subhashini, \hyperpage{67}, \hyperpage{93}
+  \item Ver\IeC {\H o}, Anita Lilla, \hyperpage{28}, \hyperpage{47}
+  \item Vieira, Tim, \hyperpage{65}, \hyperpage{67}, \hyperpage{88}, 
+		\hyperpage{94}
+  \item Vishwanathan, S. V. N., \hyperpage{29}, \hyperpage{51}
+  \item Vlachos, Andreas, \hyperpage{30}, \hyperpage{56}, 
+		\hyperpage{67}, \hyperpage{93}
+  \item Vo, Duy Tin, \hyperpage{1}, \hyperpage{7}, \hyperpage{65}, 
+		\hyperpage{87}
+  \item Volkova, Svitlana, \hyperpage{18}
+  \item Vossen, Piek, \hyperpage{22, 23}
+  \item Vuli\IeC {\'c}, Ivan, \hyperpage{103}
 
   \indexspace
 
-  \item Yang, Bishan, \hyperpage{3}
-  \item Yu, Hong, \hyperpage{26}
-  \item Yu, Zhiguo, \hyperpage{26}
-  \item Yung-jen Hsu, Jane, \hyperpage{20}
+  \item Wakabayashi, Kei, \hyperpage{102}
+  \item Wallace, Byron, \hyperpage{20}
+  \item Wallace, Byron C., \hyperpage{21}, \hyperpage{30}, 
+		\hyperpage{54}
+  \item Wallach, Hanna, \hyperpage{19}, \hyperpage{73}
+  \item Wan, Stephen, \hyperpage{14}, \hyperpage{19}
+  \item Wan, Xiaojun, \hyperpage{41}
+  \item Wan, Yan, \hyperpage{32}, \hyperpage{61}
+  \item Wang, Alex, \hyperpage{19}
+  \item Wang, Bin, \hyperpage{31}, \hyperpage{40}, \hyperpage{58}
+  \item Wang, Hai, \hyperpage{106}
+  \item Wang, Haixun, \hyperpage{66}, \hyperpage{90}
+  \item Wang, Huazheng, \hyperpage{29}, \hyperpage{49}
+  \item Wang, Lihong, \hyperpage{40}
+  \item Wang, Mingxuan, \hyperpage{43}
+  \item Wang, Quan, \hyperpage{31}, \hyperpage{40}, \hyperpage{58}
+  \item Wang, Weibo, \hyperpage{66}, \hyperpage{92}
+  \item Wang, Wenya, \hyperpage{29}, \hyperpage{50}
+  \item Wang, Xuepeng, \hyperpage{30}, \hyperpage{55}
+  \item Wang, Yang, \hyperpage{30}, \hyperpage{55}
+  \item Wang, Yequan, \hyperpage{29}, \hyperpage{50}
+  \item Wang, Yiren, \hyperpage{31}, \hyperpage{57}
+  \item Wang, Yuan, \hyperpage{81}
+  \item Wang, Zhiguo, \hyperpage{31}, \hyperpage{58}, \hyperpage{68}, 
+		\hyperpage{97}, \hyperpage{108}
+  \item Wang, Zhongyuan, \hyperpage{66}, \hyperpage{90}
+  \item Wanner, Leo, \hyperpage{32}, \hyperpage{61}
+  \item Waseem, Zeerak, \hyperpage{19}
+  \item Webber, Bonnie, \hyperpage{23}
+  \item Weeds, Julie, \hyperpage{65}, \hyperpage{88}
+  \item Wei, Furu, \hyperpage{30}, \hyperpage{55}
+  \item Wei, Zhuoyu, \hyperpage{82}
+  \item Weikum, Gerhard, \hyperpage{103}
+  \item Weir, David, \hyperpage{65}, \hyperpage{88}
+  \item Wen, Tsung-Hsien, \hyperpage{102}
+  \item Weston, Jason, \hyperpage{82}
+  \item White, Aaron Steven, \hyperpage{65}, \hyperpage{88}
+  \item White, Michael, \hyperpage{23}
+  \item Wiederhold, Andreas, \hyperpage{66}, \hyperpage{91}
+  \item Wieting, John, \hyperpage{64}, \hyperpage{85}
+  \item Wilson, Steven, \hyperpage{19}
+  \item Wiseman, Sam, \hyperpage{80}
+  \item Withey, Samuel, \hyperpage{20}
+  \item Wolfe, Travis, \hyperpage{16}
+  \item Wright-Bettner, Kristin, \hyperpage{22}
+  \item Wu, Changxing, \hyperpage{109}
+  \item Wu, Chien-Sheng, \hyperpage{32}, \hyperpage{61}
+  \item Wu, Dongyin, \hyperpage{65}, \hyperpage{87}
+  \item Wu, Hao, \hyperpage{29}, \hyperpage{51}
+  \item Wu, Hua, \hyperpage{28}, \hyperpage{46}
+  \item Wu, Xuan, \hyperpage{29}, \hyperpage{52}
 
   \indexspace
 
-  \item Zare Borzeshi, Ehsan, \hyperpage{26}
-  \item Zesch, Torsten, \hyperpage{29}
-  \item Zettlemoyer, Luke, \hyperpage{29}
-  \item Zhang, Xiao, \hyperpage{22}
-  \item Zhang, Yue, \hyperpage{7}, \hyperpage{13}
-  \item Zhao, Tiancheng, \hyperpage{29}
-  \item Zhu, Weizhong, \hyperpage{29}
-  \item Zweig,Geoff, \hyperpage{5}
-  \item Zweigenbaum, Pierre, \hyperpage{26, 27}
+  \item Xiang, Bing, \hyperpage{68}, \hyperpage{97}
+  \item Xiao, Jianguo, \hyperpage{41}
+  \item Xiao, Xiaokui, \hyperpage{29}, \hyperpage{50}
+  \item Xiao, Yang, \hyperpage{81}
+  \item Xiao, Yanghua, \hyperpage{66}, \hyperpage{90}
+  \item Xiao, Zhen, \hyperpage{81}
+  \item Xing, Eric, \hyperpage{65}, \hyperpage{88}
+  \item Xiong, Deyi, \hyperpage{28}, \hyperpage{46}, \hyperpage{49}
+  \item Xu, Feiyu, \hyperpage{29}, \hyperpage{52}
+  \item Xu, Haoyan, \hyperpage{67}, \hyperpage{95}
+  \item Xu, Hu, \hyperpage{41}
+  \item Xu, Jiacheng, \hyperpage{65}, \hyperpage{88}
+  \item Xu, Jinan, \hyperpage{28}, \hyperpage{48}
+  \item Xu, Ruifeng, \hyperpage{65}, \hyperpage{87}
+  \item Xu, Wei, \hyperpage{44}
+  \item Xu, Wenduan, \hyperpage{65}, \hyperpage{89}
+  \item Xu, Yan, \hyperpage{28}, \hyperpage{48}
+
+  \indexspace
+
+  \item Yan, Rui, \hyperpage{28}, \hyperpage{46}, \hyperpage{48}
+  \item Yan, Xifeng, \hyperpage{29}, \hyperpage{39}, \hyperpage{49}
+  \item Yan, Zenghui, \hyperpage{29}, \hyperpage{49}
+  \item Yanardag, Pinar, \hyperpage{29}, \hyperpage{51}
+  \item Yang, Daylen, \hyperpage{28}, \hyperpage{48}
+  \item Yang, Jiwen, \hyperpage{30}, \hyperpage{53}
+  \item Yang, Peng, \hyperpage{66}, \hyperpage{90}
+  \item Yang, Shaohua, \hyperpage{64}, \hyperpage{84}
+  \item Yang, Yi, \hyperpage{64}, \hyperpage{83}
+  \item Yang, Yunlun, \hyperpage{36}
+  \item Yang, Zichao, \hyperpage{65}, \hyperpage{88}
+  \item Yarman Vural, Fatos T., \hyperpage{43}
+  \item Yavuz, Semih, \hyperpage{39}
+  \item Ye, Zheng, \hyperpage{39}
+  \item Yedidsion, Liron, \hyperpage{29}, \hyperpage{53}
+  \item Yih, Wen-tau, \hyperpage{44}
+  \item Yin, Rongchao, \hyperpage{31}, \hyperpage{58}
+  \item Yoshikawa, Masashi, \hyperpage{32}, \hyperpage{60}
+  \item Young, Steve, \hyperpage{102}
+  \item Yu, Dianhai, \hyperpage{28}, \hyperpage{46}
+  \item Yu, Hong, \hyperpage{20}
+  \item Yu, Hongliang, \hyperpage{66}, \hyperpage{90}
+  \item Yu, Jianfei, \hyperpage{41}
+  \item Yu, Lei, \hyperpage{80}
+  \item Yu, Mo, \hyperpage{68}, \hyperpage{97}
+  \item Yu, Yong, \hyperpage{40}
+  \item Yu, Zhiguo, \hyperpage{20}
+  \item Yuan, Xingdi, \hyperpage{39}
+  \item Yun, Hyokun, \hyperpage{29}, \hyperpage{51}
+  \item Yung-jen Hsu, Jane, \hyperpage{14}
+  \item Yuret, Deniz, \hyperpage{64}, \hyperpage{86}, \hyperpage{108}
+
+  \indexspace
+
+  \item Zare Borzeshi, Ehsan, \hyperpage{20}
+  \item Zesch, Torsten, \hyperpage{23}
+  \item Zettlemoyer, Luke, \hyperpage{23}, \hyperpage{45}, 
+		\hyperpage{65}, \hyperpage{87}, \hyperpage{110}
+  \item Zhang, Biao, \hyperpage{28}, \hyperpage{46}, \hyperpage{49}
+  \item Zhang, Jiajun, \hyperpage{64}, \hyperpage{85}
+  \item Zhang, Lu, \hyperpage{28}, \hyperpage{48}
+  \item Zhang, Min, \hyperpage{28}, \hyperpage{30}, \hyperpage{46}, 
+		\hyperpage{49}, \hyperpage{53}
+  \item Zhang, Qi, \hyperpage{30}, \hyperpage{53}, \hyperpage{55}
+  \item Zhang, Sheng, \hyperpage{65}, \hyperpage{88}
+  \item Zhang, Shikun, \hyperpage{66}, \hyperpage{90}
+  \item Zhang, Wen, \hyperpage{28}, \hyperpage{48}
+  \item Zhang, Xiao, \hyperpage{16}
+  \item Zhang, Xuan, \hyperpage{29}, \hyperpage{51}
+  \item Zhang, Ye, \hyperpage{30}, \hyperpage{54}
+  \item Zhang, Yue, \hyperpage{1}, \hyperpage{7}, \hyperpage{30--32}, 
+		\hyperpage{53}, \hyperpage{58}, \hyperpage{61}, 
+		\hyperpage{65}, \hyperpage{68}, \hyperpage{87}, 
+		\hyperpage{97}
+  \item Zhang, Zhisong, \hyperpage{107}
+  \item Zhao, Hai, \hyperpage{107}
+  \item Zhao, Jun, \hyperpage{30}, \hyperpage{55}, \hyperpage{82}
+  \item Zhao, Li, \hyperpage{29}, \hyperpage{50}
+  \item Zhao, Peilin, \hyperpage{66}, \hyperpage{90}
+  \item Zhao, Quan, \hyperpage{29}, \hyperpage{51}
+  \item Zhao, Shiqi, \hyperpage{28}, \hyperpage{46}
+  \item Zhao, Tiancheng, \hyperpage{23}
+  \item Zhao, Wenyu, \hyperpage{29}, \hyperpage{52}
+  \item Zhou, Bowen, \hyperpage{68}, \hyperpage{97}
+  \item ZHOU, Deyu, \hyperpage{29}, \hyperpage{51}
+  \item Zhou, Dong, \hyperpage{29}, \hyperpage{52}
+  \item Zhou, Guodong, \hyperpage{30}, \hyperpage{54}
+  \item Zhou, Junsheng, \hyperpage{29}, \hyperpage{52}
+  \item Zhou, Liyuan, \hyperpage{31}, \hyperpage{56}
+  \item Zhou, Ming, \hyperpage{30}, \hyperpage{54, 55}
+  \item Zhou, Xiangyang, \hyperpage{28}, \hyperpage{46}
+  \item Zhou, Xinjie, \hyperpage{41}
+  \item Zhou, Yaqian, \hyperpage{30}, \hyperpage{53}, \hyperpage{65}, 
+		\hyperpage{88}
+  \item Zhou, Yin, \hyperpage{29}, \hyperpage{51}
+  \item Zhou, Yu, \hyperpage{65}, \hyperpage{87}
+  \item Zhu, Chengjieren, \hyperpage{29}, \hyperpage{49}
+  \item Zhu, Qiaoming, \hyperpage{30}, \hyperpage{54}
+  \item Zhu, Song-chun, \hyperpage{64}, \hyperpage{84}
+  \item Zhu, Weizhong, \hyperpage{23}
+  \item Zitnick, Larry, \hyperpage{31}, \hyperpage{57}
+  \item Zong, Chengqing, \hyperpage{64}, \hyperpage{85}
+  \item Zoph, Barret, \hyperpage{64}, \hyperpage{86}
+  \item Zweigenbaum, Pierre, \hyperpage{20, 21}
 
 \end{theindex}
