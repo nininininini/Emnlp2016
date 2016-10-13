@@ -1,0 +1,27 @@
+\section[Session 4]{Session 4 Overview}
+\begin{center}
+\righthyphenmin2 \sloppy
+\begin{tabular}{|p{0.33\columnwidth}|p{0.33\columnwidth}|p{0.33\columnwidth}|}
+\hline
+\bf Track A & \bf Track B & \bf Track C \\\hline
+\it Semantics and Semantic Parsing & \it NLP for Social Science and Health & \it Language Models \\
+\TrackALoc & \TrackBLoc & \TrackCLoc \\
+\hline\hline
+  \marginnote{\rotatebox{90}{10:30}}[2mm]
+{}\papertableentry{papers-850} & {}\papertableentry{papers-1039} & EXT: [TACL] Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees (Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn)
+  \\
+  \hline
+  \marginnote{\rotatebox{90}{10:55}}[2mm]
+{}\papertableentry{papers-440} & {}\papertableentry{papers-1091} & {}\papertableentry{papers-635}
+  \\
+  \hline
+  \marginnote{\rotatebox{90}{11:20}}[2mm]
+{}\papertableentry{papers-781} & {}\papertableentry{papers-116} & EXT: [TACL] Sparse Non-negative Matrix Language Modeling (Joris Pelemans, Noam Shazeer and Ciprian Chelba)
+  \\
+  \hline
+  \marginnote{\rotatebox{90}{11:45}}[2mm]
+{}\papertableentry{papers-393} & EXT: [TACL] Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health (Tim Althoff, Kevin Clark and Jure Leskovec) & {}\papertableentry{papers-042}
+  \\
+\hline\end{tabular}\end{center}
+
+\clearpage
