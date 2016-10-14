@@ -1,0 +1,334 @@
+Hide Paper (yes/no/sched/proc)	Day Date	Ses Title	Ses Code	Ses Time	Ses End Time	Ses Room	Ses Chair	Ses Chair Aff	Ses CoChair	Ses CoChair Aff	Pap ID	Pap Title (IGNORED)	Pap Track (IGNORED)	Pap Status (IGNORED)	Pap Presenter	Pap Time	Pap End Time	Pap Subcode	Pap Flag	Gen Title	Gen Presenter	Gen Time	Gen End Time	Gen Subcode
+no	Tuesday, November 1, 2016																							
+no		Welcome Reception		18:30	20:00	Salon H																		
+no	Wednesday, November 2, 2016																							
+no		Registration Day 1		07:30	17:30	Salon H Prefunction																		
+no																				Morning Coffee		08:00	08:40	
+no		Plenary Session I	P1	08:40	10:00	Salon FG																		
+no																				Opening Remarks and Introductory Speeches		08:40	09:00	
+no																				Invited Talk: Learning in extended and approximate Rational Speech Acts models	Christopher Potts %u http://www.emnlp2016.net/invited-speakers.html#i1	09:00	10:00	
+no																				Coffee Break		10:00	10:30	
+no		Parsing and Syntax	1A	10:30	12:10	Salon FG	TBD																	
+no											1162	Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											945	Rule Extraction for Tree-to-Tree Transducers by Cost Minimization (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											585	A Neural Network for Coordination Boundary Prediction (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+no											1212	Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no		Information Extraction	1B	10:30	12:10	Salon J	TBD																	
+no											985	Distinguishing Past, On-going, and Future Events: The EventStatus Corpus (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											57	Nested Propositions in Open Information Extraction (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											189	A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+no											426	Learning to Recognize Discontiguous Entities (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no		Psycholinguistics / Machine Learning	1C	10:30	12:10	Room 616 AB	TBD																	
+no											496	Modeling Human Reading with Neural Attention (IGNORED)	Linguistic Theories and Psycholinguistics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											906	Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											997	Rationalizing Neural Predictions (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+no											870	Deep Multi-Task Learning with Shared Memory for Text Classification (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no																				Lunch		12:10	13:40	
+no		Reading Comprehension and Question Answering	2A	13:40	15:20	Salon FG	TBD																	
+no											1047	Natural Language Comprehension with the EpiReader (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	14:05	(.)	(.)					
+no											392	Creating Causal Embeddings for Question Answering with Minimal Supervision (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:05	14:30	(.)	(.)					
+no											1072	Improving Semantic Parsing via Answer Type Inference (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:30	14:55	(.)	(.)					
+no											722	Semantic Parsing to Probabilistic Programs for Situated Question Answering (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:20	(.)	(.)					
+no		Embeddings of Linguistic Structure	2B	13:40	15:20	Salon J	TBD																	
+no											857	Event participant modelling with neural networks (IGNORED)	Linguistic Theories and Psycholinguistics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	14:05	(.)	(.)					
+no											1060	Context-Dependent Sense Embedding (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:05	14:30	(.)	(.)					
+no											307	Jointly Embedding Knowledge Graphs and Logical Rules (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:30	14:55	(.)	(.)					
+no											886	Learning Connective-based Word Representations for Implicit Discourse Relation Identification (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:20	(.)	(.)					
+no		Sentiment and Opinion Analysis	2C	13:40	15:20	Room 616 AB	TBD																	
+no											31	Aspect Level Sentiment Classification with Deep Memory Network (IGNORED)	Sentiment Analysis and Opinion Mining: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	14:05	(.)	(.)					
+no											287	Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets (IGNORED)	Sentiment Analysis and Opinion Mining: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:05	14:30	(.)	(.)					
+no											1028	Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification (IGNORED)	Sentiment Analysis and Opinion Mining: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:30	14:55	(.)	(.)					
+no											527	Attention-based LSTM Network for Cross-Lingual Sentiment Classification (IGNORED)	Sentiment Analysis and Opinion Mining: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:20	(.)	(.)					
+no																				Coffee Break		15:20	15:50	
+no		Neural Machine Translation	3A	15:50	17:30	Salon FG	TBD																	
+																				%ext TACL:5	%u https://aclweb.org/anthology/Q/Q16/Q16-1027.pdf	15:50	16:15	[TACL]
+no											190	Neural versus Phrase-Based Machine Translation Quality: a Case Study (IGNORED)	Machine Translation and Multilinguality: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:15	16:40	(.)	(.)					
+no											1073	Zero-Resource Translation with Multi-Lingual Neural Machine Translation (IGNORED)	Machine Translation and Multilinguality: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+no											492	Memory-enhanced Decoder for Neural Machine Translation (IGNORED)	Machine Translation and Multilinguality: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	17:05	17:30	(.)	(.)					
+no		Semi-supervised and Minimally Supervised Learning	3B	15:50	17:30	Salon J	TBD																	
+no											827	Semi-Supervised Learning of Sequence Models with Method of Moments (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:50	16:15	(.)	(.)					
+																				%ext TACL:2	%u https://aclweb.org/anthology/Q/Q16	16:15	16:40	[TACL]
+no											1037	Learning from Explicit and Implicit Supervision Jointly For Algebra Word Problems (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+no											675	TweeTime : A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter (IGNORED)	Social Media and Computational Social Science: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	17:05	17:30	(.)	(.)					
+no		Summarization and Generation	3C	15:50	17:30	Room 616 AB	TBD																	
+no											502	Language as a Latent Variable: Discrete Generative Models for Sentence Compression (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:50	16:15	(.)	(.)					
+no											905	Globally Coherent Text Generation with Neural Checklist Models (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:15	16:40	(.)	(.)					
+no											1132	A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+no											630	PaCCSS-IT: A Parallel Corpus of Complex-Simple Sentences for Automatic Text Simplification (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	17:05	17:30	(.)	(.)					
+no																				Break		17:30	17:45	
+no		Poster Spotlight A (Half-minute Madness)		17:45	18:15	Salon FG	Joel Tetreault, Brendan O'Connor, Courtney Napoles																	
+no		Poster Session A		18:15	20:15	Salon H and J																		
+											7													
+											600													
+											605													
+											118													
+											413													
+											509													
+											824													
+											273													
+											53													
+											159													
+											106													
+											673													
+											792													
+											128													
+											187													
+											368													
+											383													
+											177													
+											207													
+											332													
+											402													
+											463													
+											155													
+											216													
+											234													
+											257													
+											264													
+											204													
+											236													
+											251													
+											279													
+											315													
+											378													
+											67													
+											217													
+											370													
+											450													
+											472													
+											771													
+											188													
+											561													
+											11													
+											74													
+											175													
+											262													
+											275													
+											390													
+											394													
+											482													
+											515													
+											826													
+											570													
+											960													
+											1017													
+											337													
+											958													
+											12													
+											629													
+											150													
+											508													
+											720													
+											58													
+											455													
+											1061													
+											272													
+											309													
+											701													
+											876													
+											499													
+											185													
+											834													
+											63													
+											702													
+											840													
+											943													
+											170													
+											1075													
+											772													
+											513													
+											500													
+											28													
+											601													
+	Thursday, November 3, 2016																							
+no		Registration Day 2		07:30	17:30	Salon H Prefunction																		
+no																				Morning Coffee		08:00	09:00	
+no		Plenary Session II	P2	09:00	10:00	Salon FG																		
+no																				Invited Talk: Learning Models of Language, Action and Perception for Human-Robot Collaboration	Stefanie Tellex %u http://www.emnlp2016.net/invited-speakers.html#i3	09:00	10:00	
+no																				Coffee Break		10:00	10:30	
+no		Semantics and Semantic Parsing	4A	10:30	12:10	Salon FG	TBD																	
+no											850	Semantic Parsing with Semi-Supervised Sequential Autoencoders (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											440	Equation Parsing : Mapping Sentences to Grounded Equations (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											781	Automatic Extraction of Implicit Interpretations from Modal Constructions (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+no											393	Understanding Negation in Positive Terms Using Syntactic Dependencies (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no		NLP for Social Science and Health	4B	10:30	12:10	Salon J	TBD																	
+no											1039	Demographic Dialectal Variation in Social Media: A Case Study of African-American English (IGNORED)	Social Media and Computational Social Science: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											1091	Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter? (IGNORED)	Social Media and Computational Social Science: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											116	Detecting and Characterizing Events (IGNORED)	Social Media and Computational Social Science: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+																				%ext TACL:8	%u https://aclweb.org/anthology/Q/Q16/Q16-1033.pdf	11:45	12:10	[TACL]
+no		Language Models	4C	10:30	12:10	Room 616 AB	TBD																	
+																				%ext TACL:6	%u https://aclweb.org/anthology/Q/Q16	10:30	10:55	[TACL]
+no											635	Convolutional Neural Network Language Models (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+																				%ext TACL:3	%u https://aclweb.org/anthology/Q/Q16/Q16-1024.pdf	11:20	11:45	[TACL]
+no											42	Generalizing and Hybridizing Count-based and Neural Language Models (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no																				Lunch		12:10	13:40	
+no																				SIGDAT Business Meeting		13:00	13:40	
+no		Text Generation	5A	13:40	15:20	Salon FG	TBD																	
+no											210	Reasoning about Pragmatics with Neural Listeners and Speakers (IGNORED)	Language and Vision: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	14:05	(.)	(.)					
+no											709	Generating Topical Poetry (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:05	14:30	(.)	(.)					
+no											632	Deep Reinforcement Learning for Dialogue Generation (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:30	14:55	(.)	(.)					
+no											366	Neural Text Generation from Structured Data with Application to the Biography Domain (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:20	(.)	(.)					
+no		Discourse and Document Structure	5B	13:40	15:20	Salon J	TBD																	
+no											280	What makes a convincing argument? Empirical analysis and detecting attributes of convincingness in Web argumentation (IGNORED)	Social Media and Computational Social Science: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	14:05	(.)	(.)					
+no											140	Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:05	14:30	(.)	(.)					
+no											464	Antecedent Selection for Sluicing: Structure and Content (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:30	14:55	(.)	(.)					
+no											576	Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:20	(.)	(.)					
+no		Machine Translation and Multilingual Applications	5C	13:40	15:20	Room 616 AB	TBD																	
+no											1002	An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages (IGNORED)	Machine Translation and Multilinguality: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	14:05	(.)	(.)					
+no											583	HUME: Human UCCA-Based Evaluation of Machine Translation (IGNORED)	Machine Translation and Multilinguality: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:05	14:30	(.)	(.)					
+no											345	Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:30	14:55	(.)	(.)					
+no											260	Learning Crosslingual Word Embeddings without Bilingual Corpora (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:20	(.)	(.)					
+no																				Coffee Break		15:20	15:50	
+no		Neural Sequence-to-Sequence Models	6A	15:50	17:30	Salon FG	TBD																	
+no											1111	Sequence-to-Sequence Learning as Beam-Search Optimization (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:50	16:15	(.)	(.)					
+no											858	Online Segment to Segment Neural Transduction (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:15	16:40	(.)	(.)					
+no											1071	Sequence-Level Knowledge Distillation (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+no											1059	Controlling Output Length in Neural Encoder-Decoders (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	17:05	17:30	(.)	(.)					
+no		Text Mining and NLP Applications	6B	15:50	17:30	Salon J	TBD																	
+no											713	Poet Admits // Mute Cypher: Beam Search to find Mutually Enciphering Poetic Texts (IGNORED)	Text Mining and NLP Applications: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:50	16:15	(.)	(.)					
+no											651	All Fingers are not Equal: Intensity of References in Scientific Articles (IGNORED)	Text Mining and NLP Applications: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:15	16:40	(.)	(.)					
+no											636	Improving Users' Demographic Prediction via the Videos They Talk about (IGNORED)	Text Mining and NLP Applications: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+																				%ext TACL:7	%u https://aclweb.org/anthology/Q/Q16	17:05	17:30	[TACL]
+no		Knowledge Base and Inference	6C	15:50	17:30	Room 616 AB	TBD																	
+no											714	AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:50	16:15	(.)	(.)					
+no											431	Mining Inference Formulas by Goal-Directed Random Walks (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:15	16:40	(.)	(.)					
+no											861	Lifted Rule Injection for Relation Embeddings (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+no											679	Key-Value Memory Networks for Directly Reading Documents (IGNORED)	Machine Learning: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	17:05	17:30	(.)	(.)					
+no																				Break		17:30	17:45	
+no		Poster Spotlight B (Half-minute Madness)		17:45	18:15	Salon FG	Joel Tetreault, Brendan O'Connor, Courtney Napoles																	
+no		Poster Session B		18:15	20:15	Salon H and J																		
+											825													
+											900													
+											215													
+											991													
+											1053													
+											1173													
+											640													
+											930													
+											959													
+											1097													
+											1121													
+																				%ext TACL:9	%u https://aclweb.org/anthology/Q/Q16/Q16-1021.pdf			[TACL]
+											415													
+											682													
+											715													
+											799													
+											859													
+											497													
+											758													
+											1100													
+											1108													
+											1119													
+											737													
+											754													
+											1038													
+											1077													
+											1139													
+											317													
+											817													
+											877													
+											1152													
+											849													
+											814													
+											820													
+											842													
+											887													
+											1164													
+											1190													
+											1136													
+											578													
+											728													
+											353													
+											364													
+											819													
+											831													
+											863													
+											883													
+											946													
+											1148													
+											662													
+											342													
+											284													
+											391													
+											589													
+											214													
+											871													
+											26													
+											83													
+											349													
+											733													
+											512													
+											343													
+											821													
+											141													
+											352													
+											89													
+											354													
+											1067													
+											622													
+											993													
+											1178													
+											1113													
+											1211													
+											642													
+											979													
+											901													
+											191													
+											791													
+											425													
+											660													
+											1145													
+											677													
+	Friday, November 4, 2016																							
+no		Registration Day 3		07:30	17:30	Salon H Prefunction																		
+no																				Morning Coffee		08:00	09:00	
+no		Plenary Session	P3	09:00	10:00	Salon FG																		
+no																				Invited Talk: You Talking to Me? Speech-based and multimodal approaches for human versus computer addressee detection	Andreas Stolcke %u http://www.emnlp2016.net/invited-speakers.html#i2	09:00	10:00	
+no																				Coffee Break		10:00	10:30	
+no		Dialogue Systems	7A	10:30	12:10	Salon FG	TBD																	
+no											335	How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											577	Addressee and Response Selection for Multi-Party Conversation (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											1118	Nonparametric Bayesian Models for Spoken Language Understanding (IGNORED)	Spoken Language Processing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+no											107	Conditional Generation and Snapshot Learning in Neural Dialogue Systems (IGNORED)	Summarization, Generation, Discourse and Dialogue: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no		Semantic Similarity	7B	10:30	12:10	Salon J	TBD																	
+no											860	Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+no											572	SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:55	11:20	(.)	(.)					
+no											93	POLY: Mining Relational Paraphrases from Multilingual Sentences (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:20	11:45	(.)	(.)					
+no											940	Exploiting Sentence Similarities for Better Alignments (IGNORED)	Semantics: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no		Dependency Parsing	7C	10:30	12:10	Room 616 AB	TBD																	
+no											845	Bi-directional Attention with Agreement for Dependency Parsing (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	10:30	10:55	(.)	(.)					
+																				%ext TACL:1	%u https://aclweb.org/anthology/Q/Q16	10:55	11:20	[TACL]
+																				%ext TACL:4	%u https://aclweb.org/anthology/Q/Q16/Q16-1032.pdf	11:20	11:45	[TACL]
+no											71	Anchoring and Agreement in Syntactic Annotations (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	11:45	12:10	(.)	(.)					
+no																				Lunch		12:10	13:40	
+no		Short Paper Oral Session I	8A	13:40	15:25	Salon FG	TBD																	
+no											25	Tense Manages to Predict Implicative Behavior in Verbs (IGNORED)	Linguistic Theories and Psycholinguistics: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	13:55	(.)	(.)					
+no											691	Who did What: A Large-Scale Person-Centered Cloze Dataset (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:55	14:10	(.)	(.)					
+no											1095	Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser (IGNORED)	Semantics: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:10	14:25	(.)	(.)					
+no											406	Learning to Generate Compositional Color Descriptions (IGNORED)	Summarization, Generation, Discourse and Dialogue: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:25	14:40	(.)	(.)					
+no											889	A Decomposable Attention Model for Natural Language Inference (IGNORED)	Semantics: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:40	14:55	(.)	(.)					
+no											1008	Deep Reinforcement Learning for Mention-Ranking Coreference Models (IGNORED)	Summarization, Generation, Discourse and Dialogue: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:10	(.)	(.)					
+no											462	A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification (IGNORED)	Summarization, Generation, Discourse and Dialogue: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:10	15:25	(.)	(.)					
+no		Short Paper Oral Session II	8B	13:40	15:25	Salon J	TBD																	
+no											687	Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation (IGNORED)	Machine Translation and Multilinguality: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	13:55	(.)	(.)					
+no											417	Why Neural Translations are the Right Length (IGNORED)	Machine Translation and Multilinguality: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:55	14:10	(.)	(.)					
+no											298	Supervised Attentions for Neural Machine Translation (IGNORED)	Machine Translation and Multilinguality: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:10	14:25	(.)	(.)					
+no											562	Learning principled bilingual mappings of word embeddings while preserving monolingual invariance (IGNORED)	Machine Translation and Multilinguality: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:25	14:40	(.)	(.)					
+no											1155	Measuring the behavioral impact of machine translation quality improvements with A/B testing (IGNORED)	Machine Translation and Multilinguality: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:40	14:55	(.)	(.)					
+no											813	Creating a Large Benchmark for Open Information Extraction (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:10	(.)	(.)					
+no											156	Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition (IGNORED)	Summarization, Generation, Discourse and Dialogue: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:10	15:25	(.)	(.)					
+no		Short Paper Oral Session III	8C	13:40	15:25	Room 616 AB	TBD																	
+no											663	Transition-Based Dependency Parsing with Heuristic Backtracking (IGNORED)	Segmentation, Tagging and Parsing: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:40	13:55	(.)	(.)					
+no											923	Word Ordering Without Syntax (IGNORED)	Summarization, Generation, Discourse and Dialogue: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	13:55	14:10	(.)	(.)					
+no											97	Morphological Segmentation Inside-Out (IGNORED)	Segmentation, Tagging and Parsing: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:10	14:25	(.)	(.)					
+no											328	Parsing as Language Modeling (IGNORED)	Segmentation, Tagging and Parsing: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:25	14:40	(.)	(.)					
+no											920	Human-in-the-Loop Parsing (IGNORED)	Segmentation, Tagging and Parsing: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:40	14:55	(.)	(.)					
+no											219	Unsupervised Timeline Generation for Wikipedia History Articles (IGNORED)	Summarization, Generation, Discourse and Dialogue: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	14:55	15:10	(.)	(.)					
+no											1229	Encoding Temporal Information for Time-Aware Link Prediction (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:10	15:25	(.)	(.)					
+no																				Coffee Break		15:25	15:50	
+no		Plenary Session (Best Paper)	P4	15:50	17:30	Salon FG	TBD																	
+no											559	Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	15:50	16:15	(.)	(.)					
+no											910	Global Neural CCG Parsing with Optimality Guarantees (IGNORED)	Segmentation, Tagging and Parsing: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:15	16:40	(.)	(.)					
+no											489	Learning a Lexicon and Translation Model from Phoneme Lattices (IGNORED)	Machine Translation and Multilinguality: Short Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	16:40	17:05	(.)	(.)					
+no											903	SQuAD: 100,000+ Questions for Machine Comprehension of Text (IGNORED)	Information Extraction, Information Retrieval and Question Answering: Long Papers:(IGNORED)	Accept Oral(IGNORED)	(.)	17:05	17:30	(.)	(.)					
+no		Plenary Session (Closing Remarks)	P5	17:30	17:50	Salon FG																		

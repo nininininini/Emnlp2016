@@ -8,7 +8,7 @@
 \TrackALoc & \TrackBLoc & \TrackCLoc \\
 \hline\hline
   \marginnote{\rotatebox{90}{10:30}}[2mm]
-{}\papertableentry{papers-850} & {}\papertableentry{papers-1039} & EXT: [TACL] Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees (Ehsan Shareghi, Matthias Petri, Gholamreza Haffari and Trevor Cohn)
+{}\papertableentry{papers-850} & {}\papertableentry{papers-1039} & {}\papertableentry{TACL-006}
   \\
   \hline
   \marginnote{\rotatebox{90}{10:55}}[2mm]
@@ -16,11 +16,11 @@
   \\
   \hline
   \marginnote{\rotatebox{90}{11:20}}[2mm]
-{}\papertableentry{papers-781} & {}\papertableentry{papers-116} & EXT: [TACL] Sparse Non-negative Matrix Language Modeling (Joris Pelemans, Noam Shazeer and Ciprian Chelba)
+{}\papertableentry{papers-781} & {}\papertableentry{papers-116} & {}\papertableentry{TACL-003}
   \\
   \hline
   \marginnote{\rotatebox{90}{11:45}}[2mm]
-{}\papertableentry{papers-393} & EXT: [TACL] Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health (Tim Althoff, Kevin Clark and Jure Leskovec) & {}\papertableentry{papers-042}
+{}\papertableentry{papers-393} & {}\papertableentry{TACL-008} & {}\papertableentry{papers-042}
   \\
 \hline\end{tabular}\end{center}
 

@@ -5,7 +5,7 @@ import re
 
 def get_tacl_ids(schedule_csv):
     result = []
-    tacl_re = re.compile(r".*tacl-final:(\d+).*")
+    tacl_re = re.compile(r".*TACL:(\d+).*")
     with open(schedule_csv, "r") as inf:
         for line in inf:
             line = line.strip()
@@ -18,7 +18,7 @@ def merge_tacl_data(lines, schedule_csv):
     result = []
     tacl_ids = get_tacl_ids(schedule_csv)
     tacl_re = re.compile(r"(.+)\[TACL\].*")
-    assert len(tacl_ids) == 17
+    assert len(tacl_ids) == 9
     offset = 0
     for line in lines:
         line = line.strip()
@@ -26,7 +26,8 @@ def merge_tacl_data(lines, schedule_csv):
         if not match:
             result.append(line)
         else:
-            result.append("{0}%ext tacl-final:{1}".format(match.group(1), tacl_ids[offset]))
+            #result.append("{0}%ext tacl-final:{1}".format(match.group(1), tacl_ids[offset]))
+            result.append("{0}%ext TACL:{1}".format(match.group(1), tacl_ids[offset]))
             offset += 1
     assert offset == len(tacl_ids)
     return result
@@ -76,7 +77,7 @@ if __name__ == "__main__":
     with open(order_file) as inf:
         lines.extend(x.strip() for x in inf.readlines())
     lines = merge_tacl_data(lines, schedule_tsv)
-    lines = fix_poster_sessions(lines)
+  #  lines = fix_poster_sessions(lines)
     lines = fix_other_stuff(lines)
     print "\n".join(lines)
     

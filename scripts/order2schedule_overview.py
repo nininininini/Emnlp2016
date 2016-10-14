@@ -54,8 +54,8 @@ for date in cs.dates:
             if True:
                 oral_sessions = filter(lambda x: isinstance(x, Session) and not x.poster, events)
                 poster_sessions = filter(lambda x: isinstance(x, Session) and x.poster, events)
-                num_parallel_sessions = len(oral_sessions) + 1
-
+                #num_parallel_sessions = len(oral_sessions) + 1
+                num_parallel_sessions = len(oral_sessions) 
                 print >>out, '  %s & -- & %s &' % (timef(start), timef(stop))
                 print >>out, '  {\\bfseries %s}\\\\\n' % (title)
                 print >>out, ' & \multicolumn{3}{l}{%'
@@ -63,7 +63,9 @@ for date in cs.dates:
                 widths = ['>{\\RaggedRight}p{%.3f\\linewidth}' % (0.94/num_parallel_sessions) for x in range(num_parallel_sessions)]
                 print >>out, '  \\begin{tabular}{|%s|}' % ('|'.join(widths))
                 print >>out, '  \\hline'
-                print >>out, ' & '.join([s.desc for s in oral_sessions]), '&', " \\rule{1\\linewidth}{0.1pt} ".join([p.desc for p in poster_sessions]) , '\\\\'
+                #print >>out, ' & '.join([s.desc for s in oral_sessions]), '&', " \\rule{1\\linewidth}{0.1pt} ".join([p.desc for p in poster_sessions]) , '\\\\'
+                print >>out, ' & '.join([s.desc for s in oral_sessions]), '\\\\'
+
                 rooms = ['\emph{\Track%cLoc}' % (chr(65+x)) for x in range(num_parallel_sessions)]
                 print >>out, ' & '.join(rooms), '\\\\'
                 print >>out, '  \\hline\\end{tabular}'
@@ -83,18 +85,18 @@ for date in cs.dates:
                         print >>out, '  %s & -- & %s &' % (timef(start), timef(stop))
                         print >>out, '  {\\bfseries %s} \\hfill \emph{%s}' % (event.title, event.location() )
                         print >>out, '  \\\\'
-                        for p in event.papers:
-                            if p.time is None:
-                                if p.id is None:
-                                    print >>out, ' & & & \\textit{%s}\\\\' % ( p.title )
-                                else:
-                                    print >>out, ' & & & \\paperlistentry{%s}\\\\'% ( p.id )
-                            else:
-                                start, stop = p.time.split("--")
-                                if p.id is None:
-                                    print >>out, ' %s & -- & %s & \\textit{%s}\\\\' % ( start, stop, p.title )
-                                else:
-                                    print >>out, ' %s & -- & %s & \\paperlistentry{%s}\\\\'% ( start, stop, p.id )
+#                         for p in event.papers:
+#                             if p.time is None:
+#                                 if p.id is None:
+#                                     print >>out, ' & & & \\textit{%s}\\\\' % ( p.title )
+#                                 else:
+#                                     print >>out, ' & & & \\paperlistentry{%s}\\\\'% ( p.id )
+#                             else:
+#                                 start, stop = p.time.split("--")
+#                                 if p.id is None:
+#                                     print >>out, ' %s & -- & %s & \\textit{%s}\\\\' % ( start, stop, p.title )
+#                                 else:
+#                                     print >>out, ' %s & -- & %s & \\paperlistentry{%s}\\\\'% ( start, stop, p.id )
                 else:
                     raise ValueError("Unknown type!!!")
 

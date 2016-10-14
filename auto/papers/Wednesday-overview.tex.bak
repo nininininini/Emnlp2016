@@ -1,7 +1,7 @@
 \renewcommand{\arraystretch}{1.2}
 \begin{SingleTrackSchedule}
   07:30 & -- & 17:30 &
-  {\bfseries Registration day1} \hfill \emph{Salon H Prefunction}
+  {\bfseries Registration day1} \hfill \emph{\RegistrationLoc}
   \\
   08:00 & -- & 08:40 &
   {\bfseries Morning Coffee} \hfill \emph{\MorningLoc}
@@ -21,10 +21,10 @@
 
  & \multicolumn{3}{l}{%
  \begin{minipage}[t]{0.94\linewidth}
-  \begin{tabular}{|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|}
+  \begin{tabular}{|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|}
   \hline
 Parsing and Syntax & Information Extraction & Psycholinguistics / Machine Learning &  \\
-\emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} & \emph{\TrackDLoc} \\
+\emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} \\
   \hline\end{tabular}
 \end{minipage}
 }\\
@@ -36,10 +36,10 @@ Parsing and Syntax & Information Extraction & Psycholinguistics / Machine Learni
 
  & \multicolumn{3}{l}{%
  \begin{minipage}[t]{0.94\linewidth}
-  \begin{tabular}{|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|}
+  \begin{tabular}{|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|}
   \hline
 Reading Comprehension and Question Answering & Embeddings of Linguistic Structure & Sentiment and Opinion Analysis &  \\
-\emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} & \emph{\TrackDLoc} \\
+\emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} \\
   \hline\end{tabular}
 \end{minipage}
 }\\
@@ -51,10 +51,10 @@ Reading Comprehension and Question Answering & Embeddings of Linguistic Structur
 
  & \multicolumn{3}{l}{%
  \begin{minipage}[t]{0.94\linewidth}
-  \begin{tabular}{|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|>{\RaggedRight}p{0.235\linewidth}|}
+  \begin{tabular}{|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|}
   \hline
 Neural Machine Translation & Semi-supervised and Minimally Supervised Learning & Summarization and Generation &  \\
-\emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} & \emph{\TrackDLoc} \\
+\emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} \\
   \hline\end{tabular}
 \end{minipage}
 }\\

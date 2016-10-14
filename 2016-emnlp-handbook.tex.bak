@@ -106,13 +106,14 @@
 %% COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %fromMP \fancyfoot[C]{}
 %fromMP \includepdf[pages={1}]{content/fmatter/EMNLP16_cover.pdf}
-%TODO  \includepdf[pages=1]{content/fmatter/EMNLP16_cover.pdf}
+%TODO 
+ \includepdf[pages=1]{content/fmatter/EMNLP16_cover.pdf}
 
 %% INSIDE FRONT COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%TODO \input{content/venue}
+%TODO
+ \input{content/venue}
 
 %\vspace*{-1.2cm}
-%TODO \includegraphics[width=1\columnwidth]{content/images/culturgest-maps}
 
 %\vfill{}
 
@@ -121,7 +122,7 @@
 \vspace*{6in}
 \emph{Cover design by Aurelia Bunescu}
 
-\emph{Thanks to Fernando Batista and Matt Post for their helpful notes about creating a handbook}
+\emph{Thanks to Matt Post \& Fernando Batista  for their notes on creating a handbook}
 
 \emph{Handbook assembled by Swapna Somasundaran}
 
@@ -145,8 +146,8 @@
 %TODO 
 \include{content/conference-info}
 
-%TODO 
-\include{content/tutorials}
+%TODO
+ \include{content/tutorials}
 
 %TODO 
 \include{content/workshops}
@@ -160,19 +161,23 @@
 %TODO 
 \addcontentsline{toc}{chapter}{Author index}\printindex{}
 
-%\pagestyle{empty}
+\pagestyle{empty}
 
-%TODO \clearpage{}
+%TODO 
+\clearpage{}
 
-%TODO \phantomsection  \addcontentsline{toc}{chapter}{Sponsor Ads} \include{content/ads}
+%TODO 
+\phantomsection  \addcontentsline{toc}{chapter}{Sponsor Ads} \include{content/ads}
 
 %% LOCAL GUIDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \setheaders{Local Guide}{Local Guide}
-%\input{content/local-guide.tex}
+\input{content/local-guide.tex}
 
 %% BACK COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%TODO \clearpage{}
-%TODO \include{content/backcover}
+%TODO 
+\clearpage{}
+%TODO 
+\include{content/backcover}
 \end{document}
