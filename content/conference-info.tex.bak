@@ -5,16 +5,21 @@
 \section{Preface by the General Chair}
 
 \begin{flushright}
-MOnth 25, 2016 
+October 15, 2016 
 \par\end{flushright}
-XXXXXXXXXXXXXXXX
-XXXXXXXXXXXX
 
-XXXXXXXXXXXX 
- 
-\noindent \footnote{Conference website: \texttt{http://www.emnlp2016.net}}
+Welcome to the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP 2016) in Austin, Texas, USA!
 
+EMNLP is annually organized by SIGDAT, the Association for Computational
+Linguistics' special interest group on linguistic data and corpus-based approaches to NLP. At EMNLP 2016, one of the top tier conferences in Natural Language Processing (NLP), we have witnessed how our field thrives. This is not only reflected on the number of paper submissions but also the number of sponsors. The number of long paper submissions has increased 14.5\% over that of 2015. This year, we also have seen a record high number of sponsors in EMNLP history. We're honored and grateful to have Amazon, Baidu, Google and Grammarly as the Platinum Sponsors, Bloomberg, Citadel, eBay, Facebook, IBM Research, Maluuba and Microsoft as the Gold Sponsors, AI@ISI as the Silver Sponsor, Nuance, VoiceBox and Yandex as the Bronze Sponsors. We also have Oracle as the Student Volunteer Sponsor. Further more, we're expecting a record attendance. 
 
+A large number of people worked hard to bring this annual meeting to fruition, to whom I'm very grateful. Program Chairs, {\bf Kevin Duh} and {\bf Xavier Carreras}, the Area Chairs, reviewers, best paper committee members put immense amount of work to develop the technical program. Tutorial Chairs, {\bf Bishan Yang} and {\bf Rebecca Hwa}, Workshop Chairs, {\bf Annie Louis} and {\bf Greg Kondrak} conducted a competitive selection process in collaboration with NAACL and ACL to select 6 tutorials and 8 workshops. Sponsorship Chairs, {\bf Michel Galley}, {\bf Hang Li} (ACL International Sponsorship Committee Representative for EMNLP) did an excellent job to attract the record number of sponsors. Publication Chairs, {\bf Siddharth Patwardhan},{\bf Daniele Pighin}(advisor), Handbook Chair, {\bf Swapna Somasundaran} worked in very tight schedule to assemble the proceedings, C4Me Mobile app and handbooks. Publicity Chair, {\bf Saif M. Mohammad} disseminated the call for papers, call for participation and other announcements in a timely manner. Webmaster, {\bf Jackie C.K. Cheung} kept the website updated all the time, providing a professional outlook of the conference. Student Scholarship Chair and Student Volunteer Coordinator, {\bf Vincent Ng}, played two critical roles, managing the NSF and SIGDAT scholarship, and the review of applications, coordinating the student volunteers to support the conference. SIGDAT Secretary, {\bf Chris Callison-Burch} acted as the liaison between SIGDAT and the conference organizers. He is always available to provide good suggestions. 
+
+As usual, the conference cannot be done without Local Arrangements Chair, {\bf Priscilla Rasmussen}, who single-handedly took care of all conference logistics. I would like to mention that I benefited from last year's General Chair, {\bf Lluís Màrquez}, for the monthly progress reports and other sharing.  We are also grateful to the invited speakers, {\bf Christopher Potts}, {\bf Andreas Stolcke} and {\bf Stefanie Tellex} who will share with us their exciting research.
+
+I really appreciate the trust from SIGDAT officers, including previous secretary, {\bf Noah Smith} for me to coordinate the conference as the General Chair. 
+
+Finally, I'd like to thank all the authors and attendees. Your participation made a difference to the conference. I hope that you have an enjoyable and productive time at Austin. My best wishes for a success conference!  
 
 
 \begin{flushright}
@@ -398,25 +403,13 @@ exciting and enjoyable as we do!
 \clearpage{}
 
 
-\section{Social events}
-
- XXXXXXXXXXXXXX
-
-
-\subsection*{Welcome Reception}
-
-XXXX WHEN AND WHERE????
-
-
-%\subsection*{Conference Dinner}
+%\section{Social events}
 %
-%Sunday, September 20th at 19:00 at Pateo Alfacinha
+% XXXXXXXXXXXXXX
 %
-%First buses depart from Culturgest at 18:15. 
 %
-%Last returning bus depart from Páteo Alfacinha at 24:00.
+%\subsection*{Welcome Reception}
+%
+%XXXX WHEN AND WHERE????
+%
 
-
-\subsection*{Farewell Drink}
-
-Monday, September 21th at 18:30 at Culturgest

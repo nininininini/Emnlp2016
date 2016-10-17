@@ -1,77 +1,64 @@
 \thispagestyle{empty}
 
 \noindent EMNLP 2016 gratefully acknowledges the following sponsors
-for their support:\\
+for their support:
 
 %
 % SPONSOR LOGOS
 %
 
-%\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} llll }
-%  \multicolumn{4}{l}{\small\textbf Platinum}\\\hline\\[0.5mm]
-%    \includegraphics[width=1in]{content/sponsors/platinum/amazon-logo.jpg} 
-%    & \includegraphics[width=1in]{content/sponsors/platinum/Baidu-2016.jpg}
-%    & \includegraphics[width=0.5in]{content/sponsors/platinum/Google_2015_logo.eps} 
-%    & \includegraphics[width=1in]{content/sponsors/platinum/logo-grammarly.eps} 
-%\end{tabular*} \\
-
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} cc }
   \multicolumn{2}{l}{\small\textbf Platinum}\\ %\hline \\[0.5mm]
-    \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/amazon-logo.jpg} 
-    & \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/logo-grammarly.eps} \\
-     \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/Google_2015_logo.eps} 
-    & \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/Baidu-2016.jpg} \\
-\end{tabular*} \\
+    \includegraphics[width=0.35\textwidth]{content/sponsors/platinum/amazon-logo.jpg} 
+    & \includegraphics[width=0.35\textwidth]{content/sponsors/platinum/logo-grammarly.eps} \\
+     \includegraphics[width=0.35\textwidth]{content/sponsors/platinum/Google_2015_logo.eps} 
+    & \includegraphics[width=0.35\textwidth]{content/sponsors/platinum/Baidu-2016.jpg} \\
+\end{tabular*} 
 
-\vfill{}
+%\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} cc }
+%  \multicolumn{2}{l}{\small\textbf Platinum}\\ %\hline \\[0.5mm]
+%    \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/amazon-logo.jpg} 
+%    & \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/logo-grammarly.eps} \\
+%     \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/Google_2015_logo.eps} 
+%    & \includegraphics[width=0.40\textwidth]{content/sponsors/platinum/Baidu-2016.jpg} \\
+%\end{tabular*} 
+
+%\vfill{}
 
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} ccc }
   \multicolumn{3}{l}{\small\textbf Gold}\\ %\hline \\[0.5mm]
   \includegraphics[width=0.30\textwidth]{content/sponsors/gold/MSFT_logo_rgb_C-Gray.png}
     &  \includegraphics[width=0.30\textwidth]{content/sponsors/gold/citadel_logo.jpg}
-    & \includegraphics[width=0.30\textwidth]{content/sponsors/gold/maluuba_logo_on_white_LARGE.png}  \\ \\
+    & \includegraphics[width=0.30\textwidth]{content/sponsors/gold/maluuba_logo_on_white_LARGE.png}  \\ 
  \includegraphics[width=0.30\textwidth]{content/sponsors/gold/fblogo.jpg}
     & \includegraphics[width=0.30\textwidth]{content/sponsors/gold/ibm-sw.pdf}    
-    &  \includegraphics[width=0.30\textwidth]{content/sponsors/gold/ebay-logo.png}  \\ \\
+    &  \includegraphics[width=0.30\textwidth]{content/sponsors/gold/ebay-logo.png}  \\ 
     \includegraphics[width=0.30\textwidth]{content/sponsors/gold/Bloomberg-logo.jpg} 
     &  
     &  
     \\
-\end{tabular*} \\
+\end{tabular*} 
 
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} ccc }
   \multicolumn{2}{l}{\small\textbf Silver}\\   %\hline \\[0.5mm]
-	  
-	 & \includegraphics[width=0.25\textwidth]{content/sponsors/silver/ai_at_isi.pdf} 
+	 & \includegraphics[width=0.20\textwidth]{content/sponsors/silver/ai_at_isi.pdf} 
 	& \\
 \end{tabular*}
 
-%\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} lll }
-%  \multicolumn{3}{l}{\small\textbf Gold}\\\hline\\[0.5mm]
-%  \includegraphics[width=0.9in]{content/sponsors/gold/maluuba_logo_on_white_LARGE.png} 
-%  
-%    & \includegraphics[width=1in]{content/sponsors/gold/MSFT_logo_rgb_C-Gray.png}
-%    & \includegraphics[width=1in]{content/sponsors/gold/citadel_logo.jpg} \\
-%    \includegraphics[width=0.9in]{content/sponsors/gold/ebay-logo.png} 
-%    & \includegraphics[width=1in]{content/sponsors/gold/fblogo.jpg}
-%    & \includegraphics[width=1in]{content/sponsors/gold/ibm-logo.pdf} \\
-%    \includegraphics[width=0.9in]{content/sponsors/gold/Bloomberg-logo.jpg} 
-%    &  
-%    &  
-%    \\
-%\end{tabular*} \\
-\vfill{}
+
+
+%\vfill{}
 
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} cccc }
   \multicolumn{4}{l}{\small\textbf Bronze}\\ %\hline \\[0.5mm]
-\includegraphics[width=0.25\textwidth]{content/sponsors/bronze/voicebox-logo.eps} 
-    & \includegraphics[width=0.25\textwidth]{content/sponsors/bronze/nuance-logo.jpg}
-    &     \includegraphics[width=0.25\textwidth]{content/sponsors/bronze/yandex_eng_logo.eps} 
+\includegraphics[width=0.20\textwidth]{content/sponsors/bronze/voicebox-logo.eps} 
+    & \includegraphics[width=0.20\textwidth]{content/sponsors/bronze/nuance-logo.jpg}
+    &     \includegraphics[width=0.20\textwidth]{content/sponsors/bronze/yandex_eng_logo.eps} 
 &      \\
     %& \includegraphics[width=1in]{content/sponsors/bronze/none} 
-\end{tabular*} \\
+\end{tabular*} 
 
-\vfill{}
+%\vfill{}
 
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} ccc }
   \multicolumn{3}{l}{\small\textbf Student Volunteer Sponsor}\\ %\hline \\[0.5mm]

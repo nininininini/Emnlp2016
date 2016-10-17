@@ -12,7 +12,6 @@
   08:40 & -- & 10:00 &
   {\bfseries Session P1: Plenary Session I} \hfill \emph{Salon FG}
   \\
- 09:00 & -- & 10:00 & \textit{Invited Talk: Learning in extended and approximate Rational Speech Acts models (Christopher Potts)}\\
   10:00 & -- & 10:30 &
   {\bfseries Coffee Break} \hfill \emph{\CoffeeLoc}
   \\
@@ -23,7 +22,7 @@
  \begin{minipage}[t]{0.94\linewidth}
   \begin{tabular}{|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|}
   \hline
-Parsing and Syntax & Information Extraction & Psycholinguistics / Machine Learning &  \\
+Parsing and Syntax & Information Extraction & Psycholinguistics / Machine Learning \\
 \emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} \\
   \hline\end{tabular}
 \end{minipage}
@@ -38,7 +37,7 @@ Parsing and Syntax & Information Extraction & Psycholinguistics / Machine Learni
  \begin{minipage}[t]{0.94\linewidth}
   \begin{tabular}{|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|}
   \hline
-Reading Comprehension and Question Answering & Embeddings of Linguistic Structure & Sentiment and Opinion Analysis &  \\
+Reading Comprehension and Question Answering & Embeddings of Linguistic Structure & Sentiment and Opinion Analysis \\
 \emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} \\
   \hline\end{tabular}
 \end{minipage}
@@ -53,7 +52,7 @@ Reading Comprehension and Question Answering & Embeddings of Linguistic Structur
  \begin{minipage}[t]{0.94\linewidth}
   \begin{tabular}{|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|>{\RaggedRight}p{0.313\linewidth}|}
   \hline
-Neural Machine Translation & Semi-supervised and Minimally Supervised Learning & Summarization and Generation &  \\
+Neural Machine Translation & Semi-supervised and Minimally Supervised Learning & Summarization and Generation \\
 \emph{\TrackALoc} & \emph{\TrackBLoc} & \emph{\TrackCLoc} \\
   \hline\end{tabular}
 \end{minipage}
@@ -67,86 +66,4 @@ Neural Machine Translation & Semi-supervised and Minimally Supervised Learning &
   18:15 & -- & 20:15 &
   {\bfseries Poster Session A} \hfill \emph{Salon H and J}
   \\
- & & & \paperlistentry{papers-007}\\
- & & & \paperlistentry{papers-600}\\
- & & & \paperlistentry{papers-605}\\
- & & & \paperlistentry{papers-118}\\
- & & & \paperlistentry{papers-413}\\
- & & & \paperlistentry{papers-509}\\
- & & & \paperlistentry{papers-824}\\
- & & & \paperlistentry{papers-273}\\
- & & & \paperlistentry{papers-053}\\
- & & & \paperlistentry{papers-159}\\
- & & & \paperlistentry{papers-106}\\
- & & & \paperlistentry{papers-673}\\
- & & & \paperlistentry{papers-792}\\
- & & & \paperlistentry{papers-128}\\
- & & & \paperlistentry{papers-187}\\
- & & & \paperlistentry{papers-368}\\
- & & & \paperlistentry{papers-383}\\
- & & & \paperlistentry{papers-177}\\
- & & & \paperlistentry{papers-207}\\
- & & & \paperlistentry{papers-332}\\
- & & & \paperlistentry{papers-402}\\
- & & & \paperlistentry{papers-463}\\
- & & & \paperlistentry{papers-155}\\
- & & & \paperlistentry{papers-216}\\
- & & & \paperlistentry{papers-234}\\
- & & & \paperlistentry{papers-257}\\
- & & & \paperlistentry{papers-264}\\
- & & & \paperlistentry{papers-204}\\
- & & & \paperlistentry{papers-236}\\
- & & & \paperlistentry{papers-251}\\
- & & & \paperlistentry{papers-279}\\
- & & & \paperlistentry{papers-315}\\
- & & & \paperlistentry{papers-378}\\
- & & & \paperlistentry{papers-067}\\
- & & & \paperlistentry{papers-217}\\
- & & & \paperlistentry{papers-370}\\
- & & & \paperlistentry{papers-450}\\
- & & & \paperlistentry{papers-472}\\
- & & & \paperlistentry{papers-771}\\
- & & & \paperlistentry{papers-188}\\
- & & & \paperlistentry{papers-561}\\
- & & & \paperlistentry{papers-011}\\
- & & & \paperlistentry{papers-074}\\
- & & & \paperlistentry{papers-175}\\
- & & & \paperlistentry{papers-262}\\
- & & & \paperlistentry{papers-275}\\
- & & & \paperlistentry{papers-390}\\
- & & & \paperlistentry{papers-394}\\
- & & & \paperlistentry{papers-482}\\
- & & & \paperlistentry{papers-515}\\
- & & & \paperlistentry{papers-826}\\
- & & & \paperlistentry{papers-570}\\
- & & & \paperlistentry{papers-960}\\
- & & & \paperlistentry{papers-1017}\\
- & & & \paperlistentry{papers-337}\\
- & & & \paperlistentry{papers-958}\\
- & & & \paperlistentry{papers-012}\\
- & & & \paperlistentry{papers-629}\\
- & & & \paperlistentry{papers-150}\\
- & & & \paperlistentry{papers-508}\\
- & & & \paperlistentry{papers-720}\\
- & & & \paperlistentry{papers-058}\\
- & & & \paperlistentry{papers-455}\\
- & & & \paperlistentry{papers-1061}\\
- & & & \paperlistentry{papers-272}\\
- & & & \paperlistentry{papers-309}\\
- & & & \paperlistentry{papers-701}\\
- & & & \paperlistentry{papers-876}\\
- & & & \paperlistentry{papers-499}\\
- & & & \paperlistentry{papers-185}\\
- & & & \paperlistentry{papers-834}\\
- & & & \paperlistentry{papers-063}\\
- & & & \paperlistentry{papers-702}\\
- & & & \paperlistentry{papers-840}\\
- & & & \paperlistentry{papers-943}\\
- & & & \paperlistentry{papers-170}\\
- & & & \paperlistentry{papers-1075}\\
- & & & \paperlistentry{papers-772}\\
- & & & \paperlistentry{papers-513}\\
- & & & \paperlistentry{papers-500}\\
- & & & \paperlistentry{papers-028}\\
- & & & \paperlistentry{papers-601}\\
 \end{SingleTrackSchedule}

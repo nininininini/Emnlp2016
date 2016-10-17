@@ -4,13 +4,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Preface by the General Chair}{1}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Preface by the Program Committee Co-Chairs}{2}{section.1.2}
+\contentsline {section}{Preface by the Program Committee Co-Chairs}{3}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Organizing Committee}{5}{section.1.3}
+\contentsline {section}{Organizing Committee}{6}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Program Committee}{6}{section.1.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{Social events}{8}{section.1.5}
+\contentsline {section}{Program Committee}{7}{section.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Tutorials:Tuesday, November 1}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
@@ -52,26 +50,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 3}{45}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{65}{chapter.5}
+\contentsline {section}{Poster Session-A}{49}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Stefanie Tellex}{66}{section.5.1}
+\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{67}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{68}{section.5.2}
+\contentsline {section}{Invited Speaker: Stefanie Tellex}{68}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 5}{72}{section.5.3}
+\contentsline {section}{Session 4}{70}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{76}{section.5.4}
+\contentsline {section}{Session 5}{74}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{97}{chapter.6}
+\contentsline {section}{Session 6}{78}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Andreas Stolcke}{98}{section.6.1}
+\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{99}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{99}{section.6.2}
+\contentsline {section}{Invited Speaker: Andreas Stolcke}{100}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{103}{section.6.3}
+\contentsline {section}{Session 7}{101}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{110}{section*.7}
+\contentsline {section}{Session 8}{105}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Sponsor Ads}{122}{section*.8}
+\contentsline {chapter}{Author index}{112}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Local Guide}{129}{section*.9}
+\contentsline {chapter}{Sponsor Ads}{124}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Local Guide}{131}{section*.9}

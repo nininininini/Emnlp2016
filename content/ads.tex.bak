@@ -12,9 +12,9 @@
 \begin{center}
 \vfill{}
 %\includegraphics[angle=90,origin=c,width=1\textwidth]{content/ads/Google_2015_logo.png}
-\fbox{
+%\fbox{
 \includegraphics[angle=90,origin=c,height=0.6\textheight]{content/ads/Google_2015_logo.png}
-}
+%}
 \vfill{}
 \par\end{center}
 
