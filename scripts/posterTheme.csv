@@ -1,0 +1,165 @@
+Day,Poster ID,Submission ID,Area
+1,L01,7,Discourse & Dialogue
+1,L02,600,Discourse & Dialogue
+1,L03,605,Discourse & Dialogue
+1,L04,118,Information Extraction
+1,L05,413,Information Extraction
+1,L06,509,Information Extraction
+1,L07,824,Information Extraction
+1,L08,273,Language Modeling
+1,L09,53,Language and Vision
+1,L10,159,Language and Vision
+1,L11,106,Machine Learning
+1,L12,673,Machine Learning
+1,L13,792,Machine Learning
+1,L14,128,Machine Translation
+1,L15,187,Machine Translation
+1,L16,368,Machine Translation
+1,L17,383,Machine Translation
+1,L18,177,Question Answering
+1,L19,207,Question Answering
+1,L20,332,Question Answering
+1,L21,402,Question Answering
+1,L22,463,Question Answering
+1,L23,155,Sentiment Analysis
+1,L24,216,Sentiment Analysis
+1,L25,234,Sentiment Analysis
+1,L26,257,Sentiment Analysis
+1,L27,264,Sentiment Analysis
+1,L28,204,Semantics
+1,L29,236,Semantics
+1,L30,251,Semantics
+1,L31,279,Semantics
+1,L32,315,Social Media & Computational Social Science
+1,L33,378,Social Media & Computational Social Science
+1,L34,67,Syntax & Morphology
+1,L35,217,Syntax & Morphology
+1,L36,370,Syntax & Morphology
+1,L37,450,Syntax & Morphology
+1,L38,472,Syntax & Morphology
+1,L39,771,Syntax & Morphology
+1,L40,188,Summarization
+1,L41,561,Summarization
+1,L42,11,Text Mining & Applications
+1,L43,74,Text Mining & Applications
+1,L44,175,Text Mining & Applications
+1,L45,262,Text Mining & Applications
+1,L46,275,Text Mining & Applications
+1,L47,390,Text Mining & Applications
+1,L48,394,Text Mining & Applications
+1,L49,482,Text Mining & Applications
+1,L50,515,Text Mining & Applications
+1,S01,826,Information Extraction
+1,S02,570,Information Extraction
+1,S03,960,Information Extraction
+1,S04,1017,Information Extraction
+1,S05,337,Language and Vision
+1,S06,958,Language and Vision
+1,S07,12,Language and Vision
+1,S08,629,Language and Vision
+1,S09,150,Machine Learning
+1,S10,508,Machine Learning
+1,S11,720,Machine Learning
+1,S12,58,Machine Translation
+1,S13,455,Syntax & Morphology
+1,S14,1061,Syntax & Morphology
+1,S15,272,Semantics
+1,S16,309,Semantics
+1,S17,701,Semantics
+1,S18,876,Semantics
+1,S19,499,Sentiment Analysis
+1,S20,185,Sentiment Analysis
+1,S21,834,Sentiment Analysis
+1,S22,63,Social Media & Computational Social Science
+1,S23,702,Social Media & Computational Social Science
+1,S24,840,Social Media & Computational Social Science
+1,S25,943,Social Media & Computational Social Science
+1,S26,170,Spoken Language Processing
+1,S27,1075,Spoken Language Processing
+1,S28,772,Summarization
+1,S29,513,Summarization
+1,S30,500,Text Mining & Applications
+1,S31,28,Text Mining & Applications
+1,S32,601,Text Mining & Applications
+2,L01,825,Discourse & Dialogue
+2,L02,900,Discourse & Dialogue
+2,L03,215,Discourse & Dialogue
+2,L04,991,Information Extraction
+2,L05,1053,Information Extraction
+2,L06,1173,Information Extraction
+2,L07,640,Language Modeling
+2,L08,930,Language and Vision
+2,L09,959,Language and Vision
+2,L10,1097,Machine Learning
+2,L11,1121,Machine Learning
+2,L12,1240/TACL,Machine Learning
+2,L13,415,Machine Translation
+2,L14,682,Machine Translation
+2,L15,715,Machine Translation
+2,L16,799,Machine Translation
+2,L17,859,Machine Translation
+2,L18,497,Question Answering
+2,L19,758,Question Answering
+2,L20,1100,Question Answering
+2,L21,1108,Question Answering
+2,L22,1119,Question Answering
+2,L23,737,Sentiment Analysis
+2,L24,754,Sentiment Analysis
+2,L25,1038,Sentiment Analysis
+2,L26,1077,Sentiment Analysis
+2,L27,1139,Sentiment Analysis
+2,L28,317,Semantics
+2,L29,817,Semantics
+2,L30,877,Semantics
+2,L31,1152,Semantics
+2,L32,849,Social Media & Computational Social Science
+2,L33,814,Syntax & Morphology
+2,L34,820,Syntax & Morphology
+2,L35,842,Syntax & Morphology
+2,L36,887,Syntax & Morphology
+2,L37,1164,Syntax & Morphology
+2,L38,1190,Syntax & Morphology
+2,L39,1136,Summarization
+2,L40,578,Text Mining & Applications
+2,L41,728,Text Mining & Applications
+2,L42,353,Text Mining & Applications
+2,L43,364,Text Mining & Applications
+2,L44,819,Text Mining & Applications
+2,L45,831,Text Mining & Applications
+2,L46,863,Text Mining & Applications
+2,L47,883,Text Mining & Applications
+2,L48,946,Text Mining & Applications
+2,L49,1148,Text Mining & Applications
+2,S01,662,Machine Translation
+2,S02,342,Text Mining & Applications
+2,S03,284,Information Extraction
+2,S04,391,Information Extraction
+2,S05,589,Information Extraction
+2,S06,214,Information Extraction
+2,S07,871,Language and Vision
+2,S08,26,Language and Vision
+2,S09,83,Language and Vision
+2,S10,349,Semantics
+2,S11,733,Machine Learning
+2,S12,512,Machine Learning
+2,S13,343,Machine Learning
+2,S14,821,Machine Learning
+2,S15,141,Syntax & Morphology
+2,S16,352,Syntax & Morphology
+2,S17,89,Semantics
+2,S18,354,Semantics
+2,S19,1067,Semantics
+2,S20,622,Semantics
+2,S21,993,Sentiment Analysis
+2,S22,1178,Sentiment Analysis
+2,S23,1113,Social Media & Computational Social Science
+2,S24,1211,Social Media & Computational Social Science
+2,S25,642,Social Media & Computational Social Science
+2,S26,979,Social Media & Computational Social Science
+2,S27,901,Spoken Language Processing
+2,S28,191,Spoken Language Processing
+2,S29,791,Summarization
+2,S30,425,Text Mining & Applications
+2,S31,660,Text Mining & Applications
+2,S32,1145,Text Mining & Applications
+2,S33,677,Text Mining & Applications
