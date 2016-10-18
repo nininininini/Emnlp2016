@@ -1,0 +1,27 @@
+* Saturday, November 5, 2016
+= 9:00--10:30 Text Understanding # %chair1 Annie Louis %aff1 University of Essex %chair2 Michael Roth
+! 9:00--10:20 Invited talks, followed by discussion %by Hal Daume III, Andrew Kehler, Chris Manning, Marie-Catherine de Marneffe
++ 10:20--10:30 Poster Boasters
+2 10:20--10:20  # An Analysis of Prerequisite Skills for Reading Comprehension
+4 10:20--10:20  # Bridging the gap between computable and expressive event representations in Social Media
+7 10:20--10:20  # Statistical Script Learning with Recurrent Neural Networks
+9 10:20--10:20  # Moving away from semantic overfitting in disambiguation datasets
+14 10:20--10:20  # Unsupervised Event Coreference for Abstract Words
+16 10:20--10:20  # Towards Broad-coverage Meaning Representation: The Case of Comparison Structures
++ 10:30--11:00 Coffee break
+= 11:00--12:30 Natural Language Generation # %chair1 Michael White %aff1 Ohio State University
+! 11:00--12:20 Invited talks, followed by discussion %by Ioannis Konstas, Kathleen McKeown, Margaret Mitchell, Donia Scott
++ 12:20--12:30 Poster Boasters
+1 12:20--12:20  # DialPort: A General Framework for Aggregating Dialog Systems
+5 12:20--12:20  # C2D2E2: Using Call Centers to Motivate the Use of Dialog and Diarization in Entity Extraction
+8 12:20--12:20  # Visualizing the Content of a Children___s Story in a Virtual World: Lessons Learned
+11 12:20--12:20  # Stylistic Transfer in Natural Language Generation Systems Using Recurrent Neural Networks
+12 12:20--12:20  # Using Language Groundings for Context-Sensitive Text Prediction
+15 12:20--12:20  # Towards a continuous modeling of natural language domains
++ 12:30--14:00 Lunch break
+= 14:00--15:20 Dialogue and Speech # %chair1 Bonnie Webber %aff1 University of Edinburgh
+! 14:00--15:20 Invited talks, followed by discussion %by David DeVault, Mark Liberman, Diane Litman, Amanda Stent
++ 15:20--16:00 Coffee break + poster session
+= 16:00--16:30 Poster session (continued)
+= 16:30--17:50 Grounded Language # %chair1 Luke Zettlemoyer %aff1 University of Washington
+! 16:30--17:50 Invited talks, followed by discussion %by James Allen, Joyce Chai, Yejin Choi, Mark Steedman
