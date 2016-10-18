@@ -79,3 +79,5 @@
 \contentsline {chapter}{Author index}{113}{section*.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Sponsor Ads}{125}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Local Guide}{132}{section*.9}

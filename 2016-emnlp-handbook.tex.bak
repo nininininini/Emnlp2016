@@ -106,10 +106,12 @@
 %% COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %fromMP \fancyfoot[C]{}
 %fromMP \includepdf[pages={1}]{content/fmatter/EMNLP16_cover.pdf}
-%TODO  \includepdf[pages=1]{content/fmatter/EMNLP16_cover.pdf}
+%TODO 
+ \includepdf[pages=1]{content/fmatter/EMNLP16_cover.pdf}
 
 %% INSIDE FRONT COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%TODO \input{content/venue}
+%TODO 
+\input{content/venue}
 
 %\vspace*{-1.2cm}
 
@@ -124,9 +126,11 @@
 
 \emph{Handbook assembled by Swapna Somasundaran}
 
-%TODO \cleardoublepage{}   \include{content/overview}
+%TODO 
+\cleardoublepage{}   \include{content/overview}
 
-% \cleardoublepage{}
+% 
+\cleardoublepage{}
 
 \frontmatter
 
@@ -151,7 +155,8 @@
 %TODO 
 \include{content/conference-days}
 
-%TODO \cleardoublepage{}
+%TODO 
+\cleardoublepage{}
 
 %TODO 
 \phantomsection
@@ -168,11 +173,15 @@
 
 %% LOCAL GUIDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%TODO \setheaders{Local Guide}{Local Guide}
-%TODO \input{content/local-guide.tex}
+%TODO 
+\setheaders{Local Guide}{Local Guide}
+%TODO 
+\input{content/local-guide.tex}
 
 %% BACK COVER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%TODO \clearpage{}
-%TODO \include{content/backcover}
+%TODO 
+\clearpage{}
+%TODO 
+\include{content/backcover}
 \end{document}
