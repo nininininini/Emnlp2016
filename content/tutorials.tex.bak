@@ -172,7 +172,7 @@ The content of the tutorial is divided into 3 sections of 1 hour each. We assume
 \begin{bio}
 \textbf{ Rafael E Banchs, Researcher, Institute for Infocomm Research, Singapore}
  Rafael is a Research Scientist at the Institute for Infocomm Research, in Singapore, where he leads the Dialogue Technology Lab of the Human Language Technology Department. His main area of research is focused on the construction and use of semantic representations to support different natural language processing applications, including machine translation, information retrieval, natural language understanding and chat-oriented dialogue. 
- \index{E Banchs, Rafael}
+ \index{Banchs, Rafael E.}
 \end{bio}
 \begin{tutorial}{Tutorial-005}{Tuesday, November 1 -- 14:00--17:30} {\TutLocE}
  The mathematical metaphor offered by the geometric concept of distance in vector spaces with respect to semantics and meaning has been proven to be useful in many monolingual natural language processing applications. There is also some recent and strong evidence that this paradigm can also be useful in the cross-language setting. In this tutorial, we present and discuss some of the most recent advances on exploiting the vector space model paradigm in specific cross-language natural language processing applications, along with a comprehensive review of the theoretical background behind them.

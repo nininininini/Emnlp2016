@@ -916,18 +916,18 @@
     \entry{SPNLP}{inproceedings}{}
       \name{labelname}{4}{}{%
         {{hash=e92742530fcafbae797b45437638bb01}{Chang}{C\bibinitperiod}{Kai-Wei}{K\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=1dd218ae435ec5c0143b3fbbc5da192e}{Rush}{R\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3b1c14e0b6062a582b5df1be603de06c}{Rush}{R\bibinitperiod}{{Alexander\bibnamedelimb M.}}{A\bibinitperiod}{}{}{}{}}%
         {{hash=d353c169cbdb6171b51ab4026427e690}{Srikumar}{S\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
         {{hash=a45784fe7163b45f11d166564f5d24b6}{Chang}{C\bibinitperiod}{Ming-Wei}{M\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{hash=e92742530fcafbae797b45437638bb01}{Chang}{C\bibinitperiod}{Kai-Wei}{K\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=1dd218ae435ec5c0143b3fbbc5da192e}{Rush}{R\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3b1c14e0b6062a582b5df1be603de06c}{Rush}{R\bibinitperiod}{{Alexander\bibnamedelimb M.}}{A\bibinitperiod}{}{}{}{}}%
         {{hash=d353c169cbdb6171b51ab4026427e690}{Srikumar}{S\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
         {{hash=a45784fe7163b45f11d166564f5d24b6}{Chang}{C\bibinitperiod}{Ming-Wei}{M\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{788b78f4f9dbc6dfb352ec6ee17af6a3}
-      \strng{fullhash}{d5b5d7b04e26f647f6bd9ffce0261cf5}
+      \strng{fullhash}{582adb47bd3fc7a12bc915caa472b486}
       \field{sortinit}{C}
       \field{labeltitle}{Structured Prediction for NLP}
       \field{title}{Structured Prediction for NLP}
