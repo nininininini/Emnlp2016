@@ -32,23 +32,23 @@ Finally, I'd like to thank all the authors and attendees. Your participation mad
 
 \section{Preface by the Program Committee Co-Chairs}
 
-\begin{flushright}
-October 08, 2016 
-\par\end{flushright}
 
-\noindent  Welcome to the 2016 Conference on Empirical Methods in Natural Language Processing!
+\vskip 1cm
+\hfill October 17, 2016
+\vskip 1cm
+
+Welcome to the 2016 Conference on Empirical Methods in Natural Language Processing!
 This year we received 1,087 valid submissions, of which 687 were long
-papers and 400 were short papers.\footnote{By the submission deadline
-  we received 1,185 papers, but to compute the acceptance statistics
-  we exclude 57 papers that were withdrawn (34 long and 23 short), and
-  41 papers that were rejected without review due to a violation of
-  the submission instructions (26 long and 15 short).}
+papers and 400 were short papers.
+%\footnote{By the submission deadline we received 1,185 papers, but to compute the acceptance statistics we exclude 57 papers that were withdrawn (34 long and 23 short), and
+%  41 papers that were rejected without review due to a violation of
+ % the submission instructions (26 long and 15 short).}
 We accepted 177 long papers (25.8\% acceptance rate) and 
 87 short papers (21.8\% acceptance rate), for a total of 
 264 papers and an overall acceptance rate of 24.3\%.
 
 The technical program at EMNLP 2016 consists of a total of 273 papers, including 9 journal papers accepted by the Transactions of ACL. 
-As in past editions, we have structured the conference into three parallel oral sessions in the day and two poster sessions in the evening. 
+We have structured the conference into three parallel oral sessions in the day and two poster sessions in the evening. 
 %% KD: I've simplified this paragraph a bit. I think we don't need to be so detailed. The following text is kept in case you want to revert
 %As in past editions, we have structured the
 %conference into oral and poster sessions (109 papers get an oral talk,
@@ -65,6 +65,10 @@ recent NAACL conference innovations, we also run poster spotlight sessions (also
 is important to ensure that all papers receive the exposure they deserve. 
 
 We are excited and grateful to have three distinguished speakers for our invited keynote talks. Christopher Potts (Stanford University) will present recent advances in rational speech acts and pragmatics. Andreas Stolcke (Microsoft Research) will talk about the challenges and opportunities in human-human-machine dialog. Stefanie Tellex (Brown University) will discuss novel methods and frameworks for enabling human-robot collaboration. We think that these are exciting research areas that can potentially impact---and be impacted by---the EMNLP community in the near future. We look forward to their keynotes and the conversations afterwards. 
+
+
+
+
 
 
 % START reports 873 total users
@@ -88,6 +92,8 @@ The program committee includes 823 primary reviewers and 99 secondary reviewers.
 The committee was structured into 12 thematic areas, handled by 41 area chairs. We are
 grateful to all program committee members for their effort and dedication during our tight reviewing schedule; without them we cannot create a strong high-quality program. 
 We are also thankful for all authors who submitted papers, which overall cover a diverse range of topics. 
+
+
 
 Best paper awards were organized around three categories: best 
 paper, best short paper, and best resource paper. The latter category
@@ -113,6 +119,30 @@ In addition, two papers were given an honorable mention for best paper:
   Learning as Beam-Search Optimization}, by Sam Wiseman and Alexander
   M. Rush.
 \end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[t]
+  \begin{center}
+  \begin{tabular}{lrrr}
+     & Long & Short & Total \\
+    \hline
+    Initial submissions                    & 747 & 438 & 1,185 \\
+    Withdrawn or rejected without review   &  60 &  38 &    98 \\
+    Submissions reviewed                   & 687 & 400 & 1,087 \\
+    Submissions accepted                   & 177 &  87 &   264 \\
+    Acceptance rate                        & 25.76\% & 21.75\% & 24.29\% \\
+    TACL papers                            &   9 &   0 &   9   \\
+    Papers at EMNLP 2016 \hskip 2cm        & 186 &  87 &  273  \\         
+    Oral talks                             &  87 &  22 &  109  \\
+    Poster presentations                   & 99 &  65  & 164  \\
+    \hline
+  \end{tabular}
+  \end{center}
+  \caption{Submission statistics of EMNLP 2016}
+\end{table}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 For {\bf best short paper}, the committee had Stefan Riezler, Anoop Sarkar, and Noah Smith, and the award went to:
 \begin{itemize}
@@ -166,8 +196,34 @@ We are grateful to the many people who helped us at various stages of the progra
  % participated in discussions.
 \item Priscilla Rasmussen, our local organizer who performed amazing feats to make everything work.
 \item Siddharth Patwardhan and Daniele Pighin, the publication chairs.
-\item Joel Tetreault, Brendan O'Connor, and Courtney Napoles for organizing {\em the HMM sessions}. 
-\item All session chairs. 
+\item Joel Tetreault, Brendan O'Connor, and Courtney Napoles for organizing and chairing {\em the HMM sessions}. 
+\item The session chairs:
+%
+  Regina Barzilay, 
+  Alexandra Birch, 
+  Phil Blunsom,
+  Yejin Choi,
+  Ido Dagan,
+  Marie-Catherine de Marneffe,
+  Katrin Erk,
+  Pascale Fung, 
+  Alona Fyshe,
+  Rebecca Hwa,
+  Heng Ji,
+  Diane Litman, 
+  Yang Liu,
+  Llu{\'\i}s M{\`a}rquez,
+  Andr{\'e} F.T. Martins,
+  Kathy McKeown, 
+  Raymond Mooney,
+  Preslav Nakov,
+  Hinrich Sch{\"u}tze,
+  Thamar Solorio,
+  Hiroya Takamura,
+  Kristina Toutanova,
+  Bonnie Webber,
+  and Wei Xu. 
+%  
 \item Jackie C.K. Cheung, who maintained the EMNLP 2016 website with up-to-date information. 
 \item Yejin Choi, who kept us connected with the ACL Exec. 
 \item Kristina Toutanova and Lillian Lee, who helped us regarding TACL papers.
@@ -179,6 +235,10 @@ We are grateful to the many people who helped us at various stages of the progra
   the Start Conference Manager. 
     
 \end{itemize}
+
+
+
+
 
 
 On behalf of all attendees at the conference, we would also like to acknowledge the generosity of our sponsors: Amazon, Baidu, Google, Grammarly, Bloomberg, Citadel, eBay, Facebook, IBM Research, Maluuba, Microsoft, AI@ISI, Nuance, VoiceBox, Yandex, and Oracle.
@@ -196,19 +256,15 @@ On behalf of all attendees at the conference, we would also like to acknowledge 
 
 Chairing the program committee of EMNLP has been a great honor and a
 rich scientific experience. 
-We are grateful to the SIGDAT for giving us this opportunity. 
+We are grateful to SIGDAT for giving us this opportunity. 
 %We are grateful to the 2015 \& 2016 SIGDAT officers (Mark Steedman, Pascale Fung, Mirella Lapata, Chris Callison-Burch, Mark Johnson, Noah Smith) for giving us this opportunity. 
 And we hope that you will find the program as
 exciting and enjoyable as we do!
 
+\vskip 2cm
 
-
-\begin{flushright}
 \noindent Xavier Carreras and Kevin Duh\\
-\emph{} \index{Carreras, Xavier}\index{Duh, Kevin}
-\\
- EMNLP 2016 Program Committee Co-Chairs 
-\par\end{flushright}
+\emph{EMNLP 2016 Program Committee Co-Chairs}
 
 \clearpage{}
 
