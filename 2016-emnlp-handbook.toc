@@ -70,14 +70,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{99}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Andreas Stolcke}{100}{section.6.1}
+\contentsline {section}{Invited Speaker: Andreas Stolcke}{101}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{101}{section.6.2}
+\contentsline {section}{Session 7}{102}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{105}{section.6.3}
+\contentsline {section}{Session 8}{106}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{113}{section*.7}
+\contentsline {chapter}{Author index}{115}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Sponsor Ads}{125}{section*.8}
+\contentsline {chapter}{Sponsor Ads}{127}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Local Guide}{132}{section*.9}
+\contentsline {chapter}{Local Guide}{134}{section*.9}

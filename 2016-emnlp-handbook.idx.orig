@@ -1,0 +1,1428 @@
+\indexentry{Su, Jian|hyperpage}{6}
+\indexentry{Carreras, Xavier|hyperpage}{6}
+\indexentry{Duh, Kevin|hyperpage}{6}
+\indexentry{Louis, Annie|hyperpage}{6}
+\indexentry{Kondrak, Greg|hyperpage}{6}
+\indexentry{Yang, Bishan|hyperpage}{6}
+\indexentry{Hwa, Rebecca|hyperpage}{6}
+\indexentry{Patwardhan, Siddharth|hyperpage}{6}
+\indexentry{Pighin, Daniele|hyperpage}{6}
+\indexentry{Mohammad, Saif M.|hyperpage}{6}
+\indexentry{Galley, Michel|hyperpage}{6}
+\indexentry{Li, Hang|hyperpage}{6}
+\indexentry{Ng, Vincent|hyperpage}{6}
+\indexentry{Somasundaran, Swapna|hyperpage}{6}
+\indexentry{Cheung, Jackie Chi Kit|hyperpage}{6}
+\indexentry{Callison-Burch, Chris|hyperpage}{6}
+\indexentry{Rasmussen, Priscilla|hyperpage}{6}
+\indexentry{Carreras, Xavier|hyperpage}{7}
+\indexentry{Duh, Kevin|hyperpage}{7}
+\indexentry{Chambers, Nate|hyperpage}{7}
+\indexentry{Huang, Ruihong|hyperpage}{7}
+\indexentry{Kan, Min-Yen|hyperpage}{7}
+\indexentry{Ritter, Alan|hyperpage}{7}
+\indexentry{Wen-Tau Yih, Scott|hyperpage}{7}
+\indexentry{Fidler, Sanja|hyperpage}{7}
+\indexentry{Hockenmaier, Julia|hyperpage}{7}
+\indexentry{Stevenson, Suzanne|hyperpage}{7}
+\indexentry{Bouchard, Guillaume|hyperpage}{7}
+\indexentry{Cho, Kyunghyun|hyperpage}{7}
+\indexentry{Ganchev, Kuzman|hyperpage}{7}
+\indexentry{Quattoni, Ariadna|hyperpage}{7}
+\indexentry{Ringger, Eric|hyperpage}{7}
+\indexentry{DeNero, John|hyperpage}{7}
+\indexentry{Fraser, Alex|hyperpage}{7}
+\indexentry{Liu, Yang|hyperpage}{7}
+\indexentry{Wu, Dekai|hyperpage}{7}
+\indexentry{Collins, Michael|hyperpage}{7}
+\indexentry{Huang, Liang|hyperpage}{7}
+\indexentry{Kawahara, Daisuke|hyperpage}{7}
+\indexentry{Martins, Andre|hyperpage}{7}
+\indexentry{Artzi, Yoav|hyperpage}{7}
+\indexentry{Dinu, Georgiana|hyperpage}{7}
+\indexentry{Grefenstette, Edward|hyperpage}{7}
+\indexentry{Mooney, Raymond|hyperpage}{7}
+\indexentry{Rimell, Laura|hyperpage}{7}
+\indexentry{Hovy, Dirk|hyperpage}{8}
+\indexentry{Liu, Bing|hyperpage}{8}
+\indexentry{Mohammad, Saif M.|hyperpage}{8}
+\indexentry{Baldwin, Timothy|hyperpage}{8}
+\indexentry{Muresan, Smaranda|hyperpage}{8}
+\indexentry{Roark, Brian|hyperpage}{8}
+\indexentry{Zweig, Geoff|hyperpage}{8}
+\indexentry{Stede, Manfred|hyperpage}{8}
+\indexentry{Strube, Michael|hyperpage}{8}
+\indexentry{Vanderwende, Lucy|hyperpage}{8}
+\indexentry{Xu, Wei|hyperpage}{8}
+\indexentry{Nakov, Preslav|hyperpage}{8}
+\indexentry{Nastase, Vivi|hyperpage}{8}
+\indexentry{Smith, David|hyperpage}{8}
+\indexentry{Tetreault, Joel|hyperpage}{8}
+\indexentry{Dyer, Chris|hyperpage}{9}
+\indexentry{Goldberg, Yoav|hyperpage}{9}
+\indexentry{Neubig, Graham|hyperpage}{9}
+\indexentry{Venugopal, Deepak|hyperpage}{9}
+\indexentry{Gogate, Vibhav|hyperpage}{9}
+\indexentry{Ng, Vincent|hyperpage}{9}
+\indexentry{Chen, Zhiyuan|hyperpage}{9}
+\indexentry{Liu, Bing|hyperpage}{9}
+\indexentry{Zhang, Yue|hyperpage}{9}
+\indexentry{Vo, Duy Tin|hyperpage}{9}
+\indexentry{Banchs, Rafael E.|hyperpage}{9}
+\indexentry{Sun, Xu|hyperpage}{9}
+\indexentry{Feng, Yansong|hyperpage}{9}
+\indexentry{Dyer, Chris|hyperpage}{10}
+\indexentry{Goldberg, Yoav|hyperpage}{10}
+\indexentry{Neubig, Graham|hyperpage}{10}
+\indexentry{Dyer, Chris|hyperpage}{10}
+\indexentry{Goldberg, Yoav|hyperpage}{10}
+\indexentry{Neubig, Graham|hyperpage}{10}
+\indexentry{Venugopal, Deepak|hyperpage}{12}
+\indexentry{Gogate, Vibhav|hyperpage}{12}
+\indexentry{Ng, Vincent|hyperpage}{12}
+\indexentry{Venugopal, Deepak|hyperpage}{12}
+\indexentry{Gogate, Vibhav|hyperpage}{12}
+\indexentry{Ng, Vincent|hyperpage}{12}
+\indexentry{Chen, Zhiyuan|hyperpage}{14}
+\indexentry{Liu, Bing|hyperpage}{14}
+\indexentry{Chen, Zhiyuan|hyperpage}{14}
+\indexentry{Liu, Bing|hyperpage}{14}
+\indexentry{Zhang, Yue|hyperpage}{15}
+\indexentry{Vo, Duy Tin|hyperpage}{15}
+\indexentry{Zhang, Yue|hyperpage}{15}
+\indexentry{Tin Vo, Duy|hyperpage}{15}
+\indexentry{Banchs, Rafael E.|hyperpage}{17}
+\indexentry{Banchs, Rafael E.|hyperpage}{17}
+\indexentry{Sun, Xu|hyperpage}{18}
+\indexentry{Feng, Yansong|hyperpage}{18}
+\indexentry{Sun, Xu|hyperpage}{18}
+\indexentry{Feng, Yansong|hyperpage}{18}
+\indexentry{Yung-jen Hsu, Jane|hyperpage}{22}
+\indexentry{Ku, Lun-Wei|hyperpage}{22}
+\indexentry{Li, Cheng-Te|hyperpage}{22}
+\indexentry{Stowe, Kevin|hyperpage}{22}
+\indexentry{Paul, Michael J.|hyperpage}{22}
+\indexentry{Palmer, Martha|hyperpage}{22}
+\indexentry{Palen, Leysia|hyperpage}{22}
+\indexentry{Anderson, Kenneth|hyperpage}{22}
+\indexentry{Doggett, Erika|hyperpage}{22}
+\indexentry{Cantarero, Alejandro|hyperpage}{22}
+\indexentry{Sadeque, Farig|hyperpage}{22}
+\indexentry{Pedersen, Ted|hyperpage}{22}
+\indexentry{Solorio, Thamar|hyperpage}{22}
+\indexentry{Shrestha, Prasha|hyperpage}{22}
+\indexentry{Rey-Villamizar, Nicolas|hyperpage}{22}
+\indexentry{Bethard, Steven|hyperpage}{22}
+\indexentry{Dredze, Mark|hyperpage}{22}
+\indexentry{Andrews, Nicholas|hyperpage}{22}
+\indexentry{DeYoung, Jay|hyperpage}{22}
+\indexentry{Navindgi, Amit|hyperpage}{22}
+\indexentry{Brun, Caroline|hyperpage}{22}
+\indexentry{Boulard Masson, C\IeC {\'e}cile|hyperpage}{22}
+\indexentry{Nowson, Scott|hyperpage}{22}
+\indexentry{Kim, Sunghwan Mac|hyperpage}{22}
+\indexentry{Wan, Stephen|hyperpage}{22}
+\indexentry{Paris, Cecile|hyperpage}{22}
+\indexentry{Jain, Siddharth|hyperpage}{22}
+\indexentry{Eisner, Ben|hyperpage}{22}
+\indexentry{Rockt\IeC {\"a}schel, Tim|hyperpage}{22}
+\indexentry{Augenstein, Isabelle|hyperpage}{22}
+\indexentry{Bosnjak, Matko|hyperpage}{22}
+\indexentry{Riedel, Sebastian|hyperpage}{22}
+\indexentry{Fang, Hao|hyperpage}{22}
+\indexentry{Cheng, Hao|hyperpage}{22}
+\indexentry{Ostendorf, Mari|hyperpage}{22}
+\indexentry{Fang, Rui|hyperpage}{23}
+\indexentry{Nourbakhsh, Armineh|hyperpage}{23}
+\indexentry{LIU, XIAOMO|hyperpage}{23}
+\indexentry{Shah, Sameena|hyperpage}{23}
+\indexentry{Li, Quanzhi|hyperpage}{23}
+\indexentry{Hsieh, Yu-Lun|hyperpage}{23}
+\indexentry{Chang, Yung-Chun|hyperpage}{23}
+\indexentry{Chu, Chun-Han|hyperpage}{23}
+\indexentry{Hsu, Wen-Lian|hyperpage}{23}
+\indexentry{Jaech, Aaron|hyperpage}{23}
+\indexentry{Mulcaire, George|hyperpage}{23}
+\indexentry{Hathi, Shobhit|hyperpage}{23}
+\indexentry{Ostendorf, Mari|hyperpage}{23}
+\indexentry{Smith, Noah A.|hyperpage}{23}
+\indexentry{Pappas, Nikolaos|hyperpage}{23}
+\indexentry{Popescu-Belis, Andrei|hyperpage}{23}
+\indexentry{Diab, Mona|hyperpage}{24}
+\indexentry{Fung, Pascale|hyperpage}{24}
+\indexentry{Ghoneim, Mahmoud|hyperpage}{24}
+\indexentry{Hirschberg, Julia|hyperpage}{24}
+\indexentry{Solorio, Thamar|hyperpage}{24}
+\indexentry{\IeC {\c C}etino\IeC {\u g}lu, \IeC {\"O}zlem|hyperpage}{24}
+\indexentry{Schulz, Sarah|hyperpage}{24}
+\indexentry{Vu, Ngoc Thang|hyperpage}{24}
+\indexentry{Guzman, Gualberto A.|hyperpage}{24}
+\indexentry{Serigos, Jacqueline|hyperpage}{24}
+\indexentry{Bullock, Barbara E.|hyperpage}{24}
+\indexentry{Toribio, Almeida Jacqueline|hyperpage}{24}
+\indexentry{Piergallini, Mario|hyperpage}{24}
+\indexentry{Shirvani, Rouzbeh|hyperpage}{24}
+\indexentry{S. Gautam, Gauri|hyperpage}{24}
+\indexentry{Chouikha, Mohamed|hyperpage}{24}
+\indexentry{Barman, Utsab|hyperpage}{24}
+\indexentry{Wagner, Joachim|hyperpage}{24}
+\indexentry{Foster, Jennifer|hyperpage}{24}
+\indexentry{Molina, Giovanni|hyperpage}{24}
+\indexentry{AlGhamdi, Fahad|hyperpage}{24}
+\indexentry{Ghoneim, Mahmoud|hyperpage}{24}
+\indexentry{Hawwari, Abdelati|hyperpage}{24}
+\indexentry{Rey-Villamizar, Nicolas|hyperpage}{24}
+\indexentry{Diab, Mona|hyperpage}{24}
+\indexentry{Solorio, Thamar|hyperpage}{24}
+\indexentry{Samih, Younes|hyperpage}{24}
+\indexentry{Maharjan, Suraj|hyperpage}{24}
+\indexentry{Attia, Mohammed|hyperpage}{24}
+\indexentry{Kallmeyer, Laura|hyperpage}{24}
+\indexentry{Solorio, Thamar|hyperpage}{24}
+\indexentry{Jaech, Aaron|hyperpage}{24}
+\indexentry{Mulcaire, George|hyperpage}{24}
+\indexentry{Ostendorf, Mari|hyperpage}{24}
+\indexentry{Smith, Noah A.|hyperpage}{24}
+\indexentry{Samih, Younes|hyperpage}{25}
+\indexentry{Maier, Wolfgang|hyperpage}{25}
+\indexentry{Kallmeyer, Laura|hyperpage}{25}
+\indexentry{Xia, Meng Xuan|hyperpage}{25}
+\indexentry{Cheung, Jackie Chi Kit|hyperpage}{25}
+\indexentry{Chanda, Arunavha|hyperpage}{25}
+\indexentry{Das, Dipankar|hyperpage}{25}
+\indexentry{Mazumdar, Chandan|hyperpage}{25}
+\indexentry{Ghosh, Souvick|hyperpage}{25}
+\indexentry{Ghosh, Satanu|hyperpage}{25}
+\indexentry{Das, Dipankar|hyperpage}{25}
+\indexentry{AlGhamdi, Fahad|hyperpage}{25}
+\indexentry{Molina, Giovanni|hyperpage}{25}
+\indexentry{Diab, Mona|hyperpage}{25}
+\indexentry{Solorio, Thamar|hyperpage}{25}
+\indexentry{Hawwari, Abdelati|hyperpage}{25}
+\indexentry{Soto, Victor|hyperpage}{25}
+\indexentry{Hirschberg, Julia|hyperpage}{25}
+\indexentry{Al-Badrashiny, Mohamed|hyperpage}{25}
+\indexentry{Diab, Mona|hyperpage}{25}
+\indexentry{Chanda, Arunavha|hyperpage}{25}
+\indexentry{Das, Dipankar|hyperpage}{25}
+\indexentry{Mazumdar, Chandan|hyperpage}{25}
+\indexentry{Shirvani, Rouzbeh|hyperpage}{25}
+\indexentry{Piergallini, Mario|hyperpage}{25}
+\indexentry{Gautam, Gauri Shankar|hyperpage}{25}
+\indexentry{Chouikha, Mohamed|hyperpage}{25}
+\indexentry{Shrestha, Prajwol|hyperpage}{25}
+\indexentry{Sikdar, Utpal Kumar|hyperpage}{25}
+\indexentry{Gamb\IeC {\"a}ck, Bj\IeC {\"o}rn|hyperpage}{25}
+\indexentry{Xia, Meng Xuan|hyperpage}{25}
+\indexentry{Chang, Kai-Wei|hyperpage}{26}
+\indexentry{Rush, {Alexander M.}|hyperpage}{26}
+\indexentry{Srikumar, Vivek|hyperpage}{26}
+\indexentry{Chang, Ming-Wei|hyperpage}{26}
+\indexentry{Eisner, Jason|hyperpage}{26}
+\indexentry{Huang, Degen|hyperpage}{26}
+\indexentry{Goyal, Naman|hyperpage}{26}
+\indexentry{Eisenstein, Jacob|hyperpage}{26}
+\indexentry{Goyal, Kartik|hyperpage}{26}
+\indexentry{Dyer, Chris|hyperpage}{26}
+\indexentry{Wolfe, Travis|hyperpage}{26}
+\indexentry{Dredze, Mark|hyperpage}{26}
+\indexentry{Van Durme, Benjamin|hyperpage}{26}
+\indexentry{Zhang, Xiao|hyperpage}{26}
+\indexentry{Pacheco, Mar\IeC {\'\i }a Leonor|hyperpage}{26}
+\indexentry{Li, Chang|hyperpage}{26}
+\indexentry{Goldwasser, Dan|hyperpage}{26}
+\indexentry{Tran, Ke M.|hyperpage}{27}
+\indexentry{Bisk, Yonatan|hyperpage}{27}
+\indexentry{Vaswani, Ashish|hyperpage}{27}
+\indexentry{Marcu, Daniel|hyperpage}{27}
+\indexentry{Knight, Kevin|hyperpage}{27}
+\indexentry{Hovy, Dirk|hyperpage}{28}
+\indexentry{Bamman, David|hyperpage}{28}
+\indexentry{Dogruoz, A. Seza|hyperpage}{28}
+\indexentry{Eisenstein, Jacob|hyperpage}{28}
+\indexentry{Jurgens, David|hyperpage}{28}
+\indexentry{O'Connor, Brendan|hyperpage}{28}
+\indexentry{Oh, Alice|hyperpage}{28}
+\indexentry{Tsur, Oren|hyperpage}{28}
+\indexentry{Volkova, Svitlana|hyperpage}{28}
+\indexentry{Joseph, Kenneth|hyperpage}{28}
+\indexentry{Carley, Kathleen M.|hyperpage}{28}
+\indexentry{Freitas, Jesse|hyperpage}{28}
+\indexentry{Ji, Heng|hyperpage}{28}
+\indexentry{Reddy, Sravana|hyperpage}{28}
+\indexentry{Knight, Kevin|hyperpage}{28}
+\indexentry{Rosenthal, Sara|hyperpage}{28}
+\indexentry{McKeown, Kathy|hyperpage}{28}
+\indexentry{Beieler, John|hyperpage}{28}
+\indexentry{Poulston, Adam|hyperpage}{28}
+\indexentry{Stevenson, Mark|hyperpage}{28}
+\indexentry{Bontcheva, Kalina|hyperpage}{28}
+\indexentry{Nay, John J.|hyperpage}{28}
+\indexentry{Priante, Anna|hyperpage}{29}
+\indexentry{Hiemstra, Djoerd|hyperpage}{29}
+\indexentry{Broek, Tijs van den|hyperpage}{29}
+\indexentry{Saeed, Aaqib|hyperpage}{29}
+\indexentry{Ehrenhard, Michel|hyperpage}{29}
+\indexentry{Need, Ariana|hyperpage}{29}
+\indexentry{Johnson, Kristen|hyperpage}{29}
+\indexentry{Goldwasser, Dan|hyperpage}{29}
+\indexentry{Wang, Alex|hyperpage}{29}
+\indexentry{Hamilton, William L.|hyperpage}{29}
+\indexentry{Leskovec, Jure|hyperpage}{29}
+\indexentry{Kim, Sunghwan Mac|hyperpage}{29}
+\indexentry{Wan, Stephen|hyperpage}{29}
+\indexentry{Paris, Cecile|hyperpage}{29}
+\indexentry{Brian, Jin|hyperpage}{29}
+\indexentry{Robinson, Bella|hyperpage}{29}
+\indexentry{Rheault, Ludovic|hyperpage}{29}
+\indexentry{Makarov, Peter|hyperpage}{29}
+\indexentry{Lorenzini, Jasmine|hyperpage}{29}
+\indexentry{Kriesi, Hanspeter|hyperpage}{29}
+\indexentry{Knowles, Rebecca|hyperpage}{29}
+\indexentry{Carroll, Josh|hyperpage}{29}
+\indexentry{Dredze, Mark|hyperpage}{29}
+\indexentry{Handler, Abram|hyperpage}{29}
+\indexentry{Denny, Matthew|hyperpage}{29}
+\indexentry{Wallach, Hanna|hyperpage}{29}
+\indexentry{O'Connor, Brendan|hyperpage}{29}
+\indexentry{Fraiberger, Samuel|hyperpage}{29}
+\indexentry{Coppersmith, Glen|hyperpage}{29}
+\indexentry{Hollingshead, Kristy|hyperpage}{29}
+\indexentry{Schwartz, H. Andrew|hyperpage}{29}
+\indexentry{Ireland, Molly|hyperpage}{29}
+\indexentry{Resnik, Rebecca|hyperpage}{29}
+\indexentry{Loveys, Kate|hyperpage}{29}
+\indexentry{Foreman, April|hyperpage}{29}
+\indexentry{Ingraham, Loring|hyperpage}{29}
+\indexentry{Waseem, Zeerak|hyperpage}{29}
+\indexentry{Wilson, Steven|hyperpage}{29}
+\indexentry{Mihalcea, Rada|hyperpage}{29}
+\indexentry{Boyd, Ryan|hyperpage}{29}
+\indexentry{Pennebaker, James|hyperpage}{29}
+\indexentry{Grouin, Cyril|hyperpage}{30}
+\indexentry{Hamon, Thierry|hyperpage}{30}
+\indexentry{N\IeC {\'e}v\IeC {\'e}ol, Aur\IeC {\'e}lie|hyperpage}{30}
+\indexentry{Zweigenbaum, Pierre|hyperpage}{30}
+\indexentry{Chalapathy, Raghavendra|hyperpage}{30}
+\indexentry{Zare Borzeshi, Ehsan|hyperpage}{30}
+\indexentry{Piccardi, Massimo|hyperpage}{30}
+\indexentry{Spithourakis, Georgios|hyperpage}{30}
+\indexentry{Petersen, Steffen|hyperpage}{30}
+\indexentry{Riedel, Sebastian|hyperpage}{30}
+\indexentry{Cornegruta, Savelie|hyperpage}{30}
+\indexentry{Bakewell, Robert|hyperpage}{30}
+\indexentry{Withey, Samuel|hyperpage}{30}
+\indexentry{Montana, Giovanni|hyperpage}{30}
+\indexentry{Kokkinakis, Dimitrios|hyperpage}{30}
+\indexentry{Lundholm Fors, Kristina|hyperpage}{30}
+\indexentry{Nordlund, Arto|hyperpage}{30}
+\indexentry{Rey-Villamizar, Nicolas|hyperpage}{30}
+\indexentry{Shrestha, Prasha|hyperpage}{30}
+\indexentry{Sadeque, Farig|hyperpage}{30}
+\indexentry{Bethard, Steven|hyperpage}{30}
+\indexentry{Pedersen, Ted|hyperpage}{30}
+\indexentry{Mukherjee, Arjun|hyperpage}{30}
+\indexentry{Solorio, Thamar|hyperpage}{30}
+\indexentry{Yu, Zhiguo|hyperpage}{30}
+\indexentry{Cohen, Trevor|hyperpage}{30}
+\indexentry{Wallace, Byron|hyperpage}{30}
+\indexentry{Bernstam, Elmer|hyperpage}{30}
+\indexentry{Johnson, Todd|hyperpage}{30}
+\indexentry{Kirchhoff, Katrin|hyperpage}{30}
+\indexentry{Turner, Anne M.|hyperpage}{30}
+\indexentry{D'hondt, Eva|hyperpage}{30}
+\indexentry{Grouin, Cyril|hyperpage}{30}
+\indexentry{Grau, Brigitte|hyperpage}{30}
+\indexentry{Munkhdalai, Tsendsuren|hyperpage}{30}
+\indexentry{Lalor, John|hyperpage}{30}
+\indexentry{Yu, Hong|hyperpage}{30}
+\indexentry{Neveol, Aurelie|hyperpage}{30}
+\indexentry{Cohen, Kevin|hyperpage}{30}
+\indexentry{Grouin, Cyril|hyperpage}{30}
+\indexentry{Robert, Aude|hyperpage}{30}
+\indexentry{Collier, Nigel|hyperpage}{31}
+\indexentry{Ferracane, Elisa|hyperpage}{31}
+\indexentry{Marshall, Iain|hyperpage}{31}
+\indexentry{Wallace, Byron C.|hyperpage}{31}
+\indexentry{Erk, Katrin|hyperpage}{31}
+\indexentry{Zweigenbaum, Pierre|hyperpage}{31}
+\indexentry{Lavergne, Thomas|hyperpage}{31}
+\indexentry{Huang, Chung-Chi|hyperpage}{31}
+\indexentry{Lu, Zhiyong|hyperpage}{31}
+\indexentry{Caselli, Tommaso|hyperpage}{32}
+\indexentry{Miller, Ben|hyperpage}{32}
+\indexentry{Erp, Marieke van|hyperpage}{32}
+\indexentry{Vossen, Piek|hyperpage}{32}
+\indexentry{Caswell, David|hyperpage}{32}
+\indexentry{Caswell, David|hyperpage}{32}
+\indexentry{Bruggermann, Daniel|hyperpage}{32}
+\indexentry{Hermey, Yannik|hyperpage}{32}
+\indexentry{Orth, Carsten|hyperpage}{32}
+\indexentry{Schneider, Darius|hyperpage}{32}
+\indexentry{Selzer, Stefan|hyperpage}{32}
+\indexentry{Spanakis, Gerasimos|hyperpage}{32}
+\indexentry{Poghosyan, Gevorg|hyperpage}{32}
+\indexentry{Ifrim, Georgiana|hyperpage}{32}
+\indexentry{Krishnan, Vinodh|hyperpage}{32}
+\indexentry{Eisenstein, Jacob|hyperpage}{32}
+\indexentry{Eisenberg, Joshua|hyperpage}{32}
+\indexentry{Finlayson, Mark|hyperpage}{32}
+\indexentry{O'Gorman, Tim|hyperpage}{32}
+\indexentry{Wright-Bettner, Kristin|hyperpage}{32}
+\indexentry{Palmer, Martha|hyperpage}{32}
+\indexentry{Simonson, Dan|hyperpage}{32}
+\indexentry{Davis, Anthony|hyperpage}{32}
+\indexentry{Caselli, Tommaso|hyperpage}{32}
+\indexentry{Vossen, Piek|hyperpage}{32}
+\indexentry{Louis, Annie|hyperpage}{33}
+\indexentry{Roth, Michael|hyperpage}{33}
+\indexentry{Webber, Bonnie|hyperpage}{33}
+\indexentry{White, Michael|hyperpage}{33}
+\indexentry{Zettlemoyer, Luke|hyperpage}{33}
+\indexentry{Sugawara, Saku|hyperpage}{33}
+\indexentry{Aizawa, Akiko|hyperpage}{33}
+\indexentry{Benikova, Darina|hyperpage}{33}
+\indexentry{Zesch, Torsten|hyperpage}{33}
+\indexentry{Pichotta, Karl|hyperpage}{33}
+\indexentry{Mooney, Raymond|hyperpage}{33}
+\indexentry{Postma, Marten|hyperpage}{33}
+\indexentry{Ilievski, Filip|hyperpage}{33}
+\indexentry{Vossen, Piek|hyperpage}{33}
+\indexentry{Erp, Marieke van|hyperpage}{33}
+\indexentry{Rajagopal, Dheeraj|hyperpage}{33}
+\indexentry{Hovy, Eduard|hyperpage}{33}
+\indexentry{Mitamura, Teruko|hyperpage}{33}
+\indexentry{Bakhshandeh, Omid|hyperpage}{33}
+\indexentry{Allen, James|hyperpage}{33}
+\indexentry{Zhao, Tiancheng|hyperpage}{33}
+\indexentry{Lee, Kyusong|hyperpage}{33}
+\indexentry{Eskenazi, Maxine|hyperpage}{33}
+\indexentry{Church, Ken|hyperpage}{33}
+\indexentry{Zhu, Weizhong|hyperpage}{33}
+\indexentry{Pelecanos, Jason|hyperpage}{33}
+\indexentry{Do, Quynh Ngoc Thi|hyperpage}{33}
+\indexentry{Bethard, Steven|hyperpage}{33}
+\indexentry{Moens, Marie-Francine|hyperpage}{33}
+\indexentry{Kabbara, Jad|hyperpage}{34}
+\indexentry{Cheung, Jackie Chi Kit|hyperpage}{34}
+\indexentry{Lewis, Timothy|hyperpage}{34}
+\indexentry{Matuszek, Cynthia|hyperpage}{34}
+\indexentry{Hurst, Amy|hyperpage}{34}
+\indexentry{Taylor, Matthew|hyperpage}{34}
+\indexentry{Ruder, Sebastian|hyperpage}{34}
+\indexentry{Ghaffari, Parsa|hyperpage}{34}
+\indexentry{Breslin, John G.|hyperpage}{34}
+\indexentry{Potts, Christopher|hyperpage}{36}
+\indexentry{F.T. Martins, Andr\IeC {\'e}|hyperpage}{38}
+\indexentry{Cross, James|hyperpage}{38}
+\indexentry{Huang, Liang|hyperpage}{38}
+\indexentry{Mart\IeC {\'\i }nez-G\IeC {\'o}mez, Pascual|hyperpage}{38}
+\indexentry{Miyao, Yusuke|hyperpage}{38}
+\indexentry{Ficler, Jessica|hyperpage}{38}
+\indexentry{Goldberg, Yoav|hyperpage}{38}
+\indexentry{Noji, Hiroshi|hyperpage}{38}
+\indexentry{Miyao, Yusuke|hyperpage}{38}
+\indexentry{Johnson, Mark|hyperpage}{38}
+\indexentry{Ji, Heng|hyperpage}{39}
+\indexentry{Huang, Ruihong|hyperpage}{39}
+\indexentry{Cases, Ignacio|hyperpage}{39}
+\indexentry{Jurafsky, Dan|hyperpage}{39}
+\indexentry{Condoravdi, Cleo|hyperpage}{39}
+\indexentry{Riloff, Ellen|hyperpage}{39}
+\indexentry{Bhutani, Nikita|hyperpage}{39}
+\indexentry{Jagadish, H V|hyperpage}{39}
+\indexentry{Radev, Dragomir|hyperpage}{39}
+\indexentry{Yang, Yunlun|hyperpage}{39}
+\indexentry{Tong, Yunhai|hyperpage}{39}
+\indexentry{Ma, Shulei|hyperpage}{39}
+\indexentry{Deng, Zhi-Hong|hyperpage}{39}
+\indexentry{Muis, Aldrian Obaja|hyperpage}{39}
+\indexentry{Lu, Wei|hyperpage}{39}
+\indexentry{Fyshe, Alona|hyperpage}{40}
+\indexentry{Hahn, Michael|hyperpage}{40}
+\indexentry{Keller, Frank|hyperpage}{40}
+\indexentry{Barak, Libby|hyperpage}{40}
+\indexentry{Goldberg, Adele E.|hyperpage}{40}
+\indexentry{Stevenson, Suzanne|hyperpage}{40}
+\indexentry{Lei, Tao|hyperpage}{40}
+\indexentry{Barzilay, Regina|hyperpage}{40}
+\indexentry{Jaakkola, Tommi|hyperpage}{40}
+\indexentry{Liu, Pengfei|hyperpage}{40}
+\indexentry{Qiu, Xipeng|hyperpage}{40}
+\indexentry{Huang, Xuanjing|hyperpage}{40}
+\indexentry{Blunsom, Phil|hyperpage}{42}
+\indexentry{Trischler, Adam|hyperpage}{42}
+\indexentry{Ye, Zheng|hyperpage}{42}
+\indexentry{Yuan, Xingdi|hyperpage}{42}
+\indexentry{Bachman, Philip|hyperpage}{42}
+\indexentry{Sordoni, Alessandro|hyperpage}{42}
+\indexentry{Suleman, Kaheer|hyperpage}{42}
+\indexentry{Sharp, Rebecca|hyperpage}{42}
+\indexentry{Surdeanu, Mihai|hyperpage}{42}
+\indexentry{Jansen, Peter|hyperpage}{42}
+\indexentry{Clark, Peter|hyperpage}{42}
+\indexentry{Hammond, Michael|hyperpage}{42}
+\indexentry{Yavuz, Semih|hyperpage}{42}
+\indexentry{Gur, Izzeddin|hyperpage}{42}
+\indexentry{Su, Yu|hyperpage}{42}
+\indexentry{Srivatsa, Mudhakar|hyperpage}{42}
+\indexentry{Yan, Xifeng|hyperpage}{42}
+\indexentry{Krishnamurthy, Jayant|hyperpage}{42}
+\indexentry{Tafjord, Oyvind|hyperpage}{42}
+\indexentry{Kembhavi, Aniruddha|hyperpage}{42}
+\indexentry{Erk, Katrin|hyperpage}{43}
+\indexentry{Tilk, Ottokar|hyperpage}{43}
+\indexentry{Demberg, Vera|hyperpage}{43}
+\indexentry{Sayeed, Asad|hyperpage}{43}
+\indexentry{Klakow, Dietrich|hyperpage}{43}
+\indexentry{Thater, Stefan|hyperpage}{43}
+\indexentry{Qiu, Lin|hyperpage}{43}
+\indexentry{Tu, Kewei|hyperpage}{43}
+\indexentry{Yu, Yong|hyperpage}{43}
+\indexentry{Guo, Shu|hyperpage}{43}
+\indexentry{Wang, Quan|hyperpage}{43}
+\indexentry{Wang, Lihong|hyperpage}{43}
+\indexentry{Wang, Bin|hyperpage}{43}
+\indexentry{Guo, Li|hyperpage}{43}
+\indexentry{Braud, Chlo\IeC {\'e}|hyperpage}{43}
+\indexentry{Denis, Pascal|hyperpage}{43}
+\indexentry{Nakov, Preslav|hyperpage}{44}
+\indexentry{Tang, Duyu|hyperpage}{44}
+\indexentry{Qin, Bing|hyperpage}{44}
+\indexentry{Liu, Ting|hyperpage}{44}
+\indexentry{Shu, Lei|hyperpage}{44}
+\indexentry{Liu, Bing|hyperpage}{44}
+\indexentry{Xu, Hu|hyperpage}{44}
+\indexentry{Kim, Annice|hyperpage}{44}
+\indexentry{Yu, Jianfei|hyperpage}{44}
+\indexentry{Jiang, Jing|hyperpage}{44}
+\indexentry{Zhou, Xinjie|hyperpage}{44}
+\indexentry{Wan, Xiaojun|hyperpage}{44}
+\indexentry{Xiao, Jianguo|hyperpage}{44}
+\indexentry{Birch, Alexandra|hyperpage}{46}
+\indexentry{Zhou, Jie|hyperpage}{46}
+\indexentry{Cao, Ying|hyperpage}{46}
+\indexentry{Wang, Xuguang|hyperpage}{46}
+\indexentry{Li, Peng|hyperpage}{46}
+\indexentry{Xu, Wei|hyperpage}{46}
+\indexentry{Bentivogli, Luisa|hyperpage}{46}
+\indexentry{Bisazza, Arianna|hyperpage}{46}
+\indexentry{Cettolo, Mauro|hyperpage}{46}
+\indexentry{Federico, Marcello|hyperpage}{46}
+\indexentry{Firat, Orhan|hyperpage}{46}
+\indexentry{Sankaran, Baskaran|hyperpage}{46}
+\indexentry{Al-Onaizan, Yaser|hyperpage}{46}
+\indexentry{Yarman Vural, Fatos T.|hyperpage}{46}
+\indexentry{Cho, Kyunghyun|hyperpage}{46}
+\indexentry{Wang, Mingxuan|hyperpage}{46}
+\indexentry{Lu, Zhengdong|hyperpage}{46}
+\indexentry{Li, Hang|hyperpage}{46}
+\indexentry{Liu, Qun|hyperpage}{46}
+\indexentry{M\IeC {\`a}rquez, Llu\IeC {\'\i }s|hyperpage}{47}
+\indexentry{Marinho, Zita|hyperpage}{47}
+\indexentry{Martins, Andr\IeC {\'e} F. T.|hyperpage}{47}
+\indexentry{Cohen, Shay B.|hyperpage}{47}
+\indexentry{Smith, Noah A.|hyperpage}{47}
+\indexentry{Gorman, Kyle|hyperpage}{47}
+\indexentry{Sproat, Richard|hyperpage}{47}
+\indexentry{Upadhyay, Shyam|hyperpage}{47}
+\indexentry{Chang, Ming-Wei|hyperpage}{47}
+\indexentry{Chang, Kai-Wei|hyperpage}{47}
+\indexentry{Yih, Wen-tau|hyperpage}{47}
+\indexentry{Tabassum, Jeniya|hyperpage}{47}
+\indexentry{Ritter, Alan|hyperpage}{47}
+\indexentry{Xu, Wei|hyperpage}{47}
+\indexentry{Takamura, Hiroya|hyperpage}{48}
+\indexentry{Miao, Yishu|hyperpage}{48}
+\indexentry{Blunsom, Phil|hyperpage}{48}
+\indexentry{Kiddon, Chlo\IeC {\'e}|hyperpage}{48}
+\indexentry{Zettlemoyer, Luke|hyperpage}{48}
+\indexentry{Choi, Yejin|hyperpage}{48}
+\indexentry{Toutanova, Kristina|hyperpage}{48}
+\indexentry{Brockett, Chris|hyperpage}{48}
+\indexentry{Tran, Ke M.|hyperpage}{48}
+\indexentry{Amershi, Saleema|hyperpage}{48}
+\indexentry{Brunato, Dominique|hyperpage}{48}
+\indexentry{Cimino, Andrea|hyperpage}{48}
+\indexentry{Dell'Orletta, Felice|hyperpage}{48}
+\indexentry{Venturi, Giulia|hyperpage}{48}
+\indexentry{Joel Tetreault, Brendan O'Connor|hyperpage}{49}
+\indexentry{Li, Qi|hyperpage}{49}
+\indexentry{Li, Tianshi|hyperpage}{49}
+\indexentry{Chang, Baobao|hyperpage}{49}
+\indexentry{Zhou, Xiangyang|hyperpage}{49}
+\indexentry{Dong, Daxiang|hyperpage}{49}
+\indexentry{Wu, Hua|hyperpage}{49}
+\indexentry{Zhao, Shiqi|hyperpage}{49}
+\indexentry{Yu, Dianhai|hyperpage}{49}
+\indexentry{Tian, Hao|hyperpage}{49}
+\indexentry{Liu, Xuan|hyperpage}{49}
+\indexentry{Yan, Rui|hyperpage}{49}
+\indexentry{Zhang, Biao|hyperpage}{49}
+\indexentry{Xiong, Deyi|hyperpage}{49}
+\indexentry{Liu, Qun|hyperpage}{49}
+\indexentry{Ji, Rongrong|hyperpage}{49}
+\indexentry{Duan, Hong|hyperpage}{49}
+\indexentry{Zhang, Min|hyperpage}{49}
+\indexentry{Peng, Haoruo|hyperpage}{49}
+\indexentry{Song, Yangqiu|hyperpage}{49}
+\indexentry{Roth, Dan|hyperpage}{49}
+\indexentry{Luu Anh, Tuan|hyperpage}{50}
+\indexentry{Tay, Yi|hyperpage}{50}
+\indexentry{Hui, Siu Cheung|hyperpage}{50}
+\indexentry{Ng, See Kiong|hyperpage}{50}
+\indexentry{Nimishakavi, Madhav|hyperpage}{50}
+\indexentry{Saini, Uday Singh|hyperpage}{50}
+\indexentry{Talukdar, Partha|hyperpage}{50}
+\indexentry{Espinosa Anke, Luis|hyperpage}{50}
+\indexentry{Camacho-Collados, Jose|hyperpage}{50}
+\indexentry{Delli Bovi, Claudio|hyperpage}{50}
+\indexentry{Saggion, Horacio|hyperpage}{50}
+\indexentry{Brychc\IeC {\'\i }n, Tom\IeC {\'a}\IeC {\v s}|hyperpage}{50}
+\indexentry{Kiela, Douwe|hyperpage}{51}
+\indexentry{Ver\IeC {\H o}, Anita Lilla|hyperpage}{51}
+\indexentry{Clark, Stephen|hyperpage}{51}
+\indexentry{Fukui, Akira|hyperpage}{51}
+\indexentry{Park, Dong Huk|hyperpage}{51}
+\indexentry{Yang, Daylen|hyperpage}{51}
+\indexentry{Rohrbach, Anna|hyperpage}{51}
+\indexentry{Darrell, Trevor|hyperpage}{51}
+\indexentry{Rohrbach, Marcus|hyperpage}{51}
+\indexentry{Dror, Rotem|hyperpage}{51}
+\indexentry{Reichart, Roi|hyperpage}{51}
+\indexentry{Mou, Lili|hyperpage}{51}
+\indexentry{Meng, Zhao|hyperpage}{51}
+\indexentry{Yan, Rui|hyperpage}{51}
+\indexentry{Li, Ge|hyperpage}{51}
+\indexentry{Xu, Yan|hyperpage}{51}
+\indexentry{Zhang, Lu|hyperpage}{51}
+\indexentry{Jin, Zhi|hyperpage}{51}
+\indexentry{Bhatia, Parminder|hyperpage}{51}
+\indexentry{Guthrie, Robert|hyperpage}{51}
+\indexentry{Eisenstein, Jacob|hyperpage}{51}
+\indexentry{Jiang, Wenbin|hyperpage}{52}
+\indexentry{Zhang, Wen|hyperpage}{52}
+\indexentry{Xu, Jinan|hyperpage}{52}
+\indexentry{Cai, Rangjia|hyperpage}{52}
+\indexentry{Otani, Naoki|hyperpage}{52}
+\indexentry{Nakazawa, Toshiaki|hyperpage}{52}
+\indexentry{Kawahara, Daisuke|hyperpage}{52}
+\indexentry{Kurohashi, Sadao|hyperpage}{52}
+\indexentry{Zhang, Biao|hyperpage}{52}
+\indexentry{Xiong, Deyi|hyperpage}{52}
+\indexentry{Duan, Hong|hyperpage}{52}
+\indexentry{Zhang, Min|hyperpage}{52}
+\indexentry{Simion, Andrei|hyperpage}{52}
+\indexentry{Collins, Michael|hyperpage}{52}
+\indexentry{Stein, Cliff|hyperpage}{52}
+\indexentry{Wang, Huazheng|hyperpage}{53}
+\indexentry{Tian, Fei|hyperpage}{53}
+\indexentry{Gao, Bin|hyperpage}{53}
+\indexentry{Zhu, Chengjieren|hyperpage}{53}
+\indexentry{Bian, Jiang|hyperpage}{53}
+\indexentry{Liu, Tie-Yan|hyperpage}{53}
+\indexentry{Cheng, Jianpeng|hyperpage}{53}
+\indexentry{Dong, Li|hyperpage}{53}
+\indexentry{Lapata, Mirella|hyperpage}{53}
+\indexentry{Su, Yu|hyperpage}{53}
+\indexentry{Sun, Huan|hyperpage}{53}
+\indexentry{Sadler, Brian|hyperpage}{53}
+\indexentry{Srivatsa, Mudhakar|hyperpage}{53}
+\indexentry{Gur, Izzeddin|hyperpage}{53}
+\indexentry{Yan, Zenghui|hyperpage}{53}
+\indexentry{Yan, Xifeng|hyperpage}{53}
+\indexentry{Ture, Ferhan|hyperpage}{53}
+\indexentry{Boschee, Elizabeth|hyperpage}{53}
+\indexentry{Abdelwahab, Ahmed|hyperpage}{53}
+\indexentry{Kliegl, Reinhold|hyperpage}{53}
+\indexentry{Landwehr, Niels|hyperpage}{53}
+\indexentry{Hamilton, William L.|hyperpage}{54}
+\indexentry{Clark, Kevin|hyperpage}{54}
+\indexentry{Leskovec, Jure|hyperpage}{54}
+\indexentry{Jurafsky, Dan|hyperpage}{54}
+\indexentry{Wang, Yequan|hyperpage}{54}
+\indexentry{Huang, Minlie|hyperpage}{54}
+\indexentry{Zhao, Li|hyperpage}{54}
+\indexentry{Wang, Wenya|hyperpage}{54}
+\indexentry{Pan, Sinno Jialin|hyperpage}{54}
+\indexentry{Dahlmeier, Daniel|hyperpage}{54}
+\indexentry{Xiao, Xiaokui|hyperpage}{54}
+\indexentry{Laddha, Abhishek|hyperpage}{54}
+\indexentry{Mukherjee, Arjun|hyperpage}{54}
+\indexentry{ZHOU, Deyu|hyperpage}{54}
+\indexentry{Zhang, Xuan|hyperpage}{54}
+\indexentry{Zhou, Yin|hyperpage}{54}
+\indexentry{Zhao, Quan|hyperpage}{54}
+\indexentry{Geng, Xin|hyperpage}{54}
+\indexentry{Lalor, John|hyperpage}{55}
+\indexentry{Wu, Hao|hyperpage}{55}
+\indexentry{Ji, Shihao|hyperpage}{55}
+\indexentry{Yun, Hyokun|hyperpage}{55}
+\indexentry{Yanardag, Pinar|hyperpage}{55}
+\indexentry{Matsushima, Shin|hyperpage}{55}
+\indexentry{Vishwanathan, S. V. N.|hyperpage}{55}
+\indexentry{Ruan, Yu-Ping|hyperpage}{55}
+\indexentry{Ling, Zhen-Hua|hyperpage}{55}
+\indexentry{Hu, Yu|hyperpage}{55}
+\indexentry{Zhou, Junsheng|hyperpage}{56}
+\indexentry{Xu, Feiyu|hyperpage}{56}
+\indexentry{Uszkoreit, Hans|hyperpage}{56}
+\indexentry{QU, Weiguang|hyperpage}{56}
+\indexentry{Li, Ran|hyperpage}{56}
+\indexentry{Gu, Yanhui|hyperpage}{56}
+\indexentry{Fast, Ethan|hyperpage}{56}
+\indexentry{Horvitz, Eric|hyperpage}{56}
+\indexentry{Zhou, Dong|hyperpage}{56}
+\indexentry{Lawless, S\IeC {\'e}amus|hyperpage}{56}
+\indexentry{Wu, Xuan|hyperpage}{56}
+\indexentry{Zhao, Wenyu|hyperpage}{56}
+\indexentry{Liu, Jianxun|hyperpage}{56}
+\indexentry{Tchernowitz, Ilan|hyperpage}{56}
+\indexentry{Yedidsion, Liron|hyperpage}{56}
+\indexentry{Reichart, Roi|hyperpage}{56}
+\indexentry{Zhang, Qi|hyperpage}{56}
+\indexentry{Qian, Jin|hyperpage}{56}
+\indexentry{Guo, Ya|hyperpage}{56}
+\indexentry{Zhou, Yaqian|hyperpage}{56}
+\indexentry{Huang, Xuanjing|hyperpage}{56}
+\indexentry{Chen, Hongshen|hyperpage}{57}
+\indexentry{Zhang, Yue|hyperpage}{57}
+\indexentry{Liu, Qun|hyperpage}{57}
+\indexentry{Ebert, Sebastian|hyperpage}{57}
+\indexentry{M\IeC {\"u}ller, Thomas|hyperpage}{57}
+\indexentry{Sch\IeC {\"u}tze, Hinrich|hyperpage}{57}
+\indexentry{Li, Zhenghua|hyperpage}{57}
+\indexentry{Chao, Jiayuan|hyperpage}{57}
+\indexentry{Zhang, Min|hyperpage}{57}
+\indexentry{Yang, Jiwen|hyperpage}{57}
+\indexentry{Jiang, Yong|hyperpage}{57}
+\indexentry{Han, Wenjuan|hyperpage}{57}
+\indexentry{Tu, Kewei|hyperpage}{57}
+\indexentry{Parveen, Daraksha|hyperpage}{57}
+\indexentry{Mesgar, Mohsen|hyperpage}{57}
+\indexentry{Strube, Michael|hyperpage}{57}
+\indexentry{Ge, Tao|hyperpage}{58}
+\indexentry{Cui, Lei|hyperpage}{58}
+\indexentry{Chang, Baobao|hyperpage}{58}
+\indexentry{Li, Sujian|hyperpage}{58}
+\indexentry{Zhou, Ming|hyperpage}{58}
+\indexentry{Sui, Zhifang|hyperpage}{58}
+\indexentry{Zhang, Ye|hyperpage}{58}
+\indexentry{Marshall, Iain|hyperpage}{58}
+\indexentry{Wallace, Byron C.|hyperpage}{58}
+\indexentry{Huang, Yu-Yang|hyperpage}{58}
+\indexentry{Lin, Shou-De|hyperpage}{58}
+\indexentry{Qian, Zhong|hyperpage}{58}
+\indexentry{Li, Peifeng|hyperpage}{58}
+\indexentry{Zhu, Qiaoming|hyperpage}{58}
+\indexentry{Zhou, Guodong|hyperpage}{58}
+\indexentry{Luo, Zhunchen|hyperpage}{58}
+\indexentry{Luo, Wei|hyperpage}{58}
+\indexentry{Qian, Peng|hyperpage}{58}
+\indexentry{Qiu, Xipeng|hyperpage}{58}
+\indexentry{Huang, Xuanjing|hyperpage}{58}
+\indexentry{Zhang, Qi|hyperpage}{59}
+\indexentry{Wang, Yang|hyperpage}{59}
+\indexentry{Gong, Yeyun|hyperpage}{59}
+\indexentry{Huang, Xuanjing|hyperpage}{59}
+\indexentry{Tan, Chuanqi|hyperpage}{59}
+\indexentry{Wei, Furu|hyperpage}{59}
+\indexentry{Dong, Li|hyperpage}{59}
+\indexentry{Lv, Weifeng|hyperpage}{59}
+\indexentry{Zhou, Ming|hyperpage}{59}
+\indexentry{Jagannatha, Abhyuday|hyperpage}{59}
+\indexentry{Wang, Xuepeng|hyperpage}{59}
+\indexentry{Liu, Kang|hyperpage}{59}
+\indexentry{He, Shizhu|hyperpage}{59}
+\indexentry{Zhao, Jun|hyperpage}{59}
+\indexentry{Augenstein, Isabelle|hyperpage}{60}
+\indexentry{Rockt\IeC {\"a}schel, Tim|hyperpage}{60}
+\indexentry{Vlachos, Andreas|hyperpage}{60}
+\indexentry{Bontcheva, Kalina|hyperpage}{60}
+\indexentry{Nguyen, Thien Huu|hyperpage}{60}
+\indexentry{Grishman, Ralph|hyperpage}{60}
+\indexentry{Falke, Tobias|hyperpage}{60}
+\indexentry{Stanovsky, Gabriel|hyperpage}{60}
+\indexentry{Gurevych, Iryna|hyperpage}{60}
+\indexentry{Dagan, Ido|hyperpage}{60}
+\indexentry{Qu, Lizhen|hyperpage}{60}
+\indexentry{Ferraro, Gabriela|hyperpage}{60}
+\indexentry{Zhou, Liyuan|hyperpage}{60}
+\indexentry{Hou, Weiwei|hyperpage}{60}
+\indexentry{Baldwin, Timothy|hyperpage}{60}
+\indexentry{Badgett, Allison|hyperpage}{60}
+\indexentry{Huang, Ruihong|hyperpage}{60}
+\indexentry{Mukherjee, Tanmoy|hyperpage}{61}
+\indexentry{Hospedales, Timothy|hyperpage}{61}
+\indexentry{Ray, Arijit|hyperpage}{61}
+\indexentry{Christie, Gordon|hyperpage}{61}
+\indexentry{Bansal, Mohit|hyperpage}{61}
+\indexentry{Batra, Dhruv|hyperpage}{61}
+\indexentry{Parikh, Devi|hyperpage}{61}
+\indexentry{Agrawal, Harsh|hyperpage}{61}
+\indexentry{Chandrasekaran, Arjun|hyperpage}{61}
+\indexentry{Batra, Dhruv|hyperpage}{61}
+\indexentry{Parikh, Devi|hyperpage}{61}
+\indexentry{Bansal, Mohit|hyperpage}{61}
+\indexentry{Das, Abhishek|hyperpage}{61}
+\indexentry{Agrawal, Harsh|hyperpage}{61}
+\indexentry{Zitnick, Larry|hyperpage}{61}
+\indexentry{Parikh, Devi|hyperpage}{61}
+\indexentry{Batra, Dhruv|hyperpage}{61}
+\indexentry{Wang, Yiren|hyperpage}{61}
+\indexentry{Tian, Fei|hyperpage}{61}
+\indexentry{Shareghi, Ehsan|hyperpage}{61}
+\indexentry{Cohn, Trevor|hyperpage}{61}
+\indexentry{Haffari, Gholamreza|hyperpage}{61}
+\indexentry{Lu, Wei|hyperpage}{62}
+\indexentry{Chieu, Hai Leong|hyperpage}{62}
+\indexentry{L\IeC {\"o}fgren, Jonathan|hyperpage}{62}
+\indexentry{Mi, Haitao|hyperpage}{62}
+\indexentry{Sankaran, Baskaran|hyperpage}{62}
+\indexentry{Wang, Zhiguo|hyperpage}{62}
+\indexentry{Ittycheriah, Abe|hyperpage}{62}
+\indexentry{Kann, Katharina|hyperpage}{62}
+\indexentry{Cotterell, Ryan|hyperpage}{62}
+\indexentry{Sch\IeC {\"u}tze, Hinrich|hyperpage}{62}
+\indexentry{Shi, Peng|hyperpage}{62}
+\indexentry{Teng, Zhiyang|hyperpage}{62}
+\indexentry{Zhang, Yue|hyperpage}{62}
+\indexentry{Sahlgren, Magnus|hyperpage}{62}
+\indexentry{Lenci, Alessandro|hyperpage}{62}
+\indexentry{Yin, Rongchao|hyperpage}{62}
+\indexentry{Wang, Quan|hyperpage}{62}
+\indexentry{Li, Peng|hyperpage}{62}
+\indexentry{Li, Rui|hyperpage}{62}
+\indexentry{Wang, Bin|hyperpage}{62}
+\indexentry{Spithourakis, Georgios|hyperpage}{63}
+\indexentry{Augenstein, Isabelle|hyperpage}{63}
+\indexentry{Riedel, Sebastian|hyperpage}{63}
+\indexentry{Akbik, Alan|hyperpage}{63}
+\indexentry{Li, Yunyao|hyperpage}{63}
+\indexentry{Ruder, Sebastian|hyperpage}{63}
+\indexentry{Ghaffari, Parsa|hyperpage}{63}
+\indexentry{Breslin, John G.|hyperpage}{63}
+\indexentry{Joshi, Aditya|hyperpage}{63}
+\indexentry{Tripathi, Vaibhav|hyperpage}{63}
+\indexentry{Patel, Kevin|hyperpage}{63}
+\indexentry{Bhattacharyya, Pushpak|hyperpage}{63}
+\indexentry{Carman, Mark|hyperpage}{63}
+\indexentry{Ebrahimi, Javid|hyperpage}{64}
+\indexentry{Dou, Dejing|hyperpage}{64}
+\indexentry{Lowd, Daniel|hyperpage}{64}
+\indexentry{Pavlick, Ellie|hyperpage}{64}
+\indexentry{Ji, Heng|hyperpage}{64}
+\indexentry{Pan, Xiaoman|hyperpage}{64}
+\indexentry{Callison-Burch, Chris|hyperpage}{64}
+\indexentry{Lippincott, Tom|hyperpage}{64}
+\indexentry{Van Durme, Benjamin|hyperpage}{64}
+\indexentry{Hamilton, William L.|hyperpage}{64}
+\indexentry{Leskovec, Jure|hyperpage}{64}
+\indexentry{Jurafsky, Dan|hyperpage}{64}
+\indexentry{Tran, Trang|hyperpage}{64}
+\indexentry{Ostendorf, Mari|hyperpage}{64}
+\indexentry{Yoshikawa, Masashi|hyperpage}{65}
+\indexentry{Shindo, Hiroyuki|hyperpage}{65}
+\indexentry{Matsumoto, Yuji|hyperpage}{65}
+\indexentry{Bertero, Dario|hyperpage}{65}
+\indexentry{Siddique, Farhad Bin|hyperpage}{65}
+\indexentry{Wu, Chien-Sheng|hyperpage}{65}
+\indexentry{Wan, Yan|hyperpage}{65}
+\indexentry{Chan, Ricky Ho Yin|hyperpage}{65}
+\indexentry{Fung, Pascale|hyperpage}{65}
+\indexentry{Ballesteros, Miguel|hyperpage}{65}
+\indexentry{Wanner, Leo|hyperpage}{65}
+\indexentry{Takase, Sho|hyperpage}{65}
+\indexentry{Suzuki, Jun|hyperpage}{65}
+\indexentry{Okazaki, Naoaki|hyperpage}{65}
+\indexentry{Hirao, Tsutomu|hyperpage}{65}
+\indexentry{Nagata, Masaaki|hyperpage}{65}
+\indexentry{Kekec, Taygun|hyperpage}{65}
+\indexentry{Tax, David M. J.|hyperpage}{65}
+\indexentry{Kim, Yea Seul|hyperpage}{66}
+\indexentry{Hullman, Jessica|hyperpage}{66}
+\indexentry{Burgess, Matthew|hyperpage}{66}
+\indexentry{Adar, Eytan|hyperpage}{66}
+\indexentry{Dong, Fei|hyperpage}{66}
+\indexentry{Zhang, Yue|hyperpage}{66}
+\indexentry{Tellex, Stefanie|hyperpage}{68}
+\indexentry{Mooney, Raymond|hyperpage}{71}
+\indexentry{Ko\IeC {\v c}isk\IeC {\'y}, Tom\IeC {\'a}\IeC {\v s}|hyperpage}{71}
+\indexentry{Melis, G\IeC {\'a}bor|hyperpage}{71}
+\indexentry{Grefenstette, Edward|hyperpage}{71}
+\indexentry{Dyer, Chris|hyperpage}{71}
+\indexentry{Ling, Wang|hyperpage}{71}
+\indexentry{Blunsom, Phil|hyperpage}{71}
+\indexentry{Hermann, Karl Moritz|hyperpage}{71}
+\indexentry{Roy, Subhro|hyperpage}{71}
+\indexentry{Upadhyay, Shyam|hyperpage}{71}
+\indexentry{Roth, Dan|hyperpage}{71}
+\indexentry{Sanders, Jordan|hyperpage}{71}
+\indexentry{Blanco, Eduardo|hyperpage}{71}
+\indexentry{Sarabi, Zahra|hyperpage}{71}
+\indexentry{Blanco, Eduardo|hyperpage}{71}
+\indexentry{Solorio, Thamar|hyperpage}{72}
+\indexentry{Blodgett, Su Lin|hyperpage}{72}
+\indexentry{Green, Lisa|hyperpage}{72}
+\indexentry{O'Connor, Brendan|hyperpage}{72}
+\indexentry{Rudra, Koustav|hyperpage}{72}
+\indexentry{Rijhwani, Shruti|hyperpage}{72}
+\indexentry{Begum, Rafiya|hyperpage}{72}
+\indexentry{Bali, Kalika|hyperpage}{72}
+\indexentry{Choudhury, Monojit|hyperpage}{72}
+\indexentry{Ganguly, Niloy|hyperpage}{72}
+\indexentry{Chaney, Allison|hyperpage}{72}
+\indexentry{Wallach, Hanna|hyperpage}{72}
+\indexentry{Connelly, Matthew|hyperpage}{72}
+\indexentry{Blei, David|hyperpage}{72}
+\indexentry{Althoff, Tim|hyperpage}{72}
+\indexentry{Clark, Kevin|hyperpage}{72}
+\indexentry{Leskovec, Jure|hyperpage}{72}
+\indexentry{Liu, Yang|hyperpage}{73}
+\indexentry{Shareghi, Ehsan|hyperpage}{73}
+\indexentry{Petri, Matthias|hyperpage}{73}
+\indexentry{Haffari, Gholamreza|hyperpage}{73}
+\indexentry{Cohn, Trevor|hyperpage}{73}
+\indexentry{Pham, Ngoc-Quan|hyperpage}{73}
+\indexentry{Kruszewski, Germ\IeC {\'a}n|hyperpage}{73}
+\indexentry{Boleda, Gemma|hyperpage}{73}
+\indexentry{Pelemans, Joris|hyperpage}{73}
+\indexentry{Shazeer, Noam|hyperpage}{73}
+\indexentry{Chelba, Ciprian|hyperpage}{73}
+\indexentry{Neubig, Graham|hyperpage}{73}
+\indexentry{Dyer, Chris|hyperpage}{73}
+\indexentry{McKeown, Kathy|hyperpage}{75}
+\indexentry{Andreas, Jacob|hyperpage}{75}
+\indexentry{Klein, Dan|hyperpage}{75}
+\indexentry{Ghazvininejad, Marjan|hyperpage}{75}
+\indexentry{Shi, Xing|hyperpage}{75}
+\indexentry{Choi, Yejin|hyperpage}{75}
+\indexentry{Knight, Kevin|hyperpage}{75}
+\indexentry{Li, Jiwei|hyperpage}{75}
+\indexentry{Monroe, Will|hyperpage}{75}
+\indexentry{Ritter, Alan|hyperpage}{75}
+\indexentry{Jurafsky, Dan|hyperpage}{75}
+\indexentry{Galley, Michel|hyperpage}{75}
+\indexentry{Gao, Jianfeng|hyperpage}{75}
+\indexentry{Lebret, R\IeC {\'e}mi|hyperpage}{75}
+\indexentry{Grangier, David|hyperpage}{75}
+\indexentry{Auli, Michael|hyperpage}{75}
+\indexentry{Webber, Bonnie|hyperpage}{76}
+\indexentry{Habernal, Ivan|hyperpage}{76}
+\indexentry{Gurevych, Iryna|hyperpage}{76}
+\indexentry{Liu, Yang|hyperpage}{76}
+\indexentry{Li, Sujian|hyperpage}{76}
+\indexentry{Anand, Pranav|hyperpage}{76}
+\indexentry{Hardt, Daniel|hyperpage}{76}
+\indexentry{Iida, Ryu|hyperpage}{76}
+\indexentry{Torisawa, Kentaro|hyperpage}{76}
+\indexentry{Oh, Jong-Hoon|hyperpage}{76}
+\indexentry{Kruengkrai, Canasai|hyperpage}{76}
+\indexentry{Kloetzer, Julien|hyperpage}{76}
+\indexentry{Fung, Pascale|hyperpage}{77}
+\indexentry{Anastasopoulos, Antonios|hyperpage}{77}
+\indexentry{Chiang, David|hyperpage}{77}
+\indexentry{Duong, Long|hyperpage}{77}
+\indexentry{Birch, Alexandra|hyperpage}{77}
+\indexentry{Abend, Omri|hyperpage}{77}
+\indexentry{Bojar, Ond\IeC {\v r}ej|hyperpage}{77}
+\indexentry{Haddow, Barry|hyperpage}{77}
+\indexentry{Ni, Jian|hyperpage}{77}
+\indexentry{Florian, Radu|hyperpage}{77}
+\indexentry{Duong, Long|hyperpage}{77}
+\indexentry{Kanayama, Hiroshi|hyperpage}{77}
+\indexentry{Ma, Tengfei|hyperpage}{77}
+\indexentry{Bird, Steven|hyperpage}{77}
+\indexentry{Cohn, Trevor|hyperpage}{77}
+\indexentry{Barzilay, Regina|hyperpage}{79}
+\indexentry{Wiseman, Sam|hyperpage}{79}
+\indexentry{Rush, Alexander M.|hyperpage}{79}
+\indexentry{Yu, Lei|hyperpage}{79}
+\indexentry{Buys, Jan|hyperpage}{79}
+\indexentry{Blunsom, Phil|hyperpage}{79}
+\indexentry{Kim, Yoon|hyperpage}{79}
+\indexentry{Rush, Alexander M.|hyperpage}{79}
+\indexentry{Kikuchi, Yuta|hyperpage}{79}
+\indexentry{Neubig, Graham|hyperpage}{79}
+\indexentry{Sasano, Ryohei|hyperpage}{79}
+\indexentry{Takamura, Hiroya|hyperpage}{79}
+\indexentry{Okumura, Manabu|hyperpage}{79}
+\indexentry{Sch\IeC {\"u}tze, Hinrich|hyperpage}{80}
+\indexentry{Peterson, Cole|hyperpage}{80}
+\indexentry{Fyshe, Alona|hyperpage}{80}
+\indexentry{Chakraborty, Tanmoy|hyperpage}{80}
+\indexentry{Narayanam, Ramasuri|hyperpage}{80}
+\indexentry{Wang, Yuan|hyperpage}{80}
+\indexentry{Xiao, Yang|hyperpage}{80}
+\indexentry{Ma, Chao|hyperpage}{80}
+\indexentry{Xiao, Zhen|hyperpage}{80}
+\indexentry{Goldwasser, Dan|hyperpage}{80}
+\indexentry{Zhang, Xiao|hyperpage}{80}
+\indexentry{Toutanova, Kristina|hyperpage}{81}
+\indexentry{Ren, Xiang|hyperpage}{81}
+\indexentry{He, Wenqi|hyperpage}{81}
+\indexentry{Qu, Meng|hyperpage}{81}
+\indexentry{Huang, Lifu|hyperpage}{81}
+\indexentry{Ji, Heng|hyperpage}{81}
+\indexentry{Han, Jiawei|hyperpage}{81}
+\indexentry{Wei, Zhuoyu|hyperpage}{81}
+\indexentry{Zhao, Jun|hyperpage}{81}
+\indexentry{Liu, Kang|hyperpage}{81}
+\indexentry{Demeester, Thomas|hyperpage}{81}
+\indexentry{Rockt\IeC {\"a}schel, Tim|hyperpage}{81}
+\indexentry{Riedel, Sebastian|hyperpage}{81}
+\indexentry{Miller, Alexander|hyperpage}{81}
+\indexentry{Fisch, Adam|hyperpage}{81}
+\indexentry{Dodge, Jesse|hyperpage}{81}
+\indexentry{Karimi, Amir-Hossein|hyperpage}{81}
+\indexentry{Bordes, Antoine|hyperpage}{81}
+\indexentry{Weston, Jason|hyperpage}{81}
+\indexentry{Joel Tetreault, Brendan O'Connor|hyperpage}{82}
+\indexentry{Card, Dallas|hyperpage}{82}
+\indexentry{Gross, Justin|hyperpage}{82}
+\indexentry{Boydstun, Amber|hyperpage}{82}
+\indexentry{Smith, Noah A.|hyperpage}{82}
+\indexentry{Litman, Diane|hyperpage}{82}
+\indexentry{Paletz, Susannah|hyperpage}{82}
+\indexentry{Rahimi, Zahra|hyperpage}{82}
+\indexentry{Allegretti, Stefani|hyperpage}{82}
+\indexentry{Rice, Caitlin|hyperpage}{82}
+\indexentry{Ding, Tao|hyperpage}{82}
+\indexentry{Pan, Shimei|hyperpage}{82}
+\indexentry{Louvan, Samuel|hyperpage}{82}
+\indexentry{Naik, Chetan|hyperpage}{82}
+\indexentry{Kumaravel, Sadhana|hyperpage}{82}
+\indexentry{Kwon, Heeyoung|hyperpage}{82}
+\indexentry{Balasubramanian, Niranjan|hyperpage}{82}
+\indexentry{Clark, Peter|hyperpage}{82}
+\indexentry{Yang, Yi|hyperpage}{83}
+\indexentry{Chang, Ming-Wei|hyperpage}{83}
+\indexentry{Eisenstein, Jacob|hyperpage}{83}
+\indexentry{Bharadwaj, Akash|hyperpage}{83}
+\indexentry{Mortensen, David|hyperpage}{83}
+\indexentry{Dyer, Chris|hyperpage}{83}
+\indexentry{Carbonell, Jaime|hyperpage}{83}
+\indexentry{Oualil, Youssef|hyperpage}{83}
+\indexentry{Singh, Mittul|hyperpage}{83}
+\indexentry{Greenberg, Clayton|hyperpage}{83}
+\indexentry{Klakow, Dietrich|hyperpage}{83}
+\indexentry{Liu, Changsong|hyperpage}{83}
+\indexentry{Yang, Shaohua|hyperpage}{83}
+\indexentry{Saba-Sadiya, Sari|hyperpage}{83}
+\indexentry{Shukla, Nishant|hyperpage}{83}
+\indexentry{He, Yunzhong|hyperpage}{83}
+\indexentry{Zhu, Song-chun|hyperpage}{83}
+\indexentry{Chai, Joyce|hyperpage}{83}
+\indexentry{Christie, Gordon|hyperpage}{84}
+\indexentry{Laddha, Ankit|hyperpage}{84}
+\indexentry{Agrawal, Aishwarya|hyperpage}{84}
+\indexentry{Antol, Stanislaw|hyperpage}{84}
+\indexentry{Goyal, Yash|hyperpage}{84}
+\indexentry{Kochersberger, Kevin|hyperpage}{84}
+\indexentry{Batra, Dhruv|hyperpage}{84}
+\indexentry{Wieting, John|hyperpage}{84}
+\indexentry{Bansal, Mohit|hyperpage}{84}
+\indexentry{Gimpel, Kevin|hyperpage}{84}
+\indexentry{Livescu, Karen|hyperpage}{84}
+\indexentry{Sountsov, Pavel|hyperpage}{84}
+\indexentry{Sarawagi, Sunita|hyperpage}{84}
+\indexentry{Schofield, Alexandra|hyperpage}{84}
+\indexentry{Mimno, David|hyperpage}{84}
+\indexentry{Shi, Xing|hyperpage}{85}
+\indexentry{Padhi, Inkit|hyperpage}{85}
+\indexentry{Knight, Kevin|hyperpage}{85}
+\indexentry{Zhang, Jiajun|hyperpage}{85}
+\indexentry{Zong, Chengqing|hyperpage}{85}
+\indexentry{Junczys-Dowmunt, Marcin|hyperpage}{85}
+\indexentry{Grundkiewicz, Roman|hyperpage}{85}
+\indexentry{Arthur, Philip|hyperpage}{85}
+\indexentry{Neubig, Graham|hyperpage}{85}
+\indexentry{Nakamura, Satoshi|hyperpage}{85}
+\indexentry{Zoph, Barret|hyperpage}{85}
+\indexentry{Yuret, Deniz|hyperpage}{85}
+\indexentry{May, Jonathan|hyperpage}{85}
+\indexentry{Knight, Kevin|hyperpage}{85}
+\indexentry{P, Deepak|hyperpage}{86}
+\indexentry{Nakov, Preslav|hyperpage}{86}
+\indexentry{M\IeC {\`a}rquez, Llu\IeC {\'\i }s|hyperpage}{86}
+\indexentry{Guzm\IeC {\'a}n, Francisco|hyperpage}{86}
+\indexentry{He, Xiaodong|hyperpage}{86}
+\indexentry{Golub, David|hyperpage}{86}
+\indexentry{Bouchard, Guillaume|hyperpage}{86}
+\indexentry{Stenetorp, Pontus|hyperpage}{86}
+\indexentry{Riedel, Sebastian|hyperpage}{86}
+\indexentry{Koncel-Kedziorski, Rik|hyperpage}{86}
+\indexentry{Konstas, Ioannis|hyperpage}{86}
+\indexentry{Zettlemoyer, Luke|hyperpage}{86}
+\indexentry{Hajishirzi, Hannaneh|hyperpage}{86}
+\indexentry{Teng, Zhiyang|hyperpage}{87}
+\indexentry{Vo, Duy Tin|hyperpage}{87}
+\indexentry{Zhang, Yue|hyperpage}{87}
+\indexentry{Gui, Lin|hyperpage}{87}
+\indexentry{Wu, Dongyin|hyperpage}{87}
+\indexentry{Xu, Ruifeng|hyperpage}{87}
+\indexentry{Lu, Qin|hyperpage}{87}
+\indexentry{Zhou, Yu|hyperpage}{87}
+\indexentry{Chen, Huimin|hyperpage}{87}
+\indexentry{Sun, Maosong|hyperpage}{87}
+\indexentry{Tu, Cunchao|hyperpage}{87}
+\indexentry{Lin, Yankai|hyperpage}{87}
+\indexentry{Liu, Zhiyuan|hyperpage}{87}
+\indexentry{Xu, Jiacheng|hyperpage}{87}
+\indexentry{Chen, Danlu|hyperpage}{87}
+\indexentry{Qiu, Xipeng|hyperpage}{87}
+\indexentry{Huang, Xuanjing|hyperpage}{87}
+\indexentry{Hu, Zhiting|hyperpage}{88}
+\indexentry{Yang, Zichao|hyperpage}{88}
+\indexentry{Salakhutdinov, Ruslan|hyperpage}{88}
+\indexentry{Xing, Eric|hyperpage}{88}
+\indexentry{Pilehvar, Mohammad Taher|hyperpage}{88}
+\indexentry{Collier, Nigel|hyperpage}{88}
+\indexentry{Kober, Thomas|hyperpage}{88}
+\indexentry{Weeds, Julie|hyperpage}{88}
+\indexentry{Reffin, Jeremy|hyperpage}{88}
+\indexentry{Weir, David|hyperpage}{88}
+\indexentry{Liu, Pengfei|hyperpage}{88}
+\indexentry{Qiu, Xipeng|hyperpage}{88}
+\indexentry{Zhou, Yaqian|hyperpage}{88}
+\indexentry{Chen, Jifan|hyperpage}{88}
+\indexentry{Huang, Xuanjing|hyperpage}{88}
+\indexentry{White, Aaron Steven|hyperpage}{88}
+\indexentry{Reisinger, Drew|hyperpage}{88}
+\indexentry{Sakaguchi, Keisuke|hyperpage}{88}
+\indexentry{Vieira, Tim|hyperpage}{88}
+\indexentry{Zhang, Sheng|hyperpage}{88}
+\indexentry{Rudinger, Rachel|hyperpage}{88}
+\indexentry{Rawlins, Kyle|hyperpage}{88}
+\indexentry{Van Durme, Benjamin|hyperpage}{88}
+\indexentry{Sim, Yanchuan|hyperpage}{89}
+\indexentry{Routledge, Bryan|hyperpage}{89}
+\indexentry{Smith, Noah A.|hyperpage}{89}
+\indexentry{Kenyon-Dean, Kian|hyperpage}{89}
+\indexentry{Cheung, Jackie Chi Kit|hyperpage}{89}
+\indexentry{Precup, Doina|hyperpage}{89}
+\indexentry{Kuncoro, Adhiguna|hyperpage}{89}
+\indexentry{Ballesteros, Miguel|hyperpage}{89}
+\indexentry{Kong, Lingpeng|hyperpage}{89}
+\indexentry{Dyer, Chris|hyperpage}{89}
+\indexentry{Smith, Noah A.|hyperpage}{89}
+\indexentry{Xu, Wenduan|hyperpage}{89}
+\indexentry{B. Hashemi, Homa|hyperpage}{89}
+\indexentry{Hwa, Rebecca|hyperpage}{89}
+\indexentry{Misra, Dipendra Kumar|hyperpage}{89}
+\indexentry{Artzi, Yoav|hyperpage}{89}
+\indexentry{Sun, Xiangyan|hyperpage}{90}
+\indexentry{Wang, Haixun|hyperpage}{90}
+\indexentry{Xiao, Yanghua|hyperpage}{90}
+\indexentry{Wang, Zhongyuan|hyperpage}{90}
+\indexentry{Yu, Hongliang|hyperpage}{90}
+\indexentry{Zhang, Shikun|hyperpage}{90}
+\indexentry{Morency, Louis-Philippe|hyperpage}{90}
+\indexentry{Dollmann, Markus|hyperpage}{90}
+\indexentry{Geierhos, Michaela|hyperpage}{90}
+\indexentry{Hai, Zhen|hyperpage}{90}
+\indexentry{Zhao, Peilin|hyperpage}{90}
+\indexentry{Cheng, Peng|hyperpage}{90}
+\indexentry{Yang, Peng|hyperpage}{90}
+\indexentry{Li, Xiao-Li|hyperpage}{90}
+\indexentry{Li, Guangxia|hyperpage}{90}
+\indexentry{Skianis, Konstantinos|hyperpage}{91}
+\indexentry{Rousseau, Francois|hyperpage}{91}
+\indexentry{Vazirgiannis, Michalis|hyperpage}{91}
+\indexentry{He, Ji|hyperpage}{91}
+\indexentry{Ostendorf, Mari|hyperpage}{91}
+\indexentry{He, Xiaodong|hyperpage}{91}
+\indexentry{Chen, Jianshu|hyperpage}{91}
+\indexentry{Gao, Jianfeng|hyperpage}{91}
+\indexentry{Li, Lihong|hyperpage}{91}
+\indexentry{Deng, Li|hyperpage}{91}
+\indexentry{Moritz, Maria|hyperpage}{91}
+\indexentry{Wiederhold, Andreas|hyperpage}{91}
+\indexentry{Pavlek, Barbara|hyperpage}{91}
+\indexentry{Bizzoni, Yuri|hyperpage}{91}
+\indexentry{B\IeC {\"u}chler, Marco|hyperpage}{91}
+\indexentry{Tixier, Antoine|hyperpage}{91}
+\indexentry{Malliaros, Fragkiskos|hyperpage}{91}
+\indexentry{Vazirgiannis, Michalis|hyperpage}{91}
+\indexentry{Schumacher, Elliot|hyperpage}{91}
+\indexentry{Eskenazi, Maxine|hyperpage}{91}
+\indexentry{Frishkoff, Gwen|hyperpage}{91}
+\indexentry{Collins-Thompson, Kevyn|hyperpage}{91}
+\indexentry{Taghipour, Kaveh|hyperpage}{92}
+\indexentry{Ng, Hwee Tou|hyperpage}{92}
+\indexentry{Wang, Weibo|hyperpage}{92}
+\indexentry{Moh'd, Abidalrahman|hyperpage}{92}
+\indexentry{Islam, Aminul|hyperpage}{92}
+\indexentry{Soto, Axel|hyperpage}{92}
+\indexentry{Milios, Evangelos|hyperpage}{92}
+\indexentry{Chollampatt, Shamil|hyperpage}{92}
+\indexentry{Hoang, Duc Tam|hyperpage}{92}
+\indexentry{Ng, Hwee Tou|hyperpage}{92}
+\indexentry{Kunchukuttan, Anoop|hyperpage}{92}
+\indexentry{Bhattacharyya, Pushpak|hyperpage}{92}
+\indexentry{Locascio, Nicholas|hyperpage}{92}
+\indexentry{Narasimhan, Karthik|hyperpage}{92}
+\indexentry{De Leon, Eduardo|hyperpage}{92}
+\indexentry{Kushman, Nate|hyperpage}{92}
+\indexentry{Barzilay, Regina|hyperpage}{92}
+\indexentry{Sterckx, Lucas|hyperpage}{93}
+\indexentry{Caragea, Cornelia|hyperpage}{93}
+\indexentry{Demeester, Thomas|hyperpage}{93}
+\indexentry{Develder, Chris|hyperpage}{93}
+\indexentry{Morales, Alvaro|hyperpage}{93}
+\indexentry{Premtoon, Varot|hyperpage}{93}
+\indexentry{Avery, Cordelia|hyperpage}{93}
+\indexentry{Felshin, Sue|hyperpage}{93}
+\indexentry{Katz, Boris|hyperpage}{93}
+\indexentry{Cornegruta, Savelie|hyperpage}{93}
+\indexentry{Vlachos, Andreas|hyperpage}{93}
+\indexentry{Rajani, Nazneen Fatema|hyperpage}{93}
+\indexentry{Mooney, Raymond|hyperpage}{93}
+\indexentry{Kawakami, Kazuya|hyperpage}{93}
+\indexentry{Dyer, Chris|hyperpage}{93}
+\indexentry{Routledge, Bryan|hyperpage}{93}
+\indexentry{Smith, Noah A.|hyperpage}{93}
+\indexentry{Agrawal, Aishwarya|hyperpage}{94}
+\indexentry{Batra, Dhruv|hyperpage}{94}
+\indexentry{Parikh, Devi|hyperpage}{94}
+\indexentry{Venugopalan, Subhashini|hyperpage}{94}
+\indexentry{Hendricks, Lisa Anne|hyperpage}{94}
+\indexentry{Mooney, Raymond|hyperpage}{94}
+\indexentry{Saenko, Kate|hyperpage}{94}
+\indexentry{Chersoni, Emmanuele|hyperpage}{94}
+\indexentry{Santus, Enrico|hyperpage}{94}
+\indexentry{Lenci, Alessandro|hyperpage}{94}
+\indexentry{Blache, Philippe|hyperpage}{94}
+\indexentry{Huang, Chu-Ren|hyperpage}{94}
+\indexentry{Vieira, Tim|hyperpage}{94}
+\indexentry{Cotterell, Ryan|hyperpage}{94}
+\indexentry{Eisner, Jason|hyperpage}{94}
+\indexentry{Li, Yitong|hyperpage}{94}
+\indexentry{Cohn, Trevor|hyperpage}{94}
+\indexentry{Baldwin, Timothy|hyperpage}{94}
+\indexentry{Tu, Kewei|hyperpage}{95}
+\indexentry{Miyamoto, Yasumasa|hyperpage}{95}
+\indexentry{Cho, Kyunghyun|hyperpage}{95}
+\indexentry{Kamigaito, Hidetaka|hyperpage}{95}
+\indexentry{Tamura, Akihiro|hyperpage}{95}
+\indexentry{Takamura, Hiroya|hyperpage}{95}
+\indexentry{Okumura, Manabu|hyperpage}{95}
+\indexentry{Sumita, Eiichiro|hyperpage}{95}
+\indexentry{Ballesteros, Miguel|hyperpage}{95}
+\indexentry{Goldberg, Yoav|hyperpage}{95}
+\indexentry{Dyer, Chris|hyperpage}{95}
+\indexentry{Smith, Noah A.|hyperpage}{95}
+\indexentry{Sha, Lei|hyperpage}{95}
+\indexentry{Li, Sujian|hyperpage}{95}
+\indexentry{Chang, Baobao|hyperpage}{95}
+\indexentry{Sui, Zhifang|hyperpage}{95}
+\indexentry{Jiang, Tingsong|hyperpage}{95}
+\indexentry{Xu, Haoyan|hyperpage}{96}
+\indexentry{Murphy, Brian|hyperpage}{96}
+\indexentry{Fyshe, Alona|hyperpage}{96}
+\indexentry{Bisk, Yonatan|hyperpage}{96}
+\indexentry{Reddy, Siva|hyperpage}{96}
+\indexentry{Blitzer, John|hyperpage}{96}
+\indexentry{Hockenmaier, Julia|hyperpage}{96}
+\indexentry{Steedman, Mark|hyperpage}{96}
+\indexentry{Apidianaki, Marianna|hyperpage}{96}
+\indexentry{Aubakirova, Malika|hyperpage}{96}
+\indexentry{Bansal, Mohit|hyperpage}{96}
+\indexentry{Smith, Laura|hyperpage}{96}
+\indexentry{Giorgi, Salvatore|hyperpage}{96}
+\indexentry{Solanki, Rishi|hyperpage}{96}
+\indexentry{Eichstaedt, Johannes|hyperpage}{96}
+\indexentry{Schwartz, H. Andrew|hyperpage}{96}
+\indexentry{Abdul-Mageed, Muhammad|hyperpage}{96}
+\indexentry{Buffone, Anneke|hyperpage}{96}
+\indexentry{Ungar, Lyle|hyperpage}{96}
+\indexentry{Milli, Smitha|hyperpage}{96}
+\indexentry{Bamman, David|hyperpage}{96}
+\indexentry{Rouhizadeh, Masoud|hyperpage}{97}
+\indexentry{Ungar, Lyle|hyperpage}{97}
+\indexentry{Buffone, Anneke|hyperpage}{97}
+\indexentry{Schwartz, H. Andrew|hyperpage}{97}
+\indexentry{\IeC {\"O}zbal, G\IeC {\"o}zde|hyperpage}{97}
+\indexentry{Strapparava, Carlo|hyperpage}{97}
+\indexentry{Tekiroglu, Serra Sinem|hyperpage}{97}
+\indexentry{Pighin, Daniele|hyperpage}{97}
+\indexentry{Kraft, Peter|hyperpage}{97}
+\indexentry{Jain, Hirsh|hyperpage}{97}
+\indexentry{Rush, Alexander M.|hyperpage}{97}
+\indexentry{Kim, Young-Bum|hyperpage}{97}
+\indexentry{Rochette, Alexandre|hyperpage}{97}
+\indexentry{Sarikaya, Ruhi|hyperpage}{97}
+\indexentry{Kurata, Gakuto|hyperpage}{97}
+\indexentry{Xiang, Bing|hyperpage}{97}
+\indexentry{Zhou, Bowen|hyperpage}{97}
+\indexentry{Yu, Mo|hyperpage}{97}
+\indexentry{Song, Linfeng|hyperpage}{98}
+\indexentry{Zhang, Yue|hyperpage}{98}
+\indexentry{Peng, Xiaochang|hyperpage}{98}
+\indexentry{Wang, Zhiguo|hyperpage}{98}
+\indexentry{Gildea, Daniel|hyperpage}{98}
+\indexentry{Susanto, Raymond Hendy|hyperpage}{98}
+\indexentry{Chieu, Hai Leong|hyperpage}{98}
+\indexentry{Lu, Wei|hyperpage}{98}
+\indexentry{Rohlfs, Christopher|hyperpage}{98}
+\indexentry{Chakraborty, Sunandan|hyperpage}{98}
+\indexentry{Subramanian, Lakshminarayanan|hyperpage}{98}
+\indexentry{Gu, Youyang|hyperpage}{98}
+\indexentry{Lei, Tao|hyperpage}{98}
+\indexentry{Barzilay, Regina|hyperpage}{98}
+\indexentry{Jaakkola, Tommi|hyperpage}{98}
+\indexentry{Napoles, Courtney|hyperpage}{98}
+\indexentry{Sakaguchi, Keisuke|hyperpage}{98}
+\indexentry{Tetreault, Joel|hyperpage}{98}
+\indexentry{Narasimhan, Karthik|hyperpage}{99}
+\indexentry{Yala, Adam|hyperpage}{99}
+\indexentry{Barzilay, Regina|hyperpage}{99}
+\indexentry{Lee, Kenton|hyperpage}{99}
+\indexentry{Lewis, Mike|hyperpage}{99}
+\indexentry{Zettlemoyer, Luke|hyperpage}{99}
+\indexentry{Adams, Oliver|hyperpage}{99}
+\indexentry{Neubig, Graham|hyperpage}{99}
+\indexentry{Cohn, Trevor|hyperpage}{99}
+\indexentry{Bird, Steven|hyperpage}{99}
+\indexentry{Do, Quoc Truong|hyperpage}{99}
+\indexentry{Nakamura, Satoshi|hyperpage}{99}
+\indexentry{Rajpurkar, Pranav|hyperpage}{99}
+\indexentry{Zhang, Jian|hyperpage}{99}
+\indexentry{Lopyrev, Konstantin|hyperpage}{99}
+\indexentry{Liang, Percy|hyperpage}{99}
+\indexentry{Stolcke, Andreas|hyperpage}{101}
+\indexentry{Litman, Diane|hyperpage}{103}
+\indexentry{Liu, Chia-Wei|hyperpage}{103}
+\indexentry{Lowe, Ryan|hyperpage}{103}
+\indexentry{Serban, Iulian|hyperpage}{103}
+\indexentry{Noseworthy, Mike|hyperpage}{103}
+\indexentry{Charlin, Laurent|hyperpage}{103}
+\indexentry{Pineau, Joelle|hyperpage}{103}
+\indexentry{Ouchi, Hiroki|hyperpage}{103}
+\indexentry{Tsuboi, Yuta|hyperpage}{103}
+\indexentry{Wakabayashi, Kei|hyperpage}{103}
+\indexentry{Takeuchi, Johane|hyperpage}{103}
+\indexentry{Funakoshi, Kotaro|hyperpage}{103}
+\indexentry{Nakano, Mikio|hyperpage}{103}
+\indexentry{Wen, Tsung-Hsien|hyperpage}{103}
+\indexentry{Gasic, Milica|hyperpage}{103}
+\indexentry{Mrk\IeC {\v s}i\IeC {\'c}, Nikola|hyperpage}{103}
+\indexentry{Rojas Barahona, Lina M.|hyperpage}{103}
+\indexentry{Su, Pei-Hao|hyperpage}{103}
+\indexentry{Ultes, Stefan|hyperpage}{103}
+\indexentry{Vandyke, David|hyperpage}{103}
+\indexentry{Young, Steve|hyperpage}{103}
+\indexentry{Dagan, Ido|hyperpage}{104}
+\indexentry{Roller, Stephen|hyperpage}{104}
+\indexentry{Erk, Katrin|hyperpage}{104}
+\indexentry{Gerz, Daniela|hyperpage}{104}
+\indexentry{Vuli\IeC {\'c}, Ivan|hyperpage}{104}
+\indexentry{Hill, Felix|hyperpage}{104}
+\indexentry{Reichart, Roi|hyperpage}{104}
+\indexentry{Korhonen, Anna|hyperpage}{104}
+\indexentry{Grycner, Adam|hyperpage}{104}
+\indexentry{Weikum, Gerhard|hyperpage}{104}
+\indexentry{Li, Tao|hyperpage}{104}
+\indexentry{Srikumar, Vivek|hyperpage}{104}
+\indexentry{de Marneffe, Marie-Catherine|hyperpage}{105}
+\indexentry{Cheng, Hao|hyperpage}{105}
+\indexentry{Fang, Hao|hyperpage}{105}
+\indexentry{He, Xiaodong|hyperpage}{105}
+\indexentry{Gao, Jianfeng|hyperpage}{105}
+\indexentry{Deng, Li|hyperpage}{105}
+\indexentry{Wang, Dingquan|hyperpage}{105}
+\indexentry{Eisner, Jason|hyperpage}{105}
+\indexentry{Kiperwasser, Eliyahu|hyperpage}{105}
+\indexentry{Goldberg, Yoav|hyperpage}{105}
+\indexentry{Berzak, Yevgeni|hyperpage}{105}
+\indexentry{Huang, Yan|hyperpage}{105}
+\indexentry{Barbu, Andrei|hyperpage}{105}
+\indexentry{Korhonen, Anna|hyperpage}{105}
+\indexentry{Katz, Boris|hyperpage}{105}
+\indexentry{Xu, Wei|hyperpage}{107}
+\indexentry{Pavlick, Ellie|hyperpage}{107}
+\indexentry{Callison-Burch, Chris|hyperpage}{107}
+\indexentry{Onishi, Takeshi|hyperpage}{107}
+\indexentry{Wang, Hai|hyperpage}{107}
+\indexentry{Bansal, Mohit|hyperpage}{107}
+\indexentry{Gimpel, Kevin|hyperpage}{107}
+\indexentry{McAllester, David|hyperpage}{107}
+\indexentry{Mineshima, Koji|hyperpage}{107}
+\indexentry{Tanaka, Ribeka|hyperpage}{107}
+\indexentry{Mart\IeC {\'\i }nez-G\IeC {\'o}mez, Pascual|hyperpage}{107}
+\indexentry{Miyao, Yusuke|hyperpage}{107}
+\indexentry{Bekki, Daisuke|hyperpage}{107}
+\indexentry{Monroe, Will|hyperpage}{107}
+\indexentry{Goodman, Noah D.|hyperpage}{107}
+\indexentry{Potts, Christopher|hyperpage}{107}
+\indexentry{Parikh, Ankur|hyperpage}{107}
+\indexentry{T\IeC {\"a}ckstr\IeC {\"o}m, Oscar|hyperpage}{107}
+\indexentry{Das, Dipanjan|hyperpage}{107}
+\indexentry{Uszkoreit, Jakob|hyperpage}{107}
+\indexentry{Clark, Kevin|hyperpage}{107}
+\indexentry{Manning, Christopher D.|hyperpage}{107}
+\indexentry{Qin, Lianhui|hyperpage}{108}
+\indexentry{Zhang, Zhisong|hyperpage}{108}
+\indexentry{Zhao, Hai|hyperpage}{108}
+\indexentry{Choi, Yejin|hyperpage}{109}
+\indexentry{Nakazawa, Toshiaki|hyperpage}{109}
+\indexentry{Richardson, John|hyperpage}{109}
+\indexentry{Kurohashi, Sadao|hyperpage}{109}
+\indexentry{Shi, Xing|hyperpage}{109}
+\indexentry{Knight, Kevin|hyperpage}{109}
+\indexentry{Yuret, Deniz|hyperpage}{109}
+\indexentry{Mi, Haitao|hyperpage}{109}
+\indexentry{Wang, Zhiguo|hyperpage}{109}
+\indexentry{Ittycheriah, Abe|hyperpage}{109}
+\indexentry{Artetxe, Mikel|hyperpage}{109}
+\indexentry{Labaka, Gorka|hyperpage}{109}
+\indexentry{Agirre, Eneko|hyperpage}{109}
+\indexentry{Russell, Ben|hyperpage}{109}
+\indexentry{Gillespie, Duncan|hyperpage}{109}
+\indexentry{Stanovsky, Gabriel|hyperpage}{109}
+\indexentry{Dagan, Ido|hyperpage}{109}
+\indexentry{Wu, Changxing|hyperpage}{110}
+\indexentry{Chen, Yidong|hyperpage}{110}
+\indexentry{Huang, Yanzhou|hyperpage}{110}
+\indexentry{Hwa, Rebecca|hyperpage}{111}
+\indexentry{Buckman, Jacob|hyperpage}{111}
+\indexentry{Ballesteros, Miguel|hyperpage}{111}
+\indexentry{Dyer, Chris|hyperpage}{111}
+\indexentry{Schmaltz, Allen|hyperpage}{111}
+\indexentry{Rush, Alexander M.|hyperpage}{111}
+\indexentry{Shieber, Stuart|hyperpage}{111}
+\indexentry{Cotterell, Ryan|hyperpage}{111}
+\indexentry{Kumar, Arun|hyperpage}{111}
+\indexentry{Sch\IeC {\"u}tze, Hinrich|hyperpage}{111}
+\indexentry{Choe, Do Kook|hyperpage}{111}
+\indexentry{Charniak, Eugene|hyperpage}{111}
+\indexentry{He, Luheng|hyperpage}{111}
+\indexentry{Michael, Julian|hyperpage}{111}
+\indexentry{Lewis, Mike|hyperpage}{111}
+\indexentry{Zettlemoyer, Luke|hyperpage}{111}
+\indexentry{Bauer, Sandro|hyperpage}{111}
+\indexentry{Teufel, Simone|hyperpage}{111}
+\indexentry{Jiang, Tingsong|hyperpage}{112}
+\indexentry{Liu, Tianyu|hyperpage}{112}
+\indexentry{Ge, Tao|hyperpage}{112}
+\indexentry{Sha, Lei|hyperpage}{112}
+\indexentry{Li, Sujian|hyperpage}{112}
+\indexentry{Chang, Baobao|hyperpage}{112}
+\indexentry{Sui, Zhifang|hyperpage}{112}
+\indexentry{Duh and Xavier Carreras, Kevin|hyperpage}{113}
+\indexentry{Narasimhan, Karthik|hyperpage}{113}
+\indexentry{Yala, Adam|hyperpage}{113}
+\indexentry{Barzilay, Regina|hyperpage}{113}
+\indexentry{Lee, Kenton|hyperpage}{113}
+\indexentry{Lewis, Mike|hyperpage}{113}
+\indexentry{Zettlemoyer, Luke|hyperpage}{113}
+\indexentry{Adams, Oliver|hyperpage}{113}
+\indexentry{Neubig, Graham|hyperpage}{113}
+\indexentry{Cohn, Trevor|hyperpage}{113}
+\indexentry{Bird, Steven|hyperpage}{113}
+\indexentry{Do, Quoc Truong|hyperpage}{113}
+\indexentry{Nakamura, Satoshi|hyperpage}{113}
+\indexentry{Rajpurkar, Pranav|hyperpage}{113}
+\indexentry{Zhang, Jian|hyperpage}{113}
+\indexentry{Lopyrev, Konstantin|hyperpage}{113}
+\indexentry{Liang, Percy|hyperpage}{113}

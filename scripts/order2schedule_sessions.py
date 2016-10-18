@@ -102,7 +102,11 @@ for date in cs.dates:
                             if session.papers[paper_num].id is None:
                                 res.append ('EXT: %s' % ( session.papers[paper_num].title ) )
                             else:
-                                res.append ('{%s}\\papertableentry{%s}' % ( session.papers[paper_num].prefix, session.papers[paper_num].id ) )
+                                print ' SW session.papers[paper_num].id = %s ' %(session.papers[paper_num].id)
+                                if session.papers[paper_num].id.startswith('TACL'):
+                                    res.append ('{[TACL]}\\papertableentry{%s}' % (  session.papers[paper_num].id ) )
+                                else:
+                                    res.append ('{%s}\\papertableentry{%s}' % ( session.papers[paper_num].prefix, session.papers[paper_num].id ) )
                         else:
                             res.append("")
                     print >>out, ' & '.join( res )
@@ -160,7 +164,11 @@ for date in cs.dates:
                         print >>out, '\\noindent\\Track%cLoc\\hfill\\par' % (chr(i + 65))
                     print >>out, '\\bigskip{}'
                     for paper in session.papers:
-                        if paper.id is not None: print >>out, '\\paperabstract{%s}{%s}{%s}' % (paper.id, paper.time, paper.prefix)
+                        if paper.id is not None:
+                            if paper.id.startswith('TACL') :
+                                print >>out, '\\paperabstract{%s}{%s}{[TACL]}' % (paper.id, paper.time)
+                            else:    
+                                print >>out, '\\paperabstract{%s}{%s}{%s}' % (paper.id, paper.time, paper.prefix)
                     print >>out, '\\clearpage'
             print >>out, '\n'
             out.close()
@@ -195,7 +203,11 @@ for date in cs.dates:
                 print >>out, '\\noindent{\\PosterLoc \\hfill \emph{%s}}\\par'% (timef(session.time))
                 print >>out, '\\bigskip{}'
                 for paper in session.papers:
-                    if paper.id is not None: print >>out, '\\posterabstract{%s}{%s}' % (paper.id, paper.prefix)
+                    if paper.id is not None: 
+                        if paper.id.startswith('TACL'):
+                            print >>out, '\\posterabstract{%s}{[TACL]}' % (paper.id)
+                        else:
+                            print >>out, '\\posterabstract{%s}{%s}' % (paper.id, paper.prefix)
                 #print >>out, '\\clearpage'
             out.close()
 
