@@ -138,8 +138,8 @@ for date in cs.dates:
         #out = open(path, 'w')
         #print >> sys.stderr, "\\input{%s}" % (path)
 
-        #if len(parallel_sessions) > 0:
-        if len(parallel_sessions) > 1: # IT IS SAFE TO ASSUME THAT WHEN ABSTRACTS NEED TO BE PRINTED, THERE WILL BE MORE THAN ONE PAPER. ELSE IT IS A PLANARY SESSION, OR REGISTRATION
+        if len(parallel_sessions) > 0:
+        #if len(parallel_sessions) > 1: # IT IS SAFE TO ASSUME THAT WHEN ABSTRACTS NEED TO BE PRINTED, THERE WILL BE MORE THAN ONE PAPER. ELSE IT IS A PLANARY SESSION, OR REGISTRATION
             if parallel_sessions[0].num == None:
                 continue
             print 'printing parallel session abstract to %s-Session-%s-abstracts.tex' % (day, parallel_sessions[0].num)
@@ -148,8 +148,8 @@ for date in cs.dates:
             print >> sys.stderr, "\\input{%s}" % (path)
             # Now print the abstracts of the papers in each of the sessions
             # Print the papers
-            print >>out, '\\newpage'
-            print >>out, '\\section*{Abstracts: Session %s}' % (parallel_sessions[0].num)
+            #print >>out, '\\newpage'
+            #print >>out, '\\section*{Abstracts: Session %s}' % (parallel_sessions[0].num)
             print >>out, '\\bigskip{}'
             for i, session in enumerate(parallel_sessions):
                     chair = session.chair()
@@ -180,9 +180,10 @@ for date in cs.dates:
             print >> sys.stderr, "\\input{%s}" % (path)
             # Now print the abstracts of the papers in each of the sessions
             # Print the papers
-            print >>out, '\\newpage'
+            #print >>out, '\\newpage'
             #print >>out, '\\section*{Abstracts: Session %s}' % (poster_sessions[0].num)
-            print >>out, '\\section*{Abstracts: %s}' % (poster_sessions[0].desc)
+            #print >>out, '\\section[%s]{Abstracts: %s}' % (poster_sessions[0].desc,poster_sessions[0].desc)
+            print >>out, '\\section[%s]{}' % (poster_sessions[0].desc)
             print >>out, '\\bigskip{}'
             for session in poster_sessions:
                 chair = session.chair()
@@ -195,7 +196,7 @@ for date in cs.dates:
                 print >>out, '\\bigskip{}'
                 for paper in session.papers:
                     if paper.id is not None: print >>out, '\\posterabstract{%s}{%s}' % (paper.id, paper.prefix)
-                print >>out, '\\clearpage'
+                #print >>out, '\\clearpage'
             out.close()
 
 

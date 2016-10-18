@@ -2,5 +2,6 @@ eclipse.preferences.version=1
 encoding/handbook.py=utf-8
 encoding/meta2bibtex.py=utf-8
 encoding/order2schedule_overview.py=utf-8
+encoding/order2schedule_overview_posters.py=utf-8
 encoding/order2schedule_sessions.py=utf-8
 encoding/paper_info.py=utf-8

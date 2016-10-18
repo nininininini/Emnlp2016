@@ -36,6 +36,29 @@
       \field{labeltitle}{A Semiparametric Model for Bayesian Reader Identification}
       \field{title}{A Semiparametric Model for Bayesian Reader Identification}
     \endentry
+    \entry{papers-489}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=6c709bbb9dcc5d5e4270819f9ea8e48c}{Adams}{A\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=fcd2ecb2a6a4a3db4c9e66dddf4660b1}{Neubig}{N\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fcbee11f57094a6fbbfcbf494f023974}{Cohn}{C\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=a6ad72a87713a430f7335c5656da28f1}{Bird}{B\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=65aff9727a3d513db9b073006f75a784}{Do}{D\bibinitperiod}{Quoc\bibnamedelima Truong}{Q\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=df74ff25a023c404e2069a9e5d13ac80}{Nakamura}{N\bibinitperiod}{Satoshi}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=6c709bbb9dcc5d5e4270819f9ea8e48c}{Adams}{A\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=fcd2ecb2a6a4a3db4c9e66dddf4660b1}{Neubig}{N\bibinitperiod}{Graham}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fcbee11f57094a6fbbfcbf494f023974}{Cohn}{C\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=a6ad72a87713a430f7335c5656da28f1}{Bird}{B\bibinitperiod}{Steven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=65aff9727a3d513db9b073006f75a784}{Do}{D\bibinitperiod}{Quoc\bibnamedelima Truong}{Q\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=df74ff25a023c404e2069a9e5d13ac80}{Nakamura}{N\bibinitperiod}{Satoshi}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{329df4ac783296072d96aa3f2334c6c3}
+      \strng{fullhash}{b7457855bd8a723ba1fbd012fd1fe94e}
+      \field{sortinit}{A}
+      \field{labeltitle}{Learning a Lexicon and Translation Model from Phoneme Lattices}
+      \field{title}{Learning a Lexicon and Translation Model from Phoneme Lattices}
+    \endentry
     \entry{papers-026}{inproceedings}{}
       \name{labelname}{3}{}{%
         {{hash=8e0edbf6011965bfda9ae4b7baeff813}{Agrawal}{A\bibinitperiod}{Aishwarya}{A\bibinitperiod}{}{}{}{}}%
@@ -3032,6 +3055,23 @@
       \field{labeltitle}{Neural Text Generation from Structured Data with Application to the Biography Domain}
       \field{title}{Neural Text Generation from Structured Data with Application to the Biography Domain}
     \endentry
+    \entry{papers-910}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=8dde73b4194f5bc4230c4808f3fc1534}{Lee}{L\bibinitperiod}{Kenton}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=c97f53fdeeb04c28de19e3324cb4bc0a}{Lewis}{L\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1dbd3a5b42828fb2cebd7786488ba425}{Zettlemoyer}{Z\bibinitperiod}{Luke}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8dde73b4194f5bc4230c4808f3fc1534}{Lee}{L\bibinitperiod}{Kenton}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=c97f53fdeeb04c28de19e3324cb4bc0a}{Lewis}{L\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1dbd3a5b42828fb2cebd7786488ba425}{Zettlemoyer}{Z\bibinitperiod}{Luke}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{42cd675f1390d1ac6f5e88dbbe45b1c5}
+      \strng{fullhash}{42cd675f1390d1ac6f5e88dbbe45b1c5}
+      \field{sortinit}{L}
+      \field{labeltitle}{Global Neural CCG Parsing with Optimality Guarantees}
+      \field{title}{Global Neural CCG Parsing with Optimality Guarantees}
+    \endentry
     \entry{papers-997}{inproceedings}{}
       \name{labelname}{3}{}{%
         {{hash=137d087a15655178d65e5fcc93702c5b}{Lei}{L\bibinitperiod}{Tao}{T\bibinitperiod}{}{}{}{}}%
@@ -3795,6 +3835,23 @@
       \field{labeltitle}{There's No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction}
       \field{title}{There's No Comparison: Reference-less Evaluation Metrics in Grammatical Error Correction}
     \endentry
+    \entry{papers-559}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=997c3143c2e5d593e816d2ff704fbf98}{Narasimhan}{N\bibinitperiod}{Karthik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=2ec82778d7ccfeffb91e082e4f09ba07}{Yala}{Y\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=de391703fb0c2fdf733b3a0095bc32ce}{Barzilay}{B\bibinitperiod}{Regina}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=997c3143c2e5d593e816d2ff704fbf98}{Narasimhan}{N\bibinitperiod}{Karthik}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=2ec82778d7ccfeffb91e082e4f09ba07}{Yala}{Y\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=de391703fb0c2fdf733b3a0095bc32ce}{Barzilay}{B\bibinitperiod}{Regina}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3975dfbaadcce3c2d2f1a0d44ea5b7cf}
+      \strng{fullhash}{3975dfbaadcce3c2d2f1a0d44ea5b7cf}
+      \field{sortinit}{N}
+      \field{labeltitle}{Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning}
+      \field{title}{Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning}
+    \endentry
     \entry{NLPSM-018}{inproceedings}{}
       \name{labelname}{4}{}{%
         {{hash=31e23db7e91c87e1c580a8a0b00fd6d6}{Navindgi}{N\bibinitperiod}{Amit}{A\bibinitperiod}{}{}{}{}}%
@@ -4448,6 +4505,25 @@
       \field{sortinit}{R}
       \field{labeltitle}{Combining Supervised and Unsupervised Enembles for Knowledge Base Population}
       \field{title}{Combining Supervised and Unsupervised Enembles for Knowledge Base Population}
+    \endentry
+    \entry{papers-903}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=d928987fcfcc448e0b101168ce910c67}{Rajpurkar}{R\bibinitperiod}{Pranav}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=112faefb37293f52cd92c3bb36fcc08b}{Zhang}{Z\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=88fd2b39f9d59a48cf8ebf321dab6660}{Lopyrev}{L\bibinitperiod}{Konstantin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=86c032bbc45c3b616f0a1170befc0e82}{Liang}{L\bibinitperiod}{Percy}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=d928987fcfcc448e0b101168ce910c67}{Rajpurkar}{R\bibinitperiod}{Pranav}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=112faefb37293f52cd92c3bb36fcc08b}{Zhang}{Z\bibinitperiod}{Jian}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=88fd2b39f9d59a48cf8ebf321dab6660}{Lopyrev}{L\bibinitperiod}{Konstantin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=86c032bbc45c3b616f0a1170befc0e82}{Liang}{L\bibinitperiod}{Percy}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8364d6ba1b00410c7e5a517f1ddc02bf}
+      \strng{fullhash}{6a9799baaf72b27c5d354bab790952f0}
+      \field{sortinit}{R}
+      \field{labeltitle}{SQuAD: 100,000+ Questions for Machine Comprehension of Text}
+      \field{title}{SQuAD: 100,000+ Questions for Machine Comprehension of Text}
     \endentry
     \entry{papers-958}{inproceedings}{}
       \name{labelname}{5}{}{%

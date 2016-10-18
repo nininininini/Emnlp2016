@@ -85,18 +85,19 @@ for date in cs.dates:
                         print >>out, '  %s & -- & %s &' % (timef(start), timef(stop))
                         print >>out, '  {\\bfseries %s} \\hfill \emph{%s}' % (event.title, event.location() )
                         print >>out, '  \\\\'
-#                         for p in event.papers:
-#                             if p.time is None:
-#                                 if p.id is None:
-#                                     print >>out, ' & & & \\textit{%s}\\\\' % ( p.title )
-#                                 else:
-#                                     print >>out, ' & & & \\paperlistentry{%s}\\\\'% ( p.id )
-#                             else:
-#                                 start, stop = p.time.split("--")
-#                                 if p.id is None:
-#                                     print >>out, ' %s & -- & %s & \\textit{%s}\\\\' % ( start, stop, p.title )
-#                                 else:
-#                                     print >>out, ' %s & -- & %s & \\paperlistentry{%s}\\\\'% ( start, stop, p.id )
+                        for p in event.papers:
+                            if p.time is None:
+                                if p.id is None:
+                                    print >>out, ' & & & \\textit{%s}\\\\' % ( p.title )
+                                else:
+                                    print 'SW: skipping potential poster %s ' % ( p.id )
+                                #    print >>out, ' & & & \\paperlistentry{%s}\\\\'% ( p.id )
+                            else:
+                                start, stop = p.time.split("--")
+                                if p.id is None:
+                                    print >>out, ' %s & -- & %s & \\textit{%s}\\\\' % ( start, stop, p.title )
+                                else:
+                                    print >>out, ' %s & -- & %s & \\paperlistentry{%s}\\\\'% ( start, stop, p.id )
                 else:
                     raise ValueError("Unknown type!!!")
 

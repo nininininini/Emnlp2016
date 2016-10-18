@@ -50,26 +50,32 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 3}{45}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{65}{chapter.5}
+\contentsline {section}{Poster Spotlight A (Half-minute Madness)}{49}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Stefanie Tellex}{66}{section.5.1}
+\contentsline {section}{Poster Session A}{49}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{68}{section.5.2}
+\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{67}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 5}{72}{section.5.3}
+\contentsline {section}{Invited Speaker: Stefanie Tellex}{68}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{76}{section.5.4}
+\contentsline {section}{Session 4}{70}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{97}{chapter.6}
+\contentsline {section}{Session 5}{74}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Andreas Stolcke}{98}{section.6.1}
+\contentsline {section}{Session 6}{78}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{99}{section.6.2}
+\contentsline {section}{Poster Spotlight B (Half-minute Madness)}{82}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{103}{section.6.3}
+\contentsline {section}{Poster Session B}{82}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{110}{section*.7}
+\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{99}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Sponsor Ads}{122}{section*.8}
+\contentsline {section}{Invited Speaker: Andreas Stolcke}{100}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Local Guide}{129}{section*.9}
+\contentsline {section}{Session 7}{101}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Session 8}{105}{section.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Author index}{113}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Sponsor Ads}{125}{section*.8}

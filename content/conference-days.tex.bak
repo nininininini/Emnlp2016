@@ -32,7 +32,7 @@ Wednesday, November 2, 2016,  \vspace{1em}
 
 \clearpage{}
 
-
+%\newpage
 \input{auto/papers/Wednesday-Session-1.tex}
 \input{auto/papers/Wednesday-Session-1-abstracts.tex}
 \input{auto/papers/Wednesday-Session-2.tex}
@@ -51,6 +51,11 @@ Wednesday, November 2, 2016,  \vspace{1em}
 %\section[Poster Session-A]{Poster Session-A}
 %\section[Session 1]{Session 1 Overview}
 %\input{auto/papers/Wednesday-Poster-Poster-Spotlight-(Half-minute-Madness)-day-1-abstracts.tex}
+
+\newpage
+\input{auto/papers/Wednesday-Poster-Poster-Spotlight-A-(Half-minute-Madness)-abstracts.tex}
+
+
 \input{auto/papers/Wednesday-Poster-Poster-Session-A-abstracts.tex}
 
 \chapter{Main Conference: Thursday, November 3}
@@ -93,7 +98,9 @@ Robots can act as a force multiplier for people, whether a robot assisting an as
 \input{auto/papers/Thursday-Session-5-abstracts.tex}
 \input{auto/papers/Thursday-Session-6.tex}
 \input{auto/papers/Thursday-Session-6-abstracts.tex}
-%\input{auto/papers/Thursday-Poster-Poster-Spotlight-(Half-minute-Madness)-day-2-abstracts.tex}
+
+\newpage
+\input{auto/papers/Thursday-Poster-Poster-Spotlight-B-(Half-minute-Madness)-abstracts.tex}
 \input{auto/papers/Thursday-Poster-Poster-Session-B-abstracts.tex}
 
 
@@ -136,3 +143,4 @@ Friday, November 4, 2016,  \vspace{1em}
 \input{auto/papers/Friday-Session-7-abstracts.tex}
 \input{auto/papers/Friday-Session-8.tex}
 \input{auto/papers/Friday-Session-8-abstracts.tex}
+\input{auto/papers/Friday-Session-P4-abstracts.tex}
