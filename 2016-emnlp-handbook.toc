@@ -42,42 +42,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Main Conference: Wednesday, November 2}{35}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Christopher Potts}{36}{section.4.1}
+\contentsline {section}{Invited Speaker: Christopher Potts}{37}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 1}{37}{section.4.2}
+\contentsline {section}{Session 1}{38}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 2}{41}{section.4.3}
+\contentsline {section}{Session 2}{42}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 3}{45}{section.4.4}
+\contentsline {section}{Session 3}{46}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Plenary Session: Half Minute Madness A}{49}{section.4.5}
+\contentsline {section}{Plenary Session: Half Minute Madness A}{50}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster Session A}{49}{section.4.6}
+\contentsline {section}{Poster Session A}{50}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{67}{chapter.5}
+\contentsline {chapter}{\numberline {5}Main Conference: Thursday, November 3}{69}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Stefanie Tellex}{68}{section.5.1}
+\contentsline {section}{Invited Speaker: Stefanie Tellex}{70}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 4}{70}{section.5.2}
+\contentsline {section}{Session 4}{72}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 5}{74}{section.5.3}
+\contentsline {section}{Session 5}{76}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 6}{78}{section.5.4}
+\contentsline {section}{Session 6}{80}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Plenary Session: Half Minute Madness B}{82}{section.5.5}
+\contentsline {section}{Plenary Session: Half Minute Madness B}{84}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster Session B}{82}{section.5.6}
+\contentsline {section}{Poster Session B}{84}{section.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{99}{chapter.6}
+\contentsline {chapter}{\numberline {6}Main Conference: Friday, November 4}{103}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Invited Speaker: Andreas Stolcke}{101}{section.6.1}
+\contentsline {section}{Invited Speaker: Andreas Stolcke}{105}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 7}{102}{section.6.2}
+\contentsline {section}{Session 7}{106}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Session 8}{106}{section.6.3}
+\contentsline {section}{Session 8}{110}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Author index}{115}{section*.7}
+\contentsline {chapter}{Author index}{119}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Sponsor Ads}{127}{section*.8}
+\contentsline {chapter}{Sponsor Ads}{131}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Local Guide}{134}{section*.9}
+\contentsline {chapter}{Local Guide}{138}{section*.9}

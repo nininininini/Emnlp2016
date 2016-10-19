@@ -6,7 +6,8 @@
 
 \markright{Schedule at a Glance (Overall)}
 \begin{center}
-\includegraphics[width=1\textwidth]{content/overview-main-conference.pdf}
+%\includegraphics[width=1.1\textwidth, height=1\textheight]{content/overview-main-conference.pdf}
+\includegraphics[width=1.0\textwidth, height=1\textheight]{content/overview-mainConf-v1.pdf}
 \par\end{center}
 
 \clearpage{}
@@ -40,7 +41,7 @@
 \renewcommand{\arraystretch}{1.2}
 \begin{SingleTrackSchedule}
   09:00 & -- & 17:30 & {\bfseries Tutorials}\\
-  08:45:00 & -- & 18:00 & {\bfseries Workshops}\\
+  08:45 & -- & 18:00 & {\bfseries Workshops}\\
   18:30 & -- & 20:00 & {\bfseries Welcome Reception} \hfill \emph{\WelcomeLoc}\\
 \end{SingleTrackSchedule}
 
