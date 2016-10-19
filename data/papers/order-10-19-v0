@@ -8,7 +8,7 @@
 = 09:00--10:00 Plenary Session: Invited Talk by Christopher Potts # %room Salon FG
 ! 09:00--10:00 Learning in Extended and Approximate Rational Speech Acts Models %by Christopher Potts %u http://www.emnlp2016.net/invited-speakers.html#i1
 + 10:00--10:30 Coffee Break
-= 10:30--12:10 Session 1A: Parsing and Syntax (Long Papers) # %room Salon FG %chair1  Martins, André F. T.
+= 10:30--12:10 Session 1A: Parsing and Syntax (Long Papers) # %room Salon FG %chair1  Martins, André F. T. 
 1162 10:30--10:55  # Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles
 945 10:55--11:20  # Rule Extraction for Tree-to-Tree Transducers by Cost Minimization
 585 11:20--11:45  # A Neural Network for Coordination Boundary Prediction
@@ -162,7 +162,7 @@
 ! 11:20--11:45 [TACL] Sparse Non-negative Matrix Language Modeling %by Joris Pelemans, Noam Shazeer and Ciprian Chelba %u https://aclweb.org/anthology/Q/Q16/Q16-1024.pdf 
 42 11:45--12:10  # Generalizing and Hybridizing Count-based and Neural Language Models
 + 12:10--13:40 Lunch
-+ 13:00--13:40 SIGDAT Business Meeting
+= 13:00--13:40 SIGDAT Business Meeting # %room Salon FG
 = 13:40--15:20 Session 5A: Text Generation (Long Papers) # %room Salon FG %chair1 Kathy McKeown
 210 13:40--14:05  # Reasoning about Pragmatics with Neural Listeners and Speakers
 709 14:05--14:30  # Generating Topical Poetry
