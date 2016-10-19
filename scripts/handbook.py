@@ -59,6 +59,8 @@ def extract_keywords(title):
         if ( key == "by" ) and re.match('(Multiple Speakers|Poster Presenters)', value.strip(), re.I):
             pass
         else:
+            if key == "chair2":
+                print 'FOUND SECOND CHAIR %s ' % (value.strip())
             dict[key] = value.strip()
     return dict
 
@@ -204,24 +206,72 @@ class Session:
     def get_papers_only(self):
         return [p for p in self.papers if isinstance(p, PaperItem)]
         
+#     def chair(self):
+#         """Returns the (first name, last name) of the chair, if found in a %chair keyword"""
+#         chairlist =  ['','']
+#         
+#         
+# 
+#         
+#         if self.keywords.has_key('chair1'):
+#             fullname = self.keywords['chair1']
+#             if ',' in fullname:
+#                 names = fullname.split(',')
+#                 #SW return (names[1].strip(), names[0].strip())
+#                 chairlist = [names[1].strip(), names[0].strip()]
+#             elif fullname.find(" ") >= 0:
+#                 # This is just a heuristic, assuming the first name is one word and the last
+#                 # name is 1+ words
+#                 names = fullname.split(' ', 1)
+#                 #SW return (names[0].strip(), names[1].strip())
+#                 chairlist = [names[0].strip(), names[1].strip()]
+#             else:
+#                 #SW return (fullname.strip(), "")
+#                 chairlist = [fullname.strip(), ""]
+#         #else:
+#             #return ('', '')
+#         return chairlist    
+
     def chair(self):
         """Returns the (first name, last name) of the chair, if found in a %chair keyword"""
-        
+        chair =  ['','']
         if self.keywords.has_key('chair1'):
             fullname = self.keywords['chair1']
             if ',' in fullname:
                 names = fullname.split(',')
-                return (names[1].strip(), names[0].strip())
+                #SW return (names[1].strip(), names[0].strip())
+                chair = [names[1].strip(), names[0].strip()]
             elif fullname.find(" ") >= 0:
                 # This is just a heuristic, assuming the first name is one word and the last
                 # name is 1+ words
                 names = fullname.split(' ', 1)
-                return (names[0].strip(), names[1].strip())
+                #SW return (names[0].strip(), names[1].strip())
+                chair = [names[0].strip(), names[1].strip()]
             else:
-                return (fullname.strip(), "")
-        else:
-            return ('', '')
-
+                #SW return (fullname.strip(), "")
+                chair = [fullname.strip(), ""]
+        if self.keywords.has_key('chair2'):
+            
+            fullname = self.keywords['chair2']
+            if ',' in fullname:
+                names = fullname.split(',')
+                chair.append(names[1].strip())
+                chair.append(names[0].strip())
+                #chairlist = [names[1].strip(), names[0].strip()]
+            elif fullname.find(" ") >= 0:
+                # This is just a heuristic, assuming the first name is one word and the last
+                # name is 1+ words
+                names = fullname.split(' ', 1)
+                #chairlist = [names[0].strip(), names[1].strip()]
+                chair.append(names[0].strip())
+                chair.append(names[1].strip())
+            else:
+                chair.append(fullname.strip())
+                chair.append("")
+                #chairlist = [fullname.strip(), ""]
+        #else:
+            #return ('', '')
+        return chair    
 
 class ConfSchedule:
     def __init__(self, overview=False):

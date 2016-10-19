@@ -159,7 +159,10 @@ for date in cs.dates:
                     chair = session.chair()
                     print >>out, '\\noindent{\\bfseries\\large %s: %s}\\par' % (session.name, session.desc)
                     if chair[1] != '':
-                        print >>out, '\\noindent\\Track%cLoc\\hfill\\sessionchair{%s}{%s}\\par' % (chr(i + 65),chair[0],chair[1])
+                        if len(chair) == 4:
+                            print >>out, '\\noindent\\Track%cLoc\\hfill\\sessionchairTwo{%s}{%s}{%s}{%s}\\par' % (chr(i + 65),chair[0],chair[1],chair[2],chair[3])
+                        else:    
+                            print >>out, '\\noindent\\Track%cLoc\\hfill\\sessionchair{%s}{%s}\\par' % (chr(i + 65),chair[0],chair[1])
                     else:
                         print >>out, '\\noindent\\Track%cLoc\\hfill\\par' % (chr(i + 65))
                     print >>out, '\\bigskip{}'

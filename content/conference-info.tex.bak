@@ -115,8 +115,10 @@ In addition, two papers were given an honorable mention for best paper:
     Poster presentations                   & 99 &  65  & 164  \\
     \hline
   \end{tabular}
+  \vskip 1em
+{Table 1: Submission statistics of EMNLP 2016}
   \end{center}
-  \caption{Submission statistics of EMNLP 2016}
+ % \caption{Submission statistics of EMNLP 2016}
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -373,7 +375,7 @@ exciting and enjoyable as we do!
 \item Michael Collins, Columbia University and Google  \index{Collins, Michael}
 \item    Liang Huang, Oregon State University  \index{Huang, Liang}
 \item    Daisuke Kawahara, Kyoto University  \index{Kawahara, Daisuke}
-\item    Andre Martins, Unbabel and Instituto de Telecomunicações \index{Martins, Andre}
+\item    Andr{\'e} F.T. Martins, Unbabel and Instituto de Telecomunicações \index{Martins, Andr{\'e} F. T. }
 \end{itemize}
 
 \item \emph{Semantics}

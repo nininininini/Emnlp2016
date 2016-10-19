@@ -89,8 +89,8 @@ for date in cs.dates:
                             if p.time is None:
                                 if p.id is None:
                                     print >>out, ' & & & \\textit{%s}\\\\' % ( p.title )
-                                else:
-                                    print 'SW: skipping potential poster %s ' % ( p.id )
+                                #else:
+                                 #   print 'SW: skipping potential poster %s ' % ( p.id )
                                 #    print >>out, ' & & & \\paperlistentry{%s}\\\\'% ( p.id )
                             else:
                                 start, stop = p.time.split("--")

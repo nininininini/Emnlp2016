@@ -50,7 +50,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 3}{45}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster Spotlight A (Half-minute Madness)}{49}{section.4.5}
+\contentsline {section}{Plenary Session: Half Minute Madness A}{49}{section.4.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Poster Session A}{49}{section.4.6}
 \defcounter {refsection}{0}\relax 
@@ -64,7 +64,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Session 6}{78}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Poster Spotlight B (Half-minute Madness)}{82}{section.5.5}
+\contentsline {section}{Plenary Session: Half Minute Madness B}{82}{section.5.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Poster Session B}{82}{section.5.6}
 \defcounter {refsection}{0}\relax 
