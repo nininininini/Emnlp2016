@@ -169,7 +169,7 @@ for date in cs.dates:
                     for paper in session.papers:
                         if paper.id is not None:
                             if paper.id.startswith('TACL') :
-                                print >>out, '\\paperabstract{%s}{%s}{[TACL]}' % (paper.id, paper.time)
+                                print >>out, '\\paperabstract{%s}{%s}{[TACL] }' % (paper.id, paper.time)
                             else:    
                                 print >>out, '\\paperabstract{%s}{%s}{%s}' % (paper.id, paper.time, paper.prefix)
                     print >>out, '\\clearpage'
@@ -208,7 +208,7 @@ for date in cs.dates:
                 for paper in session.papers:
                     if paper.id is not None: 
                         if paper.id.startswith('TACL'):
-                            print >>out, '\\posterabstract{%s}{[TACL]}' % (paper.id)
+                            print >>out, '\\posterabstract{%s}{[TACL] }' % (paper.id)
                         else:
                             print >>out, '\\posterabstract{%s}{%s}' % (paper.id, paper.prefix)
                 #print >>out, '\\clearpage'
